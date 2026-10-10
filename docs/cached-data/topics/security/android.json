@@ -1,0 +1,53 @@
+{
+  "category": "topic",
+  "platform": "android",
+  "lastUpdated": "2026-10-10T18:29:52.302364+00:00",
+  "totalCount": 1,
+  "repositories": [
+    {
+      "id": 6773098927520400594,
+      "name": "Athena",
+      "fullName": "Kin69/Athena",
+      "owner": {
+        "login": "Kin69",
+        "avatarUrl": "https://github.com/Kin69.png"
+      },
+      "description": "Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Kin69/Athena",
+      "stargazersCount": 723,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "dns",
+        "dynamic-colo",
+        "firewall",
+        "foss",
+        "kotlin",
+        "kotlin-android",
+        "material",
+        "mvvm",
+        "network",
+        "opensource",
+        "packets",
+        "privacy",
+        "protection",
+        "root",
+        "secure",
+        "security",
+        "vpn"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Kin69/Athena/releases{/id}",
+      "updatedAt": "2026-01-18T13:36:44Z",
+      "latestReleaseDate": "2026-01-18T13:36:44Z",
+      "trendingScore": 723.0,
+      "popularityScore": 723,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    }
+  ]
+}

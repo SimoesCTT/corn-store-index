@@ -1,0 +1,1052 @@
+{
+  "category": "topic",
+  "platform": "android",
+  "lastUpdated": "2026-10-10T18:29:52.302364+00:00",
+  "totalCount": 28,
+  "repositories": [
+    {
+      "id": 6773098927520400594,
+      "name": "Athena",
+      "fullName": "Kin69/Athena",
+      "owner": {
+        "login": "Kin69",
+        "avatarUrl": "https://github.com/Kin69.png"
+      },
+      "description": "Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Kin69/Athena",
+      "stargazersCount": 723,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "dns",
+        "dynamic-colo",
+        "firewall",
+        "foss",
+        "kotlin",
+        "kotlin-android",
+        "material",
+        "mvvm",
+        "network",
+        "opensource",
+        "packets",
+        "privacy",
+        "protection",
+        "root",
+        "secure",
+        "security",
+        "vpn"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Kin69/Athena/releases{/id}",
+      "updatedAt": "2026-01-18T13:36:44Z",
+      "latestReleaseDate": "2026-01-18T13:36:44Z",
+      "trendingScore": 723.0,
+      "popularityScore": 723,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 5058424759444108848,
+      "name": "Audile",
+      "fullName": "AudileTeam/Audile",
+      "owner": {
+        "login": "AudileTeam",
+        "avatarUrl": "https://github.com/AudileTeam.png"
+      },
+      "description": "An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/AudileTeam/Audile",
+      "stargazersCount": 1353,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "acrcloud",
+        "android",
+        "android-application",
+        "android-widget",
+        "audd",
+        "foss",
+        "jetpack-compose",
+        "kotlin-android",
+        "music",
+        "music-recognition",
+        "shazam",
+        "shazam-like"
+      ],
+      "releasesUrl": "https://api.github.com/repos/AudileTeam/Audile/releases{/id}",
+      "updatedAt": "2026-10-05T16:07:06Z",
+      "latestReleaseDate": "2026-10-05T16:07:06Z",
+      "trendingScore": 1353.0,
+      "popularityScore": 1353,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 6259382642929627592,
+      "name": "Auxio",
+      "fullName": "OxygenCobalt/Auxio",
+      "owner": {
+        "login": "OxygenCobalt",
+        "avatarUrl": "https://github.com/OxygenCobalt.png"
+      },
+      "description": "A simple, rational music player for android",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/OxygenCobalt/Auxio",
+      "stargazersCount": 4351,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "album",
+        "android",
+        "androidx",
+        "audio",
+        "exoplayer",
+        "exoplayer2",
+        "foss",
+        "kotlin",
+        "media-player",
+        "multimedia",
+        "music",
+        "music-player",
+        "music-players",
+        "offline",
+        "playback",
+        "song",
+        "songs"
+      ],
+      "releasesUrl": "https://api.github.com/repos/OxygenCobalt/Auxio/releases{/id}",
+      "updatedAt": "2026-08-04T04:07:24Z",
+      "latestReleaseDate": "2026-08-04T04:07:24Z",
+      "trendingScore": 4351.0,
+      "popularityScore": 4351,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 4820148605571855020,
+      "name": "book-story",
+      "fullName": "Acclorite/book-story",
+      "owner": {
+        "login": "Acclorite",
+        "avatarUrl": "https://github.com/Acclorite.png"
+      },
+      "description": "Book's Story \u2014 Material You eBook reader built with Jetpack Compose. Free & Open source & Ad-free, with extensive customization options and support for multiple file formats.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Acclorite/book-story",
+      "stargazersCount": 1407,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "app",
+        "application",
+        "book-reader",
+        "epub",
+        "epub-reader",
+        "fb2",
+        "fb2-reader",
+        "fdroid",
+        "foss",
+        "izzyondroid",
+        "jetpack-compose",
+        "kotlin",
+        "material-you",
+        "pdf",
+        "pdf-reader",
+        "reading",
+        "txt",
+        "txt-reader"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Acclorite/book-story/releases{/id}",
+      "updatedAt": "2025-10-13T11:53:04Z",
+      "latestReleaseDate": "2025-10-13T11:53:04Z",
+      "trendingScore": 1407.0,
+      "popularityScore": 1407,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 6390736240680616470,
+      "name": "BoomingMusic",
+      "fullName": "mardous/BoomingMusic",
+      "owner": {
+        "login": "mardous",
+        "avatarUrl": "https://github.com/mardous.png"
+      },
+      "description": "Clean, fast, and Material-driven Android music player with powerful features.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/mardous/BoomingMusic",
+      "stargazersCount": 556,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-music-player",
+        "audio",
+        "foss",
+        "kotlin",
+        "lyrics",
+        "material-ui",
+        "material3",
+        "media",
+        "media3",
+        "music",
+        "music-player",
+        "offline"
+      ],
+      "releasesUrl": "https://api.github.com/repos/mardous/BoomingMusic/releases{/id}",
+      "updatedAt": "2026-09-28T18:53:16Z",
+      "latestReleaseDate": "2026-09-28T18:53:16Z",
+      "trendingScore": 556.0,
+      "popularityScore": 556,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 4468282948299307073,
+      "name": "Calendar",
+      "fullName": "FossifyOrg/Calendar",
+      "owner": {
+        "login": "FossifyOrg",
+        "avatarUrl": "https://github.com/FossifyOrg.png"
+      },
+      "description": "A simple calendar with events, customizable widgets and no ads.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/FossifyOrg/Calendar",
+      "stargazersCount": 2215,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "calendar",
+        "foss",
+        "kotlin",
+        "open-source"
+      ],
+      "releasesUrl": "https://api.github.com/repos/FossifyOrg/Calendar/releases{/id}",
+      "updatedAt": "2026-10-10T15:45:01Z",
+      "latestReleaseDate": "2026-10-10T15:45:01Z",
+      "trendingScore": 2215.0,
+      "popularityScore": 2215,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 718967461940921751,
+      "name": "Clock",
+      "fullName": "FossifyOrg/Clock",
+      "owner": {
+        "login": "FossifyOrg",
+        "avatarUrl": "https://github.com/FossifyOrg.png"
+      },
+      "description": "Combination of a beautiful clock with widget, alarm, stopwatch & timer, no ads",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/FossifyOrg/Clock",
+      "stargazersCount": 706,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "clock",
+        "foss",
+        "kotlin",
+        "open-source"
+      ],
+      "releasesUrl": "https://api.github.com/repos/FossifyOrg/Clock/releases{/id}",
+      "updatedAt": "2026-01-30T20:47:19Z",
+      "latestReleaseDate": "2026-01-30T20:47:19Z",
+      "trendingScore": 706.0,
+      "popularityScore": 706,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 7355019083449335168,
+      "name": "Contacts",
+      "fullName": "FossifyOrg/Contacts",
+      "owner": {
+        "login": "FossifyOrg",
+        "avatarUrl": "https://github.com/FossifyOrg.png"
+      },
+      "description": "Easy and quick contact management with no ads, handles groups and favorites too.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/FossifyOrg/Contacts",
+      "stargazersCount": 919,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "contacts",
+        "foss",
+        "kotlin",
+        "open-source"
+      ],
+      "releasesUrl": "https://api.github.com/repos/FossifyOrg/Contacts/releases{/id}",
+      "updatedAt": "2026-01-30T20:46:35Z",
+      "latestReleaseDate": "2026-01-30T20:46:35Z",
+      "trendingScore": 919.0,
+      "popularityScore": 919,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 4522327307472590444,
+      "name": "EasyNotes",
+      "fullName": "Kin69/EasyNotes",
+      "owner": {
+        "login": "Kin69",
+        "avatarUrl": "https://github.com/Kin69.png"
+      },
+      "description": "EasyNotes: Jetpack Compose MVVM for seamless note-taking. Effortless creation, editing, and organization.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Kin69/EasyNotes",
+      "stargazersCount": 1070,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "dynamic",
+        "foss",
+        "free",
+        "jetpack",
+        "kotlin",
+        "material",
+        "notes",
+        "opensource"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Kin69/EasyNotes/releases{/id}",
+      "updatedAt": "2026-01-24T15:53:52Z",
+      "latestReleaseDate": "2026-01-24T15:53:52Z",
+      "trendingScore": 1070.0,
+      "popularityScore": 1070,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 422900844963796631,
+      "name": "episteme",
+      "fullName": "Aryan-Raj3112/episteme",
+      "owner": {
+        "login": "Aryan-Raj3112",
+        "avatarUrl": "https://github.com/Aryan-Raj3112.png"
+      },
+      "description": "A multi-platform document and e-book reader.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Aryan-Raj3112/episteme",
+      "stargazersCount": 1282,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "ebook",
+        "epub",
+        "foss",
+        "jetpack-compose",
+        "kotlin",
+        "linux",
+        "opensource",
+        "pdf",
+        "reader",
+        "windows"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Aryan-Raj3112/episteme/releases{/id}",
+      "updatedAt": "2026-10-09T16:16:08Z",
+      "latestReleaseDate": "2026-10-09T16:16:08Z",
+      "trendingScore": 1282.0,
+      "popularityScore": 1282,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 1254301328697572335,
+      "name": "File-Manager",
+      "fullName": "FossifyOrg/File-Manager",
+      "owner": {
+        "login": "FossifyOrg",
+        "avatarUrl": "https://github.com/FossifyOrg.png"
+      },
+      "description": "Easy app for managing your files without ads, respecting your privacy & security",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/FossifyOrg/File-Manager",
+      "stargazersCount": 1796,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "file-manager",
+        "foss",
+        "kotlin",
+        "open-source"
+      ],
+      "releasesUrl": "https://api.github.com/repos/FossifyOrg/File-Manager/releases{/id}",
+      "updatedAt": "2026-10-10T15:44:07Z",
+      "latestReleaseDate": "2026-10-10T15:44:07Z",
+      "trendingScore": 1796.0,
+      "popularityScore": 1796,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 6782965189606880783,
+      "name": "Gallery",
+      "fullName": "FossifyOrg/Gallery",
+      "owner": {
+        "login": "FossifyOrg",
+        "avatarUrl": "https://github.com/FossifyOrg.png"
+      },
+      "description": "Browse your memories without any interruptions with this photo and video gallery",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/FossifyOrg/Gallery",
+      "stargazersCount": 3776,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "foss",
+        "gallery",
+        "kotlin",
+        "open-source"
+      ],
+      "releasesUrl": "https://api.github.com/repos/FossifyOrg/Gallery/releases{/id}",
+      "updatedAt": "2026-10-10T15:46:01Z",
+      "latestReleaseDate": "2026-10-10T15:46:01Z",
+      "trendingScore": 3776.0,
+      "popularityScore": 3776,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 504885578918748523,
+      "name": "Keyboard",
+      "fullName": "FossifyOrg/Keyboard",
+      "owner": {
+        "login": "FossifyOrg",
+        "avatarUrl": "https://github.com/FossifyOrg.png"
+      },
+      "description": "Easy keyboard for inserting all kinds of texts, special characters and numbers.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/FossifyOrg/Keyboard",
+      "stargazersCount": 680,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "foss",
+        "keyboard",
+        "kotlin",
+        "open-source"
+      ],
+      "releasesUrl": "https://api.github.com/repos/FossifyOrg/Keyboard/releases{/id}",
+      "updatedAt": "2026-02-02T06:05:10Z",
+      "latestReleaseDate": "2026-02-02T06:05:10Z",
+      "trendingScore": 680.0,
+      "popularityScore": 680,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 237122610974560335,
+      "name": "Launcher",
+      "fullName": "FossifyOrg/Launcher",
+      "owner": {
+        "login": "FossifyOrg",
+        "avatarUrl": "https://github.com/FossifyOrg.png"
+      },
+      "description": "A practical and customizable launcher for launching your favorite apps easily.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/FossifyOrg/Launcher",
+      "stargazersCount": 704,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "foss",
+        "kotlin",
+        "launcher",
+        "open-source"
+      ],
+      "releasesUrl": "https://api.github.com/repos/FossifyOrg/Launcher/releases{/id}",
+      "updatedAt": "2026-02-17T02:37:58Z",
+      "latestReleaseDate": "2026-02-17T02:37:58Z",
+      "trendingScore": 704.0,
+      "popularityScore": 704,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 3333910942567494047,
+      "name": "Messages",
+      "fullName": "FossifyOrg/Messages",
+      "owner": {
+        "login": "FossifyOrg",
+        "avatarUrl": "https://github.com/FossifyOrg.png"
+      },
+      "description": "An easy and quick way of managing SMS and MMS messages without ads.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/FossifyOrg/Messages",
+      "stargazersCount": 1587,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "foss",
+        "kotlin",
+        "open-source",
+        "sms-messenger"
+      ],
+      "releasesUrl": "https://api.github.com/repos/FossifyOrg/Messages/releases{/id}",
+      "updatedAt": "2026-10-10T15:46:19Z",
+      "latestReleaseDate": "2026-10-10T15:46:19Z",
+      "trendingScore": 1587.0,
+      "popularityScore": 1587,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 7746874924509633173,
+      "name": "Metrolist",
+      "fullName": "MetrolistGroup/Metrolist",
+      "owner": {
+        "login": "MetrolistGroup",
+        "avatarUrl": "https://github.com/MetrolistGroup.png"
+      },
+      "description": "YouTube Music client for Android",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/MetrolistGroup/Metrolist",
+      "stargazersCount": 13390,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "foss",
+        "innertube",
+        "jetpack-compose",
+        "kotlin",
+        "kotlin-android",
+        "material-design",
+        "material-ui",
+        "material3",
+        "music",
+        "music-player",
+        "music-player-foss",
+        "musicplayer",
+        "newpipe",
+        "newpipe-extractor",
+        "streaming-apps",
+        "youtube",
+        "youtube-music",
+        "youtube-music-client",
+        "ytmusic"
+      ],
+      "releasesUrl": "https://api.github.com/repos/MetrolistGroup/Metrolist/releases{/id}",
+      "updatedAt": "2026-10-08T15:46:38Z",
+      "latestReleaseDate": "2026-10-08T15:46:38Z",
+      "trendingScore": 13390.0,
+      "popularityScore": 13390,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 7840149569752294607,
+      "name": "Music-Player",
+      "fullName": "FossifyOrg/Music-Player",
+      "owner": {
+        "login": "FossifyOrg",
+        "avatarUrl": "https://github.com/FossifyOrg.png"
+      },
+      "description": "A clean music player with a customizable widget, stylish interface and no ads.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/FossifyOrg/Music-Player",
+      "stargazersCount": 936,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "foss",
+        "kotlin",
+        "music-player",
+        "open-source"
+      ],
+      "releasesUrl": "https://api.github.com/repos/FossifyOrg/Music-Player/releases{/id}",
+      "updatedAt": "2026-10-10T15:46:40Z",
+      "latestReleaseDate": "2026-10-10T15:46:40Z",
+      "trendingScore": 936.0,
+      "popularityScore": 936,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 7983241421554844193,
+      "name": "Neo-Store",
+      "fullName": "NeoApplications/Neo-Store",
+      "owner": {
+        "login": "NeoApplications",
+        "avatarUrl": "https://github.com/NeoApplications.png"
+      },
+      "description": "An F-Droid client with modern UI and an arsenal of extra features.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/NeoApplications/Neo-Store",
+      "stargazersCount": 5406,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "f-droid",
+        "foss",
+        "hacktoberfest"
+      ],
+      "releasesUrl": "https://api.github.com/repos/NeoApplications/Neo-Store/releases{/id}",
+      "updatedAt": "2026-10-01T23:28:41Z",
+      "latestReleaseDate": "2026-10-01T23:28:41Z",
+      "trendingScore": 5406.0,
+      "popularityScore": 5406,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 425895657446432370,
+      "name": "OpenNote-Compose",
+      "fullName": "YangDai2003/OpenNote-Compose",
+      "owner": {
+        "login": "YangDai2003",
+        "avatarUrl": "https://github.com/YangDai2003.png"
+      },
+      "description": "Markdown Editor & Notebook for Android built with Jetpack Compose.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/YangDai2003/OpenNote-Compose",
+      "stargazersCount": 778,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "camerax",
+        "compose",
+        "datastore-preferences",
+        "editor",
+        "education",
+        "foss",
+        "html",
+        "jetpack",
+        "latex-math",
+        "markdown",
+        "material-you",
+        "mermaid-diagrams",
+        "mlkit-text-recognition",
+        "notes-app",
+        "plaintext",
+        "richtext",
+        "room-database",
+        "txt",
+        "university"
+      ],
+      "releasesUrl": "https://api.github.com/repos/YangDai2003/OpenNote-Compose/releases{/id}",
+      "updatedAt": "2025-09-17T15:20:17Z",
+      "latestReleaseDate": "2025-09-17T15:20:17Z",
+      "trendingScore": 778.0,
+      "popularityScore": 778,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 8057353553379955973,
+      "name": "Phone",
+      "fullName": "FossifyOrg/Phone",
+      "owner": {
+        "login": "FossifyOrg",
+        "avatarUrl": "https://github.com/FossifyOrg.png"
+      },
+      "description": "A handy phone call manager with phonebook, number blocking and multi-SIM support",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/FossifyOrg/Phone",
+      "stargazersCount": 1356,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "dialer",
+        "foss",
+        "kotlin",
+        "open-source"
+      ],
+      "releasesUrl": "https://api.github.com/repos/FossifyOrg/Phone/releases{/id}",
+      "updatedAt": "2026-02-03T02:36:25Z",
+      "latestReleaseDate": "2026-02-03T02:36:25Z",
+      "trendingScore": 1356.0,
+      "popularityScore": 1356,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 8746123549578318372,
+      "name": "photoprism-android-client",
+      "fullName": "Radiokot/photoprism-android-client",
+      "owner": {
+        "login": "Radiokot",
+        "avatarUrl": "https://github.com/Radiokot.png"
+      },
+      "description": "\ud83d\udcf8 A convenient Android gallery for your PhotoPrism library with plenty of useful features",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Radiokot/photoprism-android-client",
+      "stargazersCount": 620,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "exoplayer",
+        "foss",
+        "gallery",
+        "koin",
+        "kotlin",
+        "kotlin-android",
+        "photoprism",
+        "self-hosted"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Radiokot/photoprism-android-client/releases{/id}",
+      "updatedAt": "2026-09-26T12:22:18Z",
+      "latestReleaseDate": "2026-09-26T12:22:18Z",
+      "trendingScore": 620.0,
+      "popularityScore": 620,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 5138076833803115762,
+      "name": "Plexus-app",
+      "fullName": "techlore/Plexus-app",
+      "owner": {
+        "login": "techlore",
+        "avatarUrl": "https://github.com/techlore.png"
+      },
+      "description": "Remove the fear of Android app compatibility on de-Googled devices.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/techlore/Plexus-app",
+      "stargazersCount": 493,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "applications",
+        "calyxos",
+        "degoogle",
+        "f-droid",
+        "fdroid",
+        "foss",
+        "google",
+        "kotlin",
+        "kotlin-android",
+        "lineageos",
+        "material-design",
+        "material-ui",
+        "material-you",
+        "microg",
+        "open-source",
+        "plexus",
+        "roms"
+      ],
+      "releasesUrl": "https://api.github.com/repos/techlore/Plexus-app/releases{/id}",
+      "updatedAt": "2026-07-28T22:34:31Z",
+      "latestReleaseDate": "2026-07-28T22:34:31Z",
+      "trendingScore": 493.0,
+      "popularityScore": 493,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 8067594439565127056,
+      "name": "RepoStore",
+      "fullName": "samyak2403/RepoStore",
+      "owner": {
+        "login": "samyak2403",
+        "avatarUrl": "https://github.com/samyak2403.png"
+      },
+      "description": "Explore apps published on GitHub, view release details, and install APKs instantly \u2014 all in one place. Developed using pure Kotlin, optimized for modern Android devices.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/samyak2403/RepoStore",
+      "stargazersCount": 1324,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "android-studio",
+        "api",
+        "app-store",
+        "foss",
+        "github",
+        "github-app",
+        "github-store",
+        "kotlin",
+        "open-source-project"
+      ],
+      "releasesUrl": "https://api.github.com/repos/samyak2403/RepoStore/releases{/id}",
+      "updatedAt": "2026-08-16T14:55:48Z",
+      "latestReleaseDate": "2026-08-16T14:55:48Z",
+      "trendingScore": 1324.0,
+      "popularityScore": 1324,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 391100929732085406,
+      "name": "SwitchAI",
+      "fullName": "WSTxda/SwitchAI",
+      "owner": {
+        "login": "WSTxda",
+        "avatarUrl": "https://github.com/WSTxda.png"
+      },
+      "description": "Easily select, start, and manage your preferred AI digital assistants on Android.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/WSTxda/SwitchAI",
+      "stargazersCount": 1443,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "ai",
+        "android",
+        "android-application",
+        "assistant",
+        "chatbot",
+        "digital",
+        "digital-assistant",
+        "foss",
+        "kotlin",
+        "material-design",
+        "material3",
+        "material3-expressive",
+        "shortcut",
+        "switch",
+        "tools",
+        "voice-chat",
+        "voice-commands",
+        "voice-conversion"
+      ],
+      "releasesUrl": "https://api.github.com/repos/WSTxda/SwitchAI/releases{/id}",
+      "updatedAt": "2026-07-11T23:03:40Z",
+      "latestReleaseDate": "2026-07-11T23:03:40Z",
+      "trendingScore": 1443.0,
+      "popularityScore": 1443,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 1597927547475875737,
+      "name": "symphony",
+      "fullName": "zyrouge/symphony",
+      "owner": {
+        "login": "zyrouge",
+        "avatarUrl": "https://github.com/zyrouge.png"
+      },
+      "description": "\ud83c\udfb5 Lightweight, elegant music player for Android 9+.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/zyrouge/symphony",
+      "stargazersCount": 1709,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-music-player",
+        "compose",
+        "foss",
+        "kotlin",
+        "material-ui",
+        "material-you",
+        "music",
+        "music-player"
+      ],
+      "releasesUrl": "https://api.github.com/repos/zyrouge/symphony/releases{/id}",
+      "updatedAt": "2024-12-14T17:56:34Z",
+      "latestReleaseDate": "2024-12-14T17:56:34Z",
+      "trendingScore": 1709.0,
+      "popularityScore": 1709,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 7979192973269213382,
+      "name": "Ventoid",
+      "fullName": "GPLaider/Ventoid",
+      "owner": {
+        "login": "GPLaider",
+        "avatarUrl": "https://github.com/GPLaider.png"
+      },
+      "description": "Android OTG Ventoy-style USB writer - GPL-3.0-only, ad-free, available on F-Droid",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/GPLaider/Ventoid",
+      "stargazersCount": 384,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-otg",
+        "bootable-usb",
+        "fdroid",
+        "foss",
+        "gplv3",
+        "kotlin",
+        "otg",
+        "usb",
+        "ventoy"
+      ],
+      "releasesUrl": "https://api.github.com/repos/GPLaider/Ventoid/releases{/id}",
+      "updatedAt": "2026-09-02T10:32:04Z",
+      "latestReleaseDate": "2026-09-02T10:32:04Z",
+      "trendingScore": 384.0,
+      "popularityScore": 384,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 6221027681276077787,
+      "name": "Voice-Recorder",
+      "fullName": "FossifyOrg/Voice-Recorder",
+      "owner": {
+        "login": "FossifyOrg",
+        "avatarUrl": "https://github.com/FossifyOrg.png"
+      },
+      "description": "An easy way of recording any discussion or sounds without ads or internet access",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/FossifyOrg/Voice-Recorder",
+      "stargazersCount": 1010,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "foss",
+        "kotlin",
+        "open-source",
+        "voice-recorder"
+      ],
+      "releasesUrl": "https://api.github.com/repos/FossifyOrg/Voice-Recorder/releases{/id}",
+      "updatedAt": "2026-10-10T15:45:57Z",
+      "latestReleaseDate": "2026-10-10T15:45:57Z",
+      "trendingScore": 1010.0,
+      "popularityScore": 1010,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 7854926299480322979,
+      "name": "android",
+      "fullName": "wgtunnel/android",
+      "owner": {
+        "login": "wgtunnel",
+        "avatarUrl": "https://github.com/wgtunnel.png"
+      },
+      "description": "An advanced, open-source client for WireGuard and AmneziaWG on Android.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/wgtunnel/android",
+      "stargazersCount": 3247,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "amnezia-vpn",
+        "android",
+        "apk",
+        "floss",
+        "foss",
+        "http-proxy",
+        "jetpack-compose",
+        "kotlin",
+        "socks5-proxy",
+        "vpn-client",
+        "wireguard",
+        "wireguard-tunnel",
+        "wireguard-ui",
+        "wireguard-vpn"
+      ],
+      "releasesUrl": "https://api.github.com/repos/wgtunnel/android/releases{/id}",
+      "updatedAt": "2026-10-10T03:36:18Z",
+      "latestReleaseDate": "2026-10-10T03:36:18Z",
+      "trendingScore": 3247.0,
+      "popularityScore": 3247,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    }
+  ]
+}

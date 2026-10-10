@@ -1,0 +1,100 @@
+{
+  "category": "topic",
+  "platform": "android",
+  "lastUpdated": "2026-10-10T18:29:52.302364+00:00",
+  "totalCount": 2,
+  "repositories": [
+    {
+      "id": 5239714580122083404,
+      "name": "GreenStash",
+      "fullName": "Pool-Of-Tears/GreenStash",
+      "owner": {
+        "login": "Pool-Of-Tears",
+        "avatarUrl": "https://github.com/Pool-Of-Tears.png"
+      },
+      "description": "Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Pool-Of-Tears/GreenStash",
+      "stargazersCount": 789,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "dagger-hilt",
+        "fdroid",
+        "finance",
+        "finance-management",
+        "kotlin",
+        "kotlin-android",
+        "kotlin-coroutines",
+        "material-design",
+        "material-ui",
+        "material-you",
+        "money-manager",
+        "mvvm",
+        "productivity",
+        "room-database",
+        "savings",
+        "tracking"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Pool-Of-Tears/GreenStash/releases{/id}",
+      "updatedAt": "2026-05-24T09:07:54Z",
+      "latestReleaseDate": "2026-05-24T09:07:54Z",
+      "trendingScore": 789.0,
+      "popularityScore": 789,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 7565533157024216957,
+      "name": "plain-app",
+      "fullName": "plainhub/plain-app",
+      "owner": {
+        "login": "plainhub",
+        "avatarUrl": "https://github.com/plainhub.png"
+      },
+      "description": "\ud83d\udd25 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/plainhub/plain-app",
+      "stargazersCount": 6871,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "compose",
+        "compose-ui",
+        "f-droid",
+        "fdroid",
+        "filemanager",
+        "graphql",
+        "jetpack-compose",
+        "ktor",
+        "learning",
+        "material-you",
+        "music-player",
+        "note-taking",
+        "privacy-protection",
+        "productivity",
+        "rss",
+        "rss-reader",
+        "screen-mirroring",
+        "web"
+      ],
+      "releasesUrl": "https://api.github.com/repos/plainhub/plain-app/releases{/id}",
+      "updatedAt": "2026-09-11T14:10:31Z",
+      "latestReleaseDate": "2026-09-11T14:10:31Z",
+      "trendingScore": 6871.0,
+      "popularityScore": 6871,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "category": "topic",
+  "platform": "android",
+  "lastUpdated": "2026-10-10T18:29:52.302364+00:00",
+  "totalCount": 1,
+  "repositories": [
+    {
+      "id": 2840115527418248260,
+      "name": "Inure",
+      "fullName": "Hamza417/Inure",
+      "owner": {
+        "login": "Hamza417",
+        "avatarUrl": "https://github.com/Hamza417.png"
+      },
+      "description": "An elegant and beautiful premium Android app manager with Root and Shizuku support, a built-in terminal, analytics, virustotal, debloat, stats and various other features with a custom theme engine, developed with purely custom UI design and reproducible build.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Hamza417/Inure",
+      "stargazersCount": 1946,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "android-application",
+        "animations",
+        "app",
+        "c",
+        "interface",
+        "java",
+        "kotlin",
+        "manager",
+        "mvvm",
+        "root",
+        "shizuku",
+        "terminal",
+        "terminal-emulators",
+        "tool",
+        "ui",
+        "utilities"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Hamza417/Inure/releases{/id}",
+      "updatedAt": "2026-10-03T17:09:30Z",
+      "latestReleaseDate": "2026-10-03T17:09:30Z",
+      "trendingScore": 1946.0,
+      "popularityScore": 1946,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    }
+  ]
+}

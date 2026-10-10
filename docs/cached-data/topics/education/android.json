@@ -1,0 +1,90 @@
+{
+  "category": "topic",
+  "platform": "android",
+  "lastUpdated": "2026-10-10T18:29:52.302364+00:00",
+  "totalCount": 2,
+  "repositories": [
+    {
+      "id": 4430521892992184993,
+      "name": "Anki-Android",
+      "fullName": "ankidroid/Anki-Android",
+      "owner": {
+        "login": "ankidroid",
+        "avatarUrl": "https://github.com/ankidroid.png"
+      },
+      "description": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/ankidroid/Anki-Android",
+      "stargazersCount": 11978,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "anki",
+        "ankidroid",
+        "education",
+        "flashcards",
+        "kotlin",
+        "learning",
+        "srs"
+      ],
+      "releasesUrl": "https://api.github.com/repos/ankidroid/Anki-Android/releases{/id}",
+      "updatedAt": "2026-10-06T19:14:23Z",
+      "latestReleaseDate": "2026-10-06T19:14:23Z",
+      "trendingScore": 11978.0,
+      "popularityScore": 11978,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 425895657446432370,
+      "name": "OpenNote-Compose",
+      "fullName": "YangDai2003/OpenNote-Compose",
+      "owner": {
+        "login": "YangDai2003",
+        "avatarUrl": "https://github.com/YangDai2003.png"
+      },
+      "description": "Markdown Editor & Notebook for Android built with Jetpack Compose.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/YangDai2003/OpenNote-Compose",
+      "stargazersCount": 778,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "camerax",
+        "compose",
+        "datastore-preferences",
+        "editor",
+        "education",
+        "foss",
+        "html",
+        "jetpack",
+        "latex-math",
+        "markdown",
+        "material-you",
+        "mermaid-diagrams",
+        "mlkit-text-recognition",
+        "notes-app",
+        "plaintext",
+        "richtext",
+        "room-database",
+        "txt",
+        "university"
+      ],
+      "releasesUrl": "https://api.github.com/repos/YangDai2003/OpenNote-Compose/releases{/id}",
+      "updatedAt": "2025-09-17T15:20:17Z",
+      "latestReleaseDate": "2025-09-17T15:20:17Z",
+      "trendingScore": 778.0,
+      "popularityScore": 778,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    }
+  ]
+}

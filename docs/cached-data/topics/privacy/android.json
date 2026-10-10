@@ -1,0 +1,123 @@
+{
+  "category": "topic",
+  "platform": "android",
+  "lastUpdated": "2026-10-10T18:29:52.302364+00:00",
+  "totalCount": 3,
+  "repositories": [
+    {
+      "id": 6773098927520400594,
+      "name": "Athena",
+      "fullName": "Kin69/Athena",
+      "owner": {
+        "login": "Kin69",
+        "avatarUrl": "https://github.com/Kin69.png"
+      },
+      "description": "Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Kin69/Athena",
+      "stargazersCount": 723,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "dns",
+        "dynamic-colo",
+        "firewall",
+        "foss",
+        "kotlin",
+        "kotlin-android",
+        "material",
+        "mvvm",
+        "network",
+        "opensource",
+        "packets",
+        "privacy",
+        "protection",
+        "root",
+        "secure",
+        "security",
+        "vpn"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Kin69/Athena/releases{/id}",
+      "updatedAt": "2026-01-18T13:36:44Z",
+      "latestReleaseDate": "2026-01-18T13:36:44Z",
+      "trendingScore": 723.0,
+      "popularityScore": 723,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 7421915022914915177,
+      "name": "LibreTube",
+      "fullName": "libre-tube/LibreTube",
+      "owner": {
+        "login": "libre-tube",
+        "avatarUrl": "https://github.com/libre-tube.png"
+      },
+      "description": "An alternative frontend for YouTube, for Android.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/libre-tube/LibreTube",
+      "stargazersCount": 12797,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "kotlin",
+        "material-design",
+        "material-design-3-expressive",
+        "material-you",
+        "privacy",
+        "youtube"
+      ],
+      "releasesUrl": "https://api.github.com/repos/libre-tube/LibreTube/releases{/id}",
+      "updatedAt": "2026-09-02T09:31:35Z",
+      "latestReleaseDate": "2026-09-02T09:31:35Z",
+      "trendingScore": 12797.0,
+      "popularityScore": 12797,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 4484673992121974673,
+      "name": "yj_nearbyglasses",
+      "fullName": "yjeanrenaud/yj_nearbyglasses",
+      "owner": {
+        "login": "yjeanrenaud",
+        "avatarUrl": "https://github.com/yjeanrenaud.png"
+      },
+      "description": "attempting to detect smart glasses nearby and warn you",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/yjeanrenaud/yj_nearbyglasses",
+      "stargazersCount": 2455,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "meta",
+        "privacy",
+        "privacy-protection",
+        "ray-ban-meta-smart-glasses",
+        "self-defense",
+        "smartglasses",
+        "smartphone"
+      ],
+      "releasesUrl": "https://api.github.com/repos/yjeanrenaud/yj_nearbyglasses/releases{/id}",
+      "updatedAt": "2026-09-23T13:29:26Z",
+      "latestReleaseDate": "2026-09-23T13:29:26Z",
+      "trendingScore": 2455.0,
+      "popularityScore": 2455,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    }
+  ]
+}
