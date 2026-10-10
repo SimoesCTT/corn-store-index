@@ -160,6 +160,27 @@ def main():
     seen = set()
     candidates = []
 
+    # Auto-import every public repo owned by the Corn Store owner.
+    # No more manual allowlist updates — new repos are picked up on the next scrape.
+    print("Fetching owner repos...")
+    owner_repos = []
+    page = 1
+    while True:
+        data = gh_get(f"/users/SimoesCTT/repos?per_page=100&page={page}")
+        if not data or not isinstance(data, list) or len(data) == 0:
+            break
+        owner_repos.extend(data)
+        if len(data) < 100:
+            break
+        page += 1
+    print(f"  found {len(owner_repos)} repos under SimoesCTT/")
+    for repo in owner_repos:
+        full = repo["full_name"]
+        if full not in seen and full not in BLOCKLIST:
+            seen.add(full)
+            candidates.append(full)
+
+    # Manual allowlist as a fallback for any repos not owned by SimoesCTT
     for repo in ALLOWLIST:
         if repo not in seen and repo not in BLOCKLIST:
             seen.add(repo)
