@@ -21,19 +21,22 @@ jobs:
       - name: Install Android build tools
         run: |
           sudo apt-get update
-          sudo apt-get install -y aapt
+          sudo apt-get install -y aapt unzip wget
           mkdir -p $HOME/android-tools
           cd $HOME/android-tools
           wget -q https://dl.google.com/android/repository/build-tools_r34-linux.zip
           unzip -q build-tools_r34-linux.zip
+          ls -la $HOME/android-tools/
+
+      - name: Locate aapt2 and apksigner
+        run: |
+          echo "AAPT2=$(find $HOME/android-tools -name aapt2 -type f | head -1)" >> $GITHUB_ENV
+          echo "APKSIGNER=$(find $HOME/android-tools -name apksigner -type f | head -1)" >> $GITHUB_ENV
 
       - name: Run scraper
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          export AAPT2=$HOME/android-tools/android-14/aapt2
-          export APKSIGNER=$HOME/android-tools/android-14/apksigner
-          python3 scraper/scrape.py
+        run: python3 scraper/scrape.py
 
       - name: Generate Komi-format mirror files
         run: python3 scraper/to_komi_format.py
@@ -44,7 +47,7 @@ jobs:
           git config user.email "bot@corn-store.local"
           git add docs/index.json docs/cached-data
           if git diff --staged --quiet; then
-            echo "no changes"
+            echo "No changes to index"
           else
             git commit -m "Update index ($(date -u +%Y-%m-%d))"
             git push
