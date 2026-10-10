@@ -63,3 +63,7 @@ RECENT_DAYS = 730
 
 # Max results per search query (GitHub API caps at 100 per page).
 MAX_PER_QUERY = 30
+
+# Filled at runtime from the GITHUB_TOKEN env var. Not used directly —
+# scrape.py reads os.environ['GITHUB_TOKEN'] and uses that.
+GITHUB_TOKEN = None
