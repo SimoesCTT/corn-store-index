@@ -1,8 +1,8 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-10T18:29:52.302364+00:00",
-  "totalCount": 2,
+  "lastUpdated": "2026-10-10T21:17:14.674678+00:00",
+  "totalCount": 3,
   "repositories": [
     {
       "id": 4430521892992184993,
@@ -15,7 +15,7 @@
       "description": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/ankidroid/Anki-Android",
-      "stargazersCount": 11978,
+      "stargazersCount": 11979,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -31,8 +31,55 @@
       "releasesUrl": "https://api.github.com/repos/ankidroid/Anki-Android/releases{/id}",
       "updatedAt": "2026-10-06T19:14:23Z",
       "latestReleaseDate": "2026-10-06T19:14:23Z",
-      "trendingScore": 11978.0,
-      "popularityScore": 11978,
+      "trendingScore": 11979.0,
+      "popularityScore": 11979,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 8665901607692159549,
+      "name": "markor",
+      "fullName": "gsantner/markor",
+      "owner": {
+        "login": "gsantner",
+        "avatarUrl": "https://github.com/gsantner.png"
+      },
+      "description": "Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/gsantner/markor",
+      "stargazersCount": 6256,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android-app",
+        "asciidoc",
+        "class",
+        "clipboard",
+        "editor",
+        "education",
+        "hacktoberfest",
+        "markdown",
+        "markdown-editor",
+        "org-mode",
+        "orgmode",
+        "plaintext",
+        "school",
+        "syncthing",
+        "task-list",
+        "todo",
+        "todolist",
+        "todotxt",
+        "university",
+        "zim-wiki"
+      ],
+      "releasesUrl": "https://api.github.com/repos/gsantner/markor/releases{/id}",
+      "updatedAt": "2026-03-19T08:27:29Z",
+      "latestReleaseDate": "2026-03-19T08:27:29Z",
+      "trendingScore": 6256.0,
+      "popularityScore": 6256,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"

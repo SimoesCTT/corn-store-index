@@ -1,9 +1,50 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-10T18:29:52.302364+00:00",
-  "totalCount": 28,
+  "lastUpdated": "2026-10-10T21:17:14.674678+00:00",
+  "totalCount": 51,
   "repositories": [
+    {
+      "id": 8480531856245667233,
+      "name": "Advanced-PortChecker-android",
+      "fullName": "CodeDead/Advanced-PortChecker-android",
+      "owner": {
+        "login": "CodeDead",
+        "avatarUrl": "https://github.com/CodeDead.png"
+      },
+      "description": "Advanced PortChecker for Android",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/CodeDead/Advanced-PortChecker-android",
+      "stargazersCount": 27,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "android-application",
+        "android-port-scanner",
+        "codedead",
+        "f-droid",
+        "fdroid",
+        "port",
+        "port-scanner",
+        "port-scanning",
+        "portscanner",
+        "portscanning",
+        "tcp",
+        "udp"
+      ],
+      "releasesUrl": "https://api.github.com/repos/CodeDead/Advanced-PortChecker-android/releases{/id}",
+      "updatedAt": "2026-10-01T12:37:22Z",
+      "latestReleaseDate": "2026-10-01T12:37:22Z",
+      "trendingScore": 27.0,
+      "popularityScore": 27,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
     {
       "id": 1056197217941005673,
       "name": "AmazeFileManager",
@@ -53,7 +94,7 @@
       "description": "",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/greenart7c3/Amber",
-      "stargazersCount": 355,
+      "stargazersCount": 357,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -63,8 +104,75 @@
       "releasesUrl": "https://api.github.com/repos/greenart7c3/Amber/releases{/id}",
       "updatedAt": "2026-10-05T13:24:20Z",
       "latestReleaseDate": "2026-10-05T13:24:20Z",
-      "trendingScore": 355.0,
-      "popularityScore": 355,
+      "trendingScore": 357.0,
+      "popularityScore": 357,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 8118720328064675182,
+      "name": "Arcticons",
+      "fullName": "Arcticons-Team/Arcticons",
+      "owner": {
+        "login": "Arcticons-Team",
+        "avatarUrl": "https://github.com/Arcticons-Team.png"
+      },
+      "description": "A monotone line-based icon pack for android",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Arcticons-Team/Arcticons",
+      "stargazersCount": 1579,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "f-droid",
+        "fdroid",
+        "icon",
+        "icon-pack",
+        "iconpack",
+        "minimal",
+        "theming",
+        "vectors"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Arcticons-Team/Arcticons/releases{/id}",
+      "updatedAt": "2026-10-10T17:03:29Z",
+      "latestReleaseDate": "2026-10-10T17:03:29Z",
+      "trendingScore": 1579.0,
+      "popularityScore": 1579,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 2383568391779010957,
+      "name": "BitBanana",
+      "fullName": "michaelWuensch/BitBanana",
+      "owner": {
+        "login": "michaelWuensch",
+        "avatarUrl": "https://github.com/michaelWuensch.png"
+      },
+      "description": "Lightning Node Management for Android",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/michaelWuensch/BitBanana",
+      "stargazersCount": 138,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "bitcoin",
+        "f-droid",
+        "fdroid",
+        "lightning"
+      ],
+      "releasesUrl": "https://api.github.com/repos/michaelWuensch/BitBanana/releases{/id}",
+      "updatedAt": "2026-10-04T02:53:00Z",
+      "latestReleaseDate": "2026-10-04T02:53:00Z",
+      "trendingScore": 138.0,
+      "popularityScore": 138,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -267,6 +375,87 @@
       "downloadCount": 0
     },
     {
+      "id": 9057083283558833323,
+      "name": "Android",
+      "fullName": "CatimaLoyalty/Android",
+      "owner": {
+        "login": "CatimaLoyalty",
+        "avatarUrl": "https://github.com/CatimaLoyalty.png"
+      },
+      "description": "Catima, a Loyalty Card & Ticket Manager for Android",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/CatimaLoyalty/Android",
+      "stargazersCount": 1710,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "f-droid",
+        "fdroid",
+        "izzyondroid",
+        "loyalty",
+        "wear-os",
+        "wearos"
+      ],
+      "releasesUrl": "https://api.github.com/repos/CatimaLoyalty/Android/releases{/id}",
+      "updatedAt": "2026-09-27T16:56:18Z",
+      "latestReleaseDate": "2026-09-27T16:56:18Z",
+      "trendingScore": 1710.0,
+      "popularityScore": 1710,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 1238226026813006049,
+      "name": "Clock",
+      "fullName": "BlackyHawky/Clock",
+      "owner": {
+        "login": "BlackyHawky",
+        "avatarUrl": "https://github.com/BlackyHawky.png"
+      },
+      "description": "Customizable, privacy\u2011first, open-source clock app inspired by AOSP Clock",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/BlackyHawky/Clock",
+      "stargazersCount": 1135,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "alarm",
+        "analog-clock",
+        "android",
+        "android15",
+        "aosp-clock",
+        "clock",
+        "clock-java",
+        "clockwidget",
+        "digital-clock",
+        "fdroid",
+        "foss",
+        "izzyondroid",
+        "java",
+        "material-design",
+        "material-ui",
+        "material3",
+        "screensaver",
+        "stopwatch",
+        "timer",
+        "widget"
+      ],
+      "releasesUrl": "https://api.github.com/repos/BlackyHawky/Clock/releases{/id}",
+      "updatedAt": "2026-10-06T08:23:50Z",
+      "latestReleaseDate": "2026-10-06T08:23:50Z",
+      "trendingScore": 1135.0,
+      "popularityScore": 1135,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
       "id": 7038768055608064496,
       "name": "Compass",
       "fullName": "Kr0oked/Compass",
@@ -352,7 +541,7 @@
       "description": "Clutterfree F-Droid client, [mirror] https://codeberg.org/droidify/client",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Droid-ify/client",
-      "stargazersCount": 7567,
+      "stargazersCount": 7568,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -366,8 +555,8 @@
       "releasesUrl": "https://api.github.com/repos/Droid-ify/client/releases{/id}",
       "updatedAt": "2026-09-12T18:59:36Z",
       "latestReleaseDate": "2026-09-12T18:59:36Z",
-      "trendingScore": 7567.0,
-      "popularityScore": 7567,
+      "trendingScore": 7568.0,
+      "popularityScore": 7568,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -413,6 +602,109 @@
       "latestReleaseDate": "2025-07-15T11:33:50Z",
       "trendingScore": 340.0,
       "popularityScore": 340,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 4477179521562428260,
+      "name": "Eidetic-Memory-Trainer",
+      "fullName": "hathibelagal-dev/Eidetic-Memory-Trainer",
+      "owner": {
+        "login": "hathibelagal-dev",
+        "avatarUrl": "https://github.com/hathibelagal-dev.png"
+      },
+      "description": "A simple Android app that helps you improve your working memory",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/hathibelagal-dev/Eidetic-Memory-Trainer",
+      "stargazersCount": 29,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "chimp-memory-test",
+        "f-droid",
+        "fdroid",
+        "number-guessing-game",
+        "working-memory"
+      ],
+      "releasesUrl": "https://api.github.com/repos/hathibelagal-dev/Eidetic-Memory-Trainer/releases{/id}",
+      "updatedAt": "2025-04-26T21:59:49Z",
+      "latestReleaseDate": "2025-04-26T21:59:49Z",
+      "trendingScore": 29.0,
+      "popularityScore": 29,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 7079863367317742557,
+      "name": "FastDraw",
+      "fullName": "peterfajdiga/FastDraw",
+      "owner": {
+        "login": "peterfajdiga",
+        "avatarUrl": "https://github.com/peterfajdiga.png"
+      },
+      "description": "A simple Android launcher with categories",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/peterfajdiga/FastDraw",
+      "stargazersCount": 64,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "fdroid"
+      ],
+      "releasesUrl": "https://api.github.com/repos/peterfajdiga/FastDraw/releases{/id}",
+      "updatedAt": "2025-08-06T19:08:49Z",
+      "latestReleaseDate": "2025-08-06T19:08:49Z",
+      "trendingScore": 64.0,
+      "popularityScore": 64,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 809658730333072989,
+      "name": "FeudalTactics",
+      "fullName": "Sesu8642/FeudalTactics",
+      "owner": {
+        "login": "Sesu8642",
+        "avatarUrl": "https://github.com/Sesu8642.png"
+      },
+      "description": "Strategy game with countless unique and challenging levels.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Sesu8642/FeudalTactics",
+      "stargazersCount": 119,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android-game",
+        "f-droid",
+        "fdroid",
+        "hexagonal-grids",
+        "hexagonal-tiles",
+        "hexagons",
+        "java-game",
+        "libgdx-game",
+        "linux-game",
+        "pixel-art",
+        "strategy-game",
+        "turn-based",
+        "turn-based-strategy",
+        "windows-game"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Sesu8642/FeudalTactics/releases{/id}",
+      "updatedAt": "2026-09-17T21:19:47Z",
+      "latestReleaseDate": "2026-09-17T21:19:47Z",
+      "trendingScore": 119.0,
+      "popularityScore": 119,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -479,6 +771,39 @@
       "latestReleaseDate": "2026-10-08T03:24:29Z",
       "trendingScore": 442.0,
       "popularityScore": 442,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 7826279791185989005,
+      "name": "android",
+      "fullName": "gotify/android",
+      "owner": {
+        "login": "gotify",
+        "avatarUrl": "https://github.com/gotify.png"
+      },
+      "description": "An app for creating push notifications for new messages posted to gotify/server.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/gotify/android",
+      "stargazersCount": 1514,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "fdroid",
+        "gotify",
+        "java",
+        "playstore",
+        "push-notifications"
+      ],
+      "releasesUrl": "https://api.github.com/repos/gotify/android/releases{/id}",
+      "updatedAt": "2026-07-06T15:43:42Z",
+      "latestReleaseDate": "2026-07-06T15:43:42Z",
+      "trendingScore": 1514.0,
+      "popularityScore": 1514,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -561,6 +886,94 @@
       "latestReleaseDate": "2026-05-24T09:07:54Z",
       "trendingScore": 789.0,
       "popularityScore": 789,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 467973663166901045,
+      "name": "HealthyBatteryCharging",
+      "fullName": "vbresan/HealthyBatteryCharging",
+      "owner": {
+        "login": "vbresan",
+        "avatarUrl": "https://github.com/vbresan.png"
+      },
+      "description": "Prolong the battery life of your android phone by keeping it charged between 40% and 80%",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/vbresan/HealthyBatteryCharging",
+      "stargazersCount": 157,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "android-application",
+        "battery",
+        "battery-charger",
+        "battery-info",
+        "battery-information",
+        "battery-level",
+        "battery-life",
+        "battery-monitor",
+        "battery-percentage",
+        "battery-status",
+        "f-droid",
+        "fdroid",
+        "java"
+      ],
+      "releasesUrl": "https://api.github.com/repos/vbresan/HealthyBatteryCharging/releases{/id}",
+      "updatedAt": "2026-05-22T14:48:43Z",
+      "latestReleaseDate": "2026-05-22T14:48:43Z",
+      "trendingScore": 157.0,
+      "popularityScore": 157,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 4739965779488625898,
+      "name": "IYPS",
+      "fullName": "StellarSand/IYPS",
+      "owner": {
+        "login": "StellarSand",
+        "avatarUrl": "https://github.com/StellarSand.png"
+      },
+      "description": "A password strength app that evaluates and rates your password's robustness, estimates crack time, and provides helpful warnings and suggestions for stronger passwords.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/StellarSand/IYPS",
+      "stargazersCount": 283,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "android-application",
+        "f-droid",
+        "fdroid",
+        "kotlin",
+        "kotlin-android",
+        "material-design",
+        "material-ui",
+        "material-you",
+        "open-source",
+        "password",
+        "password-analysis",
+        "password-cracker",
+        "password-safety",
+        "password-strength",
+        "privacy",
+        "security",
+        "security-tools"
+      ],
+      "releasesUrl": "https://api.github.com/repos/StellarSand/IYPS/releases{/id}",
+      "updatedAt": "2026-08-01T10:46:04Z",
+      "latestReleaseDate": "2026-08-01T10:46:04Z",
+      "trendingScore": 283.0,
+      "popularityScore": 283,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -660,6 +1073,86 @@
       "downloadCount": 0
     },
     {
+      "id": 5290900597852118111,
+      "name": "little-file-explorer",
+      "fullName": "martinmimigames/little-file-explorer",
+      "owner": {
+        "login": "martinmimigames",
+        "avatarUrl": "https://github.com/martinmimigames.png"
+      },
+      "description": "Android 1.0+ mini file explorer and manager",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/martinmimigames/little-file-explorer",
+      "stargazersCount": 633,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "compatibility",
+        "f-droid",
+        "fdroid",
+        "file",
+        "file-explorer",
+        "file-manager",
+        "gplv3",
+        "java",
+        "martinmimigames",
+        "minimal",
+        "small"
+      ],
+      "releasesUrl": "https://api.github.com/repos/martinmimigames/little-file-explorer/releases{/id}",
+      "updatedAt": "2025-04-17T12:49:04Z",
+      "latestReleaseDate": "2025-04-17T12:49:04Z",
+      "trendingScore": 633.0,
+      "popularityScore": 633,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 6427468519202916611,
+      "name": "markleaf-android",
+      "fullName": "jeiel85/markleaf-android",
+      "owner": {
+        "login": "jeiel85",
+        "avatarUrl": "https://github.com/jeiel85.png"
+      },
+      "description": "A lightweight, local-first Markdown note app for Android.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/jeiel85/markleaf-android",
+      "stargazersCount": 122,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "fdroid",
+        "jetpack-compose",
+        "kotlin",
+        "local-first",
+        "markdown",
+        "markdown-editor",
+        "material3",
+        "note-taking",
+        "notes",
+        "offline-first",
+        "privacy-first",
+        "room",
+        "sqlite"
+      ],
+      "releasesUrl": "https://api.github.com/repos/jeiel85/markleaf-android/releases{/id}",
+      "updatedAt": "2026-10-07T05:17:57Z",
+      "latestReleaseDate": "2026-10-07T05:17:57Z",
+      "trendingScore": 122.0,
+      "popularityScore": 122,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
       "id": 1201339922604453650,
       "name": "MoeMemosAndroid",
       "fullName": "mudkipme/MoeMemosAndroid",
@@ -688,6 +1181,134 @@
       "latestReleaseDate": "2026-10-07T04:42:36Z",
       "trendingScore": 1209.0,
       "popularityScore": 1209,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 3371972052150553451,
+      "name": "MonsterMusic",
+      "fullName": "ZTFtrue/MonsterMusic",
+      "owner": {
+        "login": "ZTFtrue",
+        "avatarUrl": "https://github.com/ZTFtrue.png"
+      },
+      "description": "A music player on android platform, developed by Android composer",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/ZTFtrue/MonsterMusic",
+      "stargazersCount": 536,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android-app",
+        "composer",
+        "exoplayer",
+        "f-droid",
+        "fdroid",
+        "jectpack",
+        "jectpack-compose",
+        "music-player"
+      ],
+      "releasesUrl": "https://api.github.com/repos/ZTFtrue/MonsterMusic/releases{/id}",
+      "updatedAt": "2026-10-04T08:12:58Z",
+      "latestReleaseDate": "2026-10-04T08:12:58Z",
+      "trendingScore": 536.0,
+      "popularityScore": 536,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 1714749336084423632,
+      "name": "mLauncher",
+      "fullName": "CodeWorksCreativeHub/mLauncher",
+      "owner": {
+        "login": "CodeWorksCreativeHub",
+        "avatarUrl": "https://github.com/CodeWorksCreativeHub.png"
+      },
+      "description": "Minimal Launcher app for Android. Customized olauncher as I just started learning kotlin . ",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/CodeWorksCreativeHub/mLauncher",
+      "stargazersCount": 303,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "ad-free",
+        "android",
+        "fdroid",
+        "fork",
+        "free",
+        "gplv3",
+        "gplv3-licensing",
+        "icons",
+        "kotlin",
+        "kotlin-android",
+        "launcher",
+        "minimal",
+        "minimalist",
+        "minimalistic",
+        "nerd-fonts",
+        "nerdfonts",
+        "obtanium",
+        "open-source",
+        "text",
+        "viewmodel"
+      ],
+      "releasesUrl": "https://api.github.com/repos/CodeWorksCreativeHub/mLauncher/releases{/id}",
+      "updatedAt": "2026-10-10T03:31:06Z",
+      "latestReleaseDate": "2026-10-10T03:31:06Z",
+      "trendingScore": 303.0,
+      "popularityScore": 303,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 5917516882938775079,
+      "name": "Musify",
+      "fullName": "gokadzev/Musify",
+      "owner": {
+        "login": "gokadzev",
+        "avatarUrl": "https://github.com/gokadzev.png"
+      },
+      "description": "Unlock the full potential of music: Stream effortlessly with one app!",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/gokadzev/Musify",
+      "stargazersCount": 4312,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android-app",
+        "android-application",
+        "android-music-player",
+        "fdroid",
+        "flutter",
+        "flutter-app",
+        "flutter-application",
+        "flutter-apps",
+        "free",
+        "material-design",
+        "material-design-3",
+        "material-ui",
+        "material-you",
+        "materialui",
+        "music",
+        "music-app",
+        "music-player",
+        "music-streaming",
+        "streaming"
+      ],
+      "releasesUrl": "https://api.github.com/repos/gokadzev/Musify/releases{/id}",
+      "updatedAt": "2026-10-09T18:10:15Z",
+      "latestReleaseDate": "2026-10-09T18:10:15Z",
+      "trendingScore": 4312.0,
+      "popularityScore": 4312,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -738,6 +1359,83 @@
       "downloadCount": 0
     },
     {
+      "id": 4620510661785430697,
+      "name": "android-ocr",
+      "fullName": "SubhamTyagi/android-ocr",
+      "owner": {
+        "login": "SubhamTyagi",
+        "avatarUrl": "https://github.com/SubhamTyagi.png"
+      },
+      "description": "Tesseract based OCR for android",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/SubhamTyagi/android-ocr",
+      "stargazersCount": 610,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "fdroid",
+        "foss",
+        "image-reader",
+        "math-ocr",
+        "ocr",
+        "ocr-android",
+        "ocr-recognition",
+        "ocr-text-reader",
+        "reader",
+        "tesseract"
+      ],
+      "releasesUrl": "https://api.github.com/repos/SubhamTyagi/android-ocr/releases{/id}",
+      "updatedAt": "2026-08-06T09:04:35Z",
+      "latestReleaseDate": "2026-08-06T09:04:35Z",
+      "trendingScore": 610.0,
+      "popularityScore": 610,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 9114937684720403575,
+      "name": "Open-notes",
+      "fullName": "Fandroid745/Open-notes",
+      "owner": {
+        "login": "Fandroid745",
+        "avatarUrl": "https://github.com/Fandroid745.png"
+      },
+      "description": "Open Notes is a minimal note taking app",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Fandroid745/Open-notes",
+      "stargazersCount": 62,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "fdroid",
+        "foss",
+        "free",
+        "izzyondroid",
+        "jetpack-compose",
+        "kotlin",
+        "material3",
+        "material3-expressive",
+        "minimalism",
+        "notes",
+        "opensource"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Fandroid745/Open-notes/releases{/id}",
+      "updatedAt": "2026-10-01T05:21:51Z",
+      "latestReleaseDate": "2026-10-01T05:21:51Z",
+      "trendingScore": 62.0,
+      "popularityScore": 62,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
       "id": 6017482017181178231,
       "name": "OpenDocument.droid",
       "fullName": "opendocument-app/OpenDocument.droid",
@@ -762,6 +1460,52 @@
       "latestReleaseDate": "2026-10-10T13:52:13Z",
       "trendingScore": 475.0,
       "popularityScore": 475,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 5450504193773921631,
+      "name": "Password-Monitor",
+      "fullName": "StellarSand/Password-Monitor",
+      "owner": {
+        "login": "StellarSand",
+        "avatarUrl": "https://github.com/StellarSand.png"
+      },
+      "description": "Ensure your password safety by scanning in data breaches. ",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/StellarSand/Password-Monitor",
+      "stargazersCount": 123,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "android-application",
+        "data-breach",
+        "f-droid",
+        "fdroid",
+        "haveibeenpwned",
+        "kotlin",
+        "kotlin-android",
+        "material-design",
+        "material-ui",
+        "material-you",
+        "open-source",
+        "password",
+        "password-breach",
+        "password-safety",
+        "privacy",
+        "security",
+        "security-tools"
+      ],
+      "releasesUrl": "https://api.github.com/repos/StellarSand/Password-Monitor/releases{/id}",
+      "updatedAt": "2026-06-22T18:53:13Z",
+      "latestReleaseDate": "2026-06-22T18:53:13Z",
+      "trendingScore": 123.0,
+      "popularityScore": 123,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -862,6 +1606,40 @@
       "downloadCount": 0
     },
     {
+      "id": 5440093985386570669,
+      "name": "ShareX",
+      "fullName": "akanshSirohi/ShareX",
+      "owner": {
+        "login": "akanshSirohi",
+        "avatarUrl": "https://github.com/akanshSirohi.png"
+      },
+      "description": "\ud83d\ude80 Send and receive files in hassle-free way with fast speed!",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/akanshSirohi/ShareX",
+      "stargazersCount": 296,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "cross-platform",
+        "fdroid",
+        "file-sharing",
+        "hacktoberfest",
+        "open-source",
+        "sharex"
+      ],
+      "releasesUrl": "https://api.github.com/repos/akanshSirohi/ShareX/releases{/id}",
+      "updatedAt": "2026-10-09T18:56:17Z",
+      "latestReleaseDate": "2026-10-09T18:56:17Z",
+      "trendingScore": 296.0,
+      "popularityScore": 296,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
       "id": 1661226758475911834,
       "name": "Tarnhelm",
       "fullName": "lz233/Tarnhelm",
@@ -901,7 +1679,7 @@
       "description": "An Android client for the microblogging server Mastodon",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/tuskyapp/Tusky",
-      "stargazersCount": 2565,
+      "stargazersCount": 2566,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -918,8 +1696,73 @@
       "releasesUrl": "https://api.github.com/repos/tuskyapp/Tusky/releases{/id}",
       "updatedAt": "2025-05-17T11:40:05Z",
       "latestReleaseDate": "2025-05-17T11:40:05Z",
-      "trendingScore": 2565.0,
-      "popularityScore": 2565,
+      "trendingScore": 2566.0,
+      "popularityScore": 2566,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 8689241497874639734,
+      "name": "URLCheck",
+      "fullName": "TrianguloY/URLCheck",
+      "owner": {
+        "login": "TrianguloY",
+        "avatarUrl": "https://github.com/TrianguloY.png"
+      },
+      "description": "Android app by TrianguloY: URLCheck",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/TrianguloY/URLCheck",
+      "stargazersCount": 2095,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android-application",
+        "fdroid",
+        "open-source",
+        "play-store",
+        "url-check"
+      ],
+      "releasesUrl": "https://api.github.com/repos/TrianguloY/URLCheck/releases{/id}",
+      "updatedAt": "2026-04-07T18:11:50Z",
+      "latestReleaseDate": "2026-04-07T18:11:50Z",
+      "trendingScore": 2095.0,
+      "popularityScore": 2095,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 1088659004435243708,
+      "name": "Valv-Android",
+      "fullName": "Arctosoft/Valv-Android",
+      "owner": {
+        "login": "Arctosoft",
+        "avatarUrl": "https://github.com/Arctosoft.png"
+      },
+      "description": "An encrypted gallery vault for Android",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Arctosoft/Valv-Android",
+      "stargazersCount": 225,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-gallery",
+        "encryption",
+        "f-droid",
+        "fdroid",
+        "vault"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Arctosoft/Valv-Android/releases{/id}",
+      "updatedAt": "2026-04-13T07:25:36Z",
+      "latestReleaseDate": "2026-04-13T07:25:36Z",
+      "trendingScore": 225.0,
+      "popularityScore": 225,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -957,6 +1800,37 @@
       "latestReleaseDate": "2026-09-02T10:32:04Z",
       "trendingScore": 384.0,
       "popularityScore": 384,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 2038511228552925578,
+      "name": "PWG",
+      "fullName": "v4lpt/PWG",
+      "owner": {
+        "login": "v4lpt",
+        "avatarUrl": "https://github.com/v4lpt.png"
+      },
+      "description": "This is a simple password generator for the android operating system.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/v4lpt/PWG",
+      "stargazersCount": 36,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "f-droid",
+        "fdroid",
+        "password-generator"
+      ],
+      "releasesUrl": "https://api.github.com/repos/v4lpt/PWG/releases{/id}",
+      "updatedAt": "2025-11-13T09:37:24Z",
+      "latestReleaseDate": "2025-11-13T09:37:24Z",
+      "trendingScore": 36.0,
+      "popularityScore": 36,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"

@@ -1,8 +1,8 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-10T18:29:52.302364+00:00",
-  "totalCount": 28,
+  "lastUpdated": "2026-10-10T21:17:14.674678+00:00",
+  "totalCount": 52,
   "repositories": [
     {
       "id": 6773098927520400594,
@@ -60,7 +60,7 @@
       "description": "An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/AudileTeam/Audile",
-      "stargazersCount": 1353,
+      "stargazersCount": 1354,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -80,8 +80,8 @@
       "releasesUrl": "https://api.github.com/repos/AudileTeam/Audile/releases{/id}",
       "updatedAt": "2026-10-05T16:07:06Z",
       "latestReleaseDate": "2026-10-05T16:07:06Z",
-      "trendingScore": 1353.0,
-      "popularityScore": 1353,
+      "trendingScore": 1354.0,
+      "popularityScore": 1354,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -189,7 +189,7 @@
       "description": "Clean, fast, and Material-driven Android music player with powerful features.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/mardous/BoomingMusic",
-      "stargazersCount": 556,
+      "stargazersCount": 557,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -210,8 +210,8 @@
       "releasesUrl": "https://api.github.com/repos/mardous/BoomingMusic/releases{/id}",
       "updatedAt": "2026-09-28T18:53:16Z",
       "latestReleaseDate": "2026-09-28T18:53:16Z",
-      "trendingScore": 556.0,
-      "popularityScore": 556,
+      "trendingScore": 557.0,
+      "popularityScore": 557,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -283,6 +283,53 @@
       "downloadCount": 0
     },
     {
+      "id": 1238226026813006049,
+      "name": "Clock",
+      "fullName": "BlackyHawky/Clock",
+      "owner": {
+        "login": "BlackyHawky",
+        "avatarUrl": "https://github.com/BlackyHawky.png"
+      },
+      "description": "Customizable, privacy\u2011first, open-source clock app inspired by AOSP Clock",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/BlackyHawky/Clock",
+      "stargazersCount": 1135,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "alarm",
+        "analog-clock",
+        "android",
+        "android15",
+        "aosp-clock",
+        "clock",
+        "clock-java",
+        "clockwidget",
+        "digital-clock",
+        "fdroid",
+        "foss",
+        "izzyondroid",
+        "java",
+        "material-design",
+        "material-ui",
+        "material3",
+        "screensaver",
+        "stopwatch",
+        "timer",
+        "widget"
+      ],
+      "releasesUrl": "https://api.github.com/repos/BlackyHawky/Clock/releases{/id}",
+      "updatedAt": "2026-10-06T08:23:50Z",
+      "latestReleaseDate": "2026-10-06T08:23:50Z",
+      "trendingScore": 1135.0,
+      "popularityScore": 1135,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
       "id": 7355019083449335168,
       "name": "Contacts",
       "fullName": "FossifyOrg/Contacts",
@@ -293,7 +340,7 @@
       "description": "Easy and quick contact management with no ads, handles groups and favorites too.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/Contacts",
-      "stargazersCount": 919,
+      "stargazersCount": 920,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -306,8 +353,79 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/Contacts/releases{/id}",
       "updatedAt": "2026-01-30T20:46:35Z",
       "latestReleaseDate": "2026-01-30T20:46:35Z",
-      "trendingScore": 919.0,
-      "popularityScore": 919,
+      "trendingScore": 920.0,
+      "popularityScore": 920,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 3903897806131837083,
+      "name": "CustomKeyboardEngine",
+      "fullName": "roalyr/CustomKeyboardEngine",
+      "owner": {
+        "login": "roalyr",
+        "avatarUrl": "https://github.com/roalyr.png"
+      },
+      "description": "Privacy-friendly Android keyboard engine to build custom layouts from JSON files. Coding-friendly (tested in Termux, VNC client, editors). Uses sendKeyEvent() to simulate physical keyboard as close as possible. Suitable for any screen, has floating mode (like Gboard).",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/roalyr/CustomKeyboardEngine",
+      "stargazersCount": 26,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "accessibility",
+        "android",
+        "android-application",
+        "foss",
+        "json",
+        "keyboard",
+        "keyboard-layout",
+        "open-source",
+        "tools"
+      ],
+      "releasesUrl": "https://api.github.com/repos/roalyr/CustomKeyboardEngine/releases{/id}",
+      "updatedAt": "2025-12-19T10:35:47Z",
+      "latestReleaseDate": "2025-12-19T10:35:47Z",
+      "trendingScore": 26.0,
+      "popularityScore": 26,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 8856983780274403214,
+      "name": "Dragon-Launcher",
+      "fullName": "Elnix90/Dragon-Launcher",
+      "owner": {
+        "login": "Elnix90",
+        "avatarUrl": "https://github.com/Elnix90.png"
+      },
+      "description": "Fast Gesture based android launcher",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Elnix90/Dragon-Launcher",
+      "stargazersCount": 327,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "android-application",
+        "android-studio",
+        "f-droid",
+        "foss",
+        "launcher",
+        "launcher-application"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Elnix90/Dragon-Launcher/releases{/id}",
+      "updatedAt": "2026-10-09T08:08:05Z",
+      "latestReleaseDate": "2026-10-09T08:08:05Z",
+      "trendingScore": 327.0,
+      "popularityScore": 327,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -344,6 +462,52 @@
       "latestReleaseDate": "2026-01-24T15:53:52Z",
       "trendingScore": 1070.0,
       "popularityScore": 1070,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 7467845250851163758,
+      "name": "encrypted-files",
+      "fullName": "navarro165/encrypted-files",
+      "owner": {
+        "login": "navarro165",
+        "avatarUrl": "https://github.com/navarro165.png"
+      },
+      "description": "Secure file encryption for Android. Encrypt any files & folders with AES-256-GCM, hardware-backed biometric authentication, and secure key management.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/navarro165/encrypted-files",
+      "stargazersCount": 5,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "aes-256",
+        "android",
+        "cryptography",
+        "data-encryption",
+        "encrypted-files",
+        "encryption",
+        "file-encryption",
+        "file-manager",
+        "foss",
+        "gcm-encryption",
+        "kotlin",
+        "open-source",
+        "photo-privacy",
+        "privacy",
+        "privacy-tool",
+        "privacy-tools",
+        "secure-files",
+        "secure-storage",
+        "vault"
+      ],
+      "releasesUrl": "https://api.github.com/repos/navarro165/encrypted-files/releases{/id}",
+      "updatedAt": "2025-07-29T06:38:33Z",
+      "latestReleaseDate": "2025-07-29T06:38:33Z",
+      "trendingScore": 5.0,
+      "popularityScore": 5,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -389,6 +553,97 @@
       "downloadCount": 0
     },
     {
+      "id": 1020555302611323496,
+      "name": "Escape-Launcher",
+      "fullName": "GeorgeClensy/Escape-Launcher",
+      "owner": {
+        "login": "GeorgeClensy",
+        "avatarUrl": "https://github.com/GeorgeClensy.png"
+      },
+      "description": "A minimalist android launcher to help you quit your phone addiction",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/GeorgeClensy/Escape-Launcher",
+      "stargazersCount": 447,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "android-launcher",
+        "detox",
+        "distraction-free",
+        "escape",
+        "focus",
+        "foss",
+        "jetpack",
+        "jetpack-compose",
+        "kotlin",
+        "launcher",
+        "minimal",
+        "minimalist",
+        "opensource",
+        "productivity",
+        "screen-time",
+        "self-help",
+        "self-improvement"
+      ],
+      "releasesUrl": "https://api.github.com/repos/GeorgeClensy/Escape-Launcher/releases{/id}",
+      "updatedAt": "2026-01-02T20:22:12Z",
+      "latestReleaseDate": "2026-01-02T20:22:12Z",
+      "trendingScore": 447.0,
+      "popularityScore": 447,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 7647149875121309304,
+      "name": "FadCam",
+      "fullName": "anonfaded/FadCam",
+      "owner": {
+        "login": "anonfaded",
+        "avatarUrl": "https://github.com/anonfaded.png"
+      },
+      "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/anonfaded/FadCam",
+      "stargazersCount": 2829,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android-app",
+        "android-studio",
+        "cam",
+        "camera2-api",
+        "camerax",
+        "fadrec",
+        "ffmpeg-android",
+        "foss",
+        "java",
+        "material-design",
+        "material-ui",
+        "open-source",
+        "record-video",
+        "screenrecorder",
+        "screenrecordingapp",
+        "secret-recorder",
+        "video-editing",
+        "video-editing-tools"
+      ],
+      "releasesUrl": "https://api.github.com/repos/anonfaded/FadCam/releases{/id}",
+      "updatedAt": "2026-08-17T23:04:17Z",
+      "latestReleaseDate": "2026-08-17T23:04:17Z",
+      "trendingScore": 2829.0,
+      "popularityScore": 2829,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
       "id": 1254301328697572335,
       "name": "File-Manager",
       "fullName": "FossifyOrg/File-Manager",
@@ -399,7 +654,7 @@
       "description": "Easy app for managing your files without ads, respecting your privacy & security",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/File-Manager",
-      "stargazersCount": 1796,
+      "stargazersCount": 1795,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -412,8 +667,8 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/File-Manager/releases{/id}",
       "updatedAt": "2026-10-10T15:44:07Z",
       "latestReleaseDate": "2026-10-10T15:44:07Z",
-      "trendingScore": 1796.0,
-      "popularityScore": 1796,
+      "trendingScore": 1795.0,
+      "popularityScore": 1795,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -431,7 +686,7 @@
       "description": "Browse your memories without any interruptions with this photo and video gallery",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/Gallery",
-      "stargazersCount": 3776,
+      "stargazersCount": 3777,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -444,8 +699,77 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/Gallery/releases{/id}",
       "updatedAt": "2026-10-10T15:46:01Z",
       "latestReleaseDate": "2026-10-10T15:46:01Z",
-      "trendingScore": 3776.0,
-      "popularityScore": 3776,
+      "trendingScore": 3777.0,
+      "popularityScore": 3777,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 7790021146365960486,
+      "name": "Hiker-Watch-Android-",
+      "fullName": "naveenverma1/Hiker-Watch-Android-",
+      "owner": {
+        "login": "naveenverma1",
+        "avatarUrl": "https://github.com/naveenverma1.png"
+      },
+      "description": "",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/naveenverma1/Hiker-Watch-Android-",
+      "stargazersCount": 1,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-15",
+        "f-droid",
+        "foss",
+        "geolocation",
+        "gps",
+        "hiking",
+        "material-design",
+        "no-ads",
+        "no-trackers",
+        "open-source",
+        "outdoor",
+        "privacy"
+      ],
+      "releasesUrl": "https://api.github.com/repos/naveenverma1/Hiker-Watch-Android-/releases{/id}",
+      "updatedAt": "2026-05-27T15:22:53Z",
+      "latestReleaseDate": "2026-05-27T15:22:53Z",
+      "trendingScore": 1.0,
+      "popularityScore": 1,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 9080814633360236181,
+      "name": "iDualRemote",
+      "fullName": "JulesJux/iDualRemote",
+      "owner": {
+        "login": "JulesJux",
+        "avatarUrl": "https://github.com/JulesJux.png"
+      },
+      "description": "Open-source Android remote control app for iDual rgb lights ",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/JulesJux/iDualRemote",
+      "stargazersCount": 4,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "foss"
+      ],
+      "releasesUrl": "https://api.github.com/repos/JulesJux/iDualRemote/releases{/id}",
+      "updatedAt": "2024-10-20T19:20:01Z",
+      "latestReleaseDate": "2024-10-20T19:20:01Z",
+      "trendingScore": 4.0,
+      "popularityScore": 4,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -517,6 +841,154 @@
       "downloadCount": 0
     },
     {
+      "id": 6958129682060738775,
+      "name": "Lawnchair-Lite",
+      "fullName": "SysAdminDoc/Lawnchair-Lite",
+      "owner": {
+        "login": "SysAdminDoc",
+        "avatarUrl": "https://github.com/SysAdminDoc.png"
+      },
+      "description": "A private Android launcher with local intent search, six dark themes, widgets, gestures, and selective backup. No ads, analytics, or account.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/SysAdminDoc/Lawnchair-Lite",
+      "stargazersCount": 15,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "android-launcher",
+        "app-drawer",
+        "custom-launcher",
+        "dark-theme",
+        "foldable",
+        "foss",
+        "foss-android",
+        "home-screen",
+        "icon-pack",
+        "jetpack-compose",
+        "kotlin",
+        "local-search",
+        "material-design",
+        "material-you",
+        "no-ads",
+        "privacy",
+        "tablet",
+        "widgets"
+      ],
+      "releasesUrl": "https://api.github.com/repos/SysAdminDoc/Lawnchair-Lite/releases{/id}",
+      "updatedAt": "2026-09-06T01:08:17Z",
+      "latestReleaseDate": "2026-09-06T01:08:17Z",
+      "trendingScore": 15.0,
+      "popularityScore": 15,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 6668054469282301901,
+      "name": "librespan",
+      "fullName": "rockcutto/librespan",
+      "owner": {
+        "login": "rockcutto",
+        "avatarUrl": "https://github.com/rockcutto.png"
+      },
+      "description": "Modern, privacy-focused XMPP client for Android",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/rockcutto/librespan",
+      "stargazersCount": 1,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "chat",
+        "foss",
+        "messaging",
+        "omemo",
+        "privacy",
+        "secure-messaging",
+        "xmpp"
+      ],
+      "releasesUrl": "https://api.github.com/repos/rockcutto/librespan/releases{/id}",
+      "updatedAt": "2026-10-06T16:04:37Z",
+      "latestReleaseDate": "2026-10-06T16:04:37Z",
+      "trendingScore": 1.0,
+      "popularityScore": 1,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 3045544689328510463,
+      "name": "mako",
+      "fullName": "rama-io/mako",
+      "owner": {
+        "login": "rama-io",
+        "avatarUrl": "https://github.com/rama-io.png"
+      },
+      "description": "Minimal, privacy-first Android launcher designed for focus, speed, and simplicity.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/rama-io/mako",
+      "stargazersCount": 266,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "foss",
+        "launcher",
+        "minimalist",
+        "open-source",
+        "privacy-first"
+      ],
+      "releasesUrl": "https://api.github.com/repos/rama-io/mako/releases{/id}",
+      "updatedAt": "2026-09-09T19:33:09Z",
+      "latestReleaseDate": "2026-09-09T19:33:09Z",
+      "trendingScore": 266.0,
+      "popularityScore": 266,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 5406565168940833152,
+      "name": "mako_zero",
+      "fullName": "rama-io/mako_zero",
+      "owner": {
+        "login": "rama-io",
+        "avatarUrl": "https://github.com/rama-io.png"
+      },
+      "description": "Just a launcher that gets out of the way.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/rama-io/mako_zero",
+      "stargazersCount": 3,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "foss",
+        "launcher",
+        "minimalist",
+        "open-source",
+        "privacy-first"
+      ],
+      "releasesUrl": "https://api.github.com/repos/rama-io/mako_zero/releases{/id}",
+      "updatedAt": "2026-10-05T14:41:50Z",
+      "latestReleaseDate": "2026-10-05T14:41:50Z",
+      "trendingScore": 3.0,
+      "popularityScore": 3,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
       "id": 3333910942567494047,
       "name": "Messages",
       "fullName": "FossifyOrg/Messages",
@@ -538,8 +1010,8 @@
         "sms-messenger"
       ],
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/Messages/releases{/id}",
-      "updatedAt": "2026-10-10T15:46:19Z",
-      "latestReleaseDate": "2026-10-10T15:46:19Z",
+      "updatedAt": "2026-10-10T18:47:51Z",
+      "latestReleaseDate": "2026-10-10T18:47:51Z",
       "trendingScore": 1587.0,
       "popularityScore": 1587,
       "dailyStars": 0,
@@ -559,7 +1031,7 @@
       "description": "YouTube Music client for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/MetrolistGroup/Metrolist",
-      "stargazersCount": 13390,
+      "stargazersCount": 13396,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -587,8 +1059,46 @@
       "releasesUrl": "https://api.github.com/repos/MetrolistGroup/Metrolist/releases{/id}",
       "updatedAt": "2026-10-08T15:46:38Z",
       "latestReleaseDate": "2026-10-08T15:46:38Z",
-      "trendingScore": 13390.0,
-      "popularityScore": 13390,
+      "trendingScore": 13396.0,
+      "popularityScore": 13396,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 2813692000739873687,
+      "name": "MinimalBrowser",
+      "fullName": "Joao-Serrao/MinimalBrowser",
+      "owner": {
+        "login": "Joao-Serrao",
+        "avatarUrl": "https://github.com/Joao-Serrao.png"
+      },
+      "description": "A minimalistic browser for android that offers a widget for no tabs search.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Joao-Serrao/MinimalBrowser",
+      "stargazersCount": 2,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "ad-blocker",
+        "android",
+        "android-browser",
+        "browser",
+        "foss",
+        "java",
+        "minimal",
+        "open-source",
+        "privacy",
+        "split-screen",
+        "webview"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Joao-Serrao/MinimalBrowser/releases{/id}",
+      "updatedAt": "2026-07-23T19:47:27Z",
+      "latestReleaseDate": "2026-07-23T19:47:27Z",
+      "trendingScore": 2.0,
+      "popularityScore": 2,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -617,8 +1127,8 @@
         "open-source"
       ],
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/Music-Player/releases{/id}",
-      "updatedAt": "2026-10-10T15:46:40Z",
-      "latestReleaseDate": "2026-10-10T15:46:40Z",
+      "updatedAt": "2026-10-10T18:48:44Z",
+      "latestReleaseDate": "2026-10-10T18:48:44Z",
       "trendingScore": 936.0,
       "popularityScore": 936,
       "dailyStars": 0,
@@ -638,7 +1148,7 @@
       "description": "An F-Droid client with modern UI and an arsenal of extra features.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/NeoApplications/Neo-Store",
-      "stargazersCount": 5406,
+      "stargazersCount": 5407,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -650,8 +1160,125 @@
       "releasesUrl": "https://api.github.com/repos/NeoApplications/Neo-Store/releases{/id}",
       "updatedAt": "2026-10-01T23:28:41Z",
       "latestReleaseDate": "2026-10-01T23:28:41Z",
-      "trendingScore": 5406.0,
-      "popularityScore": 5406,
+      "trendingScore": 5407.0,
+      "popularityScore": 5407,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 5336781513570022217,
+      "name": "Notes",
+      "fullName": "FossifyOrg/Notes",
+      "owner": {
+        "login": "FossifyOrg",
+        "avatarUrl": "https://github.com/FossifyOrg.png"
+      },
+      "description": "A simple text field for adding quick notes without ads.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/FossifyOrg/Notes",
+      "stargazersCount": 501,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "foss",
+        "kotlin",
+        "notes",
+        "open-source"
+      ],
+      "releasesUrl": "https://api.github.com/repos/FossifyOrg/Notes/releases{/id}",
+      "updatedAt": "2026-01-30T20:53:50Z",
+      "latestReleaseDate": "2026-01-30T20:53:50Z",
+      "trendingScore": 501.0,
+      "popularityScore": 501,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 4620510661785430697,
+      "name": "android-ocr",
+      "fullName": "SubhamTyagi/android-ocr",
+      "owner": {
+        "login": "SubhamTyagi",
+        "avatarUrl": "https://github.com/SubhamTyagi.png"
+      },
+      "description": "Tesseract based OCR for android",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/SubhamTyagi/android-ocr",
+      "stargazersCount": 610,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "fdroid",
+        "foss",
+        "image-reader",
+        "math-ocr",
+        "ocr",
+        "ocr-android",
+        "ocr-recognition",
+        "ocr-text-reader",
+        "reader",
+        "tesseract"
+      ],
+      "releasesUrl": "https://api.github.com/repos/SubhamTyagi/android-ocr/releases{/id}",
+      "updatedAt": "2026-08-06T09:04:35Z",
+      "latestReleaseDate": "2026-08-06T09:04:35Z",
+      "trendingScore": 610.0,
+      "popularityScore": 610,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 5357109052067862070,
+      "name": "OmniClock",
+      "fullName": "andrasulthan-alt/OmniClock",
+      "owner": {
+        "login": "andrasulthan-alt",
+        "avatarUrl": "https://github.com/andrasulthan-alt.png"
+      },
+      "description": "Nothing-style clock for Android: dot-matrix home-screen widgets (digital, vertical, analog), alarm, world clock, timer and stopwatch. No internet permission, no ads, no trackers. About 3.4 MB. GPL-3.0.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/andrasulthan-alt/OmniClock",
+      "stargazersCount": 1,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "alarm",
+        "alarm-clock",
+        "android",
+        "android-app",
+        "apk",
+        "clock",
+        "clock-widget",
+        "dot-matrix",
+        "foss",
+        "java",
+        "no-internet",
+        "nothing",
+        "nothing-os",
+        "nothing-phone",
+        "offline",
+        "privacy",
+        "stopwatch",
+        "timer",
+        "widget",
+        "world-clock"
+      ],
+      "releasesUrl": "https://api.github.com/repos/andrasulthan-alt/OmniClock/releases{/id}",
+      "updatedAt": "2026-10-08T10:08:39Z",
+      "latestReleaseDate": "2026-10-08T10:08:39Z",
+      "trendingScore": 1.0,
+      "popularityScore": 1,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -699,6 +1326,45 @@
       "latestReleaseDate": "2025-09-17T15:20:17Z",
       "trendingScore": 778.0,
       "popularityScore": 778,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 9114937684720403575,
+      "name": "Open-notes",
+      "fullName": "Fandroid745/Open-notes",
+      "owner": {
+        "login": "Fandroid745",
+        "avatarUrl": "https://github.com/Fandroid745.png"
+      },
+      "description": "Open Notes is a minimal note taking app",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Fandroid745/Open-notes",
+      "stargazersCount": 62,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "fdroid",
+        "foss",
+        "free",
+        "izzyondroid",
+        "jetpack-compose",
+        "kotlin",
+        "material3",
+        "material3-expressive",
+        "minimalism",
+        "notes",
+        "opensource"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Fandroid745/Open-notes/releases{/id}",
+      "updatedAt": "2026-10-01T05:21:51Z",
+      "latestReleaseDate": "2026-10-01T05:21:51Z",
+      "trendingScore": 62.0,
+      "popularityScore": 62,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -820,6 +1486,50 @@
       "downloadCount": 0
     },
     {
+      "id": 6499449181867748134,
+      "name": "Privacium",
+      "fullName": "kaleedtc/Privacium",
+      "owner": {
+        "login": "kaleedtc",
+        "avatarUrl": "https://github.com/kaleedtc.png"
+      },
+      "description": "A simple app for discovering tools that respects your privacy.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/kaleedtc/Privacium",
+      "stargazersCount": 291,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "foss",
+        "github",
+        "guides",
+        "jetpack-compose",
+        "kotlin",
+        "material-design",
+        "native-apps",
+        "no-ads",
+        "no-tracking",
+        "open-source",
+        "privacy",
+        "privacy-guide",
+        "privacy-respecting",
+        "privacy-tools",
+        "security",
+        "surveillance"
+      ],
+      "releasesUrl": "https://api.github.com/repos/kaleedtc/Privacium/releases{/id}",
+      "updatedAt": "2026-07-28T19:52:54Z",
+      "latestReleaseDate": "2026-07-28T19:52:54Z",
+      "trendingScore": 291.0,
+      "popularityScore": 291,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
       "id": 8067594439565127056,
       "name": "RepoStore",
       "fullName": "samyak2403/RepoStore",
@@ -851,6 +1561,124 @@
       "latestReleaseDate": "2026-08-16T14:55:48Z",
       "trendingScore": 1324.0,
       "popularityScore": 1324,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 5135783743740722012,
+      "name": "riffle",
+      "fullName": "pkmetski/riffle",
+      "owner": {
+        "login": "pkmetski",
+        "avatarUrl": "https://github.com/pkmetski.png"
+      },
+      "description": "Read and listen to your books on Android, from any of several supported sources.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/pkmetski/riffle",
+      "stargazersCount": 17,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "annotations",
+        "audiobook-player",
+        "audiobooks",
+        "audiobookshelf",
+        "audiobookshelf-app",
+        "cbz",
+        "cbz-archive",
+        "cbz-reader",
+        "ebook-reader",
+        "epub",
+        "epub3",
+        "foss",
+        "komga",
+        "pdf",
+        "project-gutenberg",
+        "reader",
+        "storyteller"
+      ],
+      "releasesUrl": "https://api.github.com/repos/pkmetski/riffle/releases{/id}",
+      "updatedAt": "2026-10-05T05:20:03Z",
+      "latestReleaseDate": "2026-10-05T05:20:03Z",
+      "trendingScore": 17.0,
+      "popularityScore": 17,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 1592111374598738936,
+      "name": "SOS-alerter",
+      "fullName": "dhilipmpms/SOS-alerter",
+      "owner": {
+        "login": "dhilipmpms",
+        "avatarUrl": "https://github.com/dhilipmpms.png"
+      },
+      "description": "Privacy-first SOS application for sending emergency messages and real-time location updates to trusted contacts.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/dhilipmpms/SOS-alerter",
+      "stargazersCount": 34,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "emergency",
+        "emergency-alert",
+        "foss",
+        "location-sharing",
+        "offline-first",
+        "open-source",
+        "opensource",
+        "privacy",
+        "privacy-focused",
+        "safety",
+        "security",
+        "sms-alert",
+        "sos"
+      ],
+      "releasesUrl": "https://api.github.com/repos/dhilipmpms/SOS-alerter/releases{/id}",
+      "updatedAt": "2026-07-24T17:42:08Z",
+      "latestReleaseDate": "2026-07-24T17:42:08Z",
+      "trendingScore": 34.0,
+      "popularityScore": 34,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 5664220437173170510,
+      "name": "suri_zero",
+      "fullName": "rama-io/suri_zero",
+      "owner": {
+        "login": "rama-io",
+        "avatarUrl": "https://github.com/rama-io.png"
+      },
+      "description": "Turn your camera notch into a gesture button.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/rama-io/suri_zero",
+      "stargazersCount": 1,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "foss",
+        "gesture-control",
+        "open-source"
+      ],
+      "releasesUrl": "https://api.github.com/repos/rama-io/suri_zero/releases{/id}",
+      "updatedAt": "2026-10-05T11:52:43Z",
+      "latestReleaseDate": "2026-10-05T11:52:43Z",
+      "trendingScore": 1.0,
+      "popularityScore": 1,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -939,6 +1767,80 @@
       "downloadCount": 0
     },
     {
+      "id": 1147993713428341170,
+      "name": "tempus",
+      "fullName": "eddyizm/tempus",
+      "owner": {
+        "login": "eddyizm",
+        "avatarUrl": "https://github.com/eddyizm.png"
+      },
+      "description": "An open source and lightweight music client for Subsonic, designed and built natively for Android.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/eddyizm/tempus",
+      "stargazersCount": 1350,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "foss",
+        "java",
+        "kotlin-android",
+        "material3",
+        "materialyou",
+        "media3",
+        "music",
+        "music-player",
+        "offline",
+        "open-source",
+        "selfhosted",
+        "subsonic",
+        "subsonic-client"
+      ],
+      "releasesUrl": "https://api.github.com/repos/eddyizm/tempus/releases{/id}",
+      "updatedAt": "2026-10-09T02:43:59Z",
+      "latestReleaseDate": "2026-10-09T02:43:59Z",
+      "trendingScore": 1350.0,
+      "popularityScore": 1350,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 684358592906713119,
+      "name": "teyin",
+      "fullName": "rama-io/teyin",
+      "owner": {
+        "login": "rama-io",
+        "avatarUrl": "https://github.com/rama-io.png"
+      },
+      "description": "Lightweigh, minimal, privacy-first File manager designed for speed, and simplicity.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/rama-io/teyin",
+      "stargazersCount": 37,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "file-manager",
+        "foss",
+        "minimalist",
+        "open-source",
+        "privacy-first"
+      ],
+      "releasesUrl": "https://api.github.com/repos/rama-io/teyin/releases{/id}",
+      "updatedAt": "2026-08-21T21:41:42Z",
+      "latestReleaseDate": "2026-08-21T21:41:42Z",
+      "trendingScore": 37.0,
+      "popularityScore": 37,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
       "id": 7979192973269213382,
       "name": "Ventoid",
       "fullName": "GPLaider/Ventoid",
@@ -997,8 +1899,8 @@
         "voice-recorder"
       ],
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/Voice-Recorder/releases{/id}",
-      "updatedAt": "2026-10-10T15:45:57Z",
-      "latestReleaseDate": "2026-10-10T15:45:57Z",
+      "updatedAt": "2026-10-10T18:48:01Z",
+      "latestReleaseDate": "2026-10-10T18:48:01Z",
       "trendingScore": 1010.0,
       "popularityScore": 1010,
       "dailyStars": 0,
@@ -1042,6 +1944,44 @@
       "latestReleaseDate": "2026-10-10T03:36:18Z",
       "trendingScore": 3247.0,
       "popularityScore": 3247,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 9093386364452231527,
+      "name": "ScreenOffRec",
+      "fullName": "jzp520520/ScreenOffRec",
+      "owner": {
+        "login": "jzp520520",
+        "avatarUrl": "https://github.com/jzp520520.png"
+      },
+      "description": "\u606f\u5c4f\u901f\u5f55 - \u514droot\u5b89\u5353\u606f\u5c4f\u97f3\u91cf\u952e\u540e\u53f0\u5f55\u97f3\uff0c~25KB\u5355APK\uff0c\u96f6\u8054\u7f51\u6743\u9650\uff0cMIT\u5f00\u6e90",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/jzp520520/ScreenOffRec",
+      "stargazersCount": 4,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "audio-recorder",
+        "background-recording",
+        "foss",
+        "hidden-api",
+        "microphone",
+        "no-root",
+        "open-source",
+        "privacy",
+        "screen-off",
+        "voice-recorder"
+      ],
+      "releasesUrl": "https://api.github.com/repos/jzp520520/ScreenOffRec/releases{/id}",
+      "updatedAt": "2026-09-26T05:27:13Z",
+      "latestReleaseDate": "2026-09-26T05:27:13Z",
+      "trendingScore": 4.0,
+      "popularityScore": 4,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"

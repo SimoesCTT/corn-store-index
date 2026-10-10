@@ -1,9 +1,126 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-10T18:29:52.302364+00:00",
-  "totalCount": 2,
+  "lastUpdated": "2026-10-10T21:17:14.674678+00:00",
+  "totalCount": 6,
   "repositories": [
+    {
+      "id": 5532722794371689687,
+      "name": "Continuum-Explorer",
+      "fullName": "troikoss/Continuum-Explorer",
+      "owner": {
+        "login": "troikoss",
+        "avatarUrl": "https://github.com/troikoss.png"
+      },
+      "description": "A desktop-class file manager for Android optimized for DeX, tablets, and mouse/keyboard productivity.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/troikoss/Continuum-Explorer",
+      "stargazersCount": 63,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "desktop-mode",
+        "file-explorer",
+        "file-manager",
+        "productivity"
+      ],
+      "releasesUrl": "https://api.github.com/repos/troikoss/Continuum-Explorer/releases{/id}",
+      "updatedAt": "2026-04-24T16:19:43Z",
+      "latestReleaseDate": "2026-04-24T16:19:43Z",
+      "trendingScore": 63.0,
+      "popularityScore": 63,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 1020555302611323496,
+      "name": "Escape-Launcher",
+      "fullName": "GeorgeClensy/Escape-Launcher",
+      "owner": {
+        "login": "GeorgeClensy",
+        "avatarUrl": "https://github.com/GeorgeClensy.png"
+      },
+      "description": "A minimalist android launcher to help you quit your phone addiction",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/GeorgeClensy/Escape-Launcher",
+      "stargazersCount": 447,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "android-launcher",
+        "detox",
+        "distraction-free",
+        "escape",
+        "focus",
+        "foss",
+        "jetpack",
+        "jetpack-compose",
+        "kotlin",
+        "launcher",
+        "minimal",
+        "minimalist",
+        "opensource",
+        "productivity",
+        "screen-time",
+        "self-help",
+        "self-improvement"
+      ],
+      "releasesUrl": "https://api.github.com/repos/GeorgeClensy/Escape-Launcher/releases{/id}",
+      "updatedAt": "2026-01-02T20:22:12Z",
+      "latestReleaseDate": "2026-01-02T20:22:12Z",
+      "trendingScore": 447.0,
+      "popularityScore": 447,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 6304940577299808172,
+      "name": "Filora",
+      "fullName": "Maheswara660/Filora",
+      "owner": {
+        "login": "Maheswara660",
+        "avatarUrl": "https://github.com/Maheswara660.png"
+      },
+      "description": "A premium, modern, and high-performance File Explorer for Android built with Jetpack Compose and Material 3.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Maheswara660/Filora",
+      "stargazersCount": 18,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "coil",
+        "exoplayer",
+        "file-explorer",
+        "file-manager",
+        "jetpack-compose",
+        "kotlin",
+        "material-design",
+        "material3",
+        "open-source",
+        "productivity"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Maheswara660/Filora/releases{/id}",
+      "updatedAt": "2026-04-25T20:32:11Z",
+      "latestReleaseDate": "2026-04-25T20:32:11Z",
+      "trendingScore": 18.0,
+      "popularityScore": 18,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
     {
       "id": 5239714580122083404,
       "name": "GreenStash",
@@ -43,6 +160,42 @@
       "latestReleaseDate": "2026-05-24T09:07:54Z",
       "trendingScore": 789.0,
       "popularityScore": 789,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 1708834381671615942,
+      "name": "orgzly-android",
+      "fullName": "orgzly/orgzly-android",
+      "owner": {
+        "login": "orgzly",
+        "avatarUrl": "https://github.com/orgzly.png"
+      },
+      "description": "Outliner for taking notes and managing to-do lists",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/orgzly/orgzly-android",
+      "stargazersCount": 2817,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "mobile",
+        "notes",
+        "org-mode",
+        "orgzly",
+        "outliner",
+        "productivity",
+        "tasks",
+        "todo"
+      ],
+      "releasesUrl": "https://api.github.com/repos/orgzly/orgzly-android/releases{/id}",
+      "updatedAt": "2026-01-29T18:22:04Z",
+      "latestReleaseDate": "2026-01-29T18:22:04Z",
+      "trendingScore": 2817.0,
+      "popularityScore": 2817,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
