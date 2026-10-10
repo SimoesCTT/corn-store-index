@@ -1,0 +1,51 @@
+name: Daily scrape
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Android build tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y aapt
+          mkdir -p $HOME/android-tools
+          cd $HOME/android-tools
+          wget -q https://dl.google.com/android/repository/build-tools_r34-linux.zip
+          unzip -q build-tools_r34-linux.zip
+          echo "$HOME/android-tools/android-14" >> $GITHUB_PATH
+
+      - name: Run scraper
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          AAPT2: ${{ github.workspace }}/../android-tools/android-14/aapt2
+          APKSIGNER: ${{ github.workspace }}/../android-tools/android-14/apksigner
+        run: |
+          export AAPT2=$HOME/android-tools/android-14/aapt2
+          export APKSIGNER=$HOME/android-tools/android-14/apksigner
+          python3 scraper/scrape.py
+
+      - name: Commit updated index
+        run: |
+          git config user.name "corn-store-bot"
+          git config user.email "bot@corn-store.local"
+          git add docs/index.json
+          if git diff --staged --quiet; then
+            echo "no changes"
+          else
+            git commit -m "Update index ($(date -u +%Y-%m-%d))"
+            git push
+          fi
