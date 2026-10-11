@@ -98,6 +98,42 @@ def repo_metadata(repo: str):
     }
 
 
+
+def extract_icon(apk_path: Path, package_name: str) -> bytes | None:
+    """Pull the largest launcher PNG/WebP from an APK."""
+    import zipfile
+    try:
+        with zipfile.ZipFile(apk_path) as z:
+            names = z.namelist()
+            # Candidate launcher assets, PNG or WebP
+            candidates = [
+                n for n in names
+                if (n.startswith("res/mipmap") or n.startswith("res/drawable"))
+                and "ic_launcher" in n.lower()
+                and (n.endswith(".png") or n.endswith(".webp"))
+            ]
+            if not candidates:
+                # Fallback: any mipmap PNG
+                candidates = [
+                    n for n in names
+                    if n.startswith("res/mipmap") and n.endswith(".png")
+                ]
+            if not candidates:
+                return None
+
+            def density_score(name: str) -> int:
+                for i, d in enumerate(["xxxhdpi", "xxhdpi", "xhdpi", "hdpi", "mdpi", "anydpi"]):
+                    if d in name:
+                        return i
+                return 999
+
+            candidates.sort(key=density_score)
+            return z.read(candidates[0])
+    except Exception as e:
+        print(f"  icon extract failed: {e}")
+        return None
+
+
 def scrape_repo(repo: str, tmpdir: Path):
     asset = latest_apk_asset(repo)
     if not asset:
@@ -119,6 +155,17 @@ def scrape_repo(repo: str, tmpdir: Path):
         return None
 
     sig = verify_signature(apk_path)
+
+    # Extract the launcher icon before deleting the APK
+    icon_bytes = extract_icon(apk_path, info["package"])
+    icon_url = None
+    if icon_bytes:
+        icons_dir = Path("docs/icons").resolve()
+        icons_dir.mkdir(parents=True, exist_ok=True)
+        icon_file = icons_dir / f"{info['package']}.png"
+        icon_file.write_bytes(icon_bytes)
+        icon_url = f"https://simoesctt.github.io/corn-store-index/icons/{info['package']}.png"
+
     apk_path.unlink(missing_ok=True)
     if not sig or "sha256" not in sig:
         print(f"  rejected: {sig}")
@@ -146,8 +193,10 @@ def scrape_repo(repo: str, tmpdir: Path):
         "apk_url": asset["apk_url"],
         "apk_name": asset["apk_name"],
         "apk_size": asset["apk_size"],
+        "download_count": asset.get("download_count", 0),
         "published_at": asset["published_at"],
         "signature_sha256": sig["sha256"],
+        "icon_url": icon_url,
     }
 
 
