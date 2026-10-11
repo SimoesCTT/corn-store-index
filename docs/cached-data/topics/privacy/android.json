@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-10T21:17:14.674678+00:00",
+  "lastUpdated": "2026-10-11T00:21:46.624064+00:00",
   "totalCount": 40,
   "repositories": [
     {
@@ -245,7 +245,7 @@
       "description": "Android keyboard with local AI (Ollama, Whisper, MCP) or cloud (Gemini, Groq, OpenAI)",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/SvReenen/Deskdrop",
-      "stargazersCount": 55,
+      "stargazersCount": 56,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -273,8 +273,8 @@
       "releasesUrl": "https://api.github.com/repos/SvReenen/Deskdrop/releases{/id}",
       "updatedAt": "2026-04-21T23:33:42Z",
       "latestReleaseDate": "2026-04-21T23:33:42Z",
-      "trendingScore": 55.0,
-      "popularityScore": 55,
+      "trendingScore": 56.0,
+      "popularityScore": 56,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -421,7 +421,7 @@
       "description": "Disable / Hide / Suspend / Uninstall Android apps without root.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/aistra0528/Hail",
-      "stargazersCount": 6866,
+      "stargazersCount": 6867,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -436,8 +436,8 @@
       "releasesUrl": "https://api.github.com/repos/aistra0528/Hail/releases{/id}",
       "updatedAt": "2026-08-26T07:23:01Z",
       "latestReleaseDate": "2026-08-26T07:23:01Z",
-      "trendingScore": 6866.0,
-      "popularityScore": 6866,
+      "trendingScore": 6867.0,
+      "popularityScore": 6867,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -667,7 +667,7 @@
       "description": "LeanType is an Open-source keyboard, fork of HeliBoard with additional features and customisation",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/LeanBitLab/LeanType",
-      "stargazersCount": 1043,
+      "stargazersCount": 1044,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -692,8 +692,8 @@
       "releasesUrl": "https://api.github.com/repos/LeanBitLab/LeanType/releases{/id}",
       "updatedAt": "2026-10-08T14:40:39Z",
       "latestReleaseDate": "2026-10-08T14:40:39Z",
-      "trendingScore": 1043.0,
-      "popularityScore": 1043,
+      "trendingScore": 1044.0,
+      "popularityScore": 1044,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -818,7 +818,7 @@
       "description": " Monica Pass\uff0cPassword Management, 2FA Generator",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Monica-Pass/Monica",
-      "stargazersCount": 1074,
+      "stargazersCount": 1077,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -837,8 +837,8 @@
       "releasesUrl": "https://api.github.com/repos/Monica-Pass/Monica/releases{/id}",
       "updatedAt": "2026-10-08T11:22:51Z",
       "latestReleaseDate": "2026-10-08T11:22:51Z",
-      "trendingScore": 1074.0,
-      "popularityScore": 1074,
+      "trendingScore": 1077.0,
+      "popularityScore": 1077,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1063,7 +1063,7 @@
       "description": "An Activist Grade Privacy & Security App that provides multi-layered defense by isolating data within encrypted sandbox, inaccessible to other apps, the OS, or unauthorized physical extraction - With the Belief \"Privacy Without the Tradeoff of Ease\"",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/duckniii/SeekPrivacy",
-      "stargazersCount": 88,
+      "stargazersCount": 89,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1091,8 +1091,8 @@
       "releasesUrl": "https://api.github.com/repos/duckniii/SeekPrivacy/releases{/id}",
       "updatedAt": "2026-07-07T16:59:04Z",
       "latestReleaseDate": "2026-07-07T16:59:04Z",
-      "trendingScore": 88.0,
-      "popularityScore": 88,
+      "trendingScore": 89.0,
+      "popularityScore": 89,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1110,7 +1110,7 @@
       "description": "ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device!",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/kitsumed/ShizuCallRecorder",
-      "stargazersCount": 1714,
+      "stargazersCount": 1715,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1126,8 +1126,8 @@
       "releasesUrl": "https://api.github.com/repos/kitsumed/ShizuCallRecorder/releases{/id}",
       "updatedAt": "2026-08-12T02:47:09Z",
       "latestReleaseDate": "2026-08-12T02:47:09Z",
-      "trendingScore": 1714.0,
-      "popularityScore": 1714,
+      "trendingScore": 1715.0,
+      "popularityScore": 1715,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1550,7 +1550,7 @@
       "description": "A modern, privacy-first Android keyboard: offline intelligence, 350+ languages, themes, tools and an addon ecosystem.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/wasi-master/wmkeyboard",
-      "stargazersCount": 511,
+      "stargazersCount": 514,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1567,8 +1567,8 @@
       "releasesUrl": "https://api.github.com/repos/wasi-master/wmkeyboard/releases{/id}",
       "updatedAt": "2026-10-06T22:07:07Z",
       "latestReleaseDate": "2026-10-06T22:07:07Z",
-      "trendingScore": 511.0,
-      "popularityScore": 511,
+      "trendingScore": 514.0,
+      "popularityScore": 514,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"

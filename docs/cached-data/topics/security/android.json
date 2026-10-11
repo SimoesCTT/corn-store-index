@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-10T21:17:14.674678+00:00",
+  "lastUpdated": "2026-10-11T00:21:46.624064+00:00",
   "totalCount": 21,
   "repositories": [
     {
@@ -111,7 +111,7 @@
       "description": "Powerful privacy tool to lock apps from intruders",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/aload0/AppLock",
-      "stargazersCount": 910,
+      "stargazersCount": 911,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -127,8 +127,8 @@
       "releasesUrl": "https://api.github.com/repos/aload0/AppLock/releases{/id}",
       "updatedAt": "2026-07-09T06:56:05Z",
       "latestReleaseDate": "2026-07-09T06:56:05Z",
-      "trendingScore": 910.0,
-      "popularityScore": 910,
+      "trendingScore": 911.0,
+      "popularityScore": 911,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -146,7 +146,7 @@
       "description": "Verify apps easily.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/soupslurpr/AppVerifier",
-      "stargazersCount": 1200,
+      "stargazersCount": 1201,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -167,8 +167,8 @@
       "releasesUrl": "https://api.github.com/repos/soupslurpr/AppVerifier/releases{/id}",
       "updatedAt": "2025-04-23T02:06:39Z",
       "latestReleaseDate": "2025-04-23T02:06:39Z",
-      "trendingScore": 1200.0,
-      "popularityScore": 1200,
+      "trendingScore": 1201.0,
+      "popularityScore": 1201,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -332,7 +332,7 @@
       "description": "Copy links from the sharing menu with automatic removal of shorteners and trackers.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/WSTxda/Clippy",
-      "stargazersCount": 442,
+      "stargazersCount": 443,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -357,8 +357,8 @@
       "releasesUrl": "https://api.github.com/repos/WSTxda/Clippy/releases{/id}",
       "updatedAt": "2026-02-22T23:50:06Z",
       "latestReleaseDate": "2026-02-22T23:50:06Z",
-      "trendingScore": 442.0,
-      "popularityScore": 442,
+      "trendingScore": 443.0,
+      "popularityScore": 443,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -528,7 +528,7 @@
       "description": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/PdfViewer",
-      "stargazersCount": 1046,
+      "stargazersCount": 1047,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -542,8 +542,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/PdfViewer/releases{/id}",
       "updatedAt": "2026-07-30T22:59:39Z",
       "latestReleaseDate": "2026-07-30T22:59:39Z",
-      "trendingScore": 1046.0,
-      "popularityScore": 1046,
+      "trendingScore": 1047.0,
+      "popularityScore": 1047,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -576,8 +576,8 @@
         "security"
       ],
       "releasesUrl": "https://api.github.com/repos/leonlatsch/Photok/releases{/id}",
-      "updatedAt": "2026-10-09T16:14:38Z",
-      "latestReleaseDate": "2026-10-09T16:14:38Z",
+      "updatedAt": "2026-10-10T22:04:43Z",
+      "latestReleaseDate": "2026-10-10T22:04:43Z",
       "trendingScore": 977.0,
       "popularityScore": 977,
       "dailyStars": 0,
@@ -641,7 +641,7 @@
       "description": "An Activist Grade Privacy & Security App that provides multi-layered defense by isolating data within encrypted sandbox, inaccessible to other apps, the OS, or unauthorized physical extraction - With the Belief \"Privacy Without the Tradeoff of Ease\"",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/duckniii/SeekPrivacy",
-      "stargazersCount": 88,
+      "stargazersCount": 89,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -669,8 +669,8 @@
       "releasesUrl": "https://api.github.com/repos/duckniii/SeekPrivacy/releases{/id}",
       "updatedAt": "2026-07-07T16:59:04Z",
       "latestReleaseDate": "2026-07-07T16:59:04Z",
-      "trendingScore": 88.0,
-      "popularityScore": 88,
+      "trendingScore": 89.0,
+      "popularityScore": 89,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
