@@ -13,7 +13,7 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from config import (SEARCH_QUERIES, ALLOWLIST, BLOCKLIST, OUTPUT,
+from config import (SEARCH_QUERIES, ALLOWLIST, BLOCKLIST, ICON_OVERRIDES, OUTPUT,
                     RECENT_DAYS, MAX_PER_QUERY, GITHUB_TOKEN)
 from verify import download_apk, analyze_apk, verify_signature
 
@@ -166,19 +166,25 @@ def scrape_repo(repo: str, tmpdir: Path):
     sig = verify_signature(apk_path)
 
     # Extract the launcher icon before deleting the APK
-    icon_bytes = extract_icon(apk_path, info["package"])
-    icon_url = None
-    if icon_bytes:
-        icons_dir = Path("docs/icons").resolve()
-        icons_dir.mkdir(parents=True, exist_ok=True)
-        icon_file = icons_dir / f"{info['package']}.png"
-        icon_file.write_bytes(icon_bytes)
-        icon_url = f"https://simoesctt.github.io/corn-store-index/icons/{info['package']}.png"
+    package = info["package"]
+
+    # Priority 1: explicit override from config.py
+    if package in ICON_OVERRIDES:
+        icon_url = ICON_OVERRIDES[package]
+        icon_bytes = None
     else:
-        # Fallback: use the GitHub owner's avatar
-        owner = repo.split("/")[0] if "/" in repo else None
-        if owner:
-            icon_url = f"https://github.com/{owner}.png?size=128"
+        # Priority 2: extract from APK
+        icon_bytes = extract_icon(apk_path, package)
+        if icon_bytes:
+            icons_dir = Path("docs/icons").resolve()
+            icons_dir.mkdir(parents=True, exist_ok=True)
+            icon_file = icons_dir / f"{package}.png"
+            icon_file.write_bytes(icon_bytes)
+            icon_url = f"https://simoesctt.github.io/corn-store-index/icons/{package}.png"
+        else:
+            # Priority 3: GitHub owner avatar
+            owner = repo.split("/")[0] if "/" in repo else None
+            icon_url = f"https://github.com/{owner}.png?size=128" if owner else None
 
     apk_path.unlink(missing_ok=True)
     if not sig or "sha256" not in sig:
