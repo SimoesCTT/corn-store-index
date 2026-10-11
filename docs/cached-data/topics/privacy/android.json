@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-11T10:41:29.242509+00:00",
+  "lastUpdated": "2026-10-11T15:44:31.817106+00:00",
   "totalCount": 40,
   "repositories": [
     {
@@ -50,7 +50,7 @@
       "description": "Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Kin69/Athena",
-      "stargazersCount": 723,
+      "stargazersCount": 722,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -76,8 +76,8 @@
       "releasesUrl": "https://api.github.com/repos/Kin69/Athena/releases{/id}",
       "updatedAt": "2026-01-18T13:36:44Z",
       "latestReleaseDate": "2026-01-18T13:36:44Z",
-      "trendingScore": 723.0,
-      "popularityScore": 723,
+      "trendingScore": 722.0,
+      "popularityScore": 722,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -338,7 +338,7 @@
       "description": "An Android app to scan your documents \u2014 simple and respectful",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/pynicolas/FairScan",
-      "stargazersCount": 930,
+      "stargazersCount": 933,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -355,8 +355,8 @@
       "releasesUrl": "https://api.github.com/repos/pynicolas/FairScan/releases{/id}",
       "updatedAt": "2026-09-20T16:03:39Z",
       "latestReleaseDate": "2026-09-20T16:03:39Z",
-      "trendingScore": 930.0,
-      "popularityScore": 930,
+      "trendingScore": 933.0,
+      "popularityScore": 933,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -421,7 +421,7 @@
       "description": "Disable / Hide / Suspend / Uninstall Android apps without root.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/aistra0528/Hail",
-      "stargazersCount": 6872,
+      "stargazersCount": 6873,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -436,8 +436,8 @@
       "releasesUrl": "https://api.github.com/repos/aistra0528/Hail/releases{/id}",
       "updatedAt": "2026-08-26T07:23:01Z",
       "latestReleaseDate": "2026-08-26T07:23:01Z",
-      "trendingScore": 6872.0,
-      "popularityScore": 6872,
+      "trendingScore": 6873.0,
+      "popularityScore": 6873,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -746,7 +746,7 @@
       "description": "An alternative frontend for YouTube, for Android.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/libre-tube/LibreTube",
-      "stargazersCount": 12798,
+      "stargazersCount": 12800,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -761,8 +761,8 @@
       "releasesUrl": "https://api.github.com/repos/libre-tube/LibreTube/releases{/id}",
       "updatedAt": "2026-09-02T09:31:35Z",
       "latestReleaseDate": "2026-09-02T09:31:35Z",
-      "trendingScore": 12798.0,
-      "popularityScore": 12798,
+      "trendingScore": 12800.0,
+      "popularityScore": 12800,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -818,7 +818,7 @@
       "description": " Monica Pass\uff0cPassword Management, 2FA Generator",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Monica-Pass/Monica",
-      "stargazersCount": 1085,
+      "stargazersCount": 1087,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -835,10 +835,10 @@
         "totp"
       ],
       "releasesUrl": "https://api.github.com/repos/Monica-Pass/Monica/releases{/id}",
-      "updatedAt": "2026-10-08T11:22:51Z",
-      "latestReleaseDate": "2026-10-08T11:22:51Z",
-      "trendingScore": 1085.0,
-      "popularityScore": 1085,
+      "updatedAt": "2026-04-17T04:49:31Z",
+      "latestReleaseDate": "2026-04-17T04:49:31Z",
+      "trendingScore": 1087.0,
+      "popularityScore": 1087,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -856,7 +856,7 @@
       "description": "attempting to detect smart glasses nearby and warn you",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/yjeanrenaud/yj_nearbyglasses",
-      "stargazersCount": 2457,
+      "stargazersCount": 2458,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -873,8 +873,8 @@
       "releasesUrl": "https://api.github.com/repos/yjeanrenaud/yj_nearbyglasses/releases{/id}",
       "updatedAt": "2026-09-23T13:29:26Z",
       "latestReleaseDate": "2026-09-23T13:29:26Z",
-      "trendingScore": 2457.0,
-      "popularityScore": 2457,
+      "trendingScore": 2458.0,
+      "popularityScore": 2458,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1110,7 +1110,7 @@
       "description": "ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device!",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/kitsumed/ShizuCallRecorder",
-      "stargazersCount": 1721,
+      "stargazersCount": 1722,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1126,8 +1126,8 @@
       "releasesUrl": "https://api.github.com/repos/kitsumed/ShizuCallRecorder/releases{/id}",
       "updatedAt": "2026-08-12T02:47:09Z",
       "latestReleaseDate": "2026-08-12T02:47:09Z",
-      "trendingScore": 1721.0,
-      "popularityScore": 1721,
+      "trendingScore": 1722.0,
+      "popularityScore": 1722,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1186,7 +1186,7 @@
       "description": "Radio frequency scanner with recon and offensive capabilities",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/thomasbuilds/Spectre",
-      "stargazersCount": 182,
+      "stargazersCount": 183,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1210,8 +1210,8 @@
       "releasesUrl": "https://api.github.com/repos/thomasbuilds/Spectre/releases{/id}",
       "updatedAt": "2026-07-30T10:47:15Z",
       "latestReleaseDate": "2026-07-30T10:47:15Z",
-      "trendingScore": 182.0,
-      "popularityScore": 182,
+      "trendingScore": 183.0,
+      "popularityScore": 183,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1466,7 +1466,7 @@
       "description": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/okhsunrog/vpnhide",
-      "stargazersCount": 590,
+      "stargazersCount": 592,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1489,8 +1489,8 @@
       "releasesUrl": "https://api.github.com/repos/okhsunrog/vpnhide/releases{/id}",
       "updatedAt": "2026-09-17T16:29:23Z",
       "latestReleaseDate": "2026-09-17T16:29:23Z",
-      "trendingScore": 590.0,
-      "popularityScore": 590,
+      "trendingScore": 592.0,
+      "popularityScore": 592,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1550,7 +1550,7 @@
       "description": "A modern, privacy-first Android keyboard: offline intelligence, 350+ languages, themes, tools and an addon ecosystem.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/wasi-master/wmkeyboard",
-      "stargazersCount": 516,
+      "stargazersCount": 517,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1567,8 +1567,8 @@
       "releasesUrl": "https://api.github.com/repos/wasi-master/wmkeyboard/releases{/id}",
       "updatedAt": "2026-10-06T22:07:07Z",
       "latestReleaseDate": "2026-10-06T22:07:07Z",
-      "trendingScore": 516.0,
-      "popularityScore": 516,
+      "trendingScore": 517.0,
+      "popularityScore": 517,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
