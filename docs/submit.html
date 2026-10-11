@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Submit an app — Corn Store</title>
+<link rel="icon" href="corn.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <header class="site">
+    <h1>Submit an app</h1>
+    <p class="tagline">Corn Store indexes automatically. No form, no email, no review queue.</p>
+  </header>
+
+  <div class="detail">
+    <p>The index is regenerated every day by a scraper that walks GitHub. There is no submission process. If your app is set up the way the scraper expects, it will appear in the index on the next daily run.</p>
+
+    <p><strong>The scraper picks up a repo when it:</strong></p>
+    <ul>
+      <li>Is public on GitHub.</li>
+      <li>Has at least one of the topics the scraper searches for — commonly <code>android</code>, <code>android-app</code>, <code>fdroid</code>, <code>foss-android</code>, or <code>kotlin</code>.</li>
+      <li>Has at least one tagged release with an <code>.apk</code> file attached as a release asset.</li>
+      <li>Whose APK is signed with a release key (not the Android debug key).</li>
+      <li>Whose release is less than two years old (default recency window).</li>
+      <li>Whose APK is under 100 MB (current size limit).</li>
+    </ul>
+
+    <p><strong>Adding a topic.</strong> On your repo's main page, click the gear icon next to "About", and add one or more of the topics above. The scraper will pick them up on the next run.</p>
+
+    <p><strong>Publishing a signed release.</strong> In Android Studio, generate a release keystore, configure <code>signingConfigs</code> in <code>app/build.gradle.kts</code>, and run <code>./gradlew assembleRelease</code>. Attach the resulting <code>app-release.apk</code> to a GitHub release. See the "Building" section of any of the indexed apps' READMEs for a working example.</p>
+
+    <p><strong>Verifying you were indexed.</strong> Search the <a href="index.html">home page</a> for your app's package name. If it appears, the scraper found you. If it doesn't, either one of the criteria above isn't met, or the scraper hasn't run since you published.</p>
+
+    <p><strong>Removal.</strong> If you want your app removed from the index, open an issue at <a href="https://github.com/SimoesCTT/corn-store-index/issues">github.com/SimoesCTT/corn-store-index/issues</a> with the repo name and the word "removal" in the title. It will be added to the blocklist on the next scraper run.</p>
+
+    <p style="margin-top: 32px;">
+      <a class="btn btn-ghost" href="index.html">← Back to the index</a>
+    </p>
+  </div>
+</div>
+</body>
+</html>

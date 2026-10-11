@@ -1,45 +1,56 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Corn-Store Index</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-  body { background: #0a0f0a; color: #d0e0d0; font: 15px/1.5 system-ui, sans-serif; margin: 0; padding: 24px; }
-  h1 { color: #7ee87e; margin: 0 0 4px; }
-  .sub { color: #607060; margin-bottom: 24px; }
-  .app { border-bottom: 1px solid #1a2a1a; padding: 12px 0; }
-  .app h3 { margin: 0 0 4px; color: #c0e0c0; font-size: 16px; }
-  .app p { margin: 0 0 4px; color: #90a090; font-size: 13px; }
-  .app a { color: #7ee87e; text-decoration: none; font-size: 13px; }
-  .app a:hover { text-decoration: underline; }
-  .meta { color: #506050; font-size: 12px; }
-</style>
+<title>Corn Store — FOSS Android App Index</title>
+<meta name="description" content="A daily-updated index of free and open-source Android apps distributed via GitHub Releases. No accounts, no ads, no tracking.">
+<link rel="icon" href="corn.png">
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1>Corn-Store Index</h1>
-<div class="sub" id="count">loading…</div>
-<div id="apps"></div>
-<script>
-fetch('index.json').then(r => r.json()).then(data => {
-  document.getElementById('count').textContent =
-    data.count + ' apps · updated ' + new Date(data.generated_at).toLocaleString();
-  const container = document.getElementById('apps');
-  data.apps.forEach(a => {
-    const div = document.createElement('div');
-    div.className = 'app';
-    div.innerHTML = `
-      <h3>${a.label} <span class="meta">v${a.versionName} (${a.versionCode})</span></h3>
-      <p>${a.description || '(no description)'}</p>
-      <p class="meta">${a.package} · ${a.license || 'unknown license'} · ★ ${a.stars}</p>
-      <a href="${a.release_url}">release</a> ·
-      <a href="${a.apk_url}">direct APK (${(a.apk_size/1024/1024).toFixed(1)} MB)</a>
-    `;
-    container.appendChild(div);
-  });
-}).catch(e => {
-  document.getElementById('count').textContent = 'error: ' + e.message;
-});
-</script>
+<div class="wrap">
+
+  <header class="site" id="header-top">
+    <div class="title-row">
+      <h1>Corn Store</h1>
+      <a class="btn-paper" href="whitepaper.html">White paper</a>
+    </div>
+    <p class="tagline">A daily-updated index of free and open-source Android apps. No accounts, no ads, no tracking.</p>
+    <div class="stats" id="stats"></div>
+  </header>
+
+  <div class="controls" id="controls">
+    <input id="search" class="search" type="search" placeholder="Search apps, packages, topics…" autocomplete="off" spellcheck="false">
+    <select id="sort" class="sort">
+      <option value="recent">Recently updated</option>
+      <option value="name">Name (A–Z)</option>
+      <option value="downloads">Most downloads</option>
+      <option value="stars">Most stars</option>
+    </select>
+  </div>
+
+  <div class="chips" id="chips"></div>
+
+  <div class="apps" id="apps">
+    <div class="empty">Loading…</div>
+  </div>
+
+  <footer class="site">
+    <span>
+      <a href="about.html">About</a> ·
+      <a href="submit.html">Submit an app</a> ·
+      <a href="whitepaper.html">White paper</a> ·
+      <a href="contact.html">Contact</a> ·
+      <a href="privacy.html">Privacy</a> ·
+      <a href="terms.html">Terms</a> ·
+      <a href="license.html">License</a> ·
+      <a href="https://github.com/SimoesCTT/corn-store-index">Source</a>
+    </span>
+    <span>GPL-3.0-or-later</span>
+  </footer>
+
+</div>
+<script src="app.js"></script>
 </body>
 </html>

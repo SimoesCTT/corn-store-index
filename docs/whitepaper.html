@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>White Paper — Corn Store</title>
+<link rel="icon" href="corn.png">
+<link rel="stylesheet" href="style.css">
+<style>
+  .paper {
+    max-width: 780px;
+    margin: 0 auto;
+    color: var(--fg);
+    font-size: 15px;
+    line-height: 1.7;
+  }
+  .paper h1 {
+    color: var(--accent);
+    font-size: 26px;
+    margin: 0 0 6px;
+  }
+  .paper .meta {
+    color: var(--fg-3);
+    font-size: 13px;
+    margin-bottom: 32px;
+  }
+  .paper h2 {
+    color: var(--accent-2);
+    font-size: 18px;
+    margin: 40px 0 12px;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 6px;
+  }
+  .paper h3 {
+    color: var(--fg);
+    font-size: 15px;
+    margin: 24px 0 8px;
+  }
+  .paper p { margin: 0 0 14px; }
+  .paper ul, .paper ol { margin: 0 0 16px; padding-left: 22px; }
+  .paper li { margin-bottom: 6px; }
+  .paper code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 13px;
+    color: var(--accent-2);
+    background: var(--surface);
+    padding: 1px 5px;
+    border-radius: 4px;
+  }
+  .paper pre {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 16px;
+    overflow-x: auto;
+    font-size: 13px;
+    color: var(--fg-2);
+  }
+  .paper blockquote {
+    border-left: 3px solid var(--accent-dim);
+    padding: 4px 0 4px 16px;
+    margin: 16px 0;
+    color: var(--fg-2);
+    font-style: italic;
+  }
+  .paper table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0;
+    font-size: 13px;
+  }
+  .paper table th,
+  .paper table td {
+    text-align: left;
+    padding: 8px 10px;
+    border-bottom: 1px solid var(--border);
+  }
+  .paper table th {
+    color: var(--fg-3);
+    font-weight: 500;
+  }
+  .paper .back {
+    display: inline-block;
+    margin-bottom: 24px;
+    color: var(--fg-2);
+    font-size: 14px;
+  }
+  .paper .toc {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin-bottom: 32px;
+  }
+  .paper .toc h3 {
+    margin: 0 0 8px;
+    font-size: 13px;
+    color: var(--fg-3);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .paper .toc ol {
+    margin: 0;
+    padding-left: 20px;
+    font-size: 14px;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="paper">
+
+    <a class="back" href="index.html">&larr; Back to the index</a>
+
+    <h1>Corn Store: A Scraper-Based Index for FOSS Android Applications</h1>
+    <div class="meta">
+      Americo Simoes · CTT Research<br>
+      October 2026
+    </div>
+
+    <div class="toc">
+      <h3>Contents</h3>
+      <ol>
+        <li><a href="#abstract">Abstract</a></li>
+        <li><a href="#problem">The problem</a></li>
+        <li><a href="#existing">How existing stores fail</a></li>
+        <li><a href="#design">Corn Store: design</a></li>
+        <li><a href="#scraper">The scraper</a></li>
+        <li><a href="#client">The client</a></li>
+        <li><a href="#verification">Verification and trust</a></li>
+        <li><a href="#limits">Limits and honest failures</a></li>
+        <li><a href="#contrast">Contrast with F-Droid and IzzyOnDroid</a></li>
+        <li><a href="#conclusion">Conclusion</a></li>
+      </ol>
+    </div>
+
+    <h2 id="abstract">1. Abstract</h2>
+    <p>
+      Corn Store is a public index of free and open-source Android applications
+      distributed through GitHub Releases. It has no submission process, no
+      review queue, and no editorial staff. Applications appear in the index
+      when they publish a signed APK as a GitHub release asset and tag the
+      repository with one of a small set of topics. The index is regenerated
+      daily by an automated scraper. This paper describes the design, the
+      verification model, the failure modes, and the ways in which this
+      approach differs from the submission-and-review model used by F-Droid
+      and IzzyOnDroid.
+    </p>
+
+    <h2 id="problem">2. The problem</h2>
+    <p>
+      Android's default distribution channel is the Google Play Store. It
+      requires a developer account, it costs money for commercial publishing,
+      it imposes content policies, and it is the only officially supported
+      source on most consumer devices. For free and open-source software,
+      Play is a poor fit for three reasons:
+    </p>
+    <ul>
+      <li>It requires a Google developer account, which many FOSS authors
+        refuse on principle.</li>
+      <li>It does not accept re-uploaded builds, which means fork maintainers
+        and repackagers cannot distribute through it.</li>
+      <li>It does not index applications hosted elsewhere — a release on
+        GitHub and a release on Play are separate artifacts with separate
+        update paths.</li>
+    </ul>
+    <p>
+      The result is that a large fraction of FOSS Android applications are
+      distributed as raw APK files attached to GitHub releases. Users who
+      want them must know the repository exists, find the release, download
+      the APK, and manually install it. There is no discovery layer.
+    </p>
+
+    <h2 id="existing">3. How existing stores fail</h2>
+    <p>
+      F-Droid and IzzyOnDroid are the two existing catalogs that try to solve
+      this. Both succeed at their goals and both have documented limits.
+    </p>
+
+    <h3>F-Droid</h3>
+    <p>
+      F-Droid rebuilds applications from source. This is a strong security
+      property: the APK the user installs is guaranteed to correspond to the
+      public source code, with no developer-supplied binary in between. The
+      cost is that inclusion requires a merge request to a central repository,
+      a review by a human maintainer, and periodic re-review when the
+      application changes. New submissions take weeks to months. Many FOSS
+      Android applications are never submitted and never appear.
+    </p>
+
+    <h3>IzzyOnDroid</h3>
+    <p>
+      IzzyOnDroid accepts developer-signed APKs rather than rebuilding from
+      source, which lowers the technical bar. It still requires a submission
+      issue, a human review, and compliance with a written inclusion policy.
+      That policy now excludes applications built with the assistance of
+      large language models. Given that a substantial and growing fraction of
+      FOSS Android applications are now developed with LLM assistance, this
+      policy excludes a growing portion of the actual catalog of open-source
+      Android software.
+    </p>
+
+    <h3>The common failure</h3>
+    <p>
+      Both catalogs are gated by human review. Human review does not scale to
+      the rate at which new FOSS Android applications are produced. It also
+      inevitably encodes the reviewer's preferences, whether those are
+      technical (rebuild from source) or social (no LLM assistance).
+      Applications that do not fit the reviewer's model are excluded regardless
+      of whether they are useful, well-built, or widely used.
+    </p>
+
+    <h2 id="design">4. Corn Store: design</h2>
+    <p>
+      Corn Store inverts the model. There is no submission and no review. The
+      index is populated by a scraper that walks GitHub looking for
+      repositories that match a small set of criteria, and it includes every
+      repository that qualifies. Inclusion is a mechanical property of the
+      repository, not a decision made by a person.
+    </p>
+    <p>
+      A repository is included when it satisfies all of the following:
+    </p>
+    <ol>
+      <li>It is a public GitHub repository.</li>
+      <li>It carries at least one of a set of discoverable topics
+        (<code>android</code>, <code>android-app</code>, <code>fdroid</code>,
+        <code>foss-android</code>, <code>kotlin</code>, and others).</li>
+      <li>Its latest release contains an <code>.apk</code> file as a release
+        asset.</li>
+      <li>The APK is signed with a release signing key (not the Android
+        debug key).</li>
+      <li>The release is within a configurable recency window (two years by
+        default).</li>
+      <li>The APK is under a configurable size limit (100 MB by default).</li>
+    </ol>
+    <p>
+      Nothing else is checked. The scraper does not evaluate code quality, it
+      does not verify that the application does what its README claims, and it
+      does not care how the application was written.
+    </p>
+
+    <h2 id="scraper">5. The scraper</h2>
+    <p>
+      The scraper is a single Python file (<code>scraper/scrape.py</code>)
+      that runs on a daily GitHub Actions workflow. Its operation is:
+    </p>
+    <ol>
+      <li>Query the GitHub search API for repositories matching each of a set
+        of topics and language filters. Each query returns up to a few
+        hundred repositories.</li>
+      <li>For each candidate, fetch the most recent GitHub release and check
+        for an <code>.apk</code> asset.</li>
+      <li>Download the APK, extract metadata using <code>aapt2</code> (package
+        name, version, minimum SDK, target SDK, application label), and verify
+        the signature using <code>apksigner</code>.</li>
+      <li>Extract the launcher icon from the APK when it is a raster image.
+        Fall back to the repository owner's GitHub avatar otherwise.</li>
+      <li>Write a JSON record containing the package name, version, source
+        repository, license, star count, release URL, direct APK URL, APK
+        size, SHA-256 of the APK signature, and — when available — the
+        GitHub-reported download count for the release asset.</li>
+    </ol>
+    <p>
+      The workflow then regenerates a set of derived index files, commits the
+      result back to the repository, and GitHub Pages serves the result
+      statically. The scraper does not run a server and does not maintain a
+      database.
+    </p>
+
+    <h2 id="client">6. The client</h2>
+    <p>
+      The Android client (<code>com.simoesctt.cornstore</code>) is a single
+      screen: a searchable, sortable list of the applications in the index.
+      Tapping an entry opens a detail view with a download button. Tapping
+      download fetches the APK directly from the URL in the index and hands
+      it to the Android system installer.
+    </p>
+    <p>
+      The client does not host any content. Every APK the user installs comes
+      from the original developer's GitHub release. Corn Store is a
+      directory, not a distributor.
+    </p>
+
+    <h2 id="verification">7. Verification and trust</h2>
+    <p>
+      Corn Store does not vet applications. It does verify a small set of
+      mechanical facts, and those facts are the entire trust model:
+    </p>
+    <ul>
+      <li><strong>The APK is signed.</strong> A debug-signed APK is a
+        development artifact, not a release. The scraper rejects debug-signed
+        builds.</li>
+      <li><strong>The signing key is recorded.</strong> The SHA-256 fingerprint
+        of the signing certificate is included in the index. A user who
+        installs an update can compare the new fingerprint against the old
+        one and detect a signing key change.</li>
+      <li><strong>The APK hash is available for verification.</strong> The
+        index records enough metadata for a careful user to independently
+        verify the download.</li>
+    </ul>
+    <p>
+      Nothing about this prevents a malicious application from being indexed.
+      A repository can publish a malicious APK, tag it correctly, and it will
+      appear in Corn Store. The scraper is a directory, not a security
+      boundary, and it should be treated accordingly. Users who want stronger
+      guarantees should prefer catalogs that rebuild from source, such as
+      F-Droid.
+    </p>
+
+    <h2 id="limits">8. Limits and honest failures</h2>
+    <p>
+      Corn Store does not solve every problem. Known limitations:
+    </p>
+    <ul>
+      <li><strong>Only GitHub is indexed.</strong> Applications hosted on
+        Codeberg, GitLab, or their own domains are not included, even when
+        they are otherwise identical in form.</li>
+      <li><strong>Only GitHub releases are indexed.</strong> Applications
+        that distribute APKs from a website or a package manager are not
+        included.</li>
+      <li><strong>Metadata is only as good as the APK.</strong> If the
+        developer does not set an application label, the index shows a
+        fallback. If the developer does not set topics, the scraper may not
+        find the repository at all.</li>
+      <li><strong>Download counts are approximate.</strong> GitHub reports
+        downloads per release asset. They are a signal, not an accounting
+        figure.</li>
+      <li><strong>There is no malware scanning.</strong> Corn Store does not
+        run VirusTotal or any equivalent. Users who install from the index
+        take the same risk they would take installing the same APK directly
+        from GitHub.</li>
+    </ul>
+
+    <h2 id="contrast">9. Contrast with F-Droid and IzzyOnDroid</h2>
+    <table>
+      <thead>
+        <tr>
+          <th></th>
+          <th>F-Droid</th>
+          <th>IzzyOnDroid</th>
+          <th>Corn Store</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Inclusion</td>
+          <td>Merge request, human review</td>
+          <td>Issue, human review</td>
+          <td>Automatic, topic-based</td>
+        </tr>
+        <tr>
+          <td>Build</td>
+          <td>Rebuilt from source</td>
+          <td>Developer-signed APK</td>
+          <td>Developer-signed APK</td>
+        </tr>
+        <tr>
+          <td>Review time</td>
+          <td>Weeks to months</td>
+          <td>Days to weeks</td>
+          <td>Up to 24 hours</td>
+        </tr>
+        <tr>
+          <td>LLM-assisted apps</td>
+          <td>Not addressed</td>
+          <td>Excluded by policy</td>
+          <td>Included</td>
+        </tr>
+        <tr>
+          <td>App count</td>
+          <td>~4,000</td>
+          <td>~1,000</td>
+          <td>260 (growing daily)</td>
+        </tr>
+        <tr>
+          <td>Malware scanning</td>
+          <td>Source review</td>
+          <td>VirusTotal + source review</td>
+          <td>None</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      These catalogs are not competitors. F-Droid provides the strongest
+      security guarantees for a curated set of applications. IzzyOnDroid
+      provides a middle ground for developer-signed APKs that pass review.
+      Corn Store provides the broadest coverage with the weakest guarantees.
+      A user who cares about security should use F-Droid. A user who wants to
+      find what exists should use Corn Store.
+    </p>
+
+    <h2 id="conclusion">10. Conclusion</h2>
+    <p>
+      Review-based distribution does not scale to the rate at which FOSS
+      Android software is now produced, and it encodes reviewer preferences
+      that exclude applications regardless of their merit. A scraper-based
+      index with a small, mechanical inclusion criterion covers more of the
+      actual catalog, at the cost of offering no guarantees beyond what a
+      careful user can verify from the APK itself.
+    </p>
+    <p>
+      Corn Store is one such index. It is not a replacement for F-Droid, and
+      it does not claim to be. It is a discovery layer for the applications
+      that the review-based catalogs do not or will not carry.
+    </p>
+
+    <p style="margin-top: 40px; color: var(--fg-3); font-size: 13px;">
+      <a class="btn btn-ghost" href="index.html">← Back to the index</a>
+    </p>
+
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About — Corn Store</title>
+<link rel="icon" href="corn.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <header class="site">
+    <h1>About Corn Store</h1>
+    <p class="tagline">What this is, what it isn't, and how it works.</p>
+  </header>
+
+  <div class="detail">
+    <p>Corn Store is a public index of free and open-source Android applications distributed through GitHub Releases. It catalogs apps that publish a signed APK as part of a GitHub release, so users can find and install them without going through a proprietary app store.</p>
+
+    <p>The index is regenerated every day by an automated scraper running on GitHub Actions. The scraper searches GitHub for repositories matching a set of topics (android, kotlin, fdroid, foss-android, and others), checks each repository's latest release for a signed APK, extracts metadata from the APK, and writes the result to a public JSON file.</p>
+
+    <p><strong>What Corn Store is not:</strong></p>
+    <ul>
+      <li>Not a Play Store replacement. It's a niche index of FOSS apps.</li>
+      <li>Not a curated review process. Inclusion is automatic based on published topics and signed releases.</li>
+      <li>Not a marketplace. Nothing is sold here.</li>
+      <li>Not a company. No one is employed by Corn Store.</li>
+    </ul>
+
+    <p><strong>Privacy.</strong> This site has no accounts, no cookies, no analytics, no tracking, and no third-party scripts. The only network requests it makes are to fetch <code>index.json</code> (from this same domain) and app icons (from this same domain or <code>github.com</code>).</p>
+
+    <p><strong>How to get an app indexed.</strong> See the <a href="submit.html">Submit an app</a> page.</p>
+
+    <p><strong>Source code.</strong> The scraper and this site live at <a href="https://github.com/SimoesCTT/corn-store-index">github.com/SimoesCTT/corn-store-index</a>. Licensed GPL-3.0-or-later.</p>
+
+    <p style="margin-top: 32px;">
+      <a class="btn btn-ghost" href="index.html">← Back to the index</a>
+    </p>
+  </div>
+</div>
+</body>
+</html>
