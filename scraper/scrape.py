@@ -99,38 +99,46 @@ def repo_metadata(repo: str):
 
 
 
-def extract_icon(apk_path: Path, package_name: str) -> bytes | None:
-    """Pull the largest launcher PNG/WebP from an APK."""
+def extract_icon(apk_path: Path, package_name: str = "") -> bytes | None:
+    """Extract launcher icon from an APK, only if it's a raster image (PNG/WebP/JPG)."""
     import zipfile
+    import subprocess
+
+    aapt2 = os.environ.get("AAPT2", "aapt2")
+    icon_path = None
+    try:
+        out = subprocess.run(
+            [aapt2, "dump", "badging", str(apk_path)],
+            capture_output=True, text=True, timeout=30, check=True,
+        ).stdout
+        candidates = []
+        for line in out.splitlines():
+            if line.startswith("application-icon-"):
+                density = line.split("-", 2)[2].split(":", 1)[0]
+                path = line.split(":", 1)[1].strip().strip("'")
+                try:
+                    d = int(density)
+                except ValueError:
+                    d = 0
+                candidates.append((d, path))
+        candidates.sort(reverse=True)
+        # Prefer PNG/WebP/JPG; skip vector XMLs
+        for _, path in candidates:
+            if path.lower().endswith((".png", ".webp", ".jpg", ".jpeg")):
+                icon_path = path
+                break
+    except Exception as e:
+        print(f"  aapt2 icon lookup failed: {e}")
+        return None
+
+    if not icon_path:
+        return None
+
     try:
         with zipfile.ZipFile(apk_path) as z:
-            names = z.namelist()
-            # Candidate launcher assets, PNG or WebP
-            candidates = [
-                n for n in names
-                if (n.startswith("res/mipmap") or n.startswith("res/drawable"))
-                and "ic_launcher" in n.lower()
-                and (n.endswith(".png") or n.endswith(".webp"))
-            ]
-            if not candidates:
-                # Fallback: any mipmap PNG
-                candidates = [
-                    n for n in names
-                    if n.startswith("res/mipmap") and n.endswith(".png")
-                ]
-            if not candidates:
-                return None
-
-            def density_score(name: str) -> int:
-                for i, d in enumerate(["xxxhdpi", "xxhdpi", "xhdpi", "hdpi", "mdpi", "anydpi"]):
-                    if d in name:
-                        return i
-                return 999
-
-            candidates.sort(key=density_score)
-            return z.read(candidates[0])
+            return z.read(icon_path)
     except Exception as e:
-        print(f"  icon extract failed: {e}")
+        print(f"  icon read failed from {icon_path}: {e}")
         return None
 
 
@@ -165,6 +173,11 @@ def scrape_repo(repo: str, tmpdir: Path):
         icon_file = icons_dir / f"{info['package']}.png"
         icon_file.write_bytes(icon_bytes)
         icon_url = f"https://simoesctt.github.io/corn-store-index/icons/{info['package']}.png"
+    else:
+        # Fallback: use the GitHub owner's avatar
+        owner = repo.split("/")[0] if "/" in repo else None
+        if owner:
+            icon_url = f"https://github.com/{owner}.png?size=128"
 
     apk_path.unlink(missing_ok=True)
     if not sig or "sha256" not in sig:
