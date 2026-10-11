@@ -50,5 +50,6 @@ jobs:
             echo "No changes to index"
           else
             git commit -m "Update index ($(date -u +%Y-%m-%d))"
+            git pull --rebase origin main
             git push
           fi
