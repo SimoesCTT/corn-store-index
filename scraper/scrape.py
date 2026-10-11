@@ -13,7 +13,7 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from config import (SEARCH_QUERIES, ALLOWLIST, BLOCKLIST, OUTPUT,
+from config import (SEARCH_QUERIES, ALLOWLIST, BLOCKLIST, ICON_OVERRIDES, OUTPUT,
                     RECENT_DAYS, MAX_PER_QUERY, GITHUB_TOKEN)
 from verify import download_apk, analyze_apk, verify_signature
 
