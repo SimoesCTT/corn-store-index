@@ -174,6 +174,43 @@ def extract_icon(apk_path: Path, package_name: str = "") -> bytes | None:
             return None
 
     return None
+
+
+def download_and_localize_icon(package: str, remote_url: str | None) -> str | None:
+    """Download an icon from a remote URL and save it locally in docs/icons/.
+
+    Returns a path relative to the site root, e.g. 'icons/<package>.png'.
+    GitHub Pages serves these directly, avoiding cross-origin blocks on
+    raw.githubusercontent.com.
+
+    If the download fails, returns the original URL as a fallback.
+    """
+    import urllib.request
+
+    if not remote_url:
+        return None
+
+    icons_dir = Path("docs/icons").resolve()
+    icons_dir.mkdir(parents=True, exist_ok=True)
+    local_file = icons_dir / f"{package}.png"
+
+    # If we already have it locally, keep it.
+    if local_file.exists() and local_file.stat().st_size > 0:
+        return f"https://simoesctt.github.io/corn-store-index/icons/{package}.png"
+
+    try:
+        req = urllib.request.Request(remote_url, headers={"User-Agent": "CornStore/1.0"})
+        with urllib.request.urlopen(req, timeout=15) as r:
+            data = r.read()
+        if not data:
+            return remote_url
+        local_file.write_bytes(data)
+        return f"https://simoesctt.github.io/corn-store-index/icons/{package}.png"
+    except Exception as e:
+        print(f"  icon download failed for {package}: {e}")
+        return remote_url
+
+
 def scrape_repo(repo: str, tmpdir: Path):
     asset = latest_apk_asset(repo)
     if not asset:
@@ -196,20 +233,29 @@ def scrape_repo(repo: str, tmpdir: Path):
 
     sig = verify_signature(apk_path)
 
-    # Extract the launcher icon before deleting the APK
-    icon_bytes = extract_icon(apk_path, info["package"])
-    icon_url = None
-    if icon_bytes:
-        icons_dir = Path("docs/icons").resolve()
-        icons_dir.mkdir(parents=True, exist_ok=True)
-        icon_file = icons_dir / f"{info['package']}.png"
-        icon_file.write_bytes(icon_bytes)
-        icon_url = f"https://simoesctt.github.io/corn-store-index/icons/{info['package']}.png"
+    # Resolve the launcher icon before deleting the APK.
+    package = info["package"]
+    icons_dir = Path("docs/icons").resolve()
+    icons_dir.mkdir(parents=True, exist_ok=True)
+    icon_file = icons_dir / f"{package}.png"
+    local_icon_url = f"https://simoesctt.github.io/corn-store-index/icons/{package}.png"
+
+    # Priority 1: explicit override URL, downloaded and localized
+    if package in ICON_OVERRIDES:
+        icon_url = download_and_localize_icon(package, ICON_OVERRIDES[package])
+    elif icon_file.exists() and icon_file.stat().st_size > 0:
+        # Already cached locally from a previous run
+        icon_url = local_icon_url
     else:
-        # Fallback: use the GitHub owner's avatar
-        owner = repo.split("/")[0] if "/" in repo else None
-        if owner:
-            icon_url = f"https://github.com/{owner}.png?size=128"
+        # Priority 2: extract from APK
+        icon_bytes = extract_icon(apk_path, package)
+        if icon_bytes:
+            icon_file.write_bytes(icon_bytes)
+            icon_url = local_icon_url
+        else:
+            # Priority 3: GitHub owner avatar (still external, but a real image)
+            owner = repo.split("/")[0] if "/" in repo else None
+            icon_url = f"https://github.com/{owner}.png?size=128" if owner else None
 
     apk_path.unlink(missing_ok=True)
     if not sig or "sha256" not in sig:

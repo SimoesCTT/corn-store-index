@@ -67,3 +67,17 @@ MAX_PER_QUERY = 30
 # Filled at runtime from the GITHUB_TOKEN env var. Not used directly —
 # scrape.py reads os.environ['GITHUB_TOKEN'] and uses that.
 GITHUB_TOKEN = None
+
+# Per-package icon overrides. When the scraper can't extract a raster
+# icon from the APK (vector-only launcher icons), it uses these URLs.
+# The scraper downloads each one into docs/icons/ and serves it locally.
+ICON_OVERRIDES = {
+    "com.simoesctt.line16": "https://raw.githubusercontent.com/SimoesCTT/line16/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png",
+    "com.simoesctt.marsclock": "https://raw.githubusercontent.com/SimoesCTT/MarsClock/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png",
+    "com.simoesctt.phasescope": "https://raw.githubusercontent.com/SimoesCTT/PhaseScope/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png",
+    "com.simoesctt.phaseflow": "https://raw.githubusercontent.com/SimoesCTT/PhaseFlow/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png",
+    "com.simoesctt.phasevib": "https://raw.githubusercontent.com/SimoesCTT/PhaseVib/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png",
+    "com.simoesctt.medphase": "https://raw.githubusercontent.com/SimoesCTT/MedPhase/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png",
+    "com.free.files": "https://raw.githubusercontent.com/SimoesCTT/Freedom-file-manager-/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png",
+    "com.simoesctt.cornstore": "https://raw.githubusercontent.com/SimoesCTT/corn-store-app/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+}
