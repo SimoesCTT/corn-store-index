@@ -80,6 +80,7 @@ def latest_apk_asset(repo: str):
                     "apk_name": asset["name"],
                     "apk_size": asset["size"],
                     "published_at": rel["published_at"],
+                    "download_count": asset.get("download_count", 0),
                 }
     return None
 
