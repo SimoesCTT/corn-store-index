@@ -100,48 +100,80 @@ def repo_metadata(repo: str):
 
 
 def extract_icon(apk_path: Path, package_name: str = "") -> bytes | None:
-    """Extract launcher icon from an APK, only if it's a raster image (PNG/WebP/JPG)."""
-    import zipfile
+    """Extract the highest-density raster launcher icon from an APK.
+
+    Parses `aapt2 dump resources` output, finds the
+    `mipmap/ic_launcher_foreground` resource, and reads its xxxhdpi PNG
+    (or the highest density available). Falls back to `mipmap/ic_launcher`
+    if the foreground has no raster.
+    """
     import subprocess
+    import zipfile
 
     aapt2 = os.environ.get("AAPT2", "aapt2")
-    icon_path = None
+
     try:
         out = subprocess.run(
-            [aapt2, "dump", "badging", str(apk_path)],
-            capture_output=True, text=True, timeout=30, check=True,
+            [aapt2, "dump", "resources", str(apk_path)],
+            capture_output=True, text=True, timeout=45, check=True,
         ).stdout
-        candidates = []
-        for line in out.splitlines():
-            if line.startswith("application-icon-"):
-                density = line.split("-", 2)[2].split(":", 1)[0]
-                path = line.split(":", 1)[1].strip().strip("'")
-                try:
-                    d = int(density)
-                except ValueError:
-                    d = 0
-                candidates.append((d, path))
-        candidates.sort(reverse=True)
-        # Prefer PNG/WebP/JPG; skip vector XMLs
-        for _, path in candidates:
-            if path.lower().endswith((".png", ".webp", ".jpg", ".jpeg")):
-                icon_path = path
-                break
-    except Exception as e:
-        print(f"  aapt2 icon lookup failed: {e}")
+    except (subprocess.CalledProcessError, FileNotFoundError) as e:
+        print(f"  aapt2 dump resources failed: {e}")
         return None
 
-    if not icon_path:
-        return None
+    # Density priority: xxxhdpi first, then down.
+    density_rank = {
+        "xxxhdpi": 5,
+        "xxhdpi": 4,
+        "xhdpi": 3,
+        "hdpi": 2,
+        "mdpi": 1,
+        "": 0,
+    }
 
-    try:
-        with zipfile.ZipFile(apk_path) as z:
-            return z.read(icon_path)
-    except Exception as e:
-        print(f"  icon read failed from {icon_path}: {e}")
-        return None
+    # Parse into: { resource_name: [(density, file_path), ...] }
+    resources: dict[str, list[tuple[str, str]]] = {}
+    current_name = None
+    for line in out.splitlines():
+        stripped = line.strip()
+        if stripped.startswith("resource "):
+            parts = stripped.split()
+            # format: resource 0x7f080001 mipmap/ic_launcher_foreground
+            if len(parts) >= 3 and "/" in parts[2]:
+                current_name = parts[2]
+                resources.setdefault(current_name, [])
+            else:
+                current_name = None
+            continue
+        if current_name and "(file)" in stripped and "type=PNG" in stripped:
+            # format: (xxxhdpi) (file) res/as.png type=PNG
+            tokens = stripped.split()
+            density = ""
+            file_path = None
+            for i, tok in enumerate(tokens):
+                if tok.startswith("(") and tok.endswith(")") and tok.strip("()") in density_rank:
+                    density = tok.strip("()")
+                if tok == "(file)" and i + 1 < len(tokens):
+                    file_path = tokens[i + 1]
+            if file_path:
+                resources[current_name].append((density, file_path))
 
+    # Try ic_launcher_foreground first, then ic_launcher.
+    for target in ("mipmap/ic_launcher_foreground", "mipmap/ic_launcher"):
+        entries = resources.get(target)
+        if not entries:
+            continue
+        # Sort by density (best first), then take the first.
+        entries.sort(key=lambda x: density_rank.get(x[0], 0), reverse=True)
+        density, path = entries[0]
+        try:
+            with zipfile.ZipFile(apk_path) as z:
+                return z.read(path)
+        except Exception as e:
+            print(f"  icon read failed from {path} ({density}): {e}")
+            return None
 
+    return None
 def scrape_repo(repo: str, tmpdir: Path):
     asset = latest_apk_asset(repo)
     if not asset:
