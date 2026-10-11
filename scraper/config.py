@@ -67,18 +67,3 @@ MAX_PER_QUERY = 30
 # Filled at runtime from the GITHUB_TOKEN env var. Not used directly —
 # scrape.py reads os.environ['GITHUB_TOKEN'] and uses that.
 GITHUB_TOKEN = None
-
-# Per-package icon overrides. When the scraper can't extract a raster
-# icon from the APK, it uses these URLs instead of the GitHub avatar
-# fallback. Matches by package name.
-ICON_OVERRIDES = {
-    "com.simoesctt.line16": "https://raw.githubusercontent.com/SimoesCTT/line16/main/fastlane/metadata/android/en-US/images/icon.png",
-    "com.simoesctt.marsclock": "https://raw.githubusercontent.com/SimoesCTT/MarsClock/main/fastlane/metadata/android/en-US/images/icon.png",
-    "com.simoesctt.cttrecorder": "https://raw.githubusercontent.com/SimoesCTT/ctt_android/main/fastlane/metadata/android/en-US/images/icon.png",
-    "com.simoesctt.phasescope": "https://raw.githubusercontent.com/SimoesCTT/PhaseScope/main/fastlane/metadata/android/en-US/images/icon.png",
-    "com.simoesctt.phaseflow": "https://raw.githubusercontent.com/SimoesCTT/PhaseFlow/main/fastlane/metadata/android/en-US/images/icon.png",
-    "com.simoesctt.phasevib": "https://raw.githubusercontent.com/SimoesCTT/PhaseVib/main/fastlane/metadata/android/en-US/images/icon.png",
-    "com.simoesctt.medphase": "https://raw.githubusercontent.com/SimoesCTT/MedPhase/main/fastlane/metadata/android/en-US/images/icon.png",
-    "com.simoesctt.cornstore": "https://raw.githubusercontent.com/SimoesCTT/corn-store-app/main/fastlane/metadata/android/en-US/images/icon.png",
-    "com.free.files": "https://raw.githubusercontent.com/SimoesCTT/Freedom-file-manager-/main/fastlane/metadata/android/en-US/images/icon.png",
-}
