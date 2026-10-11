@@ -101,56 +101,48 @@ def repo_metadata(repo: str):
 
 
 def extract_icon(apk_path: Path, package_name: str = "") -> bytes | None:
-    """Extract the launcher icon from an APK by resource name."""
-    import subprocess
+    """Extract launcher icon from an APK, only if it's a raster image (PNG/WebP/JPG)."""
     import zipfile
-    import re
+    import subprocess
 
     aapt2 = os.environ.get("AAPT2", "aapt2")
-
+    icon_path = None
     try:
         out = subprocess.run(
-            [aapt2, "dump", "resources", str(apk_path)],
-            capture_output=True, text=True, timeout=45, check=True,
+            [aapt2, "dump", "badging", str(apk_path)],
+            capture_output=True, text=True, timeout=30, check=True,
         ).stdout
-    except (subprocess.CalledProcessError, FileNotFoundError) as e:
-        print(f"  aapt2 dump resources failed: {e}")
+        candidates = []
+        for line in out.splitlines():
+            if line.startswith("application-icon-"):
+                density = line.split("-", 2)[2].split(":", 1)[0]
+                path = line.split(":", 1)[1].strip().strip("'")
+                try:
+                    d = int(density)
+                except ValueError:
+                    d = 0
+                candidates.append((d, path))
+        candidates.sort(reverse=True)
+        # Prefer PNG/WebP/JPG; skip vector XMLs
+        for _, path in candidates:
+            if path.lower().endswith((".png", ".webp", ".jpg", ".jpeg")):
+                icon_path = path
+                break
+    except Exception as e:
+        print(f"  aapt2 icon lookup failed: {e}")
         return None
 
-    target_names = ("mipmap/ic_launcher_foreground", "mipmap/ic_launcher")
-    current_resource = None
-    candidates = []
-
-    for line in out.splitlines():
-        stripped = line.strip()
-        m = re.match(r"resource\s+0x[0-9a-fA-F]+\s+(\S+)", stripped)
-        if m:
-            current_resource = m.group(1)
-            continue
-        if current_resource in target_names:
-            fm = re.search(r"(res/\S+\.(?:png|webp|jpg|jpeg))", stripped, re.IGNORECASE)
-            if fm:
-                candidates.append((current_resource, fm.group(1)))
-
-    if not candidates:
+    if not icon_path:
         return None
 
-    for res_name in target_names:
-        files = [f for (r, f) in candidates if r == res_name]
-        if not files:
-            continue
+    try:
         with zipfile.ZipFile(apk_path) as z:
-            sizes = [(f, z.getinfo(f).file_size) for f in files if f in z.namelist()]
-            if not sizes:
-                continue
-            best = max(sizes, key=lambda x: x[1])[0]
-            try:
-                return z.read(best)
-            except Exception as e:
-                print(f"  icon read failed from {best}: {e}")
-                return None
+            return z.read(icon_path)
+    except Exception as e:
+        print(f"  icon read failed from {icon_path}: {e}")
+        return None
 
-    return None
+
 def scrape_repo(repo: str, tmpdir: Path):
     asset = latest_apk_asset(repo)
     if not asset:
