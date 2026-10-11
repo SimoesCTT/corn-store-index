@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-11T02:21:19.956516+00:00",
+  "lastUpdated": "2026-10-11T02:51:05.996288+00:00",
   "totalCount": 128,
   "repositories": [
     {
@@ -161,7 +161,7 @@
       "description": "\u96c6\u627e\u756a\u3001\u8ffd\u756a\u3001\u770b\u756a\u7684\u4e00\u7ad9\u5f0f\u5f39\u5e55\u8ffd\u756a\u5e73\u53f0\uff0c\u4e91\u6536\u85cf\u540c\u6b65 (Bangumi)\uff0c\u79bb\u7ebf\u7f13\u5b58\uff0cBitTorrent\uff0c\u5f39\u5e55\u4e91\u8fc7\u6ee4\u3002100% Kotlin/Compose Multiplatform",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/open-ani/animeko",
-      "stargazersCount": 20780,
+      "stargazersCount": 20782,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -188,8 +188,8 @@
       "releasesUrl": "https://api.github.com/repos/open-ani/animeko/releases{/id}",
       "updatedAt": "2026-10-09T11:19:10Z",
       "latestReleaseDate": "2026-10-09T11:19:10Z",
-      "trendingScore": 20780.0,
-      "popularityScore": 20780,
+      "trendingScore": 20782.0,
+      "popularityScore": 20782,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1084,7 +1084,7 @@
       "description": "An experimental Android launcher for foldables, with a right-side dock, native widgets, and overlapping unfolded Home pages.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/jakesgoodapps/DuoLauncher",
-      "stargazersCount": 164,
+      "stargazersCount": 165,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1097,8 +1097,8 @@
       "releasesUrl": "https://api.github.com/repos/jakesgoodapps/DuoLauncher/releases{/id}",
       "updatedAt": "2026-09-10T23:22:05Z",
       "latestReleaseDate": "2026-09-10T23:22:05Z",
-      "trendingScore": 164.0,
-      "popularityScore": 164,
+      "trendingScore": 165.0,
+      "popularityScore": 165,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1327,7 +1327,7 @@
       "description": "An android app to compress image, video and audio files through ffmpeg before sharing them",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/caydey/ffshare",
-      "stargazersCount": 1111,
+      "stargazersCount": 1112,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1341,8 +1341,8 @@
       "releasesUrl": "https://api.github.com/repos/caydey/ffshare/releases{/id}",
       "updatedAt": "2026-08-14T12:32:41Z",
       "latestReleaseDate": "2026-08-14T12:32:41Z",
-      "trendingScore": 1111.0,
-      "popularityScore": 1111,
+      "trendingScore": 1112.0,
+      "popularityScore": 1112,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2127,7 +2127,7 @@
       "description": "An open-source auto clicker on images for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Nain57/Smart-AutoClicker",
-      "stargazersCount": 3664,
+      "stargazersCount": 3665,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2140,8 +2140,8 @@
       "releasesUrl": "https://api.github.com/repos/Nain57/Smart-AutoClicker/releases{/id}",
       "updatedAt": "2026-10-10T10:22:29Z",
       "latestReleaseDate": "2026-10-10T10:22:29Z",
-      "trendingScore": 3664.0,
-      "popularityScore": 3664,
+      "trendingScore": 3665.0,
+      "popularityScore": 3665,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2159,7 +2159,7 @@
       "description": "\ud83e\ude75 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo \u2014 browse, discover, and install apps with one click. Formerly GitHub Store.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/komi-store/komi-store",
-      "stargazersCount": 19302,
+      "stargazersCount": 19305,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2182,8 +2182,8 @@
       "releasesUrl": "https://api.github.com/repos/komi-store/komi-store/releases{/id}",
       "updatedAt": "2026-06-26T06:04:58Z",
       "latestReleaseDate": "2026-06-26T06:04:58Z",
-      "trendingScore": 19302.0,
-      "popularityScore": 19302,
+      "trendingScore": 19305.0,
+      "popularityScore": 19305,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2435,7 +2435,7 @@
       "description": "An app to view libraries used in apps in your device.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/LibChecker/LibChecker",
-      "stargazersCount": 7234,
+      "stargazersCount": 7235,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2447,8 +2447,8 @@
       "releasesUrl": "https://api.github.com/repos/LibChecker/LibChecker/releases{/id}",
       "updatedAt": "2026-06-17T03:04:36Z",
       "latestReleaseDate": "2026-06-17T03:04:36Z",
-      "trendingScore": 7234.0,
-      "popularityScore": 7234,
+      "trendingScore": 7235.0,
+      "popularityScore": 7235,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2690,7 +2690,7 @@
       "description": "Free implementation of Play Services",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/microg/GmsCore",
-      "stargazersCount": 14828,
+      "stargazersCount": 14829,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2712,8 +2712,8 @@
       "releasesUrl": "https://api.github.com/repos/microg/GmsCore/releases{/id}",
       "updatedAt": "2026-09-29T10:37:35Z",
       "latestReleaseDate": "2026-09-29T10:37:35Z",
-      "trendingScore": 14828.0,
-      "popularityScore": 14828,
+      "trendingScore": 14829.0,
+      "popularityScore": 14829,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -3836,7 +3836,7 @@
       "description": "\ud83e\uddad Video/Audio Downloader for Android, based on yt-dlp",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/JunkFood02/Seal",
-      "stargazersCount": 29635,
+      "stargazersCount": 29636,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -3852,8 +3852,8 @@
       "releasesUrl": "https://api.github.com/repos/JunkFood02/Seal/releases{/id}",
       "updatedAt": "2024-11-29T15:46:57Z",
       "latestReleaseDate": "2024-11-29T15:46:57Z",
-      "trendingScore": 29635.0,
-      "popularityScore": 29635,
+      "trendingScore": 29636.0,
+      "popularityScore": 29636,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -3906,7 +3906,7 @@
       "description": "A cross-platform music app using YouTube Music for backend",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/maxrave-dev/SimpMusic",
-      "stargazersCount": 11880,
+      "stargazersCount": 11881,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -3932,8 +3932,8 @@
       "releasesUrl": "https://api.github.com/repos/maxrave-dev/SimpMusic/releases{/id}",
       "updatedAt": "2026-10-10T17:41:41Z",
       "latestReleaseDate": "2026-10-10T17:41:41Z",
-      "trendingScore": 11880.0,
-      "popularityScore": 11880,
+      "trendingScore": 11881.0,
+      "popularityScore": 11881,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -4182,7 +4182,7 @@
       "description": "Turn a private Telegram channel into your personal cloud drive. Android, Windows, Linux and macOS, auto backup, optional E2E encryption, built-in file manager and player.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Mahmud0808/TeleDrive",
-      "stargazersCount": 242,
+      "stargazersCount": 243,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -4203,8 +4203,8 @@
       "releasesUrl": "https://api.github.com/repos/Mahmud0808/TeleDrive/releases{/id}",
       "updatedAt": "2026-09-19T10:59:11Z",
       "latestReleaseDate": "2026-09-19T10:59:11Z",
-      "trendingScore": 242.0,
-      "popularityScore": 242,
+      "trendingScore": 243.0,
+      "popularityScore": 243,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -4909,7 +4909,7 @@
       "description": "Full-featured audio/video downloader for Android using yt-dlp",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/deniscerri/ytdlnis",
-      "stargazersCount": 10514,
+      "stargazersCount": 10515,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -4929,8 +4929,8 @@
       "releasesUrl": "https://api.github.com/repos/deniscerri/ytdlnis/releases{/id}",
       "updatedAt": "2026-09-07T15:32:13Z",
       "latestReleaseDate": "2026-09-07T15:32:13Z",
-      "trendingScore": 10514.0,
-      "popularityScore": 10514,
+      "trendingScore": 10515.0,
+      "popularityScore": 10515,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
