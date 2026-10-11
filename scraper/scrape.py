@@ -351,6 +351,17 @@ def main():
                 print(f"  error: {e}")
                 errors += 1
 
+    # Safety: never overwrite a good index with an empty one.
+    # If the scrape produced 0 apps, keep the previous index and exit non-zero
+    # so the workflow fails visibly instead of silently wiping the data.
+    if len(entries) == 0:
+        existing = Path(OUTPUT)
+        if existing.exists():
+            prev = json.loads(existing.read_text())
+            if prev.get("count", 0) > 0:
+                print(f"ABORT: scrape produced 0 apps. Keeping previous index ({prev['count']} apps).")
+                sys.exit(1)
+
     index = {
         "version": 1,
         "generated_at": datetime.now(timezone.utc).isoformat(),
