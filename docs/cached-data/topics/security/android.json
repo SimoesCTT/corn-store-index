@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-12T10:42:48.772891+00:00",
+  "lastUpdated": "2026-10-13T10:34:01.643675+00:00",
   "totalCount": 21,
   "repositories": [
     {
@@ -45,7 +45,7 @@
       "description": "A novel Android app store focused on security, privacy, and usability",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/accrescent/accrescent",
-      "stargazersCount": 2284,
+      "stargazersCount": 2286,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -61,8 +61,8 @@
       "releasesUrl": "https://api.github.com/repos/accrescent/accrescent/releases{/id}",
       "updatedAt": "2025-11-10T19:08:39Z",
       "latestReleaseDate": "2025-11-10T19:08:39Z",
-      "trendingScore": 2284.0,
-      "popularityScore": 2284,
+      "trendingScore": 2286.0,
+      "popularityScore": 2286,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -146,7 +146,7 @@
       "description": "Verify apps easily.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/soupslurpr/AppVerifier",
-      "stargazersCount": 1204,
+      "stargazersCount": 1206,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -167,8 +167,8 @@
       "releasesUrl": "https://api.github.com/repos/soupslurpr/AppVerifier/releases{/id}",
       "updatedAt": "2025-04-23T02:06:39Z",
       "latestReleaseDate": "2025-04-23T02:06:39Z",
-      "trendingScore": 1204.0,
-      "popularityScore": 1204,
+      "trendingScore": 1206.0,
+      "popularityScore": 1206,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -218,7 +218,7 @@
       "description": "Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Kin69/Athena",
-      "stargazersCount": 723,
+      "stargazersCount": 722,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -244,8 +244,8 @@
       "releasesUrl": "https://api.github.com/repos/Kin69/Athena/releases{/id}",
       "updatedAt": "2026-01-18T13:36:44Z",
       "latestReleaseDate": "2026-01-18T13:36:44Z",
-      "trendingScore": 723.0,
-      "popularityScore": 723,
+      "trendingScore": 722.0,
+      "popularityScore": 722,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -263,7 +263,7 @@
       "description": "Modern camera app focused on privacy and security with QR & barcode scanning.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/Camera",
-      "stargazersCount": 1404,
+      "stargazersCount": 1406,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -276,8 +276,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/Camera/releases{/id}",
       "updatedAt": "2026-08-01T22:01:24Z",
       "latestReleaseDate": "2026-08-01T22:01:24Z",
-      "trendingScore": 1404.0,
-      "popularityScore": 1404,
+      "trendingScore": 1406.0,
+      "popularityScore": 1406,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -561,7 +561,7 @@
       "description": "Private photo vault for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leonlatsch/Photok",
-      "stargazersCount": 980,
+      "stargazersCount": 982,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -576,10 +576,10 @@
         "security"
       ],
       "releasesUrl": "https://api.github.com/repos/leonlatsch/Photok/releases{/id}",
-      "updatedAt": "2026-10-10T22:04:43Z",
-      "latestReleaseDate": "2026-10-10T22:04:43Z",
-      "trendingScore": 980.0,
-      "popularityScore": 980,
+      "updatedAt": "2026-10-12T21:47:56Z",
+      "latestReleaseDate": "2026-10-12T21:47:56Z",
+      "trendingScore": 982.0,
+      "popularityScore": 982,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -597,7 +597,7 @@
       "description": "A simple app for discovering tools that respects your privacy.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/kaleedtc/Privacium",
-      "stargazersCount": 292,
+      "stargazersCount": 293,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -622,8 +622,8 @@
       "releasesUrl": "https://api.github.com/repos/kaleedtc/Privacium/releases{/id}",
       "updatedAt": "2026-07-28T19:52:54Z",
       "latestReleaseDate": "2026-07-28T19:52:54Z",
-      "trendingScore": 292.0,
-      "popularityScore": 292,
+      "trendingScore": 293.0,
+      "popularityScore": 293,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
