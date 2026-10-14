@@ -1,8 +1,8 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-13T10:34:01.643675+00:00",
-  "totalCount": 6,
+  "lastUpdated": "2026-10-14T08:42:15.890465+00:00",
+  "totalCount": 7,
   "repositories": [
     {
       "id": 5532722794371689687,
@@ -47,7 +47,7 @@
       "description": "A minimalist android launcher to help you quit your phone addiction",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GeorgeClensy/Escape-Launcher",
-      "stargazersCount": 451,
+      "stargazersCount": 452,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -74,8 +74,8 @@
       "releasesUrl": "https://api.github.com/repos/GeorgeClensy/Escape-Launcher/releases{/id}",
       "updatedAt": "2026-01-02T20:22:12Z",
       "latestReleaseDate": "2026-01-02T20:22:12Z",
-      "trendingScore": 451.0,
-      "popularityScore": 451,
+      "trendingScore": 452.0,
+      "popularityScore": 452,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -177,7 +177,7 @@
       "description": "Outliner for taking notes and managing to-do lists",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/orgzly/orgzly-android",
-      "stargazersCount": 2816,
+      "stargazersCount": 2815,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -194,8 +194,8 @@
       "releasesUrl": "https://api.github.com/repos/orgzly/orgzly-android/releases{/id}",
       "updatedAt": "2026-01-29T18:22:04Z",
       "latestReleaseDate": "2026-01-29T18:22:04Z",
-      "trendingScore": 2816.0,
-      "popularityScore": 2816,
+      "trendingScore": 2815.0,
+      "popularityScore": 2815,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -213,7 +213,7 @@
       "description": "\ud83d\udd25 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/plainhub/plain-app",
-      "stargazersCount": 6905,
+      "stargazersCount": 6922,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -241,8 +241,49 @@
       "releasesUrl": "https://api.github.com/repos/plainhub/plain-app/releases{/id}",
       "updatedAt": "2026-09-11T14:10:31Z",
       "latestReleaseDate": "2026-09-11T14:10:31Z",
-      "trendingScore": 6905.0,
-      "popularityScore": 6905,
+      "trendingScore": 6922.0,
+      "popularityScore": 6922,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 354491594128098520,
+      "name": "WhatsApp-Auto-Responder",
+      "fullName": "Prince-nebhwani/WhatsApp-Auto-Responder",
+      "owner": {
+        "login": "Prince-nebhwani",
+        "avatarUrl": "https://github.com/Prince-nebhwani.png"
+      },
+      "description": "\ud83e\udd16 Smart Android Auto-Responder for WhatsApp powered by Google Gemini AI with customizable personality tones, scheduling, and local privacy-first architecture.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Prince-nebhwani/WhatsApp-Auto-Responder",
+      "stargazersCount": 1,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "ai-agent",
+        "android",
+        "apk",
+        "auto-responder",
+        "automation",
+        "chatbot",
+        "foss",
+        "gemini-api",
+        "jetpack-compose",
+        "open-source",
+        "productivity",
+        "whatsapp",
+        "whatsapp-automation",
+        "whatsapp-bot"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Prince-nebhwani/WhatsApp-Auto-Responder/releases{/id}",
+      "updatedAt": "2026-09-30T13:26:30Z",
+      "latestReleaseDate": "2026-09-30T13:26:30Z",
+      "trendingScore": 1.0,
+      "popularityScore": 1,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"

@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-13T10:34:01.643675+00:00",
+  "lastUpdated": "2026-10-14T08:42:15.890465+00:00",
   "totalCount": 21,
   "repositories": [
     {
@@ -45,7 +45,7 @@
       "description": "A novel Android app store focused on security, privacy, and usability",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/accrescent/accrescent",
-      "stargazersCount": 2286,
+      "stargazersCount": 2287,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -61,8 +61,8 @@
       "releasesUrl": "https://api.github.com/repos/accrescent/accrescent/releases{/id}",
       "updatedAt": "2025-11-10T19:08:39Z",
       "latestReleaseDate": "2025-11-10T19:08:39Z",
-      "trendingScore": 2286.0,
-      "popularityScore": 2286,
+      "trendingScore": 2287.0,
+      "popularityScore": 2287,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -77,23 +77,27 @@
         "login": "leohearts",
         "avatarUrl": "https://github.com/leohearts.png"
       },
-      "description": "Unlock your Android phone with an alternative PIN. (Xposed)",
+      "description": "Unlock your Android phone with an alternative PIN, and run any root command when you enter it. Works before the first unlock after a reboot. (Xposed)",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leohearts/AlternativeUnlockXposed",
-      "stargazersCount": 199,
+      "stargazersCount": 201,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
         "android",
+        "android-security",
+        "anti-surveillance",
+        "duress",
         "lockscreen",
+        "privacy",
         "security",
         "xposed"
       ],
       "releasesUrl": "https://api.github.com/repos/leohearts/AlternativeUnlockXposed/releases{/id}",
       "updatedAt": "2026-10-07T04:47:19Z",
       "latestReleaseDate": "2026-10-07T04:47:19Z",
-      "trendingScore": 199.0,
-      "popularityScore": 199,
+      "trendingScore": 201.0,
+      "popularityScore": 201,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -376,7 +380,7 @@
       "description": "A realtime malware scanner (fork of Divestos version)| Maintained by: @Inhishonor",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/MaintainTeam/Hypatia",
-      "stargazersCount": 465,
+      "stargazersCount": 466,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -387,8 +391,8 @@
       "releasesUrl": "https://api.github.com/repos/MaintainTeam/Hypatia/releases{/id}",
       "updatedAt": "2026-02-20T17:47:33Z",
       "latestReleaseDate": "2026-02-20T17:47:33Z",
-      "trendingScore": 465.0,
-      "popularityScore": 465,
+      "trendingScore": 466.0,
+      "popularityScore": 466,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -406,7 +410,7 @@
       "description": "An application designed to silently protect user data from powerful adversaries.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/bakad3v/Android-AntiForensic-Tools",
-      "stargazersCount": 206,
+      "stargazersCount": 205,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -417,8 +421,8 @@
       "releasesUrl": "https://api.github.com/repos/bakad3v/Android-AntiForensic-Tools/releases{/id}",
       "updatedAt": "2026-03-19T12:19:45Z",
       "latestReleaseDate": "2026-03-19T12:19:45Z",
-      "trendingScore": 206.0,
-      "popularityScore": 206,
+      "trendingScore": 205.0,
+      "popularityScore": 205,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -528,7 +532,7 @@
       "description": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/PdfViewer",
-      "stargazersCount": 1046,
+      "stargazersCount": 1047,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -542,8 +546,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/PdfViewer/releases{/id}",
       "updatedAt": "2026-07-30T22:59:39Z",
       "latestReleaseDate": "2026-07-30T22:59:39Z",
-      "trendingScore": 1046.0,
-      "popularityScore": 1046,
+      "trendingScore": 1047.0,
+      "popularityScore": 1047,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -561,7 +565,7 @@
       "description": "Private photo vault for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leonlatsch/Photok",
-      "stargazersCount": 982,
+      "stargazersCount": 980,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -578,8 +582,8 @@
       "releasesUrl": "https://api.github.com/repos/leonlatsch/Photok/releases{/id}",
       "updatedAt": "2026-10-12T21:47:56Z",
       "latestReleaseDate": "2026-10-12T21:47:56Z",
-      "trendingScore": 982.0,
-      "popularityScore": 982,
+      "trendingScore": 980.0,
+      "popularityScore": 980,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -597,7 +601,7 @@
       "description": "A simple app for discovering tools that respects your privacy.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/kaleedtc/Privacium",
-      "stargazersCount": 293,
+      "stargazersCount": 294,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -622,8 +626,8 @@
       "releasesUrl": "https://api.github.com/repos/kaleedtc/Privacium/releases{/id}",
       "updatedAt": "2026-07-28T19:52:54Z",
       "latestReleaseDate": "2026-07-28T19:52:54Z",
-      "trendingScore": 293.0,
-      "popularityScore": 293,
+      "trendingScore": 294.0,
+      "popularityScore": 294,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -729,7 +733,7 @@
       "description": "Radio frequency scanner with recon and offensive capabilities",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/thomasbuilds/Spectre",
-      "stargazersCount": 183,
+      "stargazersCount": 185,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -753,8 +757,8 @@
       "releasesUrl": "https://api.github.com/repos/thomasbuilds/Spectre/releases{/id}",
       "updatedAt": "2026-07-30T10:47:15Z",
       "latestReleaseDate": "2026-07-30T10:47:15Z",
-      "trendingScore": 183.0,
-      "popularityScore": 183,
+      "trendingScore": 185.0,
+      "popularityScore": 185,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
