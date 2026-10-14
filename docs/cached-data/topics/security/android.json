@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-14T08:42:15.890465+00:00",
+  "lastUpdated": "2026-10-14T23:54:16.329992+00:00",
   "totalCount": 21,
   "repositories": [
     {
@@ -115,7 +115,7 @@
       "description": "Powerful privacy tool to lock apps from intruders",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/aload0/AppLock",
-      "stargazersCount": 913,
+      "stargazersCount": 914,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -131,8 +131,8 @@
       "releasesUrl": "https://api.github.com/repos/aload0/AppLock/releases{/id}",
       "updatedAt": "2026-07-09T06:56:05Z",
       "latestReleaseDate": "2026-07-09T06:56:05Z",
-      "trendingScore": 913.0,
-      "popularityScore": 913,
+      "trendingScore": 914.0,
+      "popularityScore": 914,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -150,7 +150,7 @@
       "description": "Verify apps easily.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/soupslurpr/AppVerifier",
-      "stargazersCount": 1206,
+      "stargazersCount": 1205,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -171,8 +171,8 @@
       "releasesUrl": "https://api.github.com/repos/soupslurpr/AppVerifier/releases{/id}",
       "updatedAt": "2025-04-23T02:06:39Z",
       "latestReleaseDate": "2025-04-23T02:06:39Z",
-      "trendingScore": 1206.0,
-      "popularityScore": 1206,
+      "trendingScore": 1205.0,
+      "popularityScore": 1205,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -267,7 +267,7 @@
       "description": "Modern camera app focused on privacy and security with QR & barcode scanning.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/Camera",
-      "stargazersCount": 1406,
+      "stargazersCount": 1408,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -280,8 +280,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/Camera/releases{/id}",
       "updatedAt": "2026-08-01T22:01:24Z",
       "latestReleaseDate": "2026-08-01T22:01:24Z",
-      "trendingScore": 1406.0,
-      "popularityScore": 1406,
+      "trendingScore": 1408.0,
+      "popularityScore": 1408,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -532,7 +532,7 @@
       "description": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/PdfViewer",
-      "stargazersCount": 1047,
+      "stargazersCount": 1046,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -546,8 +546,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/PdfViewer/releases{/id}",
       "updatedAt": "2026-07-30T22:59:39Z",
       "latestReleaseDate": "2026-07-30T22:59:39Z",
-      "trendingScore": 1047.0,
-      "popularityScore": 1047,
+      "trendingScore": 1046.0,
+      "popularityScore": 1046,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -624,8 +624,8 @@
         "surveillance"
       ],
       "releasesUrl": "https://api.github.com/repos/kaleedtc/Privacium/releases{/id}",
-      "updatedAt": "2026-07-28T19:52:54Z",
-      "latestReleaseDate": "2026-07-28T19:52:54Z",
+      "updatedAt": "2026-10-14T19:32:20Z",
+      "latestReleaseDate": "2026-10-14T19:32:20Z",
       "trendingScore": 294.0,
       "popularityScore": 294,
       "dailyStars": 0,
@@ -645,7 +645,7 @@
       "description": "An Activist Grade Privacy & Security App that provides multi-layered defense by isolating data within encrypted sandbox, inaccessible to other apps, the OS, or unauthorized physical extraction - With the Belief \"Privacy Without the Tradeoff of Ease\"",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/duckniii/SeekPrivacy",
-      "stargazersCount": 89,
+      "stargazersCount": 88,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -673,8 +673,8 @@
       "releasesUrl": "https://api.github.com/repos/duckniii/SeekPrivacy/releases{/id}",
       "updatedAt": "2026-07-07T16:59:04Z",
       "latestReleaseDate": "2026-07-07T16:59:04Z",
-      "trendingScore": 89.0,
-      "popularityScore": 89,
+      "trendingScore": 88.0,
+      "popularityScore": 88,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -733,7 +733,7 @@
       "description": "Radio frequency scanner with recon and offensive capabilities",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/thomasbuilds/Spectre",
-      "stargazersCount": 185,
+      "stargazersCount": 186,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -757,8 +757,8 @@
       "releasesUrl": "https://api.github.com/repos/thomasbuilds/Spectre/releases{/id}",
       "updatedAt": "2026-07-30T10:47:15Z",
       "latestReleaseDate": "2026-07-30T10:47:15Z",
-      "trendingScore": 185.0,
-      "popularityScore": 185,
+      "trendingScore": 186.0,
+      "popularityScore": 186,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -776,7 +776,7 @@
       "description": "The VD Infos app reads several of these details and information to show you an example of what can be captured from your device in use.\u200b A.k.a VDInfos, VDInfo, VD Info.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/VD171/VD-Infos",
-      "stargazersCount": 172,
+      "stargazersCount": 174,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -804,8 +804,8 @@
       "releasesUrl": "https://api.github.com/repos/VD171/VD-Infos/releases{/id}",
       "updatedAt": "2026-10-01T14:49:52Z",
       "latestReleaseDate": "2026-10-01T14:49:52Z",
-      "trendingScore": 172.0,
-      "popularityScore": 172,
+      "trendingScore": 174.0,
+      "popularityScore": 174,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"

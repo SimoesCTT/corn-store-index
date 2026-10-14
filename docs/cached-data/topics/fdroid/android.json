@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-14T08:42:15.890465+00:00",
+  "lastUpdated": "2026-10-14T23:54:16.329992+00:00",
   "totalCount": 50,
   "repositories": [
     {
@@ -94,7 +94,7 @@
       "description": "",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/greenart7c3/Amber",
-      "stargazersCount": 355,
+      "stargazersCount": 357,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -102,10 +102,10 @@
         "nostr"
       ],
       "releasesUrl": "https://api.github.com/repos/greenart7c3/Amber/releases{/id}",
-      "updatedAt": "2026-10-12T11:06:20Z",
-      "latestReleaseDate": "2026-10-12T11:06:20Z",
-      "trendingScore": 355.0,
-      "popularityScore": 355,
+      "updatedAt": "2026-10-14T12:42:56Z",
+      "latestReleaseDate": "2026-10-14T12:42:56Z",
+      "trendingScore": 357.0,
+      "popularityScore": 357,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -123,7 +123,7 @@
       "description": "A monotone line-based icon pack for android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Arcticons-Team/Arcticons",
-      "stargazersCount": 1579,
+      "stargazersCount": 1580,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -140,8 +140,8 @@
       "releasesUrl": "https://api.github.com/repos/Arcticons-Team/Arcticons/releases{/id}",
       "updatedAt": "2026-10-10T17:03:29Z",
       "latestReleaseDate": "2026-10-10T17:03:29Z",
-      "trendingScore": 1579.0,
-      "popularityScore": 1579,
+      "trendingScore": 1580.0,
+      "popularityScore": 1580,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -190,7 +190,7 @@
       "description": "",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/simondankelmann/Bluetooth-LE-Spam",
-      "stargazersCount": 4951,
+      "stargazersCount": 4952,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -202,8 +202,8 @@
       "releasesUrl": "https://api.github.com/repos/simondankelmann/Bluetooth-LE-Spam/releases{/id}",
       "updatedAt": "2025-01-22T09:29:51Z",
       "latestReleaseDate": "2025-01-22T09:29:51Z",
-      "trendingScore": 4951.0,
-      "popularityScore": 4951,
+      "trendingScore": 4952.0,
+      "popularityScore": 4952,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -221,7 +221,7 @@
       "description": "Book's Story \u2014 Material You eBook reader built with Jetpack Compose. Free & Open source & Ad-free, with extensive customization options and support for multiple file formats.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Acclorite/book-story",
-      "stargazersCount": 1409,
+      "stargazersCount": 1408,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -248,8 +248,8 @@
       "releasesUrl": "https://api.github.com/repos/Acclorite/book-story/releases{/id}",
       "updatedAt": "2025-10-13T11:53:04Z",
       "latestReleaseDate": "2025-10-13T11:53:04Z",
-      "trendingScore": 1409.0,
-      "popularityScore": 1409,
+      "trendingScore": 1408.0,
+      "popularityScore": 1408,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -302,7 +302,7 @@
       "description": "A simple and beautiful calculator for Android downloaded more than 300k times",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/clementwzk/OpenCalc",
-      "stargazersCount": 1541,
+      "stargazersCount": 1540,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -319,8 +319,8 @@
       "releasesUrl": "https://api.github.com/repos/clementwzk/OpenCalc/releases{/id}",
       "updatedAt": "2025-09-21T14:45:14Z",
       "latestReleaseDate": "2025-09-21T14:45:14Z",
-      "trendingScore": 1541.0,
-      "popularityScore": 1541,
+      "trendingScore": 1540.0,
+      "popularityScore": 1540,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -419,7 +419,7 @@
       "description": "Customizable, privacy\u2011first, open-source clock app inspired by AOSP Clock",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/BlackyHawky/Clock",
-      "stargazersCount": 1143,
+      "stargazersCount": 1144,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -447,8 +447,8 @@
       "releasesUrl": "https://api.github.com/repos/BlackyHawky/Clock/releases{/id}",
       "updatedAt": "2026-10-12T15:06:22Z",
       "latestReleaseDate": "2026-10-12T15:06:22Z",
-      "trendingScore": 1143.0,
-      "popularityScore": 1143,
+      "trendingScore": 1144.0,
+      "popularityScore": 1144,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -541,7 +541,7 @@
       "description": "Clutterfree F-Droid client, [mirror] https://codeberg.org/droidify/client",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Droid-ify/client",
-      "stargazersCount": 7588,
+      "stargazersCount": 7590,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -555,8 +555,8 @@
       "releasesUrl": "https://api.github.com/repos/Droid-ify/client/releases{/id}",
       "updatedAt": "2026-09-12T18:59:36Z",
       "latestReleaseDate": "2026-09-12T18:59:36Z",
-      "trendingScore": 7588.0,
-      "popularityScore": 7588,
+      "trendingScore": 7590.0,
+      "popularityScore": 7590,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -722,7 +722,7 @@
       "description": "An android app to compress image, video and audio files through ffmpeg before sharing them",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/caydey/ffshare",
-      "stargazersCount": 1119,
+      "stargazersCount": 1121,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -736,8 +736,8 @@
       "releasesUrl": "https://api.github.com/repos/caydey/ffshare/releases{/id}",
       "updatedAt": "2026-08-14T12:32:41Z",
       "latestReleaseDate": "2026-08-14T12:32:41Z",
-      "trendingScore": 1119.0,
-      "popularityScore": 1119,
+      "trendingScore": 1121.0,
+      "popularityScore": 1121,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -755,7 +755,7 @@
       "description": "Yet Another FDroid Client (wide screen / TV friendly)",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/mlm-games/flicky",
-      "stargazersCount": 447,
+      "stargazersCount": 448,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -769,8 +769,8 @@
       "releasesUrl": "https://api.github.com/repos/mlm-games/flicky/releases{/id}",
       "updatedAt": "2026-10-08T03:24:29Z",
       "latestReleaseDate": "2026-10-08T03:24:29Z",
-      "trendingScore": 447.0,
-      "popularityScore": 447,
+      "trendingScore": 448.0,
+      "popularityScore": 448,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -858,7 +858,7 @@
       "description": "Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Pool-Of-Tears/GreenStash",
-      "stargazersCount": 790,
+      "stargazersCount": 789,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -884,8 +884,8 @@
       "releasesUrl": "https://api.github.com/repos/Pool-Of-Tears/GreenStash/releases{/id}",
       "updatedAt": "2026-05-24T09:07:54Z",
       "latestReleaseDate": "2026-05-24T09:07:54Z",
-      "trendingScore": 790.0,
-      "popularityScore": 790,
+      "trendingScore": 789.0,
+      "popularityScore": 789,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -991,7 +991,7 @@
       "description": "An open-source auto clicker on images for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Nain57/Smart-AutoClicker",
-      "stargazersCount": 3669,
+      "stargazersCount": 3672,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1004,8 +1004,8 @@
       "releasesUrl": "https://api.github.com/repos/Nain57/Smart-AutoClicker/releases{/id}",
       "updatedAt": "2026-10-10T10:22:29Z",
       "latestReleaseDate": "2026-10-10T10:22:29Z",
-      "trendingScore": 3669.0,
-      "popularityScore": 3669,
+      "trendingScore": 3672.0,
+      "popularityScore": 3672,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1023,7 +1023,7 @@
       "description": "An app to view libraries used in apps in your device.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/LibChecker/LibChecker",
-      "stargazersCount": 7253,
+      "stargazersCount": 7254,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1035,8 +1035,8 @@
       "releasesUrl": "https://api.github.com/repos/LibChecker/LibChecker/releases{/id}",
       "updatedAt": "2026-06-17T03:04:36Z",
       "latestReleaseDate": "2026-06-17T03:04:36Z",
-      "trendingScore": 7253.0,
-      "popularityScore": 7253,
+      "trendingScore": 7254.0,
+      "popularityScore": 7254,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1134,7 +1134,7 @@
       "description": "An app to help you capture thoughts and ideas",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/mudkipme/MoeMemosAndroid",
-      "stargazersCount": 1209,
+      "stargazersCount": 1211,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1150,8 +1150,8 @@
       "releasesUrl": "https://api.github.com/repos/mudkipme/MoeMemosAndroid/releases{/id}",
       "updatedAt": "2026-10-07T04:42:36Z",
       "latestReleaseDate": "2026-10-07T04:42:36Z",
-      "trendingScore": 1209.0,
-      "popularityScore": 1209,
+      "trendingScore": 1211.0,
+      "popularityScore": 1211,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1169,7 +1169,7 @@
       "description": "A music player on android platform, developed by Android composer",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/ZTFtrue/MonsterMusic",
-      "stargazersCount": 534,
+      "stargazersCount": 535,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1183,10 +1183,10 @@
         "music-player"
       ],
       "releasesUrl": "https://api.github.com/repos/ZTFtrue/MonsterMusic/releases{/id}",
-      "updatedAt": "2026-10-13T14:42:38Z",
-      "latestReleaseDate": "2026-10-13T14:42:38Z",
-      "trendingScore": 534.0,
-      "popularityScore": 534,
+      "updatedAt": "2026-10-14T14:28:58Z",
+      "latestReleaseDate": "2026-10-14T14:28:58Z",
+      "trendingScore": 535.0,
+      "popularityScore": 535,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1251,7 +1251,7 @@
       "description": "Unlock the full potential of music: Stream effortlessly with one app!",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/gokadzev/Musify",
-      "stargazersCount": 4323,
+      "stargazersCount": 4325,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1278,8 +1278,8 @@
       "releasesUrl": "https://api.github.com/repos/gokadzev/Musify/releases{/id}",
       "updatedAt": "2026-10-09T18:10:15Z",
       "latestReleaseDate": "2026-10-09T18:10:15Z",
-      "trendingScore": 4323.0,
-      "popularityScore": 4323,
+      "trendingScore": 4325.0,
+      "popularityScore": 4325,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1417,7 +1417,7 @@
       "description": "It's Android's first OpenOffice Document Reader!",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/opendocument-app/OpenDocument.droid",
-      "stargazersCount": 476,
+      "stargazersCount": 477,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1429,8 +1429,8 @@
       "releasesUrl": "https://api.github.com/repos/opendocument-app/OpenDocument.droid/releases{/id}",
       "updatedAt": "2026-10-10T13:52:13Z",
       "latestReleaseDate": "2026-10-10T13:52:13Z",
-      "trendingScore": 476.0,
-      "popularityScore": 476,
+      "trendingScore": 477.0,
+      "popularityScore": 477,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1494,7 +1494,7 @@
       "description": "\ud83d\udd25 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/plainhub/plain-app",
-      "stargazersCount": 6922,
+      "stargazersCount": 6927,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1522,8 +1522,8 @@
       "releasesUrl": "https://api.github.com/repos/plainhub/plain-app/releases{/id}",
       "updatedAt": "2026-09-11T14:10:31Z",
       "latestReleaseDate": "2026-09-11T14:10:31Z",
-      "trendingScore": 6922.0,
-      "popularityScore": 6922,
+      "trendingScore": 6927.0,
+      "popularityScore": 6927,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1686,7 +1686,7 @@
       "description": "Android app by TrianguloY: URLCheck",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/TrianguloY/URLCheck",
-      "stargazersCount": 2102,
+      "stargazersCount": 2103,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1699,8 +1699,8 @@
       "releasesUrl": "https://api.github.com/repos/TrianguloY/URLCheck/releases{/id}",
       "updatedAt": "2026-04-07T18:11:50Z",
       "latestReleaseDate": "2026-04-07T18:11:50Z",
-      "trendingScore": 2102.0,
-      "popularityScore": 2102,
+      "trendingScore": 2103.0,
+      "popularityScore": 2103,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
