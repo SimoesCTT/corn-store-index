@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T15:44:58.891673+00:00",
+  "generated_at": "2026-10-15T16:24:24.008598+00:00",
   "count": 263,
   "apps": [
     {
@@ -303,7 +303,7 @@
       "repo": "open-ani/animeko",
       "description": "\u96c6\u627e\u756a\u3001\u8ffd\u756a\u3001\u770b\u756a\u7684\u4e00\u7ad9\u5f0f\u5f39\u5e55\u8ffd\u756a\u5e73\u53f0\uff0c\u4e91\u6536\u85cf\u540c\u6b65 (Bangumi)\uff0c\u79bb\u7ebf\u7f13\u5b58\uff0cBitTorrent\uff0c\u5f39\u5e55\u4e91\u8fc7\u6ee4\u3002100% Kotlin/Compose Multiplatform",
       "license": "AGPL-3.0",
-      "stars": 20946,
+      "stars": 20948,
       "homepage": "https://animeko.org",
       "topics": [
         "android",
@@ -551,7 +551,7 @@
       "repo": "AudileTeam/Audile",
       "description": "An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.",
       "license": "GPL-3.0",
-      "stars": 1363,
+      "stars": 1364,
       "homepage": "",
       "topics": [
         "acrcloud",
@@ -587,7 +587,7 @@
       "repo": "OxygenCobalt/Auxio",
       "description": "A simple, rational music player for android",
       "license": "GPL-3.0",
-      "stars": 4362,
+      "stars": 4363,
       "homepage": "",
       "topics": [
         "album",
@@ -847,7 +847,7 @@
       "repo": "mardous/BoomingMusic",
       "description": "Clean, fast, and Material-driven Android music player with powerful features.",
       "license": "GPL-3.0",
-      "stars": 566,
+      "stars": 567,
       "homepage": "https://boomingmusic.org/",
       "topics": [
         "android",
@@ -2489,7 +2489,7 @@
       "repo": "florisboard/florisboard",
       "description": "An open-source keyboard for Android which respects your privacy. Currently in beta.",
       "license": "Apache-2.0",
-      "stars": 8705,
+      "stars": 8704,
       "homepage": "https://florisboard.org",
       "topics": [
         "android",
@@ -2641,7 +2641,7 @@
       "repo": "FossifyOrg/Gallery",
       "description": "Browse your memories without any interruptions with this photo and video gallery",
       "license": "GPL-3.0",
-      "stars": 3798,
+      "stars": 3799,
       "homepage": "https://www.fossify.org",
       "topics": [
         "android",
@@ -2733,7 +2733,7 @@
       "repo": "gkd-kit/gkd",
       "description": "\u57fa\u4e8e\u65e0\u969c\u788d\uff0c\u9ad8\u7ea7\u9009\u62e9\u5668\uff0c\u8ba2\u9605\u89c4\u5219\u7684\u81ea\u5b9a\u4e49\u5c4f\u5e55\u70b9\u51fb\u5b89\u5353\u5e94\u7528 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "license": "GPL-3.0",
-      "stars": 42888,
+      "stars": 42889,
       "homepage": "https://gkd.li",
       "topics": [
         "accessibility",
@@ -3526,7 +3526,7 @@
       "repo": "tiann/KernelSU",
       "description": "A Kernel based root solution for Android",
       "license": "GPL-3.0",
-      "stars": 19246,
+      "stars": 19249,
       "homepage": "https://kernelsu.org",
       "topics": [
         "android",
@@ -3794,7 +3794,7 @@
       "repo": "MM2-0/Kvaesitso",
       "description": "A search-focused Android launcher",
       "license": "GPL-3.0",
-      "stars": 5266,
+      "stars": 5268,
       "homepage": "https://kvaesitso.mm20.de/",
       "topics": [
         "android",
@@ -3884,7 +3884,7 @@
       "repo": "LawnchairLauncher/lawnchair",
       "description": "No clever tagline needed.",
       "license": "NOASSERTION",
-      "stars": 13712,
+      "stars": 13713,
       "homepage": "https://lawnchair.app",
       "topics": [
         "android",
@@ -4071,7 +4071,7 @@
       "repo": "librepods-org/librepods",
       "description": "AirPods liberated from Apple's ecosystem.",
       "license": "GPL-3.0",
-      "stars": 30318,
+      "stars": 30319,
       "homepage": "",
       "topics": [
         "accessiblity",
@@ -4137,7 +4137,7 @@
       "repo": "libre-tube/LibreTube",
       "description": "An alternative frontend for YouTube, for Android.",
       "license": "GPL-3.0",
-      "stars": 12821,
+      "stars": 12822,
       "homepage": "https://libretube.dev",
       "topics": [
         "android",
@@ -4503,7 +4503,7 @@
       "repo": "gsantner/markor",
       "description": "Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..",
       "license": "NOASSERTION",
-      "stars": 6294,
+      "stars": 6295,
       "homepage": "https://github.com/gsantner/markor/discussions/2269",
       "topics": [
         "android-app",
@@ -4570,7 +4570,7 @@
       "repo": "zhanghai/MaterialFiles",
       "description": "Material Design file manager for Android",
       "license": "GPL-3.0",
-      "stars": 9220,
+      "stars": 9221,
       "homepage": "https://play.google.com/store/apps/details?id=me.zhanghai.android.files",
       "topics": [
         "android",
@@ -4652,7 +4652,7 @@
       "repo": "MetrolistGroup/Metrolist",
       "description": "YouTube Music client for Android",
       "license": "GPL-3.0",
-      "stars": 13519,
+      "stars": 13520,
       "homepage": "https://metrolist.cc",
       "topics": [
         "android",
@@ -4696,7 +4696,7 @@
       "repo": "microg/GmsCore",
       "description": "Free implementation of Play Services",
       "license": "Apache-2.0",
-      "stars": 14874,
+      "stars": 14875,
       "homepage": "https://microg.org",
       "topics": [
         "android",
@@ -4734,7 +4734,7 @@
       "repo": "mihonapp/mihon",
       "description": "Free and open source manga reader for Android",
       "license": "Apache-2.0",
-      "stars": 24396,
+      "stars": 24398,
       "homepage": "",
       "topics": [
         "android",
@@ -4835,7 +4835,7 @@
       "repo": "mudkipme/MoeMemosAndroid",
       "description": "An app to help you capture thoughts and ideas",
       "license": "GPL-3.0",
-      "stars": 1213,
+      "stars": 1214,
       "homepage": "https://memos.moe",
       "topics": [
         "android-application",
@@ -5118,7 +5118,7 @@
       "repo": "gokadzev/Musify",
       "description": "Unlock the full potential of music: Stream effortlessly with one app!",
       "license": "GPL-3.0",
-      "stars": 4329,
+      "stars": 4330,
       "homepage": "https://gokadzev.github.io/Musify",
       "topics": [
         "android-app",
@@ -5369,7 +5369,7 @@
       "repo": "OmGodse/Notally",
       "description": "A beautiful notes app",
       "license": "GPL-3.0",
-      "stars": 2185,
+      "stars": 2186,
       "homepage": "",
       "topics": [
         "android",
@@ -6074,7 +6074,7 @@
       "repo": "FossifyOrg/Phone",
       "description": "A handy phone call manager with phonebook, number blocking and multi-SIM support",
       "license": "GPL-3.0",
-      "stars": 1365,
+      "stars": 1366,
       "homepage": "https://www.fossify.org",
       "topics": [
         "android",
@@ -6199,7 +6199,7 @@
       "repo": "plainhub/plain-app",
       "description": "\ud83d\udd25 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
       "license": "AGPL-3.0",
-      "stars": 6930,
+      "stars": 6931,
       "homepage": "https://plainapp.app",
       "topics": [
         "android",
@@ -7036,7 +7036,7 @@
       "repo": "maxrave-dev/SimpMusic",
       "description": "A cross-platform music app using YouTube Music for backend",
       "license": "GPL-3.0",
-      "stars": 12067,
+      "stars": 12066,
       "homepage": "https://simpmusic.org/",
       "topics": [
         "android",
@@ -7078,7 +7078,7 @@
       "repo": "yuliskov/SmartTube",
       "description": "Browse media content with your own rules on Android TV",
       "license": "MIT",
-      "stars": 34994,
+      "stars": 34997,
       "homepage": "https://smarttubeapp.github.io",
       "topics": [
         "android",
@@ -7945,7 +7945,7 @@
       "repo": "TrianguloY/URLCheck",
       "description": "Android app by TrianguloY: URLCheck",
       "license": "NOASSERTION",
-      "stars": 2105,
+      "stars": 2106,
       "homepage": "",
       "topics": [
         "android-application",
@@ -8044,7 +8044,7 @@
       "repo": "2dust/v2rayNG",
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "license": "GPL-3.0",
-      "stars": 64025,
+      "stars": 64027,
       "homepage": "https://v2rayng.2dust.link",
       "topics": [
         "android",
@@ -8286,7 +8286,7 @@
       "repo": "FossifyOrg/Voice-Recorder",
       "description": "An easy way of recording any discussion or sounds without ads or internet access",
       "license": "GPL-3.0",
-      "stars": 1016,
+      "stars": 1017,
       "homepage": "https://www.fossify.org",
       "topics": [
         "android",
@@ -8764,7 +8764,7 @@
       "repo": "deniscerri/ytdlnis",
       "description": "Full-featured audio/video downloader for Android using yt-dlp",
       "license": "GPL-3.0",
-      "stars": 10579,
+      "stars": 10581,
       "homepage": "https://ytdlnis.org",
       "topics": [
         "android",
