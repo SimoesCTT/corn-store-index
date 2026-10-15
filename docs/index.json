@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T23:54:16.329992+00:00",
+  "generated_at": "2026-10-15T00:31:31.342912+00:00",
   "count": 263,
   "apps": [
     {
@@ -2733,7 +2733,7 @@
       "repo": "gkd-kit/gkd",
       "description": "\u57fa\u4e8e\u65e0\u969c\u788d\uff0c\u9ad8\u7ea7\u9009\u62e9\u5668\uff0c\u8ba2\u9605\u89c4\u5219\u7684\u81ea\u5b9a\u4e49\u5c4f\u5e55\u70b9\u51fb\u5b89\u5353\u5e94\u7528 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "license": "GPL-3.0",
-      "stars": 42831,
+      "stars": 42832,
       "homepage": "https://gkd.li",
       "topics": [
         "accessibility",
@@ -3526,7 +3526,7 @@
       "repo": "tiann/KernelSU",
       "description": "A Kernel based root solution for Android",
       "license": "GPL-3.0",
-      "stars": 19211,
+      "stars": 19212,
       "homepage": "https://kernelsu.org",
       "topics": [
         "android",
@@ -3959,7 +3959,7 @@
       "repo": "LeanBitLab/LeanType",
       "description": "LeanType is an Open-source keyboard, fork of HeliBoard with additional features and customisation",
       "license": "GPL-3.0",
-      "stars": 1054,
+      "stars": 1055,
       "homepage": "https://leanbitlab.github.io/LeanBitLab/",
       "topics": [
         "ai-tools",
@@ -4071,7 +4071,7 @@
       "repo": "librepods-org/librepods",
       "description": "AirPods liberated from Apple's ecosystem.",
       "license": "GPL-3.0",
-      "stars": 30307,
+      "stars": 30309,
       "homepage": "",
       "topics": [
         "accessiblity",
@@ -4168,7 +4168,7 @@
       "repo": "dmzz-yyhyy/LightNovelReader",
       "description": "\u4e00\u6b3e\u57fa\u4e8eCompose\u7684\u591a\u6570\u636e\u6e90\u8f7b\u5c0f\u8bf4\u9605\u8bfb\u5668\u3002\u652f\u6301epub\u5bfc\u51fa\uff0c\u81ea\u5b9a\u4e49\u80cc\u666f\u6837\u5f0f\uff0c\u672c\u5730\u4e66\u67b6\u548c\u66f4\u65b0\u63d0\u9192\u7b49\u529f\u80fd\u3002",
       "license": "Apache-2.0",
-      "stars": 2239,
+      "stars": 2240,
       "homepage": "https://lnr.nariko.org",
       "topics": [
         "andriod-development",
@@ -4570,7 +4570,7 @@
       "repo": "zhanghai/MaterialFiles",
       "description": "Material Design file manager for Android",
       "license": "GPL-3.0",
-      "stars": 9212,
+      "stars": 9213,
       "homepage": "https://play.google.com/store/apps/details?id=me.zhanghai.android.files",
       "topics": [
         "android",
@@ -4696,7 +4696,7 @@
       "repo": "microg/GmsCore",
       "description": "Free implementation of Play Services",
       "license": "Apache-2.0",
-      "stars": 14866,
+      "stars": 14867,
       "homepage": "https://microg.org",
       "topics": [
         "android",
@@ -6779,7 +6779,7 @@
       "repo": "JunkFood02/Seal",
       "description": "\ud83e\uddad Video/Audio Downloader for Android, based on yt-dlp",
       "license": "GPL-3.0",
-      "stars": 29717,
+      "stars": 29718,
       "homepage": "",
       "topics": [
         "android",
@@ -7078,7 +7078,7 @@
       "repo": "yuliskov/SmartTube",
       "description": "Browse media content with your own rules on Android TV",
       "license": "MIT",
-      "stars": 34967,
+      "stars": 34968,
       "homepage": "https://smarttubeapp.github.io",
       "topics": [
         "android",
@@ -8044,7 +8044,7 @@
       "repo": "2dust/v2rayNG",
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "license": "GPL-3.0",
-      "stars": 63973,
+      "stars": 63976,
       "homepage": "https://v2rayng.2dust.link",
       "topics": [
         "android",
@@ -8255,7 +8255,7 @@
       "repo": "vivizzz007/vivi-music",
       "description": "Vivi-Music is an expressive Material 3\u2013based YouTube Music client for Android.",
       "license": "NOASSERTION",
-      "stars": 3649,
+      "stars": 3650,
       "homepage": "https://vivimusicapp.netlify.app/",
       "topics": [
         "android",
@@ -8945,7 +8945,7 @@
       "repo": "pppscn/SmsForwarder",
       "description": "\u77ed\u4fe1\u8f6c\u53d1\u5668\u2014\u2014\u76d1\u63a7Android\u624b\u673a\u77ed\u4fe1\u3001\u6765\u7535\u3001APP\u901a\u77e5\uff0c\u5e76\u6839\u636e\u6307\u5b9a\u89c4\u5219\u8f6c\u53d1\u5230\u5176\u4ed6\u624b\u673a\uff1a\u9489\u9489\u7fa4\u81ea\u5b9a\u4e49\u673a\u5668\u4eba\u3001\u9489\u9489\u4f01\u4e1a\u5185\u673a\u5668\u4eba\u3001\u4f01\u4e1a\u5fae\u4fe1\u7fa4\u673a\u5668\u4eba\u3001\u98de\u4e66\u673a\u5668\u4eba\u3001\u4f01\u4e1a\u5fae\u4fe1\u5e94\u7528\u6d88\u606f\u3001\u90ae\u7bb1\u3001bark\u3001webhook\u3001Telegram\u673a\u5668\u4eba\u3001Server\u9171\u3001PushPlus\u3001\u624b\u673a\u77ed\u4fe1\u7b49\u3002\u5305\u62ec\u4e3b\u52a8\u63a7\u5236\u670d\u52a1\u7aef\u4e0e\u5ba2\u6237\u7aef\uff0c\u8ba9\u4f60\u8f7b\u677e\u8fdc\u7a0b\u53d1\u77ed\u4fe1\u3001\u67e5\u77ed\u4fe1\u3001\u67e5\u901a\u8bdd\u3001\u67e5\u8bdd\u7c3f\u3001\u67e5\u7535\u91cf\u7b49\u3002\uff08V3.0 \u65b0\u589e\uff09PS.\u8fd9\u4e2aAPK\u4e3b\u8981\u662f\u5b66\u4e60\u4e0e\u81ea\u7528\uff0c\u5982\u6709BUG\u8bf7\u63d0ISSUE\uff0c\u540c\u65f6\u6b22\u8fce\u5927\u5bb6\u63d0PR\u6307\u6b63",
       "license": "BSD-2-Clause",
-      "stars": 28420,
+      "stars": 28421,
       "homepage": "",
       "topics": [
         "android",
