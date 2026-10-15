@@ -1,8 +1,8 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-15T09:10:16.700107+00:00",
-  "totalCount": 50,
+  "lastUpdated": "2026-10-15T15:44:58.891673+00:00",
+  "totalCount": 51,
   "repositories": [
     {
       "id": 8480531856245667233,
@@ -73,8 +73,8 @@
         "rxjava"
       ],
       "releasesUrl": "https://api.github.com/repos/TeamAmaze/AmazeFileManager/releases{/id}",
-      "updatedAt": "2026-07-30T06:04:09Z",
-      "latestReleaseDate": "2026-07-30T06:04:09Z",
+      "updatedAt": "2026-10-15T11:11:48Z",
+      "latestReleaseDate": "2026-10-15T11:11:48Z",
       "trendingScore": 6429.0,
       "popularityScore": 6429,
       "dailyStars": 0,
@@ -94,7 +94,7 @@
       "description": "",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/greenart7c3/Amber",
-      "stargazersCount": 357,
+      "stargazersCount": 356,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -104,8 +104,8 @@
       "releasesUrl": "https://api.github.com/repos/greenart7c3/Amber/releases{/id}",
       "updatedAt": "2026-10-14T12:42:56Z",
       "latestReleaseDate": "2026-10-14T12:42:56Z",
-      "trendingScore": 357.0,
-      "popularityScore": 357,
+      "trendingScore": 356.0,
+      "popularityScore": 356,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -221,7 +221,7 @@
       "description": "Book's Story \u2014 Material You eBook reader built with Jetpack Compose. Free & Open source & Ad-free, with extensive customization options and support for multiple file formats.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Acclorite/book-story",
-      "stargazersCount": 1409,
+      "stargazersCount": 1410,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -248,8 +248,8 @@
       "releasesUrl": "https://api.github.com/repos/Acclorite/book-story/releases{/id}",
       "updatedAt": "2025-10-13T11:53:04Z",
       "latestReleaseDate": "2025-10-13T11:53:04Z",
-      "trendingScore": 1409.0,
-      "popularityScore": 1409,
+      "trendingScore": 1410.0,
+      "popularityScore": 1410,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -541,7 +541,7 @@
       "description": "Clutterfree F-Droid client, [mirror] https://codeberg.org/droidify/client",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Droid-ify/client",
-      "stargazersCount": 7591,
+      "stargazersCount": 7592,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -555,8 +555,8 @@
       "releasesUrl": "https://api.github.com/repos/Droid-ify/client/releases{/id}",
       "updatedAt": "2026-09-12T18:59:36Z",
       "latestReleaseDate": "2026-09-12T18:59:36Z",
-      "trendingScore": 7591.0,
-      "popularityScore": 7591,
+      "trendingScore": 7592.0,
+      "popularityScore": 7592,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -722,7 +722,7 @@
       "description": "An android app to compress image, video and audio files through ffmpeg before sharing them",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/caydey/ffshare",
-      "stargazersCount": 1121,
+      "stargazersCount": 1123,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -736,8 +736,8 @@
       "releasesUrl": "https://api.github.com/repos/caydey/ffshare/releases{/id}",
       "updatedAt": "2026-08-14T12:32:41Z",
       "latestReleaseDate": "2026-08-14T12:32:41Z",
-      "trendingScore": 1121.0,
-      "popularityScore": 1121,
+      "trendingScore": 1123.0,
+      "popularityScore": 1123,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1023,7 +1023,7 @@
       "description": "An app to view libraries used in apps in your device.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/LibChecker/LibChecker",
-      "stargazersCount": 7257,
+      "stargazersCount": 7260,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1035,8 +1035,8 @@
       "releasesUrl": "https://api.github.com/repos/LibChecker/LibChecker/releases{/id}",
       "updatedAt": "2026-06-17T03:04:36Z",
       "latestReleaseDate": "2026-06-17T03:04:36Z",
-      "trendingScore": 7257.0,
-      "popularityScore": 7257,
+      "trendingScore": 7260.0,
+      "popularityScore": 7260,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1093,7 +1093,7 @@
       "description": "A lightweight, local-first Markdown note app for Android.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/jeiel85/markleaf-android",
-      "stargazersCount": 124,
+      "stargazersCount": 125,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1115,8 +1115,8 @@
       "releasesUrl": "https://api.github.com/repos/jeiel85/markleaf-android/releases{/id}",
       "updatedAt": "2026-10-15T01:08:05Z",
       "latestReleaseDate": "2026-10-15T01:08:05Z",
-      "trendingScore": 124.0,
-      "popularityScore": 124,
+      "trendingScore": 125.0,
+      "popularityScore": 125,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1251,7 +1251,7 @@
       "description": "Unlock the full potential of music: Stream effortlessly with one app!",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/gokadzev/Musify",
-      "stargazersCount": 4326,
+      "stargazersCount": 4329,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1278,8 +1278,8 @@
       "releasesUrl": "https://api.github.com/repos/gokadzev/Musify/releases{/id}",
       "updatedAt": "2026-10-09T18:10:15Z",
       "latestReleaseDate": "2026-10-09T18:10:15Z",
-      "trendingScore": 4326.0,
-      "popularityScore": 4326,
+      "trendingScore": 4329.0,
+      "popularityScore": 4329,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1297,7 +1297,7 @@
       "description": "An android app to download & read ebooks from Project Gutenberg, built with  Jetpack Compose.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Pool-Of-Tears/Myne",
-      "stargazersCount": 1535,
+      "stargazersCount": 1536,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1321,8 +1321,44 @@
       "releasesUrl": "https://api.github.com/repos/Pool-Of-Tears/Myne/releases{/id}",
       "updatedAt": "2026-08-21T17:21:10Z",
       "latestReleaseDate": "2026-08-21T17:21:10Z",
-      "trendingScore": 1535.0,
-      "popularityScore": 1535,
+      "trendingScore": 1536.0,
+      "popularityScore": 1536,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 139492091851931834,
+      "name": "noty",
+      "fullName": "usamaiqb/noty",
+      "owner": {
+        "login": "usamaiqb",
+        "avatarUrl": "https://github.com/usamaiqb.png"
+      },
+      "description": "Pin your notes to notifications \u2014 always visible, never forgotten.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/usamaiqb/noty",
+      "stargazersCount": 39,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "fdroid",
+        "jetpack-compose",
+        "note-taking",
+        "notes",
+        "notifications",
+        "persistent-notification",
+        "privacy",
+        "reminder"
+      ],
+      "releasesUrl": "https://api.github.com/repos/usamaiqb/noty/releases{/id}",
+      "updatedAt": "2026-10-11T06:12:23Z",
+      "latestReleaseDate": "2026-10-11T06:12:23Z",
+      "trendingScore": 39.0,
+      "popularityScore": 39,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1494,7 +1530,7 @@
       "description": "\ud83d\udd25 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/plainhub/plain-app",
-      "stargazersCount": 6929,
+      "stargazersCount": 6930,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1522,8 +1558,8 @@
       "releasesUrl": "https://api.github.com/repos/plainhub/plain-app/releases{/id}",
       "updatedAt": "2026-09-11T14:10:31Z",
       "latestReleaseDate": "2026-09-11T14:10:31Z",
-      "trendingScore": 6929.0,
-      "popularityScore": 6929,
+      "trendingScore": 6930.0,
+      "popularityScore": 6930,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1541,7 +1577,7 @@
       "description": "Remove the fear of Android app compatibility on de-Googled devices.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/techlore/Plexus-app",
-      "stargazersCount": 494,
+      "stargazersCount": 495,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1568,8 +1604,8 @@
       "releasesUrl": "https://api.github.com/repos/techlore/Plexus-app/releases{/id}",
       "updatedAt": "2026-07-28T22:34:31Z",
       "latestReleaseDate": "2026-07-28T22:34:31Z",
-      "trendingScore": 494.0,
-      "popularityScore": 494,
+      "trendingScore": 495.0,
+      "popularityScore": 495,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
