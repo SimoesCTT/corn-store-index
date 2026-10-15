@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T16:24:24.008598+00:00",
-  "count": 263,
+  "generated_at": "2026-10-15T16:41:10.567841+00:00",
+  "count": 264,
   "apps": [
     {
       "package": "com.twofasapp.pass",
@@ -103,7 +103,7 @@
       "repo": "accrescent/accrescent",
       "description": "A novel Android app store focused on security, privacy, and usability",
       "license": "Apache-2.0",
-      "stars": 2288,
+      "stars": 2289,
       "homepage": "https://accrescent.app",
       "topics": [
         "android",
@@ -303,7 +303,7 @@
       "repo": "open-ani/animeko",
       "description": "\u96c6\u627e\u756a\u3001\u8ffd\u756a\u3001\u770b\u756a\u7684\u4e00\u7ad9\u5f0f\u5f39\u5e55\u8ffd\u756a\u5e73\u53f0\uff0c\u4e91\u6536\u85cf\u540c\u6b65 (Bangumi)\uff0c\u79bb\u7ebf\u7f13\u5b58\uff0cBitTorrent\uff0c\u5f39\u5e55\u4e91\u8fc7\u6ee4\u3002100% Kotlin/Compose Multiplatform",
       "license": "AGPL-3.0",
-      "stars": 20948,
+      "stars": 20947,
       "homepage": "https://animeko.org",
       "topics": [
         "android",
@@ -1024,7 +1024,7 @@
       "repo": "FossifyOrg/Calendar",
       "description": "A simple calendar with events, customizable widgets and no ads.",
       "license": "GPL-3.0",
-      "stars": 2228,
+      "stars": 2229,
       "homepage": "https://www.fossify.org",
       "topics": [
         "android",
@@ -2641,7 +2641,7 @@
       "repo": "FossifyOrg/Gallery",
       "description": "Browse your memories without any interruptions with this photo and video gallery",
       "license": "GPL-3.0",
-      "stars": 3799,
+      "stars": 3800,
       "homepage": "https://www.fossify.org",
       "topics": [
         "android",
@@ -2733,7 +2733,7 @@
       "repo": "gkd-kit/gkd",
       "description": "\u57fa\u4e8e\u65e0\u969c\u788d\uff0c\u9ad8\u7ea7\u9009\u62e9\u5668\uff0c\u8ba2\u9605\u89c4\u5219\u7684\u81ea\u5b9a\u4e49\u5c4f\u5e55\u70b9\u51fb\u5b89\u5353\u5e94\u7528 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "license": "GPL-3.0",
-      "stars": 42889,
+      "stars": 42888,
       "homepage": "https://gkd.li",
       "topics": [
         "accessibility",
@@ -3685,7 +3685,7 @@
       "repo": "komi-store/komi-store",
       "description": "\ud83e\ude75 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo \u2014 browse, discover, and install apps with one click. Formerly GitHub Store.",
       "license": "Apache-2.0",
-      "stars": 19462,
+      "stars": 19463,
       "homepage": "https://www.komistore.app",
       "topics": [
         "android",
@@ -4137,7 +4137,7 @@
       "repo": "libre-tube/LibreTube",
       "description": "An alternative frontend for YouTube, for Android.",
       "license": "GPL-3.0",
-      "stars": 12822,
+      "stars": 12823,
       "homepage": "https://libretube.dev",
       "topics": [
         "android",
@@ -4623,7 +4623,7 @@
       "repo": "FossifyOrg/Messages",
       "description": "An easy and quick way of managing SMS and MMS messages without ads.",
       "license": "GPL-3.0",
-      "stars": 1597,
+      "stars": 1598,
       "homepage": "https://www.fossify.org",
       "topics": [
         "android",
@@ -5089,7 +5089,7 @@
       "repo": "FossifyOrg/Music-Player",
       "description": "A clean music player with a customizable widget, stylish interface and no ads.",
       "license": "GPL-3.0",
-      "stars": 941,
+      "stars": 942,
       "homepage": "https://www.fossify.org",
       "topics": [
         "android",
@@ -5358,6 +5358,29 @@
       "published_at": "2026-10-01T23:28:41Z",
       "signature_sha256": "c5860146138b7799bb9d0617c398c1e5241550f558252a3f97b2a51f15263ef7",
       "icon_url": "https://github.com/NeoApplications.png?size=128"
+    },
+    {
+      "package": "com.simoesctt.neurocardia",
+      "versionCode": "1",
+      "versionName": "0.2.0",
+      "minSdk": "26",
+      "targetSdk": "34",
+      "label": "NeuroCardia",
+      "repo": "SimoesCTT/NeuroCardia",
+      "description": "Free, open-source, on-device ECG analyzer for Android. Reads CSV and WFDB. Computes HRV and a phase-domain cardiac synchronization index from a Kuramoto coupled-oscillator network. No cloud, no accounts, no telemetry.",
+      "license": "NOASSERTION",
+      "stars": 0,
+      "homepage": "",
+      "topics": [],
+      "tag": "v0.2.0",
+      "release_url": "https://github.com/SimoesCTT/NeuroCardia/releases/tag/v0.2.0",
+      "apk_url": "https://github.com/SimoesCTT/NeuroCardia/releases/download/v0.2.0/app-release.apk",
+      "apk_name": "app-release.apk",
+      "apk_size": 6626502,
+      "download_count": 0,
+      "published_at": "2026-10-14T17:02:40Z",
+      "signature_sha256": "ac123428831cebf2ed1a1db3c690740837b48c2bd65813e40fbd8539ebde2f3d",
+      "icon_url": "https://github.com/SimoesCTT.png?size=128"
     },
     {
       "package": "com.omgodse.notally",
@@ -6199,7 +6222,7 @@
       "repo": "plainhub/plain-app",
       "description": "\ud83d\udd25 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
       "license": "AGPL-3.0",
-      "stars": 6931,
+      "stars": 6932,
       "homepage": "https://plainapp.app",
       "topics": [
         "android",
@@ -6601,7 +6624,7 @@
       "repo": "celzero/rethink-app",
       "description": "DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.",
       "license": "Apache-2.0",
-      "stars": 5589,
+      "stars": 5590,
       "homepage": "https://rethinkfirewall.com/",
       "topics": [
         "android",
@@ -6779,7 +6802,7 @@
       "repo": "JunkFood02/Seal",
       "description": "\ud83e\uddad Video/Audio Downloader for Android, based on yt-dlp",
       "license": "GPL-3.0",
-      "stars": 29734,
+      "stars": 29735,
       "homepage": "",
       "topics": [
         "android",
@@ -7078,7 +7101,7 @@
       "repo": "yuliskov/SmartTube",
       "description": "Browse media content with your own rules on Android TV",
       "license": "MIT",
-      "stars": 34997,
+      "stars": 34998,
       "homepage": "https://smarttubeapp.github.io",
       "topics": [
         "android",
@@ -8044,7 +8067,7 @@
       "repo": "2dust/v2rayNG",
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "license": "GPL-3.0",
-      "stars": 64027,
+      "stars": 64028,
       "homepage": "https://v2rayng.2dust.link",
       "topics": [
         "android",
@@ -8154,7 +8177,7 @@
       "repo": "venera-app/venera",
       "description": "A comic app",
       "license": "GPL-3.0",
-      "stars": 11193,
+      "stars": 11194,
       "homepage": "",
       "topics": [
         "android-app",
@@ -8986,7 +9009,7 @@
       "repo": "cwuom/NeriPlayer",
       "description": "A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / \u2728 \u4e00\u4e2a\u628a\u591a\u6e90\u5728\u7ebf\u64ad\u653e\u3001\u672c\u5730\u7ba1\u7406\u3001\u6b4c\u8bcd\u4f53\u9a8c\u548c\u81ea\u5efa\u540c\u6b65\u505a\u8fdb\u539f\u751f Android \u7684\u97f3\u9891\u64ad\u653e\u5668 \ud83c\udfb5",
       "license": "GPL-3.0",
-      "stars": 3783,
+      "stars": 3782,
       "homepage": "https://neri.kano.kim",
       "topics": [
         "android",

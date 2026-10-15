@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-15T16:24:24.008598+00:00",
+  "lastUpdated": "2026-10-15T16:41:10.567841+00:00",
   "totalCount": 130,
   "repositories": [
     {
@@ -48,7 +48,7 @@
       "description": "A novel Android app store focused on security, privacy, and usability",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/accrescent/accrescent",
-      "stargazersCount": 2288,
+      "stargazersCount": 2289,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -64,8 +64,8 @@
       "releasesUrl": "https://api.github.com/repos/accrescent/accrescent/releases{/id}",
       "updatedAt": "2025-11-10T19:08:39Z",
       "latestReleaseDate": "2025-11-10T19:08:39Z",
-      "trendingScore": 2288.0,
-      "popularityScore": 2288,
+      "trendingScore": 2289.0,
+      "popularityScore": 2289,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -161,7 +161,7 @@
       "description": "\u96c6\u627e\u756a\u3001\u8ffd\u756a\u3001\u770b\u756a\u7684\u4e00\u7ad9\u5f0f\u5f39\u5e55\u8ffd\u756a\u5e73\u53f0\uff0c\u4e91\u6536\u85cf\u540c\u6b65 (Bangumi)\uff0c\u79bb\u7ebf\u7f13\u5b58\uff0cBitTorrent\uff0c\u5f39\u5e55\u4e91\u8fc7\u6ee4\u3002100% Kotlin/Compose Multiplatform",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/open-ani/animeko",
-      "stargazersCount": 20948,
+      "stargazersCount": 20947,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -188,8 +188,8 @@
       "releasesUrl": "https://api.github.com/repos/open-ani/animeko/releases{/id}",
       "updatedAt": "2026-10-13T06:34:15Z",
       "latestReleaseDate": "2026-10-13T06:34:15Z",
-      "trendingScore": 20948.0,
-      "popularityScore": 20948,
+      "trendingScore": 20947.0,
+      "popularityScore": 20947,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -698,7 +698,7 @@
       "description": "A simple calendar with events, customizable widgets and no ads.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/Calendar",
-      "stargazersCount": 2228,
+      "stargazersCount": 2229,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -711,8 +711,8 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/Calendar/releases{/id}",
       "updatedAt": "2026-10-10T15:45:01Z",
       "latestReleaseDate": "2026-10-10T15:45:01Z",
-      "trendingScore": 2228.0,
-      "popularityScore": 2228,
+      "trendingScore": 2229.0,
+      "popularityScore": 2229,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1627,7 +1627,7 @@
       "description": "Browse your memories without any interruptions with this photo and video gallery",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/Gallery",
-      "stargazersCount": 3799,
+      "stargazersCount": 3800,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1640,8 +1640,8 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/Gallery/releases{/id}",
       "updatedAt": "2026-10-10T15:46:01Z",
       "latestReleaseDate": "2026-10-10T15:46:01Z",
-      "trendingScore": 3799.0,
-      "popularityScore": 3799,
+      "trendingScore": 3800.0,
+      "popularityScore": 3800,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1659,7 +1659,7 @@
       "description": "\u57fa\u4e8e\u65e0\u969c\u788d\uff0c\u9ad8\u7ea7\u9009\u62e9\u5668\uff0c\u8ba2\u9605\u89c4\u5219\u7684\u81ea\u5b9a\u4e49\u5c4f\u5e55\u70b9\u51fb\u5b89\u5353\u5e94\u7528 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/gkd-kit/gkd",
-      "stargazersCount": 42889,
+      "stargazersCount": 42888,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1678,8 +1678,8 @@
       "releasesUrl": "https://api.github.com/repos/gkd-kit/gkd/releases{/id}",
       "updatedAt": "2026-10-15T12:32:17Z",
       "latestReleaseDate": "2026-10-15T12:32:17Z",
-      "trendingScore": 42889.0,
-      "popularityScore": 42889,
+      "trendingScore": 42888.0,
+      "popularityScore": 42888,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2159,7 +2159,7 @@
       "description": "\ud83e\ude75 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo \u2014 browse, discover, and install apps with one click. Formerly GitHub Store.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/komi-store/komi-store",
-      "stargazersCount": 19462,
+      "stargazersCount": 19463,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2182,8 +2182,8 @@
       "releasesUrl": "https://api.github.com/repos/komi-store/komi-store/releases{/id}",
       "updatedAt": "2026-06-26T06:04:58Z",
       "latestReleaseDate": "2026-06-26T06:04:58Z",
-      "trendingScore": 19462.0,
-      "popularityScore": 19462,
+      "trendingScore": 19463.0,
+      "popularityScore": 19463,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2513,7 +2513,7 @@
       "description": "An alternative frontend for YouTube, for Android.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/libre-tube/LibreTube",
-      "stargazersCount": 12822,
+      "stargazersCount": 12823,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2528,8 +2528,8 @@
       "releasesUrl": "https://api.github.com/repos/libre-tube/LibreTube/releases{/id}",
       "updatedAt": "2026-09-02T09:31:35Z",
       "latestReleaseDate": "2026-09-02T09:31:35Z",
-      "trendingScore": 12822.0,
-      "popularityScore": 12822,
+      "trendingScore": 12823.0,
+      "popularityScore": 12823,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2658,7 +2658,7 @@
       "description": "An easy and quick way of managing SMS and MMS messages without ads.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/Messages",
-      "stargazersCount": 1597,
+      "stargazersCount": 1598,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2671,8 +2671,8 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/Messages/releases{/id}",
       "updatedAt": "2026-10-10T18:47:51Z",
       "latestReleaseDate": "2026-10-10T18:47:51Z",
-      "trendingScore": 1597.0,
-      "popularityScore": 1597,
+      "trendingScore": 1598.0,
+      "popularityScore": 1598,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2977,7 +2977,7 @@
       "description": "A clean music player with a customizable widget, stylish interface and no ads.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/Music-Player",
-      "stargazersCount": 941,
+      "stargazersCount": 942,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2990,8 +2990,8 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/Music-Player/releases{/id}",
       "updatedAt": "2026-10-10T21:13:27Z",
       "latestReleaseDate": "2026-10-10T21:13:27Z",
-      "trendingScore": 941.0,
-      "popularityScore": 941,
+      "trendingScore": 942.0,
+      "popularityScore": 942,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -3919,7 +3919,7 @@
       "description": "\ud83e\uddad Video/Audio Downloader for Android, based on yt-dlp",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/JunkFood02/Seal",
-      "stargazersCount": 29734,
+      "stargazersCount": 29735,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -3935,8 +3935,8 @@
       "releasesUrl": "https://api.github.com/repos/JunkFood02/Seal/releases{/id}",
       "updatedAt": "2024-11-29T15:46:57Z",
       "latestReleaseDate": "2024-11-29T15:46:57Z",
-      "trendingScore": 29734.0,
-      "popularityScore": 29734,
+      "trendingScore": 29735.0,
+      "popularityScore": 29735,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -4034,7 +4034,7 @@
       "description": "Browse media content with your own rules on Android TV",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/yuliskov/SmartTube",
-      "stargazersCount": 34997,
+      "stargazersCount": 34998,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -4049,8 +4049,8 @@
       "releasesUrl": "https://api.github.com/repos/yuliskov/SmartTube/releases{/id}",
       "updatedAt": "2026-09-23T23:20:23Z",
       "latestReleaseDate": "2026-09-23T23:20:23Z",
-      "trendingScore": 34997.0,
-      "popularityScore": 34997,
+      "trendingScore": 34998.0,
+      "popularityScore": 34998,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
