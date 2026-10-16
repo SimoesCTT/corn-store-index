@@ -1,8 +1,8 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-16T13:40:37.931019+00:00",
-  "totalCount": 40,
+  "lastUpdated": "2026-10-16T14:46:30.922258+00:00",
+  "totalCount": 41,
   "repositories": [
     {
       "id": 7634092923137580827,
@@ -456,7 +456,7 @@
       "description": "Disable / Hide / Suspend / Uninstall Android apps without root.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/aistra0528/Hail",
-      "stargazersCount": 6915,
+      "stargazersCount": 6916,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -471,8 +471,48 @@
       "releasesUrl": "https://api.github.com/repos/aistra0528/Hail/releases{/id}",
       "updatedAt": "2026-08-26T07:23:01Z",
       "latestReleaseDate": "2026-08-26T07:23:01Z",
-      "trendingScore": 6915.0,
-      "popularityScore": 6915,
+      "trendingScore": 6916.0,
+      "popularityScore": 6916,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 7790021146365960486,
+      "name": "Hiker-Watch-Android-",
+      "fullName": "naveenverma1/Hiker-Watch-Android-",
+      "owner": {
+        "login": "naveenverma1",
+        "avatarUrl": "https://github.com/naveenverma1.png"
+      },
+      "description": "",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/naveenverma1/Hiker-Watch-Android-",
+      "stargazersCount": 1,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-15",
+        "f-droid",
+        "foss",
+        "geolocation",
+        "gps",
+        "hiking",
+        "material-design",
+        "no-ads",
+        "no-trackers",
+        "open-source",
+        "outdoor",
+        "privacy"
+      ],
+      "releasesUrl": "https://api.github.com/repos/naveenverma1/Hiker-Watch-Android-/releases{/id}",
+      "updatedAt": "2026-05-27T15:22:53Z",
+      "latestReleaseDate": "2026-05-27T15:22:53Z",
+      "trendingScore": 1.0,
+      "popularityScore": 1,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -786,8 +826,8 @@
         "totp"
       ],
       "releasesUrl": "https://api.github.com/repos/Monica-Pass/Monica/releases{/id}",
-      "updatedAt": "2026-04-17T04:49:31Z",
-      "latestReleaseDate": "2026-04-17T04:49:31Z",
+      "updatedAt": "2026-10-16T14:30:38Z",
+      "latestReleaseDate": "2026-10-16T14:30:38Z",
       "trendingScore": 1119.0,
       "popularityScore": 1119,
       "dailyStars": 0,
@@ -1097,7 +1137,7 @@
       "description": "ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device!",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/kitsumed/ShizuCallRecorder",
-      "stargazersCount": 1758,
+      "stargazersCount": 1759,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1114,8 +1154,8 @@
       "releasesUrl": "https://api.github.com/repos/kitsumed/ShizuCallRecorder/releases{/id}",
       "updatedAt": "2026-08-12T02:47:09Z",
       "latestReleaseDate": "2026-08-12T02:47:09Z",
-      "trendingScore": 1758.0,
-      "popularityScore": 1758,
+      "trendingScore": 1759.0,
+      "popularityScore": 1759,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
