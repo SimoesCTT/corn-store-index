@@ -48,6 +48,7 @@ ALLOWLIST = [
     "SimoesCTT/ctt_android",
     "SimoesCTT/corn-store-app",
     "SimoesCTT/corn-store-index",
+    "SimoesCTT/AstroDash",
 ]
 
 # Never index these, even if they match a search.
