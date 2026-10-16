@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-16T12:43:44.873698+00:00",
+  "lastUpdated": "2026-10-16T13:40:37.931019+00:00",
   "totalCount": 51,
   "repositories": [
     {
@@ -283,7 +283,7 @@
       "downloadCount": 0
     },
     {
-      "id": 1238226026813006049,
+      "id": 7297522780989378535,
       "name": "Clock",
       "fullName": "BlackyHawky/Clock",
       "owner": {
@@ -319,8 +319,8 @@
         "widget"
       ],
       "releasesUrl": "https://api.github.com/repos/BlackyHawky/Clock/releases{/id}",
-      "updatedAt": "2026-10-12T15:06:22Z",
-      "latestReleaseDate": "2026-10-12T15:06:22Z",
+      "updatedAt": "2026-10-16T12:55:08Z",
+      "latestReleaseDate": "2026-10-16T12:55:08Z",
       "trendingScore": 1143.0,
       "popularityScore": 1143,
       "dailyStars": 0,
@@ -955,7 +955,7 @@
       "description": "YouTube Music client for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/MetrolistGroup/Metrolist",
-      "stargazersCount": 13541,
+      "stargazersCount": 13542,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -983,8 +983,8 @@
       "releasesUrl": "https://api.github.com/repos/MetrolistGroup/Metrolist/releases{/id}",
       "updatedAt": "2026-10-08T15:46:38Z",
       "latestReleaseDate": "2026-10-08T15:46:38Z",
-      "trendingScore": 13541.0,
-      "popularityScore": 13541,
+      "trendingScore": 13542.0,
+      "popularityScore": 13542,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1420,7 +1420,7 @@
       "description": "A simple app for discovering tools that respects your privacy.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/kaleedtc/Privacium",
-      "stargazersCount": 297,
+      "stargazersCount": 298,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1445,8 +1445,8 @@
       "releasesUrl": "https://api.github.com/repos/kaleedtc/Privacium/releases{/id}",
       "updatedAt": "2026-10-14T19:32:20Z",
       "latestReleaseDate": "2026-10-14T19:32:20Z",
-      "trendingScore": 297.0,
-      "popularityScore": 297,
+      "trendingScore": 298.0,
+      "popularityScore": 298,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1845,7 +1845,7 @@
       "description": "An advanced, open-source client for WireGuard and AmneziaWG on Android.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/wgtunnel/android",
-      "stargazersCount": 3263,
+      "stargazersCount": 3264,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1867,8 +1867,8 @@
       "releasesUrl": "https://api.github.com/repos/wgtunnel/android/releases{/id}",
       "updatedAt": "2026-10-14T03:30:58Z",
       "latestReleaseDate": "2026-10-14T03:30:58Z",
-      "trendingScore": 3263.0,
-      "popularityScore": 3263,
+      "trendingScore": 3264.0,
+      "popularityScore": 3264,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
