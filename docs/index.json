@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T14:46:30.922258+00:00",
+  "generated_at": "2026-10-16T19:12:38.656441+00:00",
   "count": 266,
   "apps": [
     {
@@ -13,7 +13,7 @@
       "repo": "twofas/2fas-pass-android",
       "description": "Source code for 2FAS Pass Android app",
       "license": "NOASSERTION",
-      "stars": 291,
+      "stars": 292,
       "homepage": "https://2fas.com",
       "topics": [
         "android",
@@ -303,7 +303,7 @@
       "repo": "open-ani/animeko",
       "description": "\u96c6\u627e\u756a\u3001\u8ffd\u756a\u3001\u770b\u756a\u7684\u4e00\u7ad9\u5f0f\u5f39\u5e55\u8ffd\u756a\u5e73\u53f0\uff0c\u4e91\u6536\u85cf\u540c\u6b65 (Bangumi)\uff0c\u79bb\u7ebf\u7f13\u5b58\uff0cBitTorrent\uff0c\u5f39\u5e55\u4e91\u8fc7\u6ee4\u3002100% Kotlin/Compose Multiplatform",
       "license": "AGPL-3.0",
-      "stars": 20973,
+      "stars": 20974,
       "homepage": "https://animeko.org",
       "topics": [
         "android",
@@ -346,7 +346,7 @@
       "repo": "ankidroid/Anki-Android",
       "description": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
       "license": "GPL-3.0",
-      "stars": 12024,
+      "stars": 12027,
       "homepage": "",
       "topics": [
         "android",
@@ -574,7 +574,7 @@
       "repo": "AudileTeam/Audile",
       "description": "An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.",
       "license": "GPL-3.0",
-      "stars": 1364,
+      "stars": 1363,
       "homepage": "",
       "topics": [
         "acrcloud",
@@ -610,7 +610,7 @@
       "repo": "OxygenCobalt/Auxio",
       "description": "A simple, rational music player for android",
       "license": "GPL-3.0",
-      "stars": 4365,
+      "stars": 4364,
       "homepage": "",
       "topics": [
         "album",
@@ -799,7 +799,7 @@
       "repo": "simondankelmann/Bluetooth-LE-Spam",
       "description": "",
       "license": "GPL-3.0",
-      "stars": 4954,
+      "stars": 4955,
       "homepage": "",
       "topics": [
         "android",
@@ -870,7 +870,7 @@
       "repo": "mardous/BoomingMusic",
       "description": "Clean, fast, and Material-driven Android music player with powerful features.",
       "license": "GPL-3.0",
-      "stars": 568,
+      "stars": 569,
       "homepage": "https://boomingmusic.org/",
       "topics": [
         "android",
@@ -930,8 +930,8 @@
     },
     {
       "package": "com.davidtakac.bura",
-      "versionCode": "20",
-      "versionName": "1.9.1",
+      "versionCode": "21",
+      "versionName": "1.9.2",
       "minSdk": "28",
       "targetSdk": "37",
       "label": "Bura",
@@ -950,13 +950,13 @@
         "prognoza",
         "weather"
       ],
-      "tag": "1.9.1",
-      "release_url": "https://github.com/davidtakac/bura/releases/tag/1.9.1",
-      "apk_url": "https://github.com/davidtakac/bura/releases/download/1.9.1/bura-1.9.1.apk",
-      "apk_name": "bura-1.9.1.apk",
+      "tag": "1.9.2",
+      "release_url": "https://github.com/davidtakac/bura/releases/tag/1.9.2",
+      "apk_url": "https://github.com/davidtakac/bura/releases/download/1.9.2/bura-1.9.2.apk",
+      "apk_name": "bura-1.9.2.apk",
       "apk_size": 3405805,
       "download_count": 0,
-      "published_at": "2026-10-15T22:30:22Z",
+      "published_at": "2026-10-16T16:17:35Z",
       "signature_sha256": "76c20914d1910058f183abbbf48036031a49f8a87d77bb9ac9bc715f468fe468",
       "icon_url": "https://github.com/davidtakac.png?size=128"
     },
@@ -1276,7 +1276,7 @@
       "repo": "WSTxda/Clippy",
       "description": "Copy links from the sharing menu with automatic removal of shorteners and trackers.",
       "license": "GPL-3.0",
-      "stars": 444,
+      "stars": 443,
       "homepage": "",
       "topics": [
         "android",
@@ -1346,7 +1346,7 @@
       "repo": "BlackyHawky/Clock",
       "description": "Customizable, privacy\u2011first, open-source clock app inspired by AOSP Clock",
       "license": "GPL-3.0",
-      "stars": 1144,
+      "stars": 1145,
       "homepage": "",
       "topics": [
         "alarm",
@@ -1379,6 +1379,29 @@
       "published_at": "2026-10-16T12:55:08Z",
       "signature_sha256": "958ecbd23cf3dc043b0a34372c068e34275ad8c1f2a1974d779163a222a8999e",
       "icon_url": "https://simoesctt.github.io/corn-store-index/icons/com.best.deskclock.debug.png"
+    },
+    {
+      "package": "com.cobplayer.app",
+      "versionCode": "1",
+      "versionName": "1.0.0",
+      "minSdk": "24",
+      "targetSdk": "35",
+      "label": "Cob Player",
+      "repo": "SimoesCTT/cob-player",
+      "description": "\ud83c\udf3d A modern Android media player \u2014 universal codecs, SMB/SFTP, cross-device resume, and a corn-themed UI that shits all over VLC.",
+      "license": "GPL-3.0",
+      "stars": 0,
+      "homepage": "",
+      "topics": [],
+      "tag": "v1.0.0",
+      "release_url": "https://github.com/SimoesCTT/cob-player/releases/tag/v1.0.0",
+      "apk_url": "https://github.com/SimoesCTT/cob-player/releases/download/v1.0.0/app-release.apk",
+      "apk_name": "app-release.apk",
+      "apk_size": 37835084,
+      "download_count": 0,
+      "published_at": "2026-10-16T19:02:50Z",
+      "signature_sha256": "b689c74aff5ca1bd0316e1bb6529b809e674d9cdc07ffd58f6dd0ef7ce50331a",
+      "icon_url": "https://github.com/SimoesCTT.png?size=128"
     },
     {
       "package": "com.bobek.compass",
@@ -1586,7 +1609,7 @@
       "repo": "bitfireAT/davx5-ose",
       "description": "DAVx\u2075 is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.",
       "license": "GPL-3.0",
-      "stars": 2955,
+      "stars": 2956,
       "homepage": "https://www.davx5.com",
       "topics": [
         "android",
@@ -1728,7 +1751,7 @@
       "repo": "Droid-ify/client",
       "description": "Clutterfree F-Droid client, [mirror] https://codeberg.org/droidify/client",
       "license": "GPL-3.0",
-      "stars": 7599,
+      "stars": 7601,
       "homepage": "https://droidify.app/",
       "topics": [
         "android",
@@ -2085,7 +2108,7 @@
       "repo": "pynicolas/FairScan",
       "description": "An Android app to scan your documents \u2014 simple and respectful",
       "license": "GPL-3.0",
-      "stars": 957,
+      "stars": 958,
       "homepage": "https://fairscan.org",
       "topics": [
         "android",
@@ -2213,7 +2236,7 @@
       "repo": "caydey/ffshare",
       "description": "An android app to compress image, video and audio files through ffmpeg before sharing them",
       "license": "GPL-3.0",
-      "stars": 1124,
+      "stars": 1125,
       "homepage": "",
       "topics": [
         "android",
@@ -2287,7 +2310,7 @@
       "repo": "FossifyOrg/File-Manager",
       "description": "Easy app for managing your files without ads, respecting your privacy & security",
       "license": "GPL-3.0",
-      "stars": 1810,
+      "stars": 1811,
       "homepage": "https://www.fossify.org/apps/file-manager/",
       "topics": [
         "android",
@@ -2482,7 +2505,7 @@
       "repo": "florisboard/florisboard",
       "description": "An open-source keyboard for Android which respects your privacy. Currently in beta.",
       "license": "Apache-2.0",
-      "stars": 8706,
+      "stars": 8705,
       "homepage": "https://florisboard.org",
       "topics": [
         "android",
@@ -2511,7 +2534,7 @@
       "repo": "chindaronit/Flux",
       "description": "Flux is an open-source Android app built around flexible workspaces and customizable spaces\u2014enabling you to organize notes, journals, tasks, events, and more, while adapting to your own systems as it evolves.",
       "license": "GPL-3.0",
-      "stars": 348,
+      "stars": 349,
       "homepage": "",
       "topics": [
         "android",
@@ -2634,7 +2657,7 @@
       "repo": "FossifyOrg/Gallery",
       "description": "Browse your memories without any interruptions with this photo and video gallery",
       "license": "GPL-3.0",
-      "stars": 3806,
+      "stars": 3805,
       "homepage": "https://www.fossify.org",
       "topics": [
         "android",
@@ -2663,7 +2686,7 @@
       "repo": "FeDeveloper95/Game-Hub",
       "description": "A simple launcher with material 3 expressive ui for all your games.",
       "license": "Apache-2.0",
-      "stars": 151,
+      "stars": 152,
       "homepage": "",
       "topics": [
         "android",
@@ -2835,7 +2858,7 @@
       "repo": "FoedusProgramme/Gramophone",
       "description": "A sane music player built with media3 and material design library that is following android's standard strictly.",
       "license": "GPL-3.0",
-      "stars": 2347,
+      "stars": 2348,
       "homepage": "",
       "topics": [
         "android",
@@ -2911,7 +2934,7 @@
       "repo": "iSoron/uhabits",
       "description": "Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits",
       "license": "GPL-3.0",
-      "stars": 10331,
+      "stars": 10332,
       "homepage": "",
       "topics": [
         "android",
@@ -2941,7 +2964,7 @@
       "repo": "aistra0528/Hail",
       "description": "Disable / Hide / Suspend / Uninstall Android apps without root.",
       "license": "GPL-3.0",
-      "stars": 6916,
+      "stars": 6918,
       "homepage": "",
       "topics": [
         "android",
@@ -2972,7 +2995,7 @@
       "repo": "anandnet/Harmony-Music",
       "description": "A cross platform App for streaming Music",
       "license": "GPL-3.0",
-      "stars": 3091,
+      "stars": 3092,
       "homepage": "",
       "topics": [
         "android-app",
@@ -3075,43 +3098,6 @@
       "icon_url": "https://github.com/HellGuy39.png?size=128"
     },
     {
-      "package": "com.nv.nvgeowatch",
-      "versionCode": "7",
-      "versionName": "2.5",
-      "minSdk": "21",
-      "targetSdk": "35",
-      "label": "Hiker's Watch",
-      "repo": "naveenverma1/Hiker-Watch-Android-",
-      "description": "",
-      "license": "MIT",
-      "stars": 1,
-      "homepage": "",
-      "topics": [
-        "android",
-        "android-15",
-        "f-droid",
-        "foss",
-        "geolocation",
-        "gps",
-        "hiking",
-        "material-design",
-        "no-ads",
-        "no-trackers",
-        "open-source",
-        "outdoor",
-        "privacy"
-      ],
-      "tag": "v2.5",
-      "release_url": "https://github.com/naveenverma1/Hiker-Watch-Android-/releases/tag/v2.5",
-      "apk_url": "https://github.com/naveenverma1/Hiker-Watch-Android-/releases/download/v2.5/app-release.apk",
-      "apk_name": "app-release.apk",
-      "apk_size": 2331373,
-      "download_count": 0,
-      "published_at": "2026-05-27T15:22:53Z",
-      "signature_sha256": "fdb5e39c20232f9054c08dcca2e327afa4134fa81c9fc8fea522ef6e6eca2d9c",
-      "icon_url": "https://github.com/naveenverma1.png?size=128"
-    },
-    {
       "package": "moe.antimony.hoshi",
       "versionCode": "10400",
       "versionName": "1.4.0",
@@ -3121,7 +3107,7 @@
       "repo": "HuangAntimony/Hoshi-Reader-Android",
       "description": "Hoshi Reader Android: Japanese EPUB reader with Yomitan lookup, Anki mining, audiobook read-along, and e-ink support.",
       "license": "GPL-3.0",
-      "stars": 441,
+      "stars": 440,
       "homepage": "",
       "topics": [
         "android",
@@ -3319,7 +3305,7 @@
       "repo": "IReaderorg/IReader",
       "description": "Free and open source novel reader for Android and Desktop.",
       "license": "Apache-2.0",
-      "stars": 972,
+      "stars": 971,
       "homepage": "https://ireaderorg.netlify.app/",
       "topics": [
         "android",
@@ -3513,8 +3499,8 @@
     },
     {
       "package": "org.hyperstarit.keepitapp",
-      "versionCode": "1010001",
-      "versionName": "1.1.0-beta.1",
+      "versionCode": "1010002",
+      "versionName": "1.1.0-beta.2",
       "minSdk": "34",
       "targetSdk": "36",
       "label": "keepIT",
@@ -3536,13 +3522,13 @@
         "notesapp",
         "noteshare"
       ],
-      "tag": "v1.1.0-beta.1",
-      "release_url": "https://github.com/Richy1989/keepIT/releases/tag/v1.1.0-beta.1",
-      "apk_url": "https://github.com/Richy1989/keepIT/releases/download/v1.1.0-beta.1/keepit-v1.1.0-beta.1-universal.apk",
-      "apk_name": "keepit-v1.1.0-beta.1-universal.apk",
+      "tag": "v1.1.0-beta.2",
+      "release_url": "https://github.com/Richy1989/keepIT/releases/tag/v1.1.0-beta.2",
+      "apk_url": "https://github.com/Richy1989/keepIT/releases/download/v1.1.0-beta.2/keepit-v1.1.0-beta.2-universal.apk",
+      "apk_name": "keepit-v1.1.0-beta.2-universal.apk",
       "apk_size": 6545105,
       "download_count": 0,
-      "published_at": "2026-10-16T13:21:21Z",
+      "published_at": "2026-10-16T18:24:41Z",
       "signature_sha256": "2a519c472795b06bcc8ecad140ccdd16cd36b51b1a9cbaa8f6fed3635e693c3a",
       "icon_url": "https://github.com/Richy1989.png?size=128"
     },
@@ -3556,7 +3542,7 @@
       "repo": "tiann/KernelSU",
       "description": "A Kernel based root solution for Android",
       "license": "GPL-3.0",
-      "stars": 19289,
+      "stars": 19293,
       "homepage": "https://kernelsu.org",
       "topics": [
         "android",
@@ -3585,7 +3571,7 @@
       "repo": "keymapperorg/KeyMapper",
       "description": "An Android app to remap the buttons on your devices",
       "license": "GPL-3.0",
-      "stars": 2741,
+      "stars": 2742,
       "homepage": "https://keymapper.app",
       "topics": [
         "accessibilityservice",
@@ -3715,7 +3701,7 @@
       "repo": "komi-store/komi-store",
       "description": "\ud83e\ude75 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo \u2014 browse, discover, and install apps with one click. Formerly GitHub Store.",
       "license": "Apache-2.0",
-      "stars": 19491,
+      "stars": 19498,
       "homepage": "https://www.komistore.app",
       "topics": [
         "android",
@@ -3754,7 +3740,7 @@
       "repo": "KusStar/krude",
       "description": "All in one app and workflow launcher / \u5c0f\u800c\u7f8e\u7684\u5e94\u7528\u542f\u52a8\u5668\u3002",
       "license": "MIT",
-      "stars": 169,
+      "stars": 170,
       "homepage": "https://krude.uselessthing.top/",
       "topics": [
         "android",
@@ -3824,7 +3810,7 @@
       "repo": "MM2-0/Kvaesitso",
       "description": "A search-focused Android launcher",
       "license": "GPL-3.0",
-      "stars": 5269,
+      "stars": 5268,
       "homepage": "https://kvaesitso.mm20.de/",
       "topics": [
         "android",
@@ -3914,7 +3900,7 @@
       "repo": "LawnchairLauncher/lawnchair",
       "description": "No clever tagline needed.",
       "license": "NOASSERTION",
-      "stars": 13718,
+      "stars": 13719,
       "homepage": "https://lawnchair.app",
       "topics": [
         "android",
@@ -3989,7 +3975,7 @@
       "repo": "LeanBitLab/LeanType",
       "description": "LeanType is an Open-source keyboard, fork of HeliBoard with additional features and customisation",
       "license": "GPL-3.0",
-      "stars": 1057,
+      "stars": 1055,
       "homepage": "https://leanbitlab.github.io/LeanBitLab/",
       "topics": [
         "ai-tools",
@@ -4030,7 +4016,7 @@
       "repo": "Swordfish90/Lemuroid",
       "description": "All in one emulator on Android!",
       "license": "GPL-3.0",
-      "stars": 4410,
+      "stars": 4409,
       "homepage": "",
       "topics": [
         "android",
@@ -4093,15 +4079,15 @@
     },
     {
       "package": "me.kavishdevar.librepods",
-      "versionCode": "100030302",
-      "versionName": "1.0.3-debug",
+      "versionCode": "100040301",
+      "versionName": "1.0.4-debug",
       "minSdk": "33",
       "targetSdk": "37",
       "label": "LibrePods",
       "repo": "librepods-org/librepods",
       "description": "AirPods liberated from Apple's ecosystem.",
       "license": "GPL-3.0",
-      "stars": 30331,
+      "stars": 30334,
       "homepage": "",
       "topics": [
         "accessiblity",
@@ -4115,13 +4101,13 @@
         "linux",
         "reverse-engineering"
       ],
-      "tag": "v1.0.3",
-      "release_url": "https://github.com/librepods-org/librepods/releases/tag/v1.0.3",
-      "apk_url": "https://github.com/librepods-org/librepods/releases/download/v1.0.3/LibrePods-FOSS-v1.0.3-100030302-debug.apk",
-      "apk_name": "LibrePods-FOSS-v1.0.3-100030302-debug.apk",
-      "apk_size": 55360371,
+      "tag": "v1.0.4",
+      "release_url": "https://github.com/librepods-org/librepods/releases/tag/v1.0.4",
+      "apk_url": "https://github.com/librepods-org/librepods/releases/download/v1.0.4/LibrePods-FOSS-v1.0.4-100040301-debug.apk",
+      "apk_name": "LibrePods-FOSS-v1.0.4-100040301-debug.apk",
+      "apk_size": 55423945,
       "download_count": 0,
-      "published_at": "2026-10-16T14:27:35Z",
+      "published_at": "2026-10-16T17:32:45Z",
       "signature_sha256": "b1b8511c0ff7b488458fa9c20622cdb2dea9205532f893ec1b90e6504bf4428e",
       "icon_url": "https://github.com/librepods-org.png?size=128"
     },
@@ -4190,15 +4176,15 @@
     },
     {
       "package": "indi.dmzz_yyhyy.lightnovelreader",
-      "versionCode": "10203005",
-      "versionName": "1.2.3d",
+      "versionCode": "10204004",
+      "versionName": "1.2.4",
       "minSdk": "24",
       "targetSdk": "37",
       "label": "LightNovelReader",
       "repo": "dmzz-yyhyy/LightNovelReader",
       "description": "\u4e00\u6b3e\u57fa\u4e8eCompose\u7684\u591a\u6570\u636e\u6e90\u8f7b\u5c0f\u8bf4\u9605\u8bfb\u5668\u3002\u652f\u6301epub\u5bfc\u51fa\uff0c\u81ea\u5b9a\u4e49\u80cc\u666f\u6837\u5f0f\uff0c\u672c\u5730\u4e66\u67b6\u548c\u66f4\u65b0\u63d0\u9192\u7b49\u529f\u80fd\u3002",
       "license": "Apache-2.0",
-      "stars": 2245,
+      "stars": 2247,
       "homepage": "https://lnr.nariko.org",
       "topics": [
         "andriod-development",
@@ -4218,13 +4204,13 @@
         "novels-search",
         "reader"
       ],
-      "tag": "1.2.3d",
-      "release_url": "https://github.com/dmzz-yyhyy/LightNovelReader/releases/tag/1.2.3d",
-      "apk_url": "https://github.com/dmzz-yyhyy/LightNovelReader/releases/download/1.2.3d/LightNovelReader-1.2.3d-release.apk",
-      "apk_name": "LightNovelReader-1.2.3d-release.apk",
-      "apk_size": 8744881,
+      "tag": "1.2.4",
+      "release_url": "https://github.com/dmzz-yyhyy/LightNovelReader/releases/tag/1.2.4",
+      "apk_url": "https://github.com/dmzz-yyhyy/LightNovelReader/releases/download/1.2.4/LightNovelReader-1.2.4-release.apk",
+      "apk_name": "LightNovelReader-1.2.4-release.apk",
+      "apk_size": 8748977,
       "download_count": 0,
-      "published_at": "2026-10-14T18:08:10Z",
+      "published_at": "2026-10-16T18:46:59Z",
       "signature_sha256": "a4dba642802705bdde367ad3c4ff623f0e25dfb275df22ae7b11b8f0edcb49a9",
       "icon_url": "https://github.com/dmzz-yyhyy.png?size=128"
     },
@@ -4435,7 +4421,7 @@
       "repo": "rama-io/mako",
       "description": "Minimal, privacy-first Android launcher designed for focus, speed, and simplicity.",
       "license": "GPL-3.0",
-      "stars": 267,
+      "stars": 268,
       "homepage": "https://rama-io.github.io",
       "topics": [
         "android",
@@ -4600,7 +4586,7 @@
       "repo": "zhanghai/MaterialFiles",
       "description": "Material Design file manager for Android",
       "license": "GPL-3.0",
-      "stars": 9230,
+      "stars": 9234,
       "homepage": "https://play.google.com/store/apps/details?id=me.zhanghai.android.files",
       "topics": [
         "android",
@@ -4682,7 +4668,7 @@
       "repo": "MetrolistGroup/Metrolist",
       "description": "YouTube Music client for Android",
       "license": "GPL-3.0",
-      "stars": 13543,
+      "stars": 13550,
       "homepage": "https://metrolist.cc",
       "topics": [
         "android",
@@ -4726,7 +4712,7 @@
       "repo": "microg/GmsCore",
       "description": "Free implementation of Play Services",
       "license": "Apache-2.0",
-      "stars": 14889,
+      "stars": 14891,
       "homepage": "https://microg.org",
       "topics": [
         "android",
@@ -4764,7 +4750,7 @@
       "repo": "mihonapp/mihon",
       "description": "Free and open source manga reader for Android",
       "license": "Apache-2.0",
-      "stars": 24430,
+      "stars": 24435,
       "homepage": "",
       "topics": [
         "android",
@@ -4897,7 +4883,7 @@
       "repo": "Monica-Pass/Monica",
       "description": " Monica Pass\uff0cPassword Management, 2FA Generator",
       "license": "GPL-3.0",
-      "stars": 1119,
+      "stars": 1121,
       "homepage": "https://monica-pass.github.io/MonicaDocs/",
       "topics": [
         "android",
@@ -4964,7 +4950,7 @@
       "repo": "moonlight-stream/moonlight-android",
       "description": "GameStream client for Android",
       "license": "GPL-3.0",
-      "stars": 7289,
+      "stars": 7290,
       "homepage": "",
       "topics": [
         "android-app",
@@ -4993,7 +4979,7 @@
       "repo": "CodeWorksCreativeHub/mLauncher",
       "description": "Minimal Launcher app for Android. Customized olauncher as I just started learning kotlin . ",
       "license": "GPL-3.0",
-      "stars": 309,
+      "stars": 308,
       "homepage": "https://mlauncher.5646316.xyz/",
       "topics": [
         "ad-free",
@@ -5080,7 +5066,7 @@
       "repo": "music-assistant/mobile-app",
       "description": "The (official) Music Assistant Mobile app is a cross-platform client application designed for Android and iOS. Developed using Kotlin Multiplatform (KMP) and Compose Multiplatform frameworks, this project aims to provide a unified codebase for seamless music management across multiple platforms.",
       "license": "Apache-2.0",
-      "stars": 672,
+      "stars": 673,
       "homepage": "",
       "topics": [
         "android",
@@ -5231,7 +5217,7 @@
       "repo": "namidaco/namida",
       "description": "A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter",
       "license": "NOASSERTION",
-      "stars": 6652,
+      "stars": 6655,
       "homepage": "",
       "topics": [
         "android",
@@ -5306,7 +5292,7 @@
       "repo": "yjeanrenaud/yj_nearbyglasses",
       "description": "attempting to detect smart glasses nearby and warn you",
       "license": "AGPL-3.0",
-      "stars": 2474,
+      "stars": 2473,
       "homepage": "",
       "topics": [
         "android",
@@ -5339,7 +5325,7 @@
       "repo": "MatsuriDayo/NekoBoxForAndroid",
       "description": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
       "license": "NOASSERTION",
-      "stars": 23134,
+      "stars": 23136,
       "homepage": "https://matsuridayo.github.io/",
       "topics": [
         "android",
@@ -5371,7 +5357,7 @@
       "repo": "NeoApplications/Neo-Store",
       "description": "An F-Droid client with modern UI and an arsenal of extra features.",
       "license": "GPL-3.0",
-      "stars": 5453,
+      "stars": 5455,
       "homepage": "",
       "topics": [
         "android",
@@ -5451,7 +5437,7 @@
       "repo": "alexdremov/notate",
       "description": "Powerful handwritten notes app for Onyx devices",
       "license": "MIT",
-      "stars": 53,
+      "stars": 54,
       "homepage": "",
       "topics": [
         "android",
@@ -5526,7 +5512,7 @@
       "repo": "FossifyOrg/Notes",
       "description": "A simple text field for adding quick notes without ads.",
       "license": "GPL-3.0",
-      "stars": 504,
+      "stars": 505,
       "homepage": "https://www.fossify.org",
       "topics": [
         "android",
@@ -5888,7 +5874,7 @@
       "repo": "Fandroid745/Open-notes",
       "description": "Open Notes is a minimal note taking app",
       "license": "GPL-3.0",
-      "stars": 64,
+      "stars": 63,
       "homepage": "",
       "topics": [
         "android",
@@ -5924,7 +5910,7 @@
       "repo": "opendocument-app/OpenDocument.droid",
       "description": "It's Android's first OpenOffice Document Reader!",
       "license": "MPL-2.0",
-      "stars": 477,
+      "stars": 478,
       "homepage": "https://opendocument.app/",
       "topics": [
         "android",
@@ -6127,7 +6113,7 @@
       "repo": "FossifyOrg/Phone",
       "description": "A handy phone call manager with phonebook, number blocking and multi-SIM support",
       "license": "GPL-3.0",
-      "stars": 1367,
+      "stars": 1369,
       "homepage": "https://www.fossify.org",
       "topics": [
         "android",
@@ -6178,15 +6164,15 @@
     },
     {
       "package": "dev.leonlatsch.photok",
-      "versionCode": "79",
-      "versionName": "3.6.2",
+      "versionCode": "80",
+      "versionName": "3.6.3",
       "minSdk": "28",
       "targetSdk": "37",
       "label": "Photok",
       "repo": "leonlatsch/Photok",
       "description": "Private photo vault for Android",
       "license": "Apache-2.0",
-      "stars": 982,
+      "stars": 981,
       "homepage": "https://photok.app",
       "topics": [
         "android",
@@ -6199,13 +6185,13 @@
         "safe",
         "security"
       ],
-      "tag": "3.6.2",
-      "release_url": "https://github.com/leonlatsch/Photok/releases/tag/3.6.2",
-      "apk_url": "https://github.com/leonlatsch/Photok/releases/download/3.6.2/photok-3.6.2-foss.apk",
-      "apk_name": "photok-3.6.2-foss.apk",
-      "apk_size": 13257169,
+      "tag": "3.6.3",
+      "release_url": "https://github.com/leonlatsch/Photok/releases/tag/3.6.3",
+      "apk_url": "https://github.com/leonlatsch/Photok/releases/download/3.6.3/photok-3.6.3-foss.apk",
+      "apk_name": "photok-3.6.3-foss.apk",
+      "apk_size": 13723261,
       "download_count": 0,
-      "published_at": "2026-10-12T21:47:56Z",
+      "published_at": "2026-10-16T18:08:05Z",
       "signature_sha256": "b704a2d2d58a37e95ab23496c39a819135b87a03b9b3f4c14d3fedcce9cc2c9a",
       "icon_url": "https://simoesctt.github.io/corn-store-index/icons/dev.leonlatsch.photok.png"
     },
@@ -6252,7 +6238,7 @@
       "repo": "plainhub/plain-app",
       "description": "\ud83d\udd25 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
       "license": "AGPL-3.0",
-      "stars": 6944,
+      "stars": 6948,
       "homepage": "https://plainapp.app",
       "topics": [
         "android",
@@ -6362,7 +6348,7 @@
       "repo": "techlore/Plexus-app",
       "description": "Remove the fear of Android app compatibility on de-Googled devices.",
       "license": "GPL-3.0",
-      "stars": 496,
+      "stars": 495,
       "homepage": "https://plexus.techlore.tech",
       "topics": [
         "android",
@@ -6654,7 +6640,7 @@
       "repo": "celzero/rethink-app",
       "description": "DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.",
       "license": "Apache-2.0",
-      "stars": 5593,
+      "stars": 5594,
       "homepage": "https://rethinkfirewall.com/",
       "topics": [
         "android",
@@ -6694,7 +6680,7 @@
       "repo": "RetroMusicPlayer/RetroMusicPlayer",
       "description": "Best Material You Design music player for Android",
       "license": "GPL-3.0",
-      "stars": 5354,
+      "stars": 5355,
       "homepage": "https://retromusic.app",
       "topics": [
         "android",
@@ -6728,7 +6714,7 @@
       "repo": "ReVanced/revanced-manager",
       "description": "\ud83d\udc8a Application to use ReVanced on Android ",
       "license": "GPL-3.0",
-      "stars": 29868,
+      "stars": 29867,
       "homepage": "https://revanced.app",
       "topics": [
         "android",
@@ -6832,7 +6818,7 @@
       "repo": "JunkFood02/Seal",
       "description": "\ud83e\uddad Video/Audio Downloader for Android, based on yt-dlp",
       "license": "GPL-3.0",
-      "stars": 29764,
+      "stars": 29773,
       "homepage": "",
       "topics": [
         "android",
@@ -6908,7 +6894,7 @@
       "repo": "shadowsocks/shadowsocks-android",
       "description": "A shadowsocks client for Android",
       "license": "NOASSERTION",
-      "stars": 36809,
+      "stars": 36811,
       "homepage": "",
       "topics": [
         "android",
@@ -6934,7 +6920,7 @@
       "repo": "CeuiLiSA/Pixiv-Shaft",
       "description": "Pixiv\u7b2c\u4e09\u65b9Android\u5ba2\u6237\u7aef",
       "license": "GPL-2.0",
-      "stars": 8089,
+      "stars": 8092,
       "homepage": "",
       "topics": [
         "android-app",
@@ -6993,7 +6979,7 @@
       "repo": "kitsumed/ShizuCallRecorder",
       "description": "ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device!",
       "license": "GPL-3.0",
-      "stars": 1759,
+      "stars": 1763,
       "homepage": "",
       "topics": [
         "adb",
@@ -7026,7 +7012,7 @@
       "repo": "thejaustin/ShizukuPlus",
       "description": "An enhanced fork of Shizuku \u2014 adds Root/ADB/Dhizuku unification, a Plus API suite, and OneUI/Android 16+ compatibility fixes, while staying fully compatible with existing Shizuku apps.",
       "license": "Apache-2.0",
-      "stars": 1454,
+      "stars": 1455,
       "homepage": "https://github.com/thejaustin/ShizukuPlus/wiki",
       "topics": [
         "adb",
@@ -7089,7 +7075,7 @@
       "repo": "maxrave-dev/SimpMusic",
       "description": "A cross-platform music app using YouTube Music for backend",
       "license": "GPL-3.0",
-      "stars": 12105,
+      "stars": 12112,
       "homepage": "https://simpmusic.org/",
       "topics": [
         "android",
@@ -7131,7 +7117,7 @@
       "repo": "yuliskov/SmartTube",
       "description": "Browse media content with your own rules on Android TV",
       "license": "MIT",
-      "stars": 35037,
+      "stars": 35045,
       "homepage": "https://smarttubeapp.github.io",
       "topics": [
         "android",
@@ -7276,7 +7262,7 @@
       "repo": "BobbyESP/Spowlo",
       "description": "A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library",
       "license": "GPL-3.0",
-      "stars": 1370,
+      "stars": 1371,
       "homepage": "https://t.me/spowlo_chatroom",
       "topics": [
         "android",
@@ -7355,7 +7341,7 @@
       "repo": "CluvexStudio/Strata",
       "description": "An open-source file manager for Android: two panes, archives, APK and DEX editing, a code editor, network storages and an encrypted vault. No ads, no accounts, no tracking.",
       "license": "AGPL-3.0",
-      "stars": 50,
+      "stars": 60,
       "homepage": "",
       "topics": [
         "7zip",
@@ -7602,7 +7588,7 @@
       "repo": "Mahmud0808/TeleDrive",
       "description": "Turn a private Telegram channel into your personal cloud drive. Android, Windows, Linux and macOS, auto backup, optional E2E encryption, built-in file manager and player.",
       "license": "Apache-2.0",
-      "stars": 289,
+      "stars": 293,
       "homepage": "https://mahmud0808.github.io/TeleDrive/",
       "topics": [
         "android",
@@ -7639,7 +7625,7 @@
       "repo": "eddyizm/tempus",
       "description": "An open source and lightweight music client for Subsonic, designed and built natively for Android.",
       "license": "GPL-3.0",
-      "stars": 1368,
+      "stars": 1369,
       "homepage": "https://eddyizm.github.io/tempus/",
       "topics": [
         "android",
@@ -7877,7 +7863,7 @@
       "repo": "ilianoKokoro/umihi-music",
       "description": "A simple Material YouTube Music player for Android made in Kotlin and Jetpack Compose",
       "license": "GPL-3.0",
-      "stars": 292,
+      "stars": 291,
       "homepage": "",
       "topics": [
         "android",
@@ -7943,7 +7929,7 @@
       "repo": "zhanghai/Untracker",
       "description": "App to help you remove tracking information before sharing links",
       "license": "Apache-2.0",
-      "stars": 630,
+      "stars": 631,
       "homepage": "https://play.google.com/store/apps/details?id=me.zhanghai.android.untracker",
       "topics": [
         "android",
@@ -8141,7 +8127,7 @@
       "repo": "2dust/v2rayNG",
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "license": "GPL-3.0",
-      "stars": 64076,
+      "stars": 64098,
       "homepage": "https://v2rayng.2dust.link",
       "topics": [
         "android",
@@ -8251,7 +8237,7 @@
       "repo": "venera-app/venera",
       "description": "A comic app",
       "license": "GPL-3.0",
-      "stars": 11202,
+      "stars": 11207,
       "homepage": "",
       "topics": [
         "android-app",
@@ -8352,7 +8338,7 @@
       "repo": "vivizzz007/vivi-music",
       "description": "Vivi-Music is an expressive Material 3\u2013based YouTube Music client for Android.",
       "license": "NOASSERTION",
-      "stars": 3676,
+      "stars": 3678,
       "homepage": "https://vivimusicapp.netlify.app/",
       "topics": [
         "android",
@@ -8383,7 +8369,7 @@
       "repo": "FossifyOrg/Voice-Recorder",
       "description": "An easy way of recording any discussion or sounds without ads or internet access",
       "license": "GPL-3.0",
-      "stars": 1017,
+      "stars": 1018,
       "homepage": "https://www.fossify.org",
       "topics": [
         "android",
@@ -8412,7 +8398,7 @@
       "repo": "okhsunrog/vpnhide",
       "description": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
       "license": "NOASSERTION",
-      "stars": 602,
+      "stars": 603,
       "homepage": "",
       "topics": [
         "android",
@@ -8523,7 +8509,7 @@
       "repo": "wgtunnel/android",
       "description": "An advanced, open-source client for WireGuard and AmneziaWG on Android.",
       "license": "MIT",
-      "stars": 3264,
+      "stars": 3266,
       "homepage": "https://wgtunnel.com",
       "topics": [
         "amnezia-vpn",
@@ -8702,7 +8688,7 @@
       "repo": "jovanovski/winboard",
       "description": "The Windows themed keyboard for Android with Windows 98, XP, Vista and Windows Phone 8.1 themes. No trackers, no network, typing stays on the phone.",
       "license": "GPL-3.0",
-      "stars": 46,
+      "stars": 47,
       "homepage": "",
       "topics": [
         "android",
@@ -8741,7 +8727,7 @@
       "repo": "wasi-master/wmkeyboard",
       "description": "A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem.",
       "license": "MIT",
-      "stars": 559,
+      "stars": 561,
       "homepage": "https://wmkeyboard.pages.dev",
       "topics": [
         "android",
@@ -8774,7 +8760,7 @@
       "repo": "Xed-Editor/Xed-Editor",
       "description": "Advanced Text Editor for Android ",
       "license": "GPL-3.0",
-      "stars": 2375,
+      "stars": 2377,
       "homepage": "https://xed-editor.app",
       "topics": [
         "android",
@@ -8861,7 +8847,7 @@
       "repo": "deniscerri/ytdlnis",
       "description": "Full-featured audio/video downloader for Android using yt-dlp",
       "license": "GPL-3.0",
-      "stars": 10598,
+      "stars": 10597,
       "homepage": "https://ytdlnis.org",
       "topics": [
         "android",
@@ -9004,7 +8990,7 @@
       "repo": "fumiama/copymanga",
       "description": "\u62f7\u8d1d\u6f2b\u753b\u7684\u7b2c\u4e09\u65b9APP\uff0c\u4ec5\u63d0\u4f9b\u57fa\u7840\u529f\u80fd\uff0c\u66f4\u591a\u4e30\u5bcc\u529f\u80fd\u8bf7\u79fb\u6b65\u5b98\u65b9\u7248\u672c",
       "license": "GPL-3.0",
-      "stars": 4352,
+      "stars": 4353,
       "homepage": "",
       "topics": [
         "android",
@@ -9042,7 +9028,7 @@
       "repo": "pppscn/SmsForwarder",
       "description": "\u77ed\u4fe1\u8f6c\u53d1\u5668\u2014\u2014\u76d1\u63a7Android\u624b\u673a\u77ed\u4fe1\u3001\u6765\u7535\u3001APP\u901a\u77e5\uff0c\u5e76\u6839\u636e\u6307\u5b9a\u89c4\u5219\u8f6c\u53d1\u5230\u5176\u4ed6\u624b\u673a\uff1a\u9489\u9489\u7fa4\u81ea\u5b9a\u4e49\u673a\u5668\u4eba\u3001\u9489\u9489\u4f01\u4e1a\u5185\u673a\u5668\u4eba\u3001\u4f01\u4e1a\u5fae\u4fe1\u7fa4\u673a\u5668\u4eba\u3001\u98de\u4e66\u673a\u5668\u4eba\u3001\u4f01\u4e1a\u5fae\u4fe1\u5e94\u7528\u6d88\u606f\u3001\u90ae\u7bb1\u3001bark\u3001webhook\u3001Telegram\u673a\u5668\u4eba\u3001Server\u9171\u3001PushPlus\u3001\u624b\u673a\u77ed\u4fe1\u7b49\u3002\u5305\u62ec\u4e3b\u52a8\u63a7\u5236\u670d\u52a1\u7aef\u4e0e\u5ba2\u6237\u7aef\uff0c\u8ba9\u4f60\u8f7b\u677e\u8fdc\u7a0b\u53d1\u77ed\u4fe1\u3001\u67e5\u77ed\u4fe1\u3001\u67e5\u901a\u8bdd\u3001\u67e5\u8bdd\u7c3f\u3001\u67e5\u7535\u91cf\u7b49\u3002\uff08V3.0 \u65b0\u589e\uff09PS.\u8fd9\u4e2aAPK\u4e3b\u8981\u662f\u5b66\u4e60\u4e0e\u81ea\u7528\uff0c\u5982\u6709BUG\u8bf7\u63d0ISSUE\uff0c\u540c\u65f6\u6b22\u8fce\u5927\u5bb6\u63d0PR\u6307\u6b63",
       "license": "BSD-2-Clause",
-      "stars": 28453,
+      "stars": 28454,
       "homepage": "",
       "topics": [
         "android",
@@ -9083,7 +9069,7 @@
       "repo": "cwuom/NeriPlayer",
       "description": "A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / \u2728 \u4e00\u4e2a\u628a\u591a\u6e90\u5728\u7ebf\u64ad\u653e\u3001\u672c\u5730\u7ba1\u7406\u3001\u6b4c\u8bcd\u4f53\u9a8c\u548c\u81ea\u5efa\u540c\u6b65\u505a\u8fdb\u539f\u751f Android \u7684\u97f3\u9891\u64ad\u653e\u5668 \ud83c\udfb5",
       "license": "GPL-3.0",
-      "stars": 3791,
+      "stars": 3793,
       "homepage": "https://neri.kano.kim",
       "topics": [
         "android",

@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-16T14:46:30.922258+00:00",
+  "lastUpdated": "2026-10-16T19:12:38.656441+00:00",
   "totalCount": 21,
   "repositories": [
     {
@@ -15,7 +15,7 @@
       "description": "Source code for 2FAS Pass Android app",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/twofas/2fas-pass-android",
-      "stargazersCount": 291,
+      "stargazersCount": 292,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -26,8 +26,8 @@
       "releasesUrl": "https://api.github.com/repos/twofas/2fas-pass-android/releases{/id}",
       "updatedAt": "2026-09-15T18:51:04Z",
       "latestReleaseDate": "2026-09-15T18:51:04Z",
-      "trendingScore": 291.0,
-      "popularityScore": 291,
+      "trendingScore": 292.0,
+      "popularityScore": 292,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -336,7 +336,7 @@
       "description": "Copy links from the sharing menu with automatic removal of shorteners and trackers.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/WSTxda/Clippy",
-      "stargazersCount": 444,
+      "stargazersCount": 443,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -361,8 +361,8 @@
       "releasesUrl": "https://api.github.com/repos/WSTxda/Clippy/releases{/id}",
       "updatedAt": "2026-02-22T23:50:06Z",
       "latestReleaseDate": "2026-02-22T23:50:06Z",
-      "trendingScore": 444.0,
-      "popularityScore": 444,
+      "trendingScore": 443.0,
+      "popularityScore": 443,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -565,7 +565,7 @@
       "description": "Private photo vault for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leonlatsch/Photok",
-      "stargazersCount": 982,
+      "stargazersCount": 981,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -580,10 +580,10 @@
         "security"
       ],
       "releasesUrl": "https://api.github.com/repos/leonlatsch/Photok/releases{/id}",
-      "updatedAt": "2026-10-12T21:47:56Z",
-      "latestReleaseDate": "2026-10-12T21:47:56Z",
-      "trendingScore": 982.0,
-      "popularityScore": 982,
+      "updatedAt": "2026-10-16T18:08:05Z",
+      "latestReleaseDate": "2026-10-16T18:08:05Z",
+      "trendingScore": 981.0,
+      "popularityScore": 981,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
