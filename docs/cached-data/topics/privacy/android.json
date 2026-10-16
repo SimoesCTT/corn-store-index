@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-16T12:25:36.442434+00:00",
+  "lastUpdated": "2026-10-16T12:43:44.873698+00:00",
   "totalCount": 40,
   "repositories": [
     {
@@ -1538,7 +1538,7 @@
       "description": "A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/wasi-master/wmkeyboard",
-      "stargazersCount": 558,
+      "stargazersCount": 559,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1555,8 +1555,8 @@
       "releasesUrl": "https://api.github.com/repos/wasi-master/wmkeyboard/releases{/id}",
       "updatedAt": "2026-10-14T14:41:01Z",
       "latestReleaseDate": "2026-10-14T14:41:01Z",
-      "trendingScore": 558.0,
-      "popularityScore": 558,
+      "trendingScore": 559.0,
+      "popularityScore": 559,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
