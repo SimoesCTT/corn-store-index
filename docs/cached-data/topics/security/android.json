@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-19T08:52:21.791475+00:00",
+  "lastUpdated": "2026-10-19T14:24:19.120679+00:00",
   "totalCount": 21,
   "repositories": [
     {
@@ -267,7 +267,7 @@
       "description": "Modern camera app focused on privacy and security with QR & barcode scanning.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/Camera",
-      "stargazersCount": 1410,
+      "stargazersCount": 1411,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -280,8 +280,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/Camera/releases{/id}",
       "updatedAt": "2026-08-01T22:01:24Z",
       "latestReleaseDate": "2026-08-01T22:01:24Z",
-      "trendingScore": 1410.0,
-      "popularityScore": 1410,
+      "trendingScore": 1411.0,
+      "popularityScore": 1411,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -440,7 +440,7 @@
       "description": "A password strength app that evaluates and rates your password's robustness, estimates crack time, and provides helpful warnings and suggestions for stronger passwords.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/StellarSand/IYPS",
-      "stargazersCount": 284,
+      "stargazersCount": 283,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -467,8 +467,8 @@
       "releasesUrl": "https://api.github.com/repos/StellarSand/IYPS/releases{/id}",
       "updatedAt": "2026-08-01T10:46:04Z",
       "latestReleaseDate": "2026-08-01T10:46:04Z",
-      "trendingScore": 284.0,
-      "popularityScore": 284,
+      "trendingScore": 283.0,
+      "popularityScore": 283,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -565,7 +565,7 @@
       "description": "Private photo vault for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leonlatsch/Photok",
-      "stargazersCount": 984,
+      "stargazersCount": 985,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -582,8 +582,8 @@
       "releasesUrl": "https://api.github.com/repos/leonlatsch/Photok/releases{/id}",
       "updatedAt": "2026-10-16T18:08:05Z",
       "latestReleaseDate": "2026-10-16T18:08:05Z",
-      "trendingScore": 984.0,
-      "popularityScore": 984,
+      "trendingScore": 985.0,
+      "popularityScore": 985,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"

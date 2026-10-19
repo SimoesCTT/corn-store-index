@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-19T08:52:21.791475+00:00",
+  "lastUpdated": "2026-10-19T14:24:19.120679+00:00",
   "totalCount": 3,
   "repositories": [
     {
@@ -15,7 +15,7 @@
       "description": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/ankidroid/Anki-Android",
-      "stargazersCount": 12047,
+      "stargazersCount": 12051,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -31,8 +31,8 @@
       "releasesUrl": "https://api.github.com/repos/ankidroid/Anki-Android/releases{/id}",
       "updatedAt": "2026-10-18T07:36:17Z",
       "latestReleaseDate": "2026-10-18T07:36:17Z",
-      "trendingScore": 12047.0,
-      "popularityScore": 12047,
+      "trendingScore": 12051.0,
+      "popularityScore": 12051,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -97,7 +97,7 @@
       "description": "Markdown Editor & Notebook for Android built with Jetpack Compose.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/YangDai2003/OpenNote-Compose",
-      "stargazersCount": 777,
+      "stargazersCount": 776,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -125,8 +125,8 @@
       "releasesUrl": "https://api.github.com/repos/YangDai2003/OpenNote-Compose/releases{/id}",
       "updatedAt": "2025-09-17T15:20:17Z",
       "latestReleaseDate": "2025-09-17T15:20:17Z",
-      "trendingScore": 777.0,
-      "popularityScore": 777,
+      "trendingScore": 776.0,
+      "popularityScore": 776,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
