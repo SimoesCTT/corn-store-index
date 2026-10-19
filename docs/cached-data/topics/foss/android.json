@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-19T05:53:38.225059+00:00",
+  "lastUpdated": "2026-10-19T07:17:32.836602+00:00",
   "totalCount": 51,
   "repositories": [
     {
@@ -229,7 +229,7 @@
       "description": "A simple calendar with events, customizable widgets and no ads.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/Calendar",
-      "stargazersCount": 2238,
+      "stargazersCount": 2239,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -242,8 +242,8 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/Calendar/releases{/id}",
       "updatedAt": "2026-10-10T15:45:01Z",
       "latestReleaseDate": "2026-10-10T15:45:01Z",
-      "trendingScore": 2238.0,
-      "popularityScore": 2238,
+      "trendingScore": 2239.0,
+      "popularityScore": 2239,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -618,7 +618,7 @@
       "description": "Easy app for managing your files without ads, respecting your privacy & security",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/File-Manager",
-      "stargazersCount": 1819,
+      "stargazersCount": 1820,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -631,8 +631,8 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/File-Manager/releases{/id}",
       "updatedAt": "2026-10-10T15:44:07Z",
       "latestReleaseDate": "2026-10-10T15:44:07Z",
-      "trendingScore": 1819.0,
-      "popularityScore": 1819,
+      "trendingScore": 1820.0,
+      "popularityScore": 1820,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -923,7 +923,7 @@
       "description": "An easy and quick way of managing SMS and MMS messages without ads.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/Messages",
-      "stargazersCount": 1608,
+      "stargazersCount": 1609,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -936,8 +936,8 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/Messages/releases{/id}",
       "updatedAt": "2026-10-10T18:47:51Z",
       "latestReleaseDate": "2026-10-10T18:47:51Z",
-      "trendingScore": 1608.0,
-      "popularityScore": 1608,
+      "trendingScore": 1609.0,
+      "popularityScore": 1609,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1072,7 +1072,7 @@
       "description": "An F-Droid client with modern UI and an arsenal of extra features.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/NeoApplications/Neo-Store",
-      "stargazersCount": 5473,
+      "stargazersCount": 5475,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1084,8 +1084,8 @@
       "releasesUrl": "https://api.github.com/repos/NeoApplications/Neo-Store/releases{/id}",
       "updatedAt": "2026-10-01T23:28:41Z",
       "latestReleaseDate": "2026-10-01T23:28:41Z",
-      "trendingScore": 5473.0,
-      "popularityScore": 5473,
+      "trendingScore": 5475.0,
+      "popularityScore": 5475,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1103,7 +1103,7 @@
       "description": "A simple text field for adding quick notes without ads.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/Notes",
-      "stargazersCount": 506,
+      "stargazersCount": 505,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1116,8 +1116,8 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/Notes/releases{/id}",
       "updatedAt": "2026-01-30T20:53:50Z",
       "latestReleaseDate": "2026-01-30T20:53:50Z",
-      "trendingScore": 506.0,
-      "popularityScore": 506,
+      "trendingScore": 505.0,
+      "popularityScore": 505,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1305,7 +1305,7 @@
       "description": "A handy phone call manager with phonebook, number blocking and multi-SIM support",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/Phone",
-      "stargazersCount": 1375,
+      "stargazersCount": 1376,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1318,8 +1318,8 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/Phone/releases{/id}",
       "updatedAt": "2026-02-03T02:36:25Z",
       "latestReleaseDate": "2026-02-03T02:36:25Z",
-      "trendingScore": 1375.0,
-      "popularityScore": 1375,
+      "trendingScore": 1376.0,
+      "popularityScore": 1376,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1834,7 +1834,7 @@
       "downloadCount": 0
     },
     {
-      "id": 7854926299480322979,
+      "id": 4502990342411197373,
       "name": "android",
       "fullName": "wgtunnel/android",
       "owner": {
@@ -1864,8 +1864,8 @@
         "wireguard-vpn"
       ],
       "releasesUrl": "https://api.github.com/repos/wgtunnel/android/releases{/id}",
-      "updatedAt": "2026-10-19T03:35:42Z",
-      "latestReleaseDate": "2026-10-19T03:35:42Z",
+      "updatedAt": "2026-10-19T07:01:46Z",
+      "latestReleaseDate": "2026-10-19T07:01:46Z",
       "trendingScore": 3279.0,
       "popularityScore": 3279,
       "dailyStars": 0,

@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-19T05:53:38.225059+00:00",
+  "lastUpdated": "2026-10-19T07:17:32.836602+00:00",
   "totalCount": 40,
   "repositories": [
     {
@@ -130,7 +130,7 @@
       "description": "Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/pass-with-high-score/blockads-android",
-      "stargazersCount": 2197,
+      "stargazersCount": 2198,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -155,8 +155,8 @@
       "releasesUrl": "https://api.github.com/repos/pass-with-high-score/blockads-android/releases{/id}",
       "updatedAt": "2026-10-14T18:04:26Z",
       "latestReleaseDate": "2026-10-14T18:04:26Z",
-      "trendingScore": 2197.0,
-      "popularityScore": 2197,
+      "trendingScore": 2198.0,
+      "popularityScore": 2198,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -456,7 +456,7 @@
       "description": "Disable / Hide / Suspend / Uninstall Android apps without root.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/aistra0528/Hail",
-      "stargazersCount": 6938,
+      "stargazersCount": 6939,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -471,8 +471,8 @@
       "releasesUrl": "https://api.github.com/repos/aistra0528/Hail/releases{/id}",
       "updatedAt": "2026-08-26T07:23:01Z",
       "latestReleaseDate": "2026-08-26T07:23:01Z",
-      "trendingScore": 6938.0,
-      "popularityScore": 6938,
+      "trendingScore": 6939.0,
+      "popularityScore": 6939,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -571,7 +571,7 @@
       "description": "\ud83e\ude75 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo \u2014 browse, discover, and install apps with one click. Formerly GitHub Store.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/komi-store/komi-store",
-      "stargazersCount": 19616,
+      "stargazersCount": 19618,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -589,8 +589,8 @@
       "releasesUrl": "https://api.github.com/repos/komi-store/komi-store/releases{/id}",
       "updatedAt": "2026-06-26T06:04:58Z",
       "latestReleaseDate": "2026-06-26T06:04:58Z",
-      "trendingScore": 19616.0,
-      "popularityScore": 19616,
+      "trendingScore": 19618.0,
+      "popularityScore": 19618,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -734,7 +734,7 @@
       "description": "An alternative frontend for YouTube, for Android.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/libre-tube/LibreTube",
-      "stargazersCount": 12844,
+      "stargazersCount": 12845,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -749,8 +749,8 @@
       "releasesUrl": "https://api.github.com/repos/libre-tube/LibreTube/releases{/id}",
       "updatedAt": "2026-09-02T09:31:35Z",
       "latestReleaseDate": "2026-09-02T09:31:35Z",
-      "trendingScore": 12844.0,
-      "popularityScore": 12844,
+      "trendingScore": 12845.0,
+      "popularityScore": 12845,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -806,7 +806,7 @@
       "description": " Monica Pass\uff0cPassword Management, 2FA Generator",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Monica-Pass/Monica",
-      "stargazersCount": 1142,
+      "stargazersCount": 1145,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -825,8 +825,8 @@
       "releasesUrl": "https://api.github.com/repos/Monica-Pass/Monica/releases{/id}",
       "updatedAt": "2026-04-17T04:49:31Z",
       "latestReleaseDate": "2026-04-17T04:49:31Z",
-      "trendingScore": 1142.0,
-      "popularityScore": 1142,
+      "trendingScore": 1145.0,
+      "popularityScore": 1145,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1133,7 +1133,7 @@
       "description": "ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device!",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/kitsumed/ShizuCallRecorder",
-      "stargazersCount": 1778,
+      "stargazersCount": 1779,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1150,8 +1150,8 @@
       "releasesUrl": "https://api.github.com/repos/kitsumed/ShizuCallRecorder/releases{/id}",
       "updatedAt": "2026-08-12T02:47:09Z",
       "latestReleaseDate": "2026-08-12T02:47:09Z",
-      "trendingScore": 1778.0,
-      "popularityScore": 1778,
+      "trendingScore": 1779.0,
+      "popularityScore": 1779,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1490,7 +1490,7 @@
       "description": "Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk)",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/okhsunrog/vpnhide",
-      "stargazersCount": 606,
+      "stargazersCount": 607,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1513,8 +1513,8 @@
       "releasesUrl": "https://api.github.com/repos/okhsunrog/vpnhide/releases{/id}",
       "updatedAt": "2026-10-12T15:25:23Z",
       "latestReleaseDate": "2026-10-12T15:25:23Z",
-      "trendingScore": 606.0,
-      "popularityScore": 606,
+      "trendingScore": 607.0,
+      "popularityScore": 607,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
