@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-18T08:04:55.502511+00:00",
+  "lastUpdated": "2026-10-19T05:53:38.225059+00:00",
   "totalCount": 21,
   "repositories": [
     {
@@ -15,7 +15,7 @@
       "description": "Source code for 2FAS Pass Android app",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/twofas/2fas-pass-android",
-      "stargazersCount": 293,
+      "stargazersCount": 294,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -26,8 +26,8 @@
       "releasesUrl": "https://api.github.com/repos/twofas/2fas-pass-android/releases{/id}",
       "updatedAt": "2026-09-15T18:51:04Z",
       "latestReleaseDate": "2026-09-15T18:51:04Z",
-      "trendingScore": 293.0,
-      "popularityScore": 293,
+      "trendingScore": 294.0,
+      "popularityScore": 294,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -115,7 +115,7 @@
       "description": "Powerful privacy tool to lock apps from intruders",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/aload0/AppLock",
-      "stargazersCount": 917,
+      "stargazersCount": 918,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -131,8 +131,8 @@
       "releasesUrl": "https://api.github.com/repos/aload0/AppLock/releases{/id}",
       "updatedAt": "2026-07-09T06:56:05Z",
       "latestReleaseDate": "2026-07-09T06:56:05Z",
-      "trendingScore": 917.0,
-      "popularityScore": 917,
+      "trendingScore": 918.0,
+      "popularityScore": 918,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -150,7 +150,7 @@
       "description": "Verify apps easily.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/soupslurpr/AppVerifier",
-      "stargazersCount": 1209,
+      "stargazersCount": 1210,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -171,8 +171,8 @@
       "releasesUrl": "https://api.github.com/repos/soupslurpr/AppVerifier/releases{/id}",
       "updatedAt": "2025-04-23T02:06:39Z",
       "latestReleaseDate": "2025-04-23T02:06:39Z",
-      "trendingScore": 1209.0,
-      "popularityScore": 1209,
+      "trendingScore": 1210.0,
+      "popularityScore": 1210,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -222,7 +222,7 @@
       "description": "Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Kin69/Athena",
-      "stargazersCount": 725,
+      "stargazersCount": 726,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -248,8 +248,8 @@
       "releasesUrl": "https://api.github.com/repos/Kin69/Athena/releases{/id}",
       "updatedAt": "2026-01-18T13:36:44Z",
       "latestReleaseDate": "2026-01-18T13:36:44Z",
-      "trendingScore": 725.0,
-      "popularityScore": 725,
+      "trendingScore": 726.0,
+      "popularityScore": 726,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -267,7 +267,7 @@
       "description": "Modern camera app focused on privacy and security with QR & barcode scanning.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/Camera",
-      "stargazersCount": 1408,
+      "stargazersCount": 1410,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -280,8 +280,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/Camera/releases{/id}",
       "updatedAt": "2026-08-01T22:01:24Z",
       "latestReleaseDate": "2026-08-01T22:01:24Z",
-      "trendingScore": 1408.0,
-      "popularityScore": 1408,
+      "trendingScore": 1410.0,
+      "popularityScore": 1410,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -380,7 +380,7 @@
       "description": "A realtime malware scanner (fork of Divestos version)| Maintained by: @Inhishonor",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/MaintainTeam/Hypatia",
-      "stargazersCount": 466,
+      "stargazersCount": 467,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -391,8 +391,8 @@
       "releasesUrl": "https://api.github.com/repos/MaintainTeam/Hypatia/releases{/id}",
       "updatedAt": "2026-02-20T17:47:33Z",
       "latestReleaseDate": "2026-02-20T17:47:33Z",
-      "trendingScore": 466.0,
-      "popularityScore": 466,
+      "trendingScore": 467.0,
+      "popularityScore": 467,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -532,7 +532,7 @@
       "description": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/PdfViewer",
-      "stargazersCount": 1047,
+      "stargazersCount": 1048,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -546,8 +546,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/PdfViewer/releases{/id}",
       "updatedAt": "2026-07-30T22:59:39Z",
       "latestReleaseDate": "2026-07-30T22:59:39Z",
-      "trendingScore": 1047.0,
-      "popularityScore": 1047,
+      "trendingScore": 1048.0,
+      "popularityScore": 1048,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -565,7 +565,7 @@
       "description": "Private photo vault for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leonlatsch/Photok",
-      "stargazersCount": 982,
+      "stargazersCount": 984,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -582,8 +582,8 @@
       "releasesUrl": "https://api.github.com/repos/leonlatsch/Photok/releases{/id}",
       "updatedAt": "2026-10-16T18:08:05Z",
       "latestReleaseDate": "2026-10-16T18:08:05Z",
-      "trendingScore": 982.0,
-      "popularityScore": 982,
+      "trendingScore": 984.0,
+      "popularityScore": 984,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
