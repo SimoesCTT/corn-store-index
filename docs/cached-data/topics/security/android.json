@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-19T15:04:15.503597+00:00",
+  "lastUpdated": "2026-10-20T08:34:17.616309+00:00",
   "totalCount": 21,
   "repositories": [
     {
@@ -45,7 +45,7 @@
       "description": "A novel Android app store focused on security, privacy, and usability",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/accrescent/accrescent",
-      "stargazersCount": 2292,
+      "stargazersCount": 2294,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -61,8 +61,8 @@
       "releasesUrl": "https://api.github.com/repos/accrescent/accrescent/releases{/id}",
       "updatedAt": "2025-11-10T19:08:39Z",
       "latestReleaseDate": "2025-11-10T19:08:39Z",
-      "trendingScore": 2292.0,
-      "popularityScore": 2292,
+      "trendingScore": 2294.0,
+      "popularityScore": 2294,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -80,7 +80,7 @@
       "description": "Unlock your Android phone with an alternative PIN, and run any root command when you enter it. Works before the first unlock after a reboot. (Xposed)",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leohearts/AlternativeUnlockXposed",
-      "stargazersCount": 202,
+      "stargazersCount": 203,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -96,8 +96,8 @@
       "releasesUrl": "https://api.github.com/repos/leohearts/AlternativeUnlockXposed/releases{/id}",
       "updatedAt": "2026-10-07T04:47:19Z",
       "latestReleaseDate": "2026-10-07T04:47:19Z",
-      "trendingScore": 202.0,
-      "popularityScore": 202,
+      "trendingScore": 203.0,
+      "popularityScore": 203,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -299,7 +299,7 @@
       "description": "Notes. Encrypted. Local. Nothing more.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/CipherApps/cipher-notes",
-      "stargazersCount": 46,
+      "stargazersCount": 47,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -317,8 +317,8 @@
       "releasesUrl": "https://api.github.com/repos/CipherApps/cipher-notes/releases{/id}",
       "updatedAt": "2026-09-19T10:58:51Z",
       "latestReleaseDate": "2026-09-19T10:58:51Z",
-      "trendingScore": 46.0,
-      "popularityScore": 46,
+      "trendingScore": 47.0,
+      "popularityScore": 47,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -565,7 +565,7 @@
       "description": "Private photo vault for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leonlatsch/Photok",
-      "stargazersCount": 985,
+      "stargazersCount": 986,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -580,10 +580,10 @@
         "security"
       ],
       "releasesUrl": "https://api.github.com/repos/leonlatsch/Photok/releases{/id}",
-      "updatedAt": "2026-10-16T18:08:05Z",
-      "latestReleaseDate": "2026-10-16T18:08:05Z",
-      "trendingScore": 985.0,
-      "popularityScore": 985,
+      "updatedAt": "2026-10-19T21:21:14Z",
+      "latestReleaseDate": "2026-10-19T21:21:14Z",
+      "trendingScore": 986.0,
+      "popularityScore": 986,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -601,7 +601,7 @@
       "description": "A simple app for discovering tools that respects your privacy.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/kaleedtc/Privacium",
-      "stargazersCount": 297,
+      "stargazersCount": 298,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -626,8 +626,8 @@
       "releasesUrl": "https://api.github.com/repos/kaleedtc/Privacium/releases{/id}",
       "updatedAt": "2026-10-14T19:32:20Z",
       "latestReleaseDate": "2026-10-14T19:32:20Z",
-      "trendingScore": 297.0,
-      "popularityScore": 297,
+      "trendingScore": 298.0,
+      "popularityScore": 298,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -733,7 +733,7 @@
       "description": "Radio frequency scanner with recon and offensive capabilities",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/thomasbuilds/Spectre",
-      "stargazersCount": 188,
+      "stargazersCount": 189,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -757,8 +757,8 @@
       "releasesUrl": "https://api.github.com/repos/thomasbuilds/Spectre/releases{/id}",
       "updatedAt": "2026-07-30T10:47:15Z",
       "latestReleaseDate": "2026-07-30T10:47:15Z",
-      "trendingScore": 188.0,
-      "popularityScore": 188,
+      "trendingScore": 189.0,
+      "popularityScore": 189,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -776,7 +776,7 @@
       "description": "The VD Infos app reads several of these details and information to show you an example of what can be captured from your device in use.\u200b A.k.a VDInfos, VDInfo, VD Info.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/VD171/VD-Infos",
-      "stargazersCount": 179,
+      "stargazersCount": 181,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -804,8 +804,8 @@
       "releasesUrl": "https://api.github.com/repos/VD171/VD-Infos/releases{/id}",
       "updatedAt": "2026-10-01T14:49:52Z",
       "latestReleaseDate": "2026-10-01T14:49:52Z",
-      "trendingScore": 179.0,
-      "popularityScore": 179,
+      "trendingScore": 181.0,
+      "popularityScore": 181,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
