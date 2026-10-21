@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-20T20:30:24.976104+00:00",
+  "lastUpdated": "2026-10-21T08:36:16.081727+00:00",
   "totalCount": 7,
   "repositories": [
     {
@@ -213,7 +213,7 @@
       "description": "\ud83d\udd25 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/plainhub/plain-app",
-      "stargazersCount": 6989,
+      "stargazersCount": 6995,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -241,8 +241,8 @@
       "releasesUrl": "https://api.github.com/repos/plainhub/plain-app/releases{/id}",
       "updatedAt": "2026-09-11T14:10:31Z",
       "latestReleaseDate": "2026-09-11T14:10:31Z",
-      "trendingScore": 6989.0,
-      "popularityScore": 6989,
+      "trendingScore": 6995.0,
+      "popularityScore": 6995,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
