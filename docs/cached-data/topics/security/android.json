@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-21T08:36:16.081727+00:00",
+  "lastUpdated": "2026-10-22T08:36:31.194936+00:00",
   "totalCount": 21,
   "repositories": [
     {
@@ -45,7 +45,7 @@
       "description": "A novel Android app store focused on security, privacy, and usability",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/accrescent/accrescent",
-      "stargazersCount": 2295,
+      "stargazersCount": 2296,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -61,8 +61,8 @@
       "releasesUrl": "https://api.github.com/repos/accrescent/accrescent/releases{/id}",
       "updatedAt": "2025-11-10T19:08:39Z",
       "latestReleaseDate": "2025-11-10T19:08:39Z",
-      "trendingScore": 2295.0,
-      "popularityScore": 2295,
+      "trendingScore": 2296.0,
+      "popularityScore": 2296,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -115,7 +115,7 @@
       "description": "Powerful privacy tool to lock apps from intruders",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/aload0/AppLock",
-      "stargazersCount": 919,
+      "stargazersCount": 918,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -131,8 +131,8 @@
       "releasesUrl": "https://api.github.com/repos/aload0/AppLock/releases{/id}",
       "updatedAt": "2026-07-09T06:56:05Z",
       "latestReleaseDate": "2026-07-09T06:56:05Z",
-      "trendingScore": 919.0,
-      "popularityScore": 919,
+      "trendingScore": 918.0,
+      "popularityScore": 918,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -150,7 +150,7 @@
       "description": "Verify apps easily.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/soupslurpr/AppVerifier",
-      "stargazersCount": 1210,
+      "stargazersCount": 1211,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -171,8 +171,8 @@
       "releasesUrl": "https://api.github.com/repos/soupslurpr/AppVerifier/releases{/id}",
       "updatedAt": "2025-04-23T02:06:39Z",
       "latestReleaseDate": "2025-04-23T02:06:39Z",
-      "trendingScore": 1210.0,
-      "popularityScore": 1210,
+      "trendingScore": 1211.0,
+      "popularityScore": 1211,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -267,7 +267,7 @@
       "description": "Modern camera app focused on privacy and security with QR & barcode scanning.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/Camera",
-      "stargazersCount": 1412,
+      "stargazersCount": 1413,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -280,8 +280,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/Camera/releases{/id}",
       "updatedAt": "2026-08-01T22:01:24Z",
       "latestReleaseDate": "2026-08-01T22:01:24Z",
-      "trendingScore": 1412.0,
-      "popularityScore": 1412,
+      "trendingScore": 1413.0,
+      "popularityScore": 1413,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -336,7 +336,7 @@
       "description": "Copy links from the sharing menu with automatic removal of shorteners and trackers.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/WSTxda/Clippy",
-      "stargazersCount": 442,
+      "stargazersCount": 441,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -361,8 +361,8 @@
       "releasesUrl": "https://api.github.com/repos/WSTxda/Clippy/releases{/id}",
       "updatedAt": "2026-02-22T23:50:06Z",
       "latestReleaseDate": "2026-02-22T23:50:06Z",
-      "trendingScore": 442.0,
-      "popularityScore": 442,
+      "trendingScore": 441.0,
+      "popularityScore": 441,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -532,7 +532,7 @@
       "description": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/PdfViewer",
-      "stargazersCount": 1052,
+      "stargazersCount": 1054,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -546,8 +546,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/PdfViewer/releases{/id}",
       "updatedAt": "2026-07-30T22:59:39Z",
       "latestReleaseDate": "2026-07-30T22:59:39Z",
-      "trendingScore": 1052.0,
-      "popularityScore": 1052,
+      "trendingScore": 1054.0,
+      "popularityScore": 1054,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -565,7 +565,7 @@
       "description": "Private photo vault for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leonlatsch/Photok",
-      "stargazersCount": 986,
+      "stargazersCount": 987,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -582,8 +582,8 @@
       "releasesUrl": "https://api.github.com/repos/leonlatsch/Photok/releases{/id}",
       "updatedAt": "2026-10-19T21:21:14Z",
       "latestReleaseDate": "2026-10-19T21:21:14Z",
-      "trendingScore": 986.0,
-      "popularityScore": 986,
+      "trendingScore": 987.0,
+      "popularityScore": 987,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -601,7 +601,7 @@
       "description": "A simple app for discovering tools that respects your privacy.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/kaleedtc/Privacium",
-      "stargazersCount": 301,
+      "stargazersCount": 299,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -626,8 +626,8 @@
       "releasesUrl": "https://api.github.com/repos/kaleedtc/Privacium/releases{/id}",
       "updatedAt": "2026-10-14T19:32:20Z",
       "latestReleaseDate": "2026-10-14T19:32:20Z",
-      "trendingScore": 301.0,
-      "popularityScore": 301,
+      "trendingScore": 299.0,
+      "popularityScore": 299,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -645,7 +645,7 @@
       "description": "An Activist Grade Privacy & Security App that provides multi-layered defense by isolating data within encrypted sandbox, inaccessible to other apps, the OS, or unauthorized physical extraction - With the Belief \"Privacy Without the Tradeoff of Ease\"",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/duckniii/SeekPrivacy",
-      "stargazersCount": 89,
+      "stargazersCount": 90,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -673,8 +673,8 @@
       "releasesUrl": "https://api.github.com/repos/duckniii/SeekPrivacy/releases{/id}",
       "updatedAt": "2026-07-07T16:59:04Z",
       "latestReleaseDate": "2026-07-07T16:59:04Z",
-      "trendingScore": 89.0,
-      "popularityScore": 89,
+      "trendingScore": 90.0,
+      "popularityScore": 90,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -776,7 +776,7 @@
       "description": "The VD Infos app reads several of these details and information to show you an example of what can be captured from your device in use.\u200b A.k.a VDInfos, VDInfo, VD Info.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/VD171/VD-Infos",
-      "stargazersCount": 181,
+      "stargazersCount": 182,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -804,8 +804,8 @@
       "releasesUrl": "https://api.github.com/repos/VD171/VD-Infos/releases{/id}",
       "updatedAt": "2026-10-01T14:49:52Z",
       "latestReleaseDate": "2026-10-01T14:49:52Z",
-      "trendingScore": 181.0,
-      "popularityScore": 181,
+      "trendingScore": 182.0,
+      "popularityScore": 182,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
