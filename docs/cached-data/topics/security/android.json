@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-22T08:36:31.194936+00:00",
+  "lastUpdated": "2026-10-23T08:35:25.457766+00:00",
   "totalCount": 21,
   "repositories": [
     {
@@ -45,7 +45,7 @@
       "description": "A novel Android app store focused on security, privacy, and usability",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/accrescent/accrescent",
-      "stargazersCount": 2296,
+      "stargazersCount": 2297,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -61,8 +61,8 @@
       "releasesUrl": "https://api.github.com/repos/accrescent/accrescent/releases{/id}",
       "updatedAt": "2025-11-10T19:08:39Z",
       "latestReleaseDate": "2025-11-10T19:08:39Z",
-      "trendingScore": 2296.0,
-      "popularityScore": 2296,
+      "trendingScore": 2297.0,
+      "popularityScore": 2297,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -80,7 +80,7 @@
       "description": "Unlock your Android phone with an alternative PIN, and run any root command when you enter it. Works before the first unlock after a reboot. (Xposed)",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leohearts/AlternativeUnlockXposed",
-      "stargazersCount": 203,
+      "stargazersCount": 204,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -96,8 +96,8 @@
       "releasesUrl": "https://api.github.com/repos/leohearts/AlternativeUnlockXposed/releases{/id}",
       "updatedAt": "2026-10-07T04:47:19Z",
       "latestReleaseDate": "2026-10-07T04:47:19Z",
-      "trendingScore": 203.0,
-      "popularityScore": 203,
+      "trendingScore": 204.0,
+      "popularityScore": 204,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -115,7 +115,7 @@
       "description": "Powerful privacy tool to lock apps from intruders",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/aload0/AppLock",
-      "stargazersCount": 918,
+      "stargazersCount": 917,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -131,8 +131,8 @@
       "releasesUrl": "https://api.github.com/repos/aload0/AppLock/releases{/id}",
       "updatedAt": "2026-07-09T06:56:05Z",
       "latestReleaseDate": "2026-07-09T06:56:05Z",
-      "trendingScore": 918.0,
-      "popularityScore": 918,
+      "trendingScore": 917.0,
+      "popularityScore": 917,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -267,7 +267,7 @@
       "description": "Modern camera app focused on privacy and security with QR & barcode scanning.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/Camera",
-      "stargazersCount": 1413,
+      "stargazersCount": 1414,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -280,8 +280,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/Camera/releases{/id}",
       "updatedAt": "2026-08-01T22:01:24Z",
       "latestReleaseDate": "2026-08-01T22:01:24Z",
-      "trendingScore": 1413.0,
-      "popularityScore": 1413,
+      "trendingScore": 1414.0,
+      "popularityScore": 1414,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -336,7 +336,7 @@
       "description": "Copy links from the sharing menu with automatic removal of shorteners and trackers.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/WSTxda/Clippy",
-      "stargazersCount": 441,
+      "stargazersCount": 442,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -361,8 +361,8 @@
       "releasesUrl": "https://api.github.com/repos/WSTxda/Clippy/releases{/id}",
       "updatedAt": "2026-02-22T23:50:06Z",
       "latestReleaseDate": "2026-02-22T23:50:06Z",
-      "trendingScore": 441.0,
-      "popularityScore": 441,
+      "trendingScore": 442.0,
+      "popularityScore": 442,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -532,7 +532,7 @@
       "description": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/PdfViewer",
-      "stargazersCount": 1054,
+      "stargazersCount": 1055,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -546,8 +546,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/PdfViewer/releases{/id}",
       "updatedAt": "2026-07-30T22:59:39Z",
       "latestReleaseDate": "2026-07-30T22:59:39Z",
-      "trendingScore": 1054.0,
-      "popularityScore": 1054,
+      "trendingScore": 1055.0,
+      "popularityScore": 1055,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -565,7 +565,7 @@
       "description": "Private photo vault for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leonlatsch/Photok",
-      "stargazersCount": 987,
+      "stargazersCount": 988,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -582,8 +582,8 @@
       "releasesUrl": "https://api.github.com/repos/leonlatsch/Photok/releases{/id}",
       "updatedAt": "2026-10-19T21:21:14Z",
       "latestReleaseDate": "2026-10-19T21:21:14Z",
-      "trendingScore": 987.0,
-      "popularityScore": 987,
+      "trendingScore": 988.0,
+      "popularityScore": 988,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -733,7 +733,7 @@
       "description": "Radio frequency scanner with recon and offensive capabilities",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/thomasbuilds/Spectre",
-      "stargazersCount": 189,
+      "stargazersCount": 190,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -757,8 +757,8 @@
       "releasesUrl": "https://api.github.com/repos/thomasbuilds/Spectre/releases{/id}",
       "updatedAt": "2026-07-30T10:47:15Z",
       "latestReleaseDate": "2026-07-30T10:47:15Z",
-      "trendingScore": 189.0,
-      "popularityScore": 189,
+      "trendingScore": 190.0,
+      "popularityScore": 190,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
