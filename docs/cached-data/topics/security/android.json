@@ -1,8 +1,8 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-23T08:35:25.457766+00:00",
-  "totalCount": 21,
+  "lastUpdated": "2026-10-24T08:09:36.628315+00:00",
+  "totalCount": 22,
   "repositories": [
     {
       "id": 2184408259867453264,
@@ -15,7 +15,7 @@
       "description": "Source code for 2FAS Pass Android app",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/twofas/2fas-pass-android",
-      "stargazersCount": 294,
+      "stargazersCount": 295,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -26,8 +26,8 @@
       "releasesUrl": "https://api.github.com/repos/twofas/2fas-pass-android/releases{/id}",
       "updatedAt": "2026-09-15T18:51:04Z",
       "latestReleaseDate": "2026-09-15T18:51:04Z",
-      "trendingScore": 294.0,
-      "popularityScore": 294,
+      "trendingScore": 295.0,
+      "popularityScore": 295,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -45,7 +45,7 @@
       "description": "A novel Android app store focused on security, privacy, and usability",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/accrescent/accrescent",
-      "stargazersCount": 2297,
+      "stargazersCount": 2299,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -61,8 +61,8 @@
       "releasesUrl": "https://api.github.com/repos/accrescent/accrescent/releases{/id}",
       "updatedAt": "2025-11-10T19:08:39Z",
       "latestReleaseDate": "2025-11-10T19:08:39Z",
-      "trendingScore": 2297.0,
-      "popularityScore": 2297,
+      "trendingScore": 2299.0,
+      "popularityScore": 2299,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -150,7 +150,7 @@
       "description": "Verify apps easily.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/soupslurpr/AppVerifier",
-      "stargazersCount": 1211,
+      "stargazersCount": 1212,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -171,8 +171,8 @@
       "releasesUrl": "https://api.github.com/repos/soupslurpr/AppVerifier/releases{/id}",
       "updatedAt": "2025-04-23T02:06:39Z",
       "latestReleaseDate": "2025-04-23T02:06:39Z",
-      "trendingScore": 1211.0,
-      "popularityScore": 1211,
+      "trendingScore": 1212.0,
+      "popularityScore": 1212,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -222,7 +222,7 @@
       "description": "Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Kin69/Athena",
-      "stargazersCount": 725,
+      "stargazersCount": 726,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -248,8 +248,8 @@
       "releasesUrl": "https://api.github.com/repos/Kin69/Athena/releases{/id}",
       "updatedAt": "2026-01-18T13:36:44Z",
       "latestReleaseDate": "2026-01-18T13:36:44Z",
-      "trendingScore": 725.0,
-      "popularityScore": 725,
+      "trendingScore": 726.0,
+      "popularityScore": 726,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -267,7 +267,7 @@
       "description": "Modern camera app focused on privacy and security with QR & barcode scanning.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/Camera",
-      "stargazersCount": 1414,
+      "stargazersCount": 1417,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -280,8 +280,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/Camera/releases{/id}",
       "updatedAt": "2026-08-01T22:01:24Z",
       "latestReleaseDate": "2026-08-01T22:01:24Z",
-      "trendingScore": 1414.0,
-      "popularityScore": 1414,
+      "trendingScore": 1417.0,
+      "popularityScore": 1417,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -380,7 +380,7 @@
       "description": "A realtime malware scanner (fork of Divestos version)| Maintained by: @Inhishonor",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/MaintainTeam/Hypatia",
-      "stargazersCount": 467,
+      "stargazersCount": 468,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -391,8 +391,44 @@
       "releasesUrl": "https://api.github.com/repos/MaintainTeam/Hypatia/releases{/id}",
       "updatedAt": "2026-02-20T17:47:33Z",
       "latestReleaseDate": "2026-02-20T17:47:33Z",
-      "trendingScore": 467.0,
-      "popularityScore": 467,
+      "trendingScore": 468.0,
+      "popularityScore": 468,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 3231467208721668361,
+      "name": "i2pd-android",
+      "fullName": "PurpleI2P/i2pd-android",
+      "owner": {
+        "login": "PurpleI2P",
+        "avatarUrl": "https://github.com/PurpleI2P.png"
+      },
+      "description": "i2pd for Android",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/PurpleI2P/i2pd-android",
+      "stargazersCount": 346,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "anonymity",
+        "cryptography",
+        "i2p",
+        "i2p-client",
+        "i2pd",
+        "i2pd-android",
+        "privacy",
+        "security"
+      ],
+      "releasesUrl": "https://api.github.com/repos/PurpleI2P/i2pd-android/releases{/id}",
+      "updatedAt": "2026-10-24T01:42:52Z",
+      "latestReleaseDate": "2026-10-24T01:42:52Z",
+      "trendingScore": 346.0,
+      "popularityScore": 346,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -532,7 +568,7 @@
       "description": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/PdfViewer",
-      "stargazersCount": 1055,
+      "stargazersCount": 1056,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -546,8 +582,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/PdfViewer/releases{/id}",
       "updatedAt": "2026-07-30T22:59:39Z",
       "latestReleaseDate": "2026-07-30T22:59:39Z",
-      "trendingScore": 1055.0,
-      "popularityScore": 1055,
+      "trendingScore": 1056.0,
+      "popularityScore": 1056,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -565,7 +601,7 @@
       "description": "Private photo vault for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leonlatsch/Photok",
-      "stargazersCount": 988,
+      "stargazersCount": 989,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -582,8 +618,8 @@
       "releasesUrl": "https://api.github.com/repos/leonlatsch/Photok/releases{/id}",
       "updatedAt": "2026-10-19T21:21:14Z",
       "latestReleaseDate": "2026-10-19T21:21:14Z",
-      "trendingScore": 988.0,
-      "popularityScore": 988,
+      "trendingScore": 989.0,
+      "popularityScore": 989,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
