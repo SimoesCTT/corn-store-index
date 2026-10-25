@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-24T08:09:36.628315+00:00",
+  "lastUpdated": "2026-10-25T08:26:40.061877+00:00",
   "totalCount": 22,
   "repositories": [
     {
@@ -45,7 +45,7 @@
       "description": "A novel Android app store focused on security, privacy, and usability",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/accrescent/accrescent",
-      "stargazersCount": 2299,
+      "stargazersCount": 2301,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -61,8 +61,8 @@
       "releasesUrl": "https://api.github.com/repos/accrescent/accrescent/releases{/id}",
       "updatedAt": "2025-11-10T19:08:39Z",
       "latestReleaseDate": "2025-11-10T19:08:39Z",
-      "trendingScore": 2299.0,
-      "popularityScore": 2299,
+      "trendingScore": 2301.0,
+      "popularityScore": 2301,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -150,7 +150,7 @@
       "description": "Verify apps easily.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/soupslurpr/AppVerifier",
-      "stargazersCount": 1212,
+      "stargazersCount": 1213,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -171,8 +171,8 @@
       "releasesUrl": "https://api.github.com/repos/soupslurpr/AppVerifier/releases{/id}",
       "updatedAt": "2025-04-23T02:06:39Z",
       "latestReleaseDate": "2025-04-23T02:06:39Z",
-      "trendingScore": 1212.0,
-      "popularityScore": 1212,
+      "trendingScore": 1213.0,
+      "popularityScore": 1213,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -267,7 +267,7 @@
       "description": "Modern camera app focused on privacy and security with QR & barcode scanning.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/Camera",
-      "stargazersCount": 1417,
+      "stargazersCount": 1419,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -280,8 +280,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/Camera/releases{/id}",
       "updatedAt": "2026-08-01T22:01:24Z",
       "latestReleaseDate": "2026-08-01T22:01:24Z",
-      "trendingScore": 1417.0,
-      "popularityScore": 1417,
+      "trendingScore": 1419.0,
+      "popularityScore": 1419,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -410,7 +410,7 @@
       "description": "i2pd for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/PurpleI2P/i2pd-android",
-      "stargazersCount": 346,
+      "stargazersCount": 347,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -427,8 +427,8 @@
       "releasesUrl": "https://api.github.com/repos/PurpleI2P/i2pd-android/releases{/id}",
       "updatedAt": "2026-10-24T01:42:52Z",
       "latestReleaseDate": "2026-10-24T01:42:52Z",
-      "trendingScore": 346.0,
-      "popularityScore": 346,
+      "trendingScore": 347.0,
+      "popularityScore": 347,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -522,7 +522,7 @@
       "description": "Ensure your password safety by scanning in data breaches. ",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/StellarSand/Password-Monitor",
-      "stargazersCount": 123,
+      "stargazersCount": 121,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -549,8 +549,8 @@
       "releasesUrl": "https://api.github.com/repos/StellarSand/Password-Monitor/releases{/id}",
       "updatedAt": "2026-10-12T00:41:29Z",
       "latestReleaseDate": "2026-10-12T00:41:29Z",
-      "trendingScore": 123.0,
-      "popularityScore": 123,
+      "trendingScore": 121.0,
+      "popularityScore": 121,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -568,7 +568,7 @@
       "description": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/PdfViewer",
-      "stargazersCount": 1056,
+      "stargazersCount": 1057,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -582,8 +582,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/PdfViewer/releases{/id}",
       "updatedAt": "2026-07-30T22:59:39Z",
       "latestReleaseDate": "2026-07-30T22:59:39Z",
-      "trendingScore": 1056.0,
-      "popularityScore": 1056,
+      "trendingScore": 1057.0,
+      "popularityScore": 1057,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -601,7 +601,7 @@
       "description": "Private photo vault for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leonlatsch/Photok",
-      "stargazersCount": 989,
+      "stargazersCount": 992,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -618,8 +618,8 @@
       "releasesUrl": "https://api.github.com/repos/leonlatsch/Photok/releases{/id}",
       "updatedAt": "2026-10-19T21:21:14Z",
       "latestReleaseDate": "2026-10-19T21:21:14Z",
-      "trendingScore": 989.0,
-      "popularityScore": 989,
+      "trendingScore": 992.0,
+      "popularityScore": 992,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -769,7 +769,7 @@
       "description": "Radio frequency scanner with recon and offensive capabilities",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/thomasbuilds/Spectre",
-      "stargazersCount": 190,
+      "stargazersCount": 191,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -793,8 +793,8 @@
       "releasesUrl": "https://api.github.com/repos/thomasbuilds/Spectre/releases{/id}",
       "updatedAt": "2026-07-30T10:47:15Z",
       "latestReleaseDate": "2026-07-30T10:47:15Z",
-      "trendingScore": 190.0,
-      "popularityScore": 190,
+      "trendingScore": 191.0,
+      "popularityScore": 191,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
