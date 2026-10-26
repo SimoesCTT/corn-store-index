@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-25T08:26:40.061877+00:00",
+  "lastUpdated": "2026-10-26T08:53:41.653812+00:00",
   "totalCount": 3,
   "repositories": [
     {
@@ -15,7 +15,7 @@
       "description": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/ankidroid/Anki-Android",
-      "stargazersCount": 12092,
+      "stargazersCount": 12097,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -29,10 +29,10 @@
         "srs"
       ],
       "releasesUrl": "https://api.github.com/repos/ankidroid/Anki-Android/releases{/id}",
-      "updatedAt": "2026-10-23T02:47:46Z",
-      "latestReleaseDate": "2026-10-23T02:47:46Z",
-      "trendingScore": 12092.0,
-      "popularityScore": 12092,
+      "updatedAt": "2026-10-25T21:10:33Z",
+      "latestReleaseDate": "2026-10-25T21:10:33Z",
+      "trendingScore": 12097.0,
+      "popularityScore": 12097,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -47,39 +47,39 @@
         "login": "gsantner",
         "avatarUrl": "https://github.com/gsantner.png"
       },
-      "description": "Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..",
+      "description": "Text editor - Notes, ToDo & Filemanager (for Android) - Markdown, todo.txt, plaintext, math, ..",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/gsantner/markor",
-      "stargazersCount": 6326,
+      "stargazersCount": 6333,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
         "android-app",
         "asciidoc",
-        "class",
         "clipboard",
+        "csv-reader",
         "editor",
         "education",
-        "hacktoberfest",
+        "filemanager",
         "markdown",
         "markdown-editor",
         "org-mode",
+        "org-mode-notes",
         "orgmode",
         "plaintext",
         "school",
         "syncthing",
         "task-list",
         "todo",
-        "todolist",
         "todotxt",
         "university",
         "zim-wiki"
       ],
       "releasesUrl": "https://api.github.com/repos/gsantner/markor/releases{/id}",
-      "updatedAt": "2026-03-19T08:27:29Z",
-      "latestReleaseDate": "2026-03-19T08:27:29Z",
-      "trendingScore": 6326.0,
-      "popularityScore": 6326,
+      "updatedAt": "2026-10-25T21:23:23Z",
+      "latestReleaseDate": "2026-10-25T21:23:23Z",
+      "trendingScore": 6333.0,
+      "popularityScore": 6333,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"

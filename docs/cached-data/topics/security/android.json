@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-25T08:26:40.061877+00:00",
+  "lastUpdated": "2026-10-26T08:53:41.653812+00:00",
   "totalCount": 22,
   "repositories": [
     {
@@ -15,7 +15,7 @@
       "description": "Source code for 2FAS Pass Android app",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/twofas/2fas-pass-android",
-      "stargazersCount": 295,
+      "stargazersCount": 298,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -26,8 +26,8 @@
       "releasesUrl": "https://api.github.com/repos/twofas/2fas-pass-android/releases{/id}",
       "updatedAt": "2026-09-15T18:51:04Z",
       "latestReleaseDate": "2026-09-15T18:51:04Z",
-      "trendingScore": 295.0,
-      "popularityScore": 295,
+      "trendingScore": 298.0,
+      "popularityScore": 298,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -45,7 +45,7 @@
       "description": "A novel Android app store focused on security, privacy, and usability",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/accrescent/accrescent",
-      "stargazersCount": 2301,
+      "stargazersCount": 2304,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -61,8 +61,8 @@
       "releasesUrl": "https://api.github.com/repos/accrescent/accrescent/releases{/id}",
       "updatedAt": "2025-11-10T19:08:39Z",
       "latestReleaseDate": "2025-11-10T19:08:39Z",
-      "trendingScore": 2301.0,
-      "popularityScore": 2301,
+      "trendingScore": 2304.0,
+      "popularityScore": 2304,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -150,7 +150,7 @@
       "description": "Verify apps easily.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/soupslurpr/AppVerifier",
-      "stargazersCount": 1213,
+      "stargazersCount": 1214,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -171,8 +171,8 @@
       "releasesUrl": "https://api.github.com/repos/soupslurpr/AppVerifier/releases{/id}",
       "updatedAt": "2025-04-23T02:06:39Z",
       "latestReleaseDate": "2025-04-23T02:06:39Z",
-      "trendingScore": 1213.0,
-      "popularityScore": 1213,
+      "trendingScore": 1214.0,
+      "popularityScore": 1214,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -267,7 +267,7 @@
       "description": "Modern camera app focused on privacy and security with QR & barcode scanning.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/Camera",
-      "stargazersCount": 1419,
+      "stargazersCount": 1421,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -280,8 +280,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/Camera/releases{/id}",
       "updatedAt": "2026-08-01T22:01:24Z",
       "latestReleaseDate": "2026-08-01T22:01:24Z",
-      "trendingScore": 1419.0,
-      "popularityScore": 1419,
+      "trendingScore": 1421.0,
+      "popularityScore": 1421,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -380,7 +380,7 @@
       "description": "A realtime malware scanner (fork of Divestos version)| Maintained by: @Inhishonor",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/MaintainTeam/Hypatia",
-      "stargazersCount": 468,
+      "stargazersCount": 471,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -391,8 +391,8 @@
       "releasesUrl": "https://api.github.com/repos/MaintainTeam/Hypatia/releases{/id}",
       "updatedAt": "2026-02-20T17:47:33Z",
       "latestReleaseDate": "2026-02-20T17:47:33Z",
-      "trendingScore": 468.0,
-      "popularityScore": 468,
+      "trendingScore": 471.0,
+      "popularityScore": 471,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -446,7 +446,7 @@
       "description": "An application designed to silently protect user data from powerful adversaries.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/bakad3v/Android-AntiForensic-Tools",
-      "stargazersCount": 205,
+      "stargazersCount": 206,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -457,8 +457,8 @@
       "releasesUrl": "https://api.github.com/repos/bakad3v/Android-AntiForensic-Tools/releases{/id}",
       "updatedAt": "2026-10-17T10:15:03Z",
       "latestReleaseDate": "2026-10-17T10:15:03Z",
-      "trendingScore": 205.0,
-      "popularityScore": 205,
+      "trendingScore": 206.0,
+      "popularityScore": 206,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -568,7 +568,7 @@
       "description": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/PdfViewer",
-      "stargazersCount": 1057,
+      "stargazersCount": 1058,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -582,8 +582,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/PdfViewer/releases{/id}",
       "updatedAt": "2026-07-30T22:59:39Z",
       "latestReleaseDate": "2026-07-30T22:59:39Z",
-      "trendingScore": 1057.0,
-      "popularityScore": 1057,
+      "trendingScore": 1058.0,
+      "popularityScore": 1058,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -601,7 +601,7 @@
       "description": "Private photo vault for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leonlatsch/Photok",
-      "stargazersCount": 992,
+      "stargazersCount": 994,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -618,8 +618,8 @@
       "releasesUrl": "https://api.github.com/repos/leonlatsch/Photok/releases{/id}",
       "updatedAt": "2026-10-19T21:21:14Z",
       "latestReleaseDate": "2026-10-19T21:21:14Z",
-      "trendingScore": 992.0,
-      "popularityScore": 992,
+      "trendingScore": 994.0,
+      "popularityScore": 994,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -769,7 +769,7 @@
       "description": "Radio frequency scanner with recon and offensive capabilities",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/thomasbuilds/Spectre",
-      "stargazersCount": 191,
+      "stargazersCount": 192,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -793,8 +793,8 @@
       "releasesUrl": "https://api.github.com/repos/thomasbuilds/Spectre/releases{/id}",
       "updatedAt": "2026-07-30T10:47:15Z",
       "latestReleaseDate": "2026-07-30T10:47:15Z",
-      "trendingScore": 191.0,
-      "popularityScore": 191,
+      "trendingScore": 192.0,
+      "popularityScore": 192,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
