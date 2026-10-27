@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-26T08:53:41.653812+00:00",
+  "lastUpdated": "2026-10-27T09:00:33.008178+00:00",
   "totalCount": 3,
   "repositories": [
     {
@@ -15,7 +15,7 @@
       "description": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/ankidroid/Anki-Android",
-      "stargazersCount": 12097,
+      "stargazersCount": 12098,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -31,8 +31,8 @@
       "releasesUrl": "https://api.github.com/repos/ankidroid/Anki-Android/releases{/id}",
       "updatedAt": "2026-10-25T21:10:33Z",
       "latestReleaseDate": "2026-10-25T21:10:33Z",
-      "trendingScore": 12097.0,
-      "popularityScore": 12097,
+      "trendingScore": 12098.0,
+      "popularityScore": 12098,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -50,7 +50,7 @@
       "description": "Text editor - Notes, ToDo & Filemanager (for Android) - Markdown, todo.txt, plaintext, math, ..",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/gsantner/markor",
-      "stargazersCount": 6333,
+      "stargazersCount": 6336,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -78,8 +78,8 @@
       "releasesUrl": "https://api.github.com/repos/gsantner/markor/releases{/id}",
       "updatedAt": "2026-10-25T21:23:23Z",
       "latestReleaseDate": "2026-10-25T21:23:23Z",
-      "trendingScore": 6333.0,
-      "popularityScore": 6333,
+      "trendingScore": 6336.0,
+      "popularityScore": 6336,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -97,7 +97,7 @@
       "description": "Markdown Editor & Notebook for Android built with Jetpack Compose.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/YangDai2003/OpenNote-Compose",
-      "stargazersCount": 775,
+      "stargazersCount": 776,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -125,8 +125,8 @@
       "releasesUrl": "https://api.github.com/repos/YangDai2003/OpenNote-Compose/releases{/id}",
       "updatedAt": "2025-09-17T15:20:17Z",
       "latestReleaseDate": "2025-09-17T15:20:17Z",
-      "trendingScore": 775.0,
-      "popularityScore": 775,
+      "trendingScore": 776.0,
+      "popularityScore": 776,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
