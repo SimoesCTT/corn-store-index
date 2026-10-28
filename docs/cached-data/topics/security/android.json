@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-10-27T09:00:33.008178+00:00",
+  "lastUpdated": "2026-10-28T09:43:03.475916+00:00",
   "totalCount": 22,
   "repositories": [
     {
@@ -15,7 +15,7 @@
       "description": "Source code for 2FAS Pass Android app",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/twofas/2fas-pass-android",
-      "stargazersCount": 300,
+      "stargazersCount": 302,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -26,8 +26,8 @@
       "releasesUrl": "https://api.github.com/repos/twofas/2fas-pass-android/releases{/id}",
       "updatedAt": "2026-09-15T18:51:04Z",
       "latestReleaseDate": "2026-09-15T18:51:04Z",
-      "trendingScore": 300.0,
-      "popularityScore": 300,
+      "trendingScore": 302.0,
+      "popularityScore": 302,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -115,7 +115,7 @@
       "description": "Powerful privacy tool to lock apps from intruders",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/aload0/AppLock",
-      "stargazersCount": 917,
+      "stargazersCount": 916,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -131,8 +131,8 @@
       "releasesUrl": "https://api.github.com/repos/aload0/AppLock/releases{/id}",
       "updatedAt": "2026-07-09T06:56:05Z",
       "latestReleaseDate": "2026-07-09T06:56:05Z",
-      "trendingScore": 917.0,
-      "popularityScore": 917,
+      "trendingScore": 916.0,
+      "popularityScore": 916,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -150,7 +150,7 @@
       "description": "Verify apps easily.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/soupslurpr/AppVerifier",
-      "stargazersCount": 1215,
+      "stargazersCount": 1216,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -171,8 +171,8 @@
       "releasesUrl": "https://api.github.com/repos/soupslurpr/AppVerifier/releases{/id}",
       "updatedAt": "2025-04-23T02:06:39Z",
       "latestReleaseDate": "2025-04-23T02:06:39Z",
-      "trendingScore": 1215.0,
-      "popularityScore": 1215,
+      "trendingScore": 1216.0,
+      "popularityScore": 1216,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -190,7 +190,7 @@
       "description": "Hide and encrypt your files with modern security standards.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/gromif/AstraCrypt",
-      "stargazersCount": 157,
+      "stargazersCount": 158,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -203,8 +203,8 @@
       "releasesUrl": "https://api.github.com/repos/gromif/AstraCrypt/releases{/id}",
       "updatedAt": "2025-09-22T17:02:36Z",
       "latestReleaseDate": "2025-09-22T17:02:36Z",
-      "trendingScore": 157.0,
-      "popularityScore": 157,
+      "trendingScore": 158.0,
+      "popularityScore": 158,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -267,7 +267,7 @@
       "description": "Modern camera app focused on privacy and security with QR & barcode scanning.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/Camera",
-      "stargazersCount": 1421,
+      "stargazersCount": 1422,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -280,8 +280,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/Camera/releases{/id}",
       "updatedAt": "2026-08-01T22:01:24Z",
       "latestReleaseDate": "2026-08-01T22:01:24Z",
-      "trendingScore": 1421.0,
-      "popularityScore": 1421,
+      "trendingScore": 1422.0,
+      "popularityScore": 1422,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -637,7 +637,7 @@
       "description": "A simple app for discovering tools that respects your privacy.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/kaleedtc/Privacium",
-      "stargazersCount": 299,
+      "stargazersCount": 300,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -662,8 +662,8 @@
       "releasesUrl": "https://api.github.com/repos/kaleedtc/Privacium/releases{/id}",
       "updatedAt": "2026-10-14T19:32:20Z",
       "latestReleaseDate": "2026-10-14T19:32:20Z",
-      "trendingScore": 299.0,
-      "popularityScore": 299,
+      "trendingScore": 300.0,
+      "popularityScore": 300,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -769,7 +769,7 @@
       "description": "Radio frequency scanner with recon and offensive capabilities",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/thomasbuilds/Spectre",
-      "stargazersCount": 193,
+      "stargazersCount": 194,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -793,8 +793,8 @@
       "releasesUrl": "https://api.github.com/repos/thomasbuilds/Spectre/releases{/id}",
       "updatedAt": "2026-07-30T10:47:15Z",
       "latestReleaseDate": "2026-07-30T10:47:15Z",
-      "trendingScore": 193.0,
-      "popularityScore": 193,
+      "trendingScore": 194.0,
+      "popularityScore": 194,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -812,7 +812,7 @@
       "description": "The VD Infos app reads several of these details and information to show you an example of what can be captured from your device in use.\u200b A.k.a VDInfos, VDInfo, VD Info.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/VD171/VD-Infos",
-      "stargazersCount": 182,
+      "stargazersCount": 183,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -840,8 +840,8 @@
       "releasesUrl": "https://api.github.com/repos/VD171/VD-Infos/releases{/id}",
       "updatedAt": "2026-10-01T14:49:52Z",
       "latestReleaseDate": "2026-10-01T14:49:52Z",
-      "trendingScore": 182.0,
-      "popularityScore": 182,
+      "trendingScore": 183.0,
+      "popularityScore": 183,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
