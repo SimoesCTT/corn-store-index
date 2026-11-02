@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-11-01T10:28:57.685613+00:00",
+  "lastUpdated": "2026-11-02T11:02:14.499379+00:00",
   "totalCount": 22,
   "repositories": [
     {
@@ -150,7 +150,7 @@
       "description": "Verify apps easily.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/soupslurpr/AppVerifier",
-      "stargazersCount": 1218,
+      "stargazersCount": 1220,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -171,8 +171,8 @@
       "releasesUrl": "https://api.github.com/repos/soupslurpr/AppVerifier/releases{/id}",
       "updatedAt": "2025-04-23T02:06:39Z",
       "latestReleaseDate": "2025-04-23T02:06:39Z",
-      "trendingScore": 1218.0,
-      "popularityScore": 1218,
+      "trendingScore": 1220.0,
+      "popularityScore": 1220,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -267,7 +267,7 @@
       "description": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/arpanjot-coding/AVault",
-      "stargazersCount": 357,
+      "stargazersCount": 520,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -295,8 +295,8 @@
       "releasesUrl": "https://api.github.com/repos/arpanjot-coding/AVault/releases{/id}",
       "updatedAt": "2026-10-31T19:22:30Z",
       "latestReleaseDate": "2026-10-31T19:22:30Z",
-      "trendingScore": 357.0,
-      "popularityScore": 357,
+      "trendingScore": 520.0,
+      "popularityScore": 520,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -314,7 +314,7 @@
       "description": "Modern camera app focused on privacy and security with QR & barcode scanning.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/Camera",
-      "stargazersCount": 1423,
+      "stargazersCount": 1422,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -327,8 +327,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/Camera/releases{/id}",
       "updatedAt": "2026-08-01T22:01:24Z",
       "latestReleaseDate": "2026-08-01T22:01:24Z",
-      "trendingScore": 1423.0,
-      "popularityScore": 1423,
+      "trendingScore": 1422.0,
+      "popularityScore": 1422,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -638,7 +638,7 @@
       "description": "A simple app for discovering tools that respects your privacy.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/kaleedtc/Privacium",
-      "stargazersCount": 301,
+      "stargazersCount": 302,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -663,8 +663,8 @@
       "releasesUrl": "https://api.github.com/repos/kaleedtc/Privacium/releases{/id}",
       "updatedAt": "2026-10-14T19:32:20Z",
       "latestReleaseDate": "2026-10-14T19:32:20Z",
-      "trendingScore": 301.0,
-      "popularityScore": 301,
+      "trendingScore": 302.0,
+      "popularityScore": 302,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -813,7 +813,7 @@
       "description": "The VD Infos app reads several of these details and information to show you an example of what can be captured from your device in use.\u200b A.k.a VDInfos, VDInfo, VD Info.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/VD171/VD-Infos",
-      "stargazersCount": 184,
+      "stargazersCount": 183,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -841,8 +841,8 @@
       "releasesUrl": "https://api.github.com/repos/VD171/VD-Infos/releases{/id}",
       "updatedAt": "2026-10-01T14:49:52Z",
       "latestReleaseDate": "2026-10-01T14:49:52Z",
-      "trendingScore": 184.0,
-      "popularityScore": 184,
+      "trendingScore": 183.0,
+      "popularityScore": 183,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
