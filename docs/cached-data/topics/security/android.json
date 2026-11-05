@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-11-04T10:51:32.436712+00:00",
+  "lastUpdated": "2026-11-05T10:50:13.293322+00:00",
   "totalCount": 22,
   "repositories": [
     {
@@ -15,7 +15,7 @@
       "description": "Source code for 2FAS Pass Android app",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/twofas/2fas-pass-android",
-      "stargazersCount": 309,
+      "stargazersCount": 310,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -26,8 +26,8 @@
       "releasesUrl": "https://api.github.com/repos/twofas/2fas-pass-android/releases{/id}",
       "updatedAt": "2026-09-15T18:51:04Z",
       "latestReleaseDate": "2026-09-15T18:51:04Z",
-      "trendingScore": 309.0,
-      "popularityScore": 309,
+      "trendingScore": 310.0,
+      "popularityScore": 310,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -45,7 +45,7 @@
       "description": "A novel Android app store focused on security, privacy, and usability",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/accrescent/accrescent",
-      "stargazersCount": 2306,
+      "stargazersCount": 2308,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -59,10 +59,10 @@
         "security"
       ],
       "releasesUrl": "https://api.github.com/repos/accrescent/accrescent/releases{/id}",
-      "updatedAt": "2025-11-10T19:08:39Z",
-      "latestReleaseDate": "2025-11-10T19:08:39Z",
-      "trendingScore": 2306.0,
-      "popularityScore": 2306,
+      "updatedAt": "2026-11-04T21:51:00Z",
+      "latestReleaseDate": "2026-11-04T21:51:00Z",
+      "trendingScore": 2308.0,
+      "popularityScore": 2308,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -150,7 +150,7 @@
       "description": "Verify apps easily.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/soupslurpr/AppVerifier",
-      "stargazersCount": 1222,
+      "stargazersCount": 1224,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -171,8 +171,8 @@
       "releasesUrl": "https://api.github.com/repos/soupslurpr/AppVerifier/releases{/id}",
       "updatedAt": "2025-04-23T02:06:39Z",
       "latestReleaseDate": "2025-04-23T02:06:39Z",
-      "trendingScore": 1222.0,
-      "popularityScore": 1222,
+      "trendingScore": 1224.0,
+      "popularityScore": 1224,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -190,7 +190,7 @@
       "description": "Hide and encrypt your files with modern security standards.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/gromif/AstraCrypt",
-      "stargazersCount": 157,
+      "stargazersCount": 158,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -203,8 +203,8 @@
       "releasesUrl": "https://api.github.com/repos/gromif/AstraCrypt/releases{/id}",
       "updatedAt": "2025-09-22T17:02:36Z",
       "latestReleaseDate": "2025-09-22T17:02:36Z",
-      "trendingScore": 157.0,
-      "popularityScore": 157,
+      "trendingScore": 158.0,
+      "popularityScore": 158,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -222,7 +222,7 @@
       "description": "Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Kin69/Athena",
-      "stargazersCount": 730,
+      "stargazersCount": 731,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -248,8 +248,8 @@
       "releasesUrl": "https://api.github.com/repos/Kin69/Athena/releases{/id}",
       "updatedAt": "2026-01-18T13:36:44Z",
       "latestReleaseDate": "2026-01-18T13:36:44Z",
-      "trendingScore": 730.0,
-      "popularityScore": 730,
+      "trendingScore": 731.0,
+      "popularityScore": 731,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -267,7 +267,7 @@
       "description": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/arpanjot-coding/AVault",
-      "stargazersCount": 572,
+      "stargazersCount": 598,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -295,8 +295,8 @@
       "releasesUrl": "https://api.github.com/repos/arpanjot-coding/AVault/releases{/id}",
       "updatedAt": "2026-11-02T11:13:11Z",
       "latestReleaseDate": "2026-11-02T11:13:11Z",
-      "trendingScore": 572.0,
-      "popularityScore": 572,
+      "trendingScore": 598.0,
+      "popularityScore": 598,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -314,7 +314,7 @@
       "description": "Modern camera app focused on privacy and security with QR & barcode scanning.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/Camera",
-      "stargazersCount": 1424,
+      "stargazersCount": 1423,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -327,8 +327,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/Camera/releases{/id}",
       "updatedAt": "2026-08-01T22:01:24Z",
       "latestReleaseDate": "2026-08-01T22:01:24Z",
-      "trendingScore": 1424.0,
-      "popularityScore": 1424,
+      "trendingScore": 1423.0,
+      "popularityScore": 1423,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -427,7 +427,7 @@
       "description": "A realtime malware scanner (fork of Divestos version)| Maintained by: @Inhishonor",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/MaintainTeam/Hypatia",
-      "stargazersCount": 474,
+      "stargazersCount": 475,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -438,8 +438,8 @@
       "releasesUrl": "https://api.github.com/repos/MaintainTeam/Hypatia/releases{/id}",
       "updatedAt": "2026-02-20T17:47:33Z",
       "latestReleaseDate": "2026-02-20T17:47:33Z",
-      "trendingScore": 474.0,
-      "popularityScore": 474,
+      "trendingScore": 475.0,
+      "popularityScore": 475,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -602,7 +602,7 @@
       "description": "Private photo vault for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leonlatsch/Photok",
-      "stargazersCount": 999,
+      "stargazersCount": 1001,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -619,8 +619,8 @@
       "releasesUrl": "https://api.github.com/repos/leonlatsch/Photok/releases{/id}",
       "updatedAt": "2026-10-19T21:21:14Z",
       "latestReleaseDate": "2026-10-19T21:21:14Z",
-      "trendingScore": 999.0,
-      "popularityScore": 999,
+      "trendingScore": 1001.0,
+      "popularityScore": 1001,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -638,7 +638,7 @@
       "description": "A simple app for discovering tools that respects your privacy.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/kaleedtc/Privacium",
-      "stargazersCount": 302,
+      "stargazersCount": 303,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -663,8 +663,8 @@
       "releasesUrl": "https://api.github.com/repos/kaleedtc/Privacium/releases{/id}",
       "updatedAt": "2026-10-14T19:32:20Z",
       "latestReleaseDate": "2026-10-14T19:32:20Z",
-      "trendingScore": 302.0,
-      "popularityScore": 302,
+      "trendingScore": 303.0,
+      "popularityScore": 303,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
