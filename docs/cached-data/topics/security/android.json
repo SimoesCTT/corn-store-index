@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-11-06T10:51:01.140581+00:00",
+  "lastUpdated": "2026-11-06T19:50:12.002765+00:00",
   "totalCount": 22,
   "repositories": [
     {
@@ -267,7 +267,7 @@
       "description": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/arpanjot-coding/AVault",
-      "stargazersCount": 613,
+      "stargazersCount": 599,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -295,8 +295,8 @@
       "releasesUrl": "https://api.github.com/repos/arpanjot-coding/AVault/releases{/id}",
       "updatedAt": "2026-11-02T11:13:11Z",
       "latestReleaseDate": "2026-11-02T11:13:11Z",
-      "trendingScore": 613.0,
-      "popularityScore": 613,
+      "trendingScore": 599.0,
+      "popularityScore": 599,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -602,7 +602,7 @@
       "description": "Private photo vault for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leonlatsch/Photok",
-      "stargazersCount": 1003,
+      "stargazersCount": 1004,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -619,8 +619,8 @@
       "releasesUrl": "https://api.github.com/repos/leonlatsch/Photok/releases{/id}",
       "updatedAt": "2026-11-05T16:14:04Z",
       "latestReleaseDate": "2026-11-05T16:14:04Z",
-      "trendingScore": 1003.0,
-      "popularityScore": 1003,
+      "trendingScore": 1004.0,
+      "popularityScore": 1004,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
