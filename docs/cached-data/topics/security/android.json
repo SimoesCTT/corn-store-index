@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-11-05T10:50:13.293322+00:00",
+  "lastUpdated": "2026-11-06T10:51:01.140581+00:00",
   "totalCount": 22,
   "repositories": [
     {
@@ -15,7 +15,7 @@
       "description": "Source code for 2FAS Pass Android app",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/twofas/2fas-pass-android",
-      "stargazersCount": 310,
+      "stargazersCount": 311,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -26,8 +26,8 @@
       "releasesUrl": "https://api.github.com/repos/twofas/2fas-pass-android/releases{/id}",
       "updatedAt": "2026-09-15T18:51:04Z",
       "latestReleaseDate": "2026-09-15T18:51:04Z",
-      "trendingScore": 310.0,
-      "popularityScore": 310,
+      "trendingScore": 311.0,
+      "popularityScore": 311,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -45,7 +45,7 @@
       "description": "A novel Android app store focused on security, privacy, and usability",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/accrescent/accrescent",
-      "stargazersCount": 2308,
+      "stargazersCount": 2309,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -61,8 +61,8 @@
       "releasesUrl": "https://api.github.com/repos/accrescent/accrescent/releases{/id}",
       "updatedAt": "2026-11-04T21:51:00Z",
       "latestReleaseDate": "2026-11-04T21:51:00Z",
-      "trendingScore": 2308.0,
-      "popularityScore": 2308,
+      "trendingScore": 2309.0,
+      "popularityScore": 2309,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -150,7 +150,7 @@
       "description": "Verify apps easily.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/soupslurpr/AppVerifier",
-      "stargazersCount": 1224,
+      "stargazersCount": 1227,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -171,8 +171,8 @@
       "releasesUrl": "https://api.github.com/repos/soupslurpr/AppVerifier/releases{/id}",
       "updatedAt": "2025-04-23T02:06:39Z",
       "latestReleaseDate": "2025-04-23T02:06:39Z",
-      "trendingScore": 1224.0,
-      "popularityScore": 1224,
+      "trendingScore": 1227.0,
+      "popularityScore": 1227,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -267,7 +267,7 @@
       "description": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/arpanjot-coding/AVault",
-      "stargazersCount": 598,
+      "stargazersCount": 613,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -295,8 +295,8 @@
       "releasesUrl": "https://api.github.com/repos/arpanjot-coding/AVault/releases{/id}",
       "updatedAt": "2026-11-02T11:13:11Z",
       "latestReleaseDate": "2026-11-02T11:13:11Z",
-      "trendingScore": 598.0,
-      "popularityScore": 598,
+      "trendingScore": 613.0,
+      "popularityScore": 613,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -346,7 +346,7 @@
       "description": "Notes. Encrypted. Local. Nothing more.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/CipherApps/cipher-notes",
-      "stargazersCount": 46,
+      "stargazersCount": 47,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -364,8 +364,8 @@
       "releasesUrl": "https://api.github.com/repos/CipherApps/cipher-notes/releases{/id}",
       "updatedAt": "2026-09-19T10:58:51Z",
       "latestReleaseDate": "2026-09-19T10:58:51Z",
-      "trendingScore": 46.0,
-      "popularityScore": 46,
+      "trendingScore": 47.0,
+      "popularityScore": 47,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -383,7 +383,7 @@
       "description": "Copy links from the sharing menu with automatic removal of shorteners and trackers.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/WSTxda/Clippy",
-      "stargazersCount": 442,
+      "stargazersCount": 443,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -408,8 +408,8 @@
       "releasesUrl": "https://api.github.com/repos/WSTxda/Clippy/releases{/id}",
       "updatedAt": "2026-02-22T23:50:06Z",
       "latestReleaseDate": "2026-02-22T23:50:06Z",
-      "trendingScore": 442.0,
-      "popularityScore": 442,
+      "trendingScore": 443.0,
+      "popularityScore": 443,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -602,7 +602,7 @@
       "description": "Private photo vault for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leonlatsch/Photok",
-      "stargazersCount": 1001,
+      "stargazersCount": 1003,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -617,10 +617,10 @@
         "security"
       ],
       "releasesUrl": "https://api.github.com/repos/leonlatsch/Photok/releases{/id}",
-      "updatedAt": "2026-10-19T21:21:14Z",
-      "latestReleaseDate": "2026-10-19T21:21:14Z",
-      "trendingScore": 1001.0,
-      "popularityScore": 1001,
+      "updatedAt": "2026-11-05T16:14:04Z",
+      "latestReleaseDate": "2026-11-05T16:14:04Z",
+      "trendingScore": 1003.0,
+      "popularityScore": 1003,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
