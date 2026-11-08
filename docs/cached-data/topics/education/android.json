@@ -1,8 +1,8 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-11-07T10:00:52.953985+00:00",
-  "totalCount": 3,
+  "lastUpdated": "2026-11-08T11:03:13.559443+00:00",
+  "totalCount": 1,
   "repositories": [
     {
       "id": 4430521892992184993,
@@ -15,7 +15,7 @@
       "description": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/ankidroid/Anki-Android",
-      "stargazersCount": 12183,
+      "stargazersCount": 12190,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -29,104 +29,10 @@
         "srs"
       ],
       "releasesUrl": "https://api.github.com/repos/ankidroid/Anki-Android/releases{/id}",
-      "updatedAt": "2026-11-04T13:25:05Z",
-      "latestReleaseDate": "2026-11-04T13:25:05Z",
-      "trendingScore": 12183.0,
-      "popularityScore": 12183,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 8665901607692159549,
-      "name": "markor",
-      "fullName": "gsantner/markor",
-      "owner": {
-        "login": "gsantner",
-        "avatarUrl": "https://github.com/gsantner.png"
-      },
-      "description": "Text editor - Notes, ToDo & Filemanager (for Android) - Markdown, todo.txt, plaintext, math, ..",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/gsantner/markor",
-      "stargazersCount": 6391,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android-app",
-        "asciidoc",
-        "clipboard",
-        "csv-reader",
-        "editor",
-        "education",
-        "filemanager",
-        "markdown",
-        "markdown-editor",
-        "org-mode",
-        "org-mode-notes",
-        "orgmode",
-        "plaintext",
-        "school",
-        "syncthing",
-        "task-list",
-        "todo",
-        "todotxt",
-        "university",
-        "zim-wiki"
-      ],
-      "releasesUrl": "https://api.github.com/repos/gsantner/markor/releases{/id}",
-      "updatedAt": "2026-10-25T21:23:23Z",
-      "latestReleaseDate": "2026-10-25T21:23:23Z",
-      "trendingScore": 6391.0,
-      "popularityScore": 6391,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 425895657446432370,
-      "name": "OpenNote-Compose",
-      "fullName": "YangDai2003/OpenNote-Compose",
-      "owner": {
-        "login": "YangDai2003",
-        "avatarUrl": "https://github.com/YangDai2003.png"
-      },
-      "description": "Markdown Editor & Notebook for Android built with Jetpack Compose.",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/YangDai2003/OpenNote-Compose",
-      "stargazersCount": 780,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "camerax",
-        "compose",
-        "datastore-preferences",
-        "editor",
-        "education",
-        "foss",
-        "html",
-        "jetpack",
-        "latex-math",
-        "markdown",
-        "material-you",
-        "mermaid-diagrams",
-        "mlkit-text-recognition",
-        "notes-app",
-        "plaintext",
-        "richtext",
-        "room-database",
-        "txt",
-        "university"
-      ],
-      "releasesUrl": "https://api.github.com/repos/YangDai2003/OpenNote-Compose/releases{/id}",
-      "updatedAt": "2025-09-17T15:20:17Z",
-      "latestReleaseDate": "2025-09-17T15:20:17Z",
-      "trendingScore": 780.0,
-      "popularityScore": 780,
+      "updatedAt": "2026-11-07T10:03:05Z",
+      "latestReleaseDate": "2026-11-07T10:03:05Z",
+      "trendingScore": 12190.0,
+      "popularityScore": 12190,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
