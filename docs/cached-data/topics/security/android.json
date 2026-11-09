@@ -1,8 +1,8 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-11-08T11:03:13.559443+00:00",
-  "totalCount": 17,
+  "lastUpdated": "2026-11-09T09:06:16.611221+00:00",
+  "totalCount": 22,
   "repositories": [
     {
       "id": 2184408259867453264,
@@ -45,7 +45,7 @@
       "description": "A novel Android app store focused on security, privacy, and usability",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/accrescent/accrescent",
-      "stargazersCount": 2311,
+      "stargazersCount": 2312,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -61,8 +61,8 @@
       "releasesUrl": "https://api.github.com/repos/accrescent/accrescent/releases{/id}",
       "updatedAt": "2026-11-04T21:51:00Z",
       "latestReleaseDate": "2026-11-04T21:51:00Z",
-      "trendingScore": 2311.0,
-      "popularityScore": 2311,
+      "trendingScore": 2312.0,
+      "popularityScore": 2312,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -115,7 +115,7 @@
       "description": "Powerful privacy tool to lock apps from intruders",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/aload0/AppLock",
-      "stargazersCount": 915,
+      "stargazersCount": 914,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -131,8 +131,48 @@
       "releasesUrl": "https://api.github.com/repos/aload0/AppLock/releases{/id}",
       "updatedAt": "2026-07-09T06:56:05Z",
       "latestReleaseDate": "2026-07-09T06:56:05Z",
-      "trendingScore": 915.0,
-      "popularityScore": 915,
+      "trendingScore": 914.0,
+      "popularityScore": 914,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 7100990726799200698,
+      "name": "AppVerifier",
+      "fullName": "soupslurpr/AppVerifier",
+      "owner": {
+        "login": "soupslurpr",
+        "avatarUrl": "https://github.com/soupslurpr.png"
+      },
+      "description": "Verify apps easily.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/soupslurpr/AppVerifier",
+      "stargazersCount": 1229,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "jetpack-compose",
+        "kotlin",
+        "kotlin-android",
+        "material",
+        "material-3",
+        "material-design",
+        "material-design-3",
+        "material-ui",
+        "material-you",
+        "security",
+        "security-tools",
+        "verification"
+      ],
+      "releasesUrl": "https://api.github.com/repos/soupslurpr/AppVerifier/releases{/id}",
+      "updatedAt": "2025-04-23T02:06:39Z",
+      "latestReleaseDate": "2025-04-23T02:06:39Z",
+      "trendingScore": 1229.0,
+      "popularityScore": 1229,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -172,6 +212,51 @@
       "downloadCount": 0
     },
     {
+      "id": 6773098927520400594,
+      "name": "Athena",
+      "fullName": "Kin69/Athena",
+      "owner": {
+        "login": "Kin69",
+        "avatarUrl": "https://github.com/Kin69.png"
+      },
+      "description": "Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Kin69/Athena",
+      "stargazersCount": 737,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "dns",
+        "dynamic-colo",
+        "firewall",
+        "foss",
+        "kotlin",
+        "kotlin-android",
+        "material",
+        "mvvm",
+        "network",
+        "opensource",
+        "packets",
+        "privacy",
+        "protection",
+        "root",
+        "secure",
+        "security",
+        "vpn"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Kin69/Athena/releases{/id}",
+      "updatedAt": "2026-01-18T13:36:44Z",
+      "latestReleaseDate": "2026-01-18T13:36:44Z",
+      "trendingScore": 737.0,
+      "popularityScore": 737,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
       "id": 7124465909958512517,
       "name": "AVault",
       "fullName": "arpanjot-coding/AVault",
@@ -182,7 +267,7 @@
       "description": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/arpanjot-coding/AVault",
-      "stargazersCount": 621,
+      "stargazersCount": 619,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -210,8 +295,8 @@
       "releasesUrl": "https://api.github.com/repos/arpanjot-coding/AVault/releases{/id}",
       "updatedAt": "2026-11-02T11:13:11Z",
       "latestReleaseDate": "2026-11-02T11:13:11Z",
-      "trendingScore": 621.0,
-      "popularityScore": 621,
+      "trendingScore": 619.0,
+      "popularityScore": 619,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -288,6 +373,50 @@
       "downloadCount": 0
     },
     {
+      "id": 5125691654950225877,
+      "name": "Clippy",
+      "fullName": "WSTxda/Clippy",
+      "owner": {
+        "login": "WSTxda",
+        "avatarUrl": "https://github.com/WSTxda.png"
+      },
+      "description": "Copy links from the sharing menu with automatic removal of shorteners and trackers.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/WSTxda/Clippy",
+      "stargazersCount": 443,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-application",
+        "android-development",
+        "application",
+        "clipboard",
+        "copy",
+        "kotlin",
+        "kotlin-android",
+        "material-design",
+        "material-ui",
+        "mobile",
+        "safety",
+        "security",
+        "security-tools",
+        "share",
+        "shortener",
+        "trackers"
+      ],
+      "releasesUrl": "https://api.github.com/repos/WSTxda/Clippy/releases{/id}",
+      "updatedAt": "2026-02-22T23:50:06Z",
+      "latestReleaseDate": "2026-02-22T23:50:06Z",
+      "trendingScore": 443.0,
+      "popularityScore": 443,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
       "id": 8334314911757257348,
       "name": "Hypatia",
       "fullName": "MaintainTeam/Hypatia",
@@ -298,7 +427,7 @@
       "description": "A realtime malware scanner (fork of Divestos version)| Maintained by: @Inhishonor",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/MaintainTeam/Hypatia",
-      "stargazersCount": 474,
+      "stargazersCount": 477,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -309,8 +438,44 @@
       "releasesUrl": "https://api.github.com/repos/MaintainTeam/Hypatia/releases{/id}",
       "updatedAt": "2026-02-20T17:47:33Z",
       "latestReleaseDate": "2026-02-20T17:47:33Z",
-      "trendingScore": 474.0,
-      "popularityScore": 474,
+      "trendingScore": 477.0,
+      "popularityScore": 477,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 3231467208721668361,
+      "name": "i2pd-android",
+      "fullName": "PurpleI2P/i2pd-android",
+      "owner": {
+        "login": "PurpleI2P",
+        "avatarUrl": "https://github.com/PurpleI2P.png"
+      },
+      "description": "i2pd for Android",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/PurpleI2P/i2pd-android",
+      "stargazersCount": 350,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "anonymity",
+        "cryptography",
+        "i2p",
+        "i2p-client",
+        "i2pd",
+        "i2pd-android",
+        "privacy",
+        "security"
+      ],
+      "releasesUrl": "https://api.github.com/repos/PurpleI2P/i2pd-android/releases{/id}",
+      "updatedAt": "2026-10-24T01:42:52Z",
+      "latestReleaseDate": "2026-10-24T01:42:52Z",
+      "trendingScore": 350.0,
+      "popularityScore": 350,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -437,7 +602,7 @@
       "description": "Private photo vault for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leonlatsch/Photok",
-      "stargazersCount": 1003,
+      "stargazersCount": 1002,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -454,8 +619,8 @@
       "releasesUrl": "https://api.github.com/repos/leonlatsch/Photok/releases{/id}",
       "updatedAt": "2026-11-05T16:14:04Z",
       "latestReleaseDate": "2026-11-05T16:14:04Z",
-      "trendingScore": 1003.0,
-      "popularityScore": 1003,
+      "trendingScore": 1002.0,
+      "popularityScore": 1002,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -473,7 +638,7 @@
       "description": "A simple app for discovering tools that respects your privacy.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/kaleedtc/Privacium",
-      "stargazersCount": 303,
+      "stargazersCount": 304,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -498,8 +663,8 @@
       "releasesUrl": "https://api.github.com/repos/kaleedtc/Privacium/releases{/id}",
       "updatedAt": "2026-10-14T19:32:20Z",
       "latestReleaseDate": "2026-10-14T19:32:20Z",
-      "trendingScore": 303.0,
-      "popularityScore": 303,
+      "trendingScore": 304.0,
+      "popularityScore": 304,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -547,6 +712,47 @@
       "latestReleaseDate": "2026-07-07T16:59:04Z",
       "trendingScore": 89.0,
       "popularityScore": 89,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 1592111374598738936,
+      "name": "SOS-alerter",
+      "fullName": "dhilipmpms/SOS-alerter",
+      "owner": {
+        "login": "dhilipmpms",
+        "avatarUrl": "https://github.com/dhilipmpms.png"
+      },
+      "description": "Privacy-first SOS application for sending emergency messages and real-time location updates to trusted contacts.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/dhilipmpms/SOS-alerter",
+      "stargazersCount": 34,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "emergency",
+        "emergency-alert",
+        "foss",
+        "location-sharing",
+        "offline-first",
+        "open-source",
+        "opensource",
+        "privacy",
+        "privacy-focused",
+        "safety",
+        "security",
+        "sms-alert",
+        "sos"
+      ],
+      "releasesUrl": "https://api.github.com/repos/dhilipmpms/SOS-alerter/releases{/id}",
+      "updatedAt": "2026-07-24T17:42:08Z",
+      "latestReleaseDate": "2026-07-24T17:42:08Z",
+      "trendingScore": 34.0,
+      "popularityScore": 34,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
