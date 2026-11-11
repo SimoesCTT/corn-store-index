@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-11-10T11:08:57.743685+00:00",
+  "lastUpdated": "2026-11-11T10:50:34.553446+00:00",
   "totalCount": 22,
   "repositories": [
     {
@@ -15,7 +15,7 @@
       "description": "Source code for 2FAS Pass Android app",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/twofas/2fas-pass-android",
-      "stargazersCount": 313,
+      "stargazersCount": 314,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -26,8 +26,8 @@
       "releasesUrl": "https://api.github.com/repos/twofas/2fas-pass-android/releases{/id}",
       "updatedAt": "2026-09-15T18:51:04Z",
       "latestReleaseDate": "2026-09-15T18:51:04Z",
-      "trendingScore": 313.0,
-      "popularityScore": 313,
+      "trendingScore": 314.0,
+      "popularityScore": 314,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -45,7 +45,7 @@
       "description": "A novel Android app store focused on security, privacy, and usability",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/accrescent/accrescent",
-      "stargazersCount": 2314,
+      "stargazersCount": 2315,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -61,8 +61,8 @@
       "releasesUrl": "https://api.github.com/repos/accrescent/accrescent/releases{/id}",
       "updatedAt": "2026-11-04T21:51:00Z",
       "latestReleaseDate": "2026-11-04T21:51:00Z",
-      "trendingScore": 2314.0,
-      "popularityScore": 2314,
+      "trendingScore": 2315.0,
+      "popularityScore": 2315,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -80,7 +80,7 @@
       "description": "Unlock your Android phone with an alternative PIN, and run any root command when you enter it. Works before the first unlock after a reboot. (Xposed)",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leohearts/AlternativeUnlockXposed",
-      "stargazersCount": 204,
+      "stargazersCount": 205,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -96,8 +96,8 @@
       "releasesUrl": "https://api.github.com/repos/leohearts/AlternativeUnlockXposed/releases{/id}",
       "updatedAt": "2026-10-07T04:47:19Z",
       "latestReleaseDate": "2026-10-07T04:47:19Z",
-      "trendingScore": 204.0,
-      "popularityScore": 204,
+      "trendingScore": 205.0,
+      "popularityScore": 205,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -115,7 +115,7 @@
       "description": "Powerful privacy tool to lock apps from intruders",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/aload0/AppLock",
-      "stargazersCount": 913,
+      "stargazersCount": 912,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -131,8 +131,8 @@
       "releasesUrl": "https://api.github.com/repos/aload0/AppLock/releases{/id}",
       "updatedAt": "2026-07-09T06:56:05Z",
       "latestReleaseDate": "2026-07-09T06:56:05Z",
-      "trendingScore": 913.0,
-      "popularityScore": 913,
+      "trendingScore": 912.0,
+      "popularityScore": 912,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -222,7 +222,7 @@
       "description": "Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Kin69/Athena",
-      "stargazersCount": 737,
+      "stargazersCount": 738,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -248,8 +248,8 @@
       "releasesUrl": "https://api.github.com/repos/Kin69/Athena/releases{/id}",
       "updatedAt": "2026-01-18T13:36:44Z",
       "latestReleaseDate": "2026-01-18T13:36:44Z",
-      "trendingScore": 737.0,
-      "popularityScore": 737,
+      "trendingScore": 738.0,
+      "popularityScore": 738,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -267,7 +267,7 @@
       "description": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/arpanjot-coding/AVault",
-      "stargazersCount": 619,
+      "stargazersCount": 622,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -293,10 +293,10 @@
         "vault"
       ],
       "releasesUrl": "https://api.github.com/repos/arpanjot-coding/AVault/releases{/id}",
-      "updatedAt": "2026-11-02T11:13:11Z",
-      "latestReleaseDate": "2026-11-02T11:13:11Z",
-      "trendingScore": 619.0,
-      "popularityScore": 619,
+      "updatedAt": "2026-11-10T23:52:00Z",
+      "latestReleaseDate": "2026-11-10T23:52:00Z",
+      "trendingScore": 622.0,
+      "popularityScore": 622,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -314,7 +314,7 @@
       "description": "Modern camera app focused on privacy and security with QR & barcode scanning.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/Camera",
-      "stargazersCount": 1428,
+      "stargazersCount": 1429,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -327,8 +327,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/Camera/releases{/id}",
       "updatedAt": "2026-08-01T22:01:24Z",
       "latestReleaseDate": "2026-08-01T22:01:24Z",
-      "trendingScore": 1428.0,
-      "popularityScore": 1428,
+      "trendingScore": 1429.0,
+      "popularityScore": 1429,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -427,7 +427,7 @@
       "description": "A realtime malware scanner (fork of Divestos version)| Maintained by: @Inhishonor",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/MaintainTeam/Hypatia",
-      "stargazersCount": 478,
+      "stargazersCount": 479,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -438,8 +438,8 @@
       "releasesUrl": "https://api.github.com/repos/MaintainTeam/Hypatia/releases{/id}",
       "updatedAt": "2026-02-20T17:47:33Z",
       "latestReleaseDate": "2026-02-20T17:47:33Z",
-      "trendingScore": 478.0,
-      "popularityScore": 478,
+      "trendingScore": 479.0,
+      "popularityScore": 479,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -602,7 +602,7 @@
       "description": "Private photo vault for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leonlatsch/Photok",
-      "stargazersCount": 1004,
+      "stargazersCount": 1006,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -619,8 +619,8 @@
       "releasesUrl": "https://api.github.com/repos/leonlatsch/Photok/releases{/id}",
       "updatedAt": "2026-11-05T16:14:04Z",
       "latestReleaseDate": "2026-11-05T16:14:04Z",
-      "trendingScore": 1004.0,
-      "popularityScore": 1004,
+      "trendingScore": 1006.0,
+      "popularityScore": 1006,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"

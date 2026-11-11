@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-11-10T11:08:57.743685+00:00",
+  "lastUpdated": "2026-11-11T10:50:34.553446+00:00",
   "totalCount": 3,
   "repositories": [
     {
@@ -15,7 +15,7 @@
       "description": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/ankidroid/Anki-Android",
-      "stargazersCount": 12207,
+      "stargazersCount": 12218,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -29,10 +29,10 @@
         "srs"
       ],
       "releasesUrl": "https://api.github.com/repos/ankidroid/Anki-Android/releases{/id}",
-      "updatedAt": "2026-11-07T10:03:05Z",
-      "latestReleaseDate": "2026-11-07T10:03:05Z",
-      "trendingScore": 12207.0,
-      "popularityScore": 12207,
+      "updatedAt": "2026-11-10T19:18:25Z",
+      "latestReleaseDate": "2026-11-10T19:18:25Z",
+      "trendingScore": 12218.0,
+      "popularityScore": 12218,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -50,7 +50,7 @@
       "description": "Text editor - Notes, ToDo & Filemanager (for Android) - Markdown, todo.txt, plaintext, math, ..",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/gsantner/markor",
-      "stargazersCount": 6412,
+      "stargazersCount": 6417,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -78,8 +78,8 @@
       "releasesUrl": "https://api.github.com/repos/gsantner/markor/releases{/id}",
       "updatedAt": "2026-10-25T21:23:23Z",
       "latestReleaseDate": "2026-10-25T21:23:23Z",
-      "trendingScore": 6412.0,
-      "popularityScore": 6412,
+      "trendingScore": 6417.0,
+      "popularityScore": 6417,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
