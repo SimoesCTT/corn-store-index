@@ -1,8 +1,8 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-11-11T10:50:34.553446+00:00",
-  "totalCount": 41,
+  "lastUpdated": "2026-11-12T11:02:18.372117+00:00",
+  "totalCount": 42,
   "repositories": [
     {
       "id": 7634092923137580827,
@@ -85,7 +85,7 @@
       "description": "Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Kin69/Athena",
-      "stargazersCount": 738,
+      "stargazersCount": 740,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -111,8 +111,8 @@
       "releasesUrl": "https://api.github.com/repos/Kin69/Athena/releases{/id}",
       "updatedAt": "2026-01-18T13:36:44Z",
       "latestReleaseDate": "2026-01-18T13:36:44Z",
-      "trendingScore": 738.0,
-      "popularityScore": 738,
+      "trendingScore": 740.0,
+      "popularityScore": 740,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -130,7 +130,7 @@
       "description": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/arpanjot-coding/AVault",
-      "stargazersCount": 622,
+      "stargazersCount": 624,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -158,8 +158,52 @@
       "releasesUrl": "https://api.github.com/repos/arpanjot-coding/AVault/releases{/id}",
       "updatedAt": "2026-11-10T23:52:00Z",
       "latestReleaseDate": "2026-11-10T23:52:00Z",
-      "trendingScore": 622.0,
-      "popularityScore": 622,
+      "trendingScore": 624.0,
+      "popularityScore": 624,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 4839901865038793123,
+      "name": "blockads-android",
+      "fullName": "pass-with-high-score/blockads-android",
+      "owner": {
+        "login": "pass-with-high-score",
+        "avatarUrl": "https://github.com/pass-with-high-score.png"
+      },
+      "description": "Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/pass-with-high-score/blockads-android",
+      "stargazersCount": 2703,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "adblocker",
+        "android",
+        "block-ads",
+        "blockads",
+        "dns",
+        "dns-filter",
+        "firewall",
+        "go-mobile",
+        "golang",
+        "https-filtering",
+        "jetpack-compose",
+        "kotlin",
+        "no-root",
+        "privacy",
+        "root",
+        "vpn",
+        "wireguard"
+      ],
+      "releasesUrl": "https://api.github.com/repos/pass-with-high-score/blockads-android/releases{/id}",
+      "updatedAt": "2026-11-11T17:49:39Z",
+      "latestReleaseDate": "2026-11-11T17:49:39Z",
+      "trendingScore": 2703.0,
+      "popularityScore": 2703,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -177,7 +221,7 @@
       "description": "Modern camera app focused on privacy and security with QR & barcode scanning.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/Camera",
-      "stargazersCount": 1429,
+      "stargazersCount": 1428,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -190,8 +234,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/Camera/releases{/id}",
       "updatedAt": "2026-08-01T22:01:24Z",
       "latestReleaseDate": "2026-08-01T22:01:24Z",
-      "trendingScore": 1429.0,
-      "popularityScore": 1429,
+      "trendingScore": 1428.0,
+      "popularityScore": 1428,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -246,7 +290,7 @@
       "description": "DAVx\u2075 is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/bitfireAT/davx5-ose",
-      "stargazersCount": 3014,
+      "stargazersCount": 3016,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -264,8 +308,8 @@
       "releasesUrl": "https://api.github.com/repos/bitfireAT/davx5-ose/releases{/id}",
       "updatedAt": "2026-10-26T13:25:43Z",
       "latestReleaseDate": "2026-10-26T13:25:43Z",
-      "trendingScore": 3014.0,
-      "popularityScore": 3014,
+      "trendingScore": 3016.0,
+      "popularityScore": 3016,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -283,7 +327,7 @@
       "description": "Android keyboard with local AI (Ollama, Whisper, MCP) or cloud (Gemini, Groq, OpenAI)",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/SvReenen/Deskdrop",
-      "stargazersCount": 62,
+      "stargazersCount": 61,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -311,8 +355,8 @@
       "releasesUrl": "https://api.github.com/repos/SvReenen/Deskdrop/releases{/id}",
       "updatedAt": "2026-04-21T23:33:42Z",
       "latestReleaseDate": "2026-04-21T23:33:42Z",
-      "trendingScore": 62.0,
-      "popularityScore": 62,
+      "trendingScore": 61.0,
+      "popularityScore": 61,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -330,7 +374,7 @@
       "description": "An Android app to scan your documents \u2014 simple and respectful",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/pynicolas/FairScan",
-      "stargazersCount": 1027,
+      "stargazersCount": 1028,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -347,8 +391,8 @@
       "releasesUrl": "https://api.github.com/repos/pynicolas/FairScan/releases{/id}",
       "updatedAt": "2026-09-20T16:03:39Z",
       "latestReleaseDate": "2026-09-20T16:03:39Z",
-      "trendingScore": 1027.0,
-      "popularityScore": 1027,
+      "trendingScore": 1028.0,
+      "popularityScore": 1028,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -413,7 +457,7 @@
       "description": "Disable / Hide / Suspend / Uninstall Android apps without root.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/aistra0528/Hail",
-      "stargazersCount": 7243,
+      "stargazersCount": 7263,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -428,8 +472,8 @@
       "releasesUrl": "https://api.github.com/repos/aistra0528/Hail/releases{/id}",
       "updatedAt": "2026-08-26T07:23:01Z",
       "latestReleaseDate": "2026-08-26T07:23:01Z",
-      "trendingScore": 7243.0,
-      "popularityScore": 7243,
+      "trendingScore": 7263.0,
+      "popularityScore": 7263,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -483,7 +527,7 @@
       "description": "A password strength app that evaluates and rates your password's robustness, estimates crack time, and provides helpful warnings and suggestions for stronger passwords.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/StellarSand/IYPS",
-      "stargazersCount": 283,
+      "stargazersCount": 285,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -510,8 +554,8 @@
       "releasesUrl": "https://api.github.com/repos/StellarSand/IYPS/releases{/id}",
       "updatedAt": "2026-08-01T10:46:04Z",
       "latestReleaseDate": "2026-08-01T10:46:04Z",
-      "trendingScore": 283.0,
-      "popularityScore": 283,
+      "trendingScore": 285.0,
+      "popularityScore": 285,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -529,7 +573,7 @@
       "description": "Privacy-friendly Android keyboard with two-thumb swipe input",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/EZ-eta/kinetica",
-      "stargazersCount": 62,
+      "stargazersCount": 66,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -543,10 +587,10 @@
         "swipe-typing"
       ],
       "releasesUrl": "https://api.github.com/repos/EZ-eta/kinetica/releases{/id}",
-      "updatedAt": "2026-11-03T06:53:16Z",
-      "latestReleaseDate": "2026-11-03T06:53:16Z",
-      "trendingScore": 62.0,
-      "popularityScore": 62,
+      "updatedAt": "2026-11-11T13:27:58Z",
+      "latestReleaseDate": "2026-11-11T13:27:58Z",
+      "trendingScore": 66.0,
+      "popularityScore": 66,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -564,7 +608,7 @@
       "description": "\ud83e\ude75 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo \u2014 browse, discover, and install apps with one click. Formerly GitHub Store.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/komi-store/komi-store",
-      "stargazersCount": 20540,
+      "stargazersCount": 20571,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -582,8 +626,8 @@
       "releasesUrl": "https://api.github.com/repos/komi-store/komi-store/releases{/id}",
       "updatedAt": "2026-10-24T06:23:03Z",
       "latestReleaseDate": "2026-10-24T06:23:03Z",
-      "trendingScore": 20540.0,
-      "popularityScore": 20540,
+      "trendingScore": 20571.0,
+      "popularityScore": 20571,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -601,7 +645,7 @@
       "description": "A private Android launcher with local intent search, six dark themes, widgets, gestures, and selective backup. No ads, analytics, or account.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/SysAdminDoc/Lawnchair-Lite",
-      "stargazersCount": 18,
+      "stargazersCount": 19,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -629,8 +673,8 @@
       "releasesUrl": "https://api.github.com/repos/SysAdminDoc/Lawnchair-Lite/releases{/id}",
       "updatedAt": "2026-09-06T01:08:17Z",
       "latestReleaseDate": "2026-09-06T01:08:17Z",
-      "trendingScore": 18.0,
-      "popularityScore": 18,
+      "trendingScore": 19.0,
+      "popularityScore": 19,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -648,7 +692,7 @@
       "description": "LeanType is an Open-source keyboard, fork of HeliBoard with additional features and customisation",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/LeanBitLab/LeanType",
-      "stargazersCount": 1176,
+      "stargazersCount": 1181,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -671,10 +715,10 @@
         "translation"
       ],
       "releasesUrl": "https://api.github.com/repos/LeanBitLab/LeanType/releases{/id}",
-      "updatedAt": "2026-11-10T08:48:37Z",
-      "latestReleaseDate": "2026-11-10T08:48:37Z",
-      "trendingScore": 1176.0,
-      "popularityScore": 1176,
+      "updatedAt": "2026-11-12T09:27:50Z",
+      "latestReleaseDate": "2026-11-12T09:27:50Z",
+      "trendingScore": 1181.0,
+      "popularityScore": 1181,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -692,7 +736,7 @@
       "description": "Modern, privacy-focused XMPP client for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/rockcutto/librespan",
-      "stargazersCount": 6,
+      "stargazersCount": 8,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -708,8 +752,8 @@
       "releasesUrl": "https://api.github.com/repos/rockcutto/librespan/releases{/id}",
       "updatedAt": "2026-11-04T21:26:38Z",
       "latestReleaseDate": "2026-11-04T21:26:38Z",
-      "trendingScore": 6.0,
-      "popularityScore": 6,
+      "trendingScore": 8.0,
+      "popularityScore": 8,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -727,7 +771,7 @@
       "description": "An alternative frontend for YouTube, for Android.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/libre-tube/LibreTube",
-      "stargazersCount": 12983,
+      "stargazersCount": 12994,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -742,8 +786,8 @@
       "releasesUrl": "https://api.github.com/repos/libre-tube/LibreTube/releases{/id}",
       "updatedAt": "2026-09-02T09:31:35Z",
       "latestReleaseDate": "2026-09-02T09:31:35Z",
-      "trendingScore": 12983.0,
-      "popularityScore": 12983,
+      "trendingScore": 12994.0,
+      "popularityScore": 12994,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -799,7 +843,7 @@
       "description": " Monica Pass\uff0cPassword Management, 2FA Generator",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Monica-Pass/Monica",
-      "stargazersCount": 1223,
+      "stargazersCount": 1222,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -818,8 +862,8 @@
       "releasesUrl": "https://api.github.com/repos/Monica-Pass/Monica/releases{/id}",
       "updatedAt": "2026-11-08T15:16:55Z",
       "latestReleaseDate": "2026-11-08T15:16:55Z",
-      "trendingScore": 1223.0,
-      "popularityScore": 1223,
+      "trendingScore": 1222.0,
+      "popularityScore": 1222,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -837,7 +881,7 @@
       "description": "attempting to detect smart glasses nearby and warn you",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/yjeanrenaud/yj_nearbyglasses",
-      "stargazersCount": 2597,
+      "stargazersCount": 2600,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -854,8 +898,8 @@
       "releasesUrl": "https://api.github.com/repos/yjeanrenaud/yj_nearbyglasses/releases{/id}",
       "updatedAt": "2026-11-01T00:43:50Z",
       "latestReleaseDate": "2026-11-01T00:43:50Z",
-      "trendingScore": 2597.0,
-      "popularityScore": 2597,
+      "trendingScore": 2600.0,
+      "popularityScore": 2600,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -909,7 +953,7 @@
       "description": "Open Any File. One Android app that opens any file: PDF, Word, Excel, slides, books, archives and media, and edits most of them. No account, no ads.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/PremPoddar/OAF",
-      "stargazersCount": 11,
+      "stargazersCount": 12,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -937,8 +981,8 @@
       "releasesUrl": "https://api.github.com/repos/PremPoddar/OAF/releases{/id}",
       "updatedAt": "2026-11-03T18:54:51Z",
       "latestReleaseDate": "2026-11-03T18:54:51Z",
-      "trendingScore": 11.0,
-      "popularityScore": 11,
+      "trendingScore": 12.0,
+      "popularityScore": 12,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1080,7 +1124,7 @@
       "description": "An Activist Grade Privacy & Security App that provides multi-layered defense by isolating data within encrypted sandbox, inaccessible to other apps, the OS, or unauthorized physical extraction - With the Belief \"Privacy Without the Tradeoff of Ease\"",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/duckniii/SeekPrivacy",
-      "stargazersCount": 89,
+      "stargazersCount": 90,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1108,8 +1152,8 @@
       "releasesUrl": "https://api.github.com/repos/duckniii/SeekPrivacy/releases{/id}",
       "updatedAt": "2026-07-07T16:59:04Z",
       "latestReleaseDate": "2026-07-07T16:59:04Z",
-      "trendingScore": 89.0,
-      "popularityScore": 89,
+      "trendingScore": 90.0,
+      "popularityScore": 90,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1168,7 +1212,7 @@
       "description": "Radio frequency scanner with recon and offensive capabilities",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/thomasbuilds/Spectre",
-      "stargazersCount": 201,
+      "stargazersCount": 202,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1192,8 +1236,8 @@
       "releasesUrl": "https://api.github.com/repos/thomasbuilds/Spectre/releases{/id}",
       "updatedAt": "2026-07-30T10:47:15Z",
       "latestReleaseDate": "2026-07-30T10:47:15Z",
-      "trendingScore": 201.0,
-      "popularityScore": 201,
+      "trendingScore": 202.0,
+      "popularityScore": 202,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1211,7 +1255,7 @@
       "description": "Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. Just 3 MB, no tracking, no root, no PC.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/man15h/tellyscope",
-      "stargazersCount": 1872,
+      "stargazersCount": 1948,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1223,8 +1267,8 @@
       "releasesUrl": "https://api.github.com/repos/man15h/tellyscope/releases{/id}",
       "updatedAt": "2026-11-06T17:14:12Z",
       "latestReleaseDate": "2026-11-06T17:14:12Z",
-      "trendingScore": 1872.0,
-      "popularityScore": 1872,
+      "trendingScore": 1948.0,
+      "popularityScore": 1948,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1242,7 +1286,7 @@
       "description": "Track your network and data usage with privacy",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leekleak/traffic-light",
-      "stargazersCount": 931,
+      "stargazersCount": 933,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1257,10 +1301,10 @@
         "shizuku"
       ],
       "releasesUrl": "https://api.github.com/repos/leekleak/traffic-light/releases{/id}",
-      "updatedAt": "2026-10-27T09:59:40Z",
-      "latestReleaseDate": "2026-10-27T09:59:40Z",
-      "trendingScore": 931.0,
-      "popularityScore": 931,
+      "updatedAt": "2026-11-12T09:37:08Z",
+      "latestReleaseDate": "2026-11-12T09:37:08Z",
+      "trendingScore": 933.0,
+      "popularityScore": 933,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1278,7 +1322,7 @@
       "description": "An offline multi-tool Android app for hiking, backpacking, camping, wilderness survival, foraging, and hunting.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/kylecorry31/Trail-Sense",
-      "stargazersCount": 3025,
+      "stargazersCount": 3027,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1306,8 +1350,8 @@
       "releasesUrl": "https://api.github.com/repos/kylecorry31/Trail-Sense/releases{/id}",
       "updatedAt": "2026-09-04T10:44:34Z",
       "latestReleaseDate": "2026-09-04T10:44:34Z",
-      "trendingScore": 3025.0,
-      "popularityScore": 3025,
+      "trendingScore": 3027.0,
+      "popularityScore": 3027,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1325,7 +1369,7 @@
       "description": "App to help you remove tracking information before sharing links",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/zhanghai/Untracker",
-      "stargazersCount": 635,
+      "stargazersCount": 636,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1340,8 +1384,8 @@
       "releasesUrl": "https://api.github.com/repos/zhanghai/Untracker/releases{/id}",
       "updatedAt": "2025-07-04T04:52:06Z",
       "latestReleaseDate": "2025-07-04T04:52:06Z",
-      "trendingScore": 635.0,
-      "popularityScore": 635,
+      "trendingScore": 636.0,
+      "popularityScore": 636,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1359,7 +1403,7 @@
       "description": "Privacy-focused Android keyboard with swipe typing, custom layouts, and password manager support. No tracking, 100% on-device, and fully open source.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/urikdev/Urik",
-      "stargazersCount": 414,
+      "stargazersCount": 415,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1376,8 +1420,8 @@
       "releasesUrl": "https://api.github.com/repos/urikdev/Urik/releases{/id}",
       "updatedAt": "2026-06-12T23:32:38Z",
       "latestReleaseDate": "2026-06-12T23:32:38Z",
-      "trendingScore": 414.0,
-      "popularityScore": 414,
+      "trendingScore": 415.0,
+      "popularityScore": 415,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1395,7 +1439,7 @@
       "description": "Multiplatform app for Android and Desktop for removing tracking parameters from shared URLs",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leon-cleaning-services/leon",
-      "stargazersCount": 408,
+      "stargazersCount": 407,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1414,8 +1458,8 @@
       "releasesUrl": "https://api.github.com/repos/leon-cleaning-services/leon/releases{/id}",
       "updatedAt": "2026-11-06T13:04:28Z",
       "latestReleaseDate": "2026-11-06T13:04:28Z",
-      "trendingScore": 408.0,
-      "popularityScore": 408,
+      "trendingScore": 407.0,
+      "popularityScore": 407,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1526,7 +1570,7 @@
       "description": "The Windows themed keyboard for Android with Windows 98, XP, Vista and Windows Phone 8.1 themes. No trackers, no network, typing stays on the phone.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/jovanovski/winboard",
-      "stargazersCount": 54,
+      "stargazersCount": 56,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1549,8 +1593,8 @@
       "releasesUrl": "https://api.github.com/repos/jovanovski/winboard/releases{/id}",
       "updatedAt": "2026-09-21T07:37:49Z",
       "latestReleaseDate": "2026-09-21T07:37:49Z",
-      "trendingScore": 54.0,
-      "popularityScore": 54,
+      "trendingScore": 56.0,
+      "popularityScore": 56,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1568,7 +1612,7 @@
       "description": "A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/wasi-master/wmkeyboard",
-      "stargazersCount": 892,
+      "stargazersCount": 920,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1585,8 +1629,8 @@
       "releasesUrl": "https://api.github.com/repos/wasi-master/wmkeyboard/releases{/id}",
       "updatedAt": "2026-11-10T14:15:35Z",
       "latestReleaseDate": "2026-11-10T14:15:35Z",
-      "trendingScore": 892.0,
-      "popularityScore": 892,
+      "trendingScore": 920.0,
+      "popularityScore": 920,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
