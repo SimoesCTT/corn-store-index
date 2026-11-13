@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-11-12T11:02:18.372117+00:00",
+  "lastUpdated": "2026-11-13T10:58:19.977934+00:00",
   "totalCount": 22,
   "repositories": [
     {
@@ -15,7 +15,7 @@
       "description": "Source code for 2FAS Pass Android app",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/twofas/2fas-pass-android",
-      "stargazersCount": 318,
+      "stargazersCount": 320,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -26,8 +26,8 @@
       "releasesUrl": "https://api.github.com/repos/twofas/2fas-pass-android/releases{/id}",
       "updatedAt": "2026-09-15T18:51:04Z",
       "latestReleaseDate": "2026-09-15T18:51:04Z",
-      "trendingScore": 318.0,
-      "popularityScore": 318,
+      "trendingScore": 320.0,
+      "popularityScore": 320,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -45,7 +45,7 @@
       "description": "A novel Android app store focused on security, privacy, and usability",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/accrescent/accrescent",
-      "stargazersCount": 2315,
+      "stargazersCount": 2316,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -61,8 +61,8 @@
       "releasesUrl": "https://api.github.com/repos/accrescent/accrescent/releases{/id}",
       "updatedAt": "2026-11-04T21:51:00Z",
       "latestReleaseDate": "2026-11-04T21:51:00Z",
-      "trendingScore": 2315.0,
-      "popularityScore": 2315,
+      "trendingScore": 2316.0,
+      "popularityScore": 2316,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -150,7 +150,7 @@
       "description": "Verify apps easily.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/soupslurpr/AppVerifier",
-      "stargazersCount": 1232,
+      "stargazersCount": 1234,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -171,8 +171,8 @@
       "releasesUrl": "https://api.github.com/repos/soupslurpr/AppVerifier/releases{/id}",
       "updatedAt": "2025-04-23T02:06:39Z",
       "latestReleaseDate": "2025-04-23T02:06:39Z",
-      "trendingScore": 1232.0,
-      "popularityScore": 1232,
+      "trendingScore": 1234.0,
+      "popularityScore": 1234,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -222,7 +222,7 @@
       "description": "Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Kin69/Athena",
-      "stargazersCount": 740,
+      "stargazersCount": 743,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -248,8 +248,8 @@
       "releasesUrl": "https://api.github.com/repos/Kin69/Athena/releases{/id}",
       "updatedAt": "2026-01-18T13:36:44Z",
       "latestReleaseDate": "2026-01-18T13:36:44Z",
-      "trendingScore": 740.0,
-      "popularityScore": 740,
+      "trendingScore": 743.0,
+      "popularityScore": 743,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -267,7 +267,7 @@
       "description": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/arpanjot-coding/AVault",
-      "stargazersCount": 624,
+      "stargazersCount": 626,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -295,8 +295,8 @@
       "releasesUrl": "https://api.github.com/repos/arpanjot-coding/AVault/releases{/id}",
       "updatedAt": "2026-11-10T23:52:00Z",
       "latestReleaseDate": "2026-11-10T23:52:00Z",
-      "trendingScore": 624.0,
-      "popularityScore": 624,
+      "trendingScore": 626.0,
+      "popularityScore": 626,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -427,7 +427,7 @@
       "description": "A realtime malware scanner (fork of Divestos version)| Maintained by: @Inhishonor",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/MaintainTeam/Hypatia",
-      "stargazersCount": 481,
+      "stargazersCount": 482,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -438,8 +438,8 @@
       "releasesUrl": "https://api.github.com/repos/MaintainTeam/Hypatia/releases{/id}",
       "updatedAt": "2026-02-20T17:47:33Z",
       "latestReleaseDate": "2026-02-20T17:47:33Z",
-      "trendingScore": 481.0,
-      "popularityScore": 481,
+      "trendingScore": 482.0,
+      "popularityScore": 482,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -493,7 +493,7 @@
       "description": "An application designed to silently protect user data from powerful adversaries.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/bakad3v/Android-AntiForensic-Tools",
-      "stargazersCount": 211,
+      "stargazersCount": 212,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -504,8 +504,8 @@
       "releasesUrl": "https://api.github.com/repos/bakad3v/Android-AntiForensic-Tools/releases{/id}",
       "updatedAt": "2026-10-17T10:15:03Z",
       "latestReleaseDate": "2026-10-17T10:15:03Z",
-      "trendingScore": 211.0,
-      "popularityScore": 211,
+      "trendingScore": 212.0,
+      "popularityScore": 212,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -523,7 +523,7 @@
       "description": "A password strength app that evaluates and rates your password's robustness, estimates crack time, and provides helpful warnings and suggestions for stronger passwords.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/StellarSand/IYPS",
-      "stargazersCount": 285,
+      "stargazersCount": 284,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -550,8 +550,54 @@
       "releasesUrl": "https://api.github.com/repos/StellarSand/IYPS/releases{/id}",
       "updatedAt": "2026-08-01T10:46:04Z",
       "latestReleaseDate": "2026-08-01T10:46:04Z",
-      "trendingScore": 285.0,
-      "popularityScore": 285,
+      "trendingScore": 284.0,
+      "popularityScore": 284,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 5450504193773921631,
+      "name": "Password-Monitor",
+      "fullName": "StellarSand/Password-Monitor",
+      "owner": {
+        "login": "StellarSand",
+        "avatarUrl": "https://github.com/StellarSand.png"
+      },
+      "description": "Ensure your password safety by scanning in data breaches. ",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/StellarSand/Password-Monitor",
+      "stargazersCount": 122,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "android-application",
+        "data-breach",
+        "f-droid",
+        "fdroid",
+        "haveibeenpwned",
+        "kotlin",
+        "kotlin-android",
+        "material-design",
+        "material-ui",
+        "material-you",
+        "open-source",
+        "password",
+        "password-breach",
+        "password-safety",
+        "privacy",
+        "security",
+        "security-tools"
+      ],
+      "releasesUrl": "https://api.github.com/repos/StellarSand/Password-Monitor/releases{/id}",
+      "updatedAt": "2026-10-12T00:41:29Z",
+      "latestReleaseDate": "2026-10-12T00:41:29Z",
+      "trendingScore": 122.0,
+      "popularityScore": 122,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -569,7 +615,7 @@
       "description": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/PdfViewer",
-      "stargazersCount": 1066,
+      "stargazersCount": 1065,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -583,8 +629,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/PdfViewer/releases{/id}",
       "updatedAt": "2026-07-30T22:59:39Z",
       "latestReleaseDate": "2026-07-30T22:59:39Z",
-      "trendingScore": 1066.0,
-      "popularityScore": 1066,
+      "trendingScore": 1065.0,
+      "popularityScore": 1065,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -602,7 +648,7 @@
       "description": "Private photo vault for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leonlatsch/Photok",
-      "stargazersCount": 1007,
+      "stargazersCount": 1006,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -619,8 +665,8 @@
       "releasesUrl": "https://api.github.com/repos/leonlatsch/Photok/releases{/id}",
       "updatedAt": "2026-11-05T16:14:04Z",
       "latestReleaseDate": "2026-11-05T16:14:04Z",
-      "trendingScore": 1007.0,
-      "popularityScore": 1007,
+      "trendingScore": 1006.0,
+      "popularityScore": 1006,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -729,7 +775,7 @@
       "description": "Privacy-first SOS application for sending emergency messages and real-time location updates to trusted contacts.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/dhilipmpms/SOS-alerter",
-      "stargazersCount": 34,
+      "stargazersCount": 35,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -751,8 +797,8 @@
       "releasesUrl": "https://api.github.com/repos/dhilipmpms/SOS-alerter/releases{/id}",
       "updatedAt": "2026-07-24T17:42:08Z",
       "latestReleaseDate": "2026-07-24T17:42:08Z",
-      "trendingScore": 34.0,
-      "popularityScore": 34,
+      "trendingScore": 35.0,
+      "popularityScore": 35,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -770,7 +816,7 @@
       "description": "Radio frequency scanner with recon and offensive capabilities",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/thomasbuilds/Spectre",
-      "stargazersCount": 202,
+      "stargazersCount": 204,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -794,55 +840,8 @@
       "releasesUrl": "https://api.github.com/repos/thomasbuilds/Spectre/releases{/id}",
       "updatedAt": "2026-07-30T10:47:15Z",
       "latestReleaseDate": "2026-07-30T10:47:15Z",
-      "trendingScore": 202.0,
-      "popularityScore": 202,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 5715408653811531940,
-      "name": "VD-Infos",
-      "fullName": "VD171/VD-Infos",
-      "owner": {
-        "login": "VD171",
-        "avatarUrl": "https://github.com/VD171.png"
-      },
-      "description": "The VD Infos app reads several of these details and information to show you an example of what can be captured from your device in use.\u200b A.k.a VDInfos, VDInfo, VD Info.",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/VD171/VD-Infos",
-      "stargazersCount": 187,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "anti-detection",
-        "attestation",
-        "device-fingerprint",
-        "diagnostics",
-        "hook-detection",
-        "kernelsu",
-        "keystore",
-        "kotlin",
-        "lsposed",
-        "magisk",
-        "play-integrity",
-        "privacy",
-        "reverse-engineering",
-        "root-detection",
-        "scanner",
-        "security",
-        "spoof-detection",
-        "tamper-detection",
-        "tee"
-      ],
-      "releasesUrl": "https://api.github.com/repos/VD171/VD-Infos/releases{/id}",
-      "updatedAt": "2026-10-01T14:49:52Z",
-      "latestReleaseDate": "2026-10-01T14:49:52Z",
-      "trendingScore": 187.0,
-      "popularityScore": 187,
+      "trendingScore": 204.0,
+      "popularityScore": 204,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"

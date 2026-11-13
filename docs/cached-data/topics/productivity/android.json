@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-11-12T11:02:18.372117+00:00",
+  "lastUpdated": "2026-11-13T10:58:19.977934+00:00",
   "totalCount": 7,
   "repositories": [
     {
@@ -15,7 +15,7 @@
       "description": "A desktop-class file manager for Android optimized for DeX, tablets, and mouse/keyboard productivity.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/troikoss/Continuum-Explorer",
-      "stargazersCount": 74,
+      "stargazersCount": 75,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -28,8 +28,8 @@
       "releasesUrl": "https://api.github.com/repos/troikoss/Continuum-Explorer/releases{/id}",
       "updatedAt": "2026-04-24T16:19:43Z",
       "latestReleaseDate": "2026-04-24T16:19:43Z",
-      "trendingScore": 74.0,
-      "popularityScore": 74,
+      "trendingScore": 75.0,
+      "popularityScore": 75,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -213,7 +213,7 @@
       "description": "\ud83d\udd25 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/plainhub/plain-app",
-      "stargazersCount": 7180,
+      "stargazersCount": 7186,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -241,8 +241,8 @@
       "releasesUrl": "https://api.github.com/repos/plainhub/plain-app/releases{/id}",
       "updatedAt": "2026-09-11T14:10:31Z",
       "latestReleaseDate": "2026-09-11T14:10:31Z",
-      "trendingScore": 7180.0,
-      "popularityScore": 7180,
+      "trendingScore": 7186.0,
+      "popularityScore": 7186,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
