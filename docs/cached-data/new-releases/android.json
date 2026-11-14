@@ -1,39 +1,37 @@
 {
   "category": "new-releases",
   "platform": "android",
-  "lastUpdated": "2026-11-13T10:58:19.977934+00:00",
-  "totalCount": 282,
+  "lastUpdated": "2026-11-14T10:08:19.828251+00:00",
+  "totalCount": 281,
   "repositories": [
     {
-      "id": 7375004708456729768,
-      "name": "morphe-download-helper",
-      "fullName": "GeneralZyonix/morphe-download-helper",
+      "id": 3892611986683095009,
+      "name": "SmartTube",
+      "fullName": "yuliskov/SmartTube",
       "owner": {
-        "login": "GeneralZyonix",
-        "avatarUrl": "https://github.com/GeneralZyonix.png"
+        "login": "yuliskov",
+        "avatarUrl": "https://github.com/yuliskov.png"
       },
-      "description": "Unofficial APK download helper for Morphe Manager: APKMirror, APKPure, Uptodown, F-Droid and Aptoide fallbacks",
+      "description": "Browse media content with your own rules on Android TV",
       "defaultBranch": "main",
-      "htmlUrl": "https://github.com/GeneralZyonix/morphe-download-helper",
-      "stargazersCount": 243,
+      "htmlUrl": "https://github.com/yuliskov/SmartTube",
+      "stargazersCount": 36313,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
         "android",
-        "apk",
-        "apkmirror",
-        "apkpure",
-        "aptoide",
-        "fdroid",
-        "morphe",
-        "uptodown",
-        "xapk"
+        "android-tv",
+        "android-tv-box",
+        "java",
+        "kotlin",
+        "retrofit2",
+        "rxjava-android"
       ],
-      "releasesUrl": "https://api.github.com/repos/GeneralZyonix/morphe-download-helper/releases{/id}",
-      "updatedAt": "2026-11-13T10:06:11Z",
-      "latestReleaseDate": "2026-11-13T10:06:11Z",
-      "trendingScore": 243.0,
-      "popularityScore": 243,
+      "releasesUrl": "https://api.github.com/repos/yuliskov/SmartTube/releases{/id}",
+      "updatedAt": "2026-11-14T09:03:54Z",
+      "latestReleaseDate": "2026-11-14T09:03:54Z",
+      "trendingScore": 36313.0,
+      "popularityScore": 36313,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -41,36 +39,80 @@
       "downloadCount": 0
     },
     {
-      "id": 9450275837350339,
-      "name": "lagrange-reader",
-      "fullName": "van-geaux/lagrange-reader",
+      "id": 3385146710886436301,
+      "name": "orvid",
+      "fullName": "mankidev/orvid",
       "owner": {
-        "login": "van-geaux",
-        "avatarUrl": "https://github.com/van-geaux.png"
+        "login": "mankidev",
+        "avatarUrl": "https://github.com/mankidev.png"
       },
-      "description": "Offline-first Android reader for BookOrbit, Komga, and Kavita. EPUB, PDF, comics, audiobooks, offline downloads, and reading progress sync.",
+      "description": "Private YouTube and video client for Android. Searches YouTube, PeerTube, TikTok, Instagram and 250+ sites at once, every request over Tor. NewPipe alternative.",
       "defaultBranch": "main",
-      "htmlUrl": "https://github.com/van-geaux/lagrange-reader",
-      "stargazersCount": 140,
+      "htmlUrl": "https://github.com/mankidev/orvid",
+      "stargazersCount": 10,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
         "android",
-        "audiobook",
-        "bookorbit",
-        "comic",
-        "ebook",
-        "epub",
-        "kavita",
-        "komga",
-        "pdf",
-        "reader"
+        "android-app",
+        "anonymity",
+        "censorship-circumvention",
+        "exoplayer",
+        "foss",
+        "newpipe",
+        "newpipe-alternative",
+        "obfs4",
+        "peertube",
+        "privacy",
+        "privacy-tools",
+        "snowflake",
+        "termux",
+        "tor",
+        "video-player",
+        "whisper-cpp",
+        "youtube",
+        "youtube-client"
       ],
-      "releasesUrl": "https://api.github.com/repos/van-geaux/lagrange-reader/releases{/id}",
-      "updatedAt": "2026-11-13T10:05:47Z",
-      "latestReleaseDate": "2026-11-13T10:05:47Z",
-      "trendingScore": 140.0,
-      "popularityScore": 140,
+      "releasesUrl": "https://api.github.com/repos/mankidev/orvid/releases{/id}",
+      "updatedAt": "2026-11-14T08:19:15Z",
+      "latestReleaseDate": "2026-11-14T08:19:15Z",
+      "trendingScore": 10.0,
+      "popularityScore": 10,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 6441624297198217658,
+      "name": "ShizukuPlus",
+      "fullName": "thejaustin/ShizukuPlus",
+      "owner": {
+        "login": "thejaustin",
+        "avatarUrl": "https://github.com/thejaustin.png"
+      },
+      "description": "Shizuku+ brings Root/ADB/Dhizuku unification, a Plus API suite, OneUI/Android 16+ support, M3E theming, TCP connectivity, improved customization, & more.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/thejaustin/ShizukuPlus",
+      "stargazersCount": 1796,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "adb",
+        "android",
+        "android-app",
+        "dhizuku",
+        "kotlin",
+        "privileged-access",
+        "root",
+        "shizuku"
+      ],
+      "releasesUrl": "https://api.github.com/repos/thejaustin/ShizukuPlus/releases{/id}",
+      "updatedAt": "2026-11-14T07:35:05Z",
+      "latestReleaseDate": "2026-11-14T07:35:05Z",
+      "trendingScore": 1796.0,
+      "popularityScore": 1796,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -88,7 +130,7 @@
       "description": "LeanType is an Open-source keyboard, fork of HeliBoard with additional features and customisation",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/LeanBitLab/LeanType",
-      "stargazersCount": 1188,
+      "stargazersCount": 1197,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -111,48 +153,10 @@
         "translation"
       ],
       "releasesUrl": "https://api.github.com/repos/LeanBitLab/LeanType/releases{/id}",
-      "updatedAt": "2026-11-13T08:58:19Z",
-      "latestReleaseDate": "2026-11-13T08:58:19Z",
-      "trendingScore": 1188.0,
-      "popularityScore": 1188,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 8799798648074921270,
-      "name": "gkd",
-      "fullName": "gkd-kit/gkd",
-      "owner": {
-        "login": "gkd-kit",
-        "avatarUrl": "https://github.com/gkd-kit.png"
-      },
-      "description": "\u57fa\u4e8e\u65e0\u969c\u788d\uff0c\u9ad8\u7ea7\u9009\u62e9\u5668\uff0c\u8ba2\u9605\u89c4\u5219\u7684\u81ea\u5b9a\u4e49\u5c4f\u5e55\u70b9\u51fb\u5b89\u5353\u5e94\u7528 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/gkd-kit/gkd",
-      "stargazersCount": 44644,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "accessibility",
-        "android",
-        "auto",
-        "click",
-        "compose",
-        "compose-multiplatform",
-        "jetpack-compose",
-        "kotlin",
-        "kotlin-js",
-        "kotlin-multiplatform",
-        "webassembly"
-      ],
-      "releasesUrl": "https://api.github.com/repos/gkd-kit/gkd/releases{/id}",
-      "updatedAt": "2026-11-13T07:44:00Z",
-      "latestReleaseDate": "2026-11-13T07:44:00Z",
-      "trendingScore": 44644.0,
-      "popularityScore": 44644,
+      "updatedAt": "2026-11-14T06:36:00Z",
+      "latestReleaseDate": "2026-11-14T06:36:00Z",
+      "trendingScore": 1197.0,
+      "popularityScore": 1197,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -170,7 +174,7 @@
       "description": "Open source alternative to Nova launcher. No network permission.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/tanujnotes/Supernova",
-      "stargazersCount": 139,
+      "stargazersCount": 146,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -187,10 +191,10 @@
         "widgets"
       ],
       "releasesUrl": "https://api.github.com/repos/tanujnotes/Supernova/releases{/id}",
-      "updatedAt": "2026-11-13T06:36:09Z",
-      "latestReleaseDate": "2026-11-13T06:36:09Z",
-      "trendingScore": 139.0,
-      "popularityScore": 139,
+      "updatedAt": "2026-11-14T04:47:55Z",
+      "latestReleaseDate": "2026-11-14T04:47:55Z",
+      "trendingScore": 146.0,
+      "popularityScore": 146,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -198,33 +202,46 @@
       "downloadCount": 0
     },
     {
-      "id": 4294514149783081942,
-      "name": "lawnchair",
-      "fullName": "LawnchairLauncher/lawnchair",
+      "id": 9089566981106413548,
+      "name": "webview-kiosk",
+      "fullName": "nktnet1/webview-kiosk",
       "owner": {
-        "login": "LawnchairLauncher",
-        "avatarUrl": "https://github.com/LawnchairLauncher.png"
+        "login": "nktnet1",
+        "avatarUrl": "https://github.com/nktnet1.png"
       },
-      "description": "No clever tagline needed.",
+      "description": "Turn your Android device into a locked-down web page in fullscreen mode.",
       "defaultBranch": "main",
-      "htmlUrl": "https://github.com/LawnchairLauncher/lawnchair",
-      "stargazersCount": 13932,
+      "htmlUrl": "https://github.com/nktnet1/webview-kiosk",
+      "stargazersCount": 306,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
         "android",
-        "app",
-        "hacktoberfest",
-        "java",
+        "browser",
+        "cosu",
+        "device-owner",
+        "dhizuku",
+        "digital-signage",
+        "home-assistant",
+        "kiosk",
         "kotlin",
         "launcher",
-        "launcher3"
+        "launcher-application",
+        "lock-task-mode",
+        "mqtt",
+        "nfc",
+        "pin",
+        "screen-pinning",
+        "tablet",
+        "tv",
+        "unifiedpush",
+        "webview"
       ],
-      "releasesUrl": "https://api.github.com/repos/LawnchairLauncher/lawnchair/releases{/id}",
-      "updatedAt": "2026-11-13T06:35:56Z",
-      "latestReleaseDate": "2026-11-13T06:35:56Z",
-      "trendingScore": 13932.0,
-      "popularityScore": 13932,
+      "releasesUrl": "https://api.github.com/repos/nktnet1/webview-kiosk/releases{/id}",
+      "updatedAt": "2026-11-14T04:05:26Z",
+      "latestReleaseDate": "2026-11-14T04:05:26Z",
+      "trendingScore": 306.0,
+      "popularityScore": 306,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -232,7 +249,122 @@
       "downloadCount": 0
     },
     {
-      "id": 1714749336084423632,
+      "id": 7854926299480322979,
+      "name": "android",
+      "fullName": "wgtunnel/android",
+      "owner": {
+        "login": "wgtunnel",
+        "avatarUrl": "https://github.com/wgtunnel.png"
+      },
+      "description": "An advanced, open-source client for WireGuard and AmneziaWG on Android.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/wgtunnel/android",
+      "stargazersCount": 3352,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "amnezia-vpn",
+        "android",
+        "apk",
+        "floss",
+        "foss",
+        "http-proxy",
+        "jetpack-compose",
+        "kotlin",
+        "socks5-proxy",
+        "vpn-client",
+        "wireguard",
+        "wireguard-tunnel",
+        "wireguard-ui",
+        "wireguard-vpn"
+      ],
+      "releasesUrl": "https://api.github.com/repos/wgtunnel/android/releases{/id}",
+      "updatedAt": "2026-11-14T03:20:21Z",
+      "latestReleaseDate": "2026-11-14T03:20:21Z",
+      "trendingScore": 3352.0,
+      "popularityScore": 3352,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 7603375488500734199,
+      "name": "EsjzoneViewer",
+      "fullName": "breakyuna/EsjzoneViewer",
+      "owner": {
+        "login": "breakyuna",
+        "avatarUrl": "https://github.com/breakyuna.png"
+      },
+      "description": "A third-party esjzone application for android",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/breakyuna/EsjzoneViewer",
+      "stargazersCount": 16,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "application",
+        "esjzone",
+        "novel",
+        "reader"
+      ],
+      "releasesUrl": "https://api.github.com/repos/breakyuna/EsjzoneViewer/releases{/id}",
+      "updatedAt": "2026-11-14T00:36:36Z",
+      "latestReleaseDate": "2026-11-14T00:36:36Z",
+      "trendingScore": 16.0,
+      "popularityScore": 16,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 4767876091725935498,
+      "name": "winboard",
+      "fullName": "jovanovski/winboard",
+      "owner": {
+        "login": "jovanovski",
+        "avatarUrl": "https://github.com/jovanovski.png"
+      },
+      "description": "The Windows themed keyboard for Android with Windows 98, XP, Vista and Windows Phone 8.1 themes. No trackers, no network, typing stays on the phone.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/jovanovski/winboard",
+      "stargazersCount": 57,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-keyboard",
+        "ime",
+        "input-method",
+        "keyboard",
+        "kotlin",
+        "nostalgia",
+        "offline",
+        "privacy",
+        "retro",
+        "themes",
+        "windows-98",
+        "windows-phone",
+        "windows-vista",
+        "windows-xp"
+      ],
+      "releasesUrl": "https://api.github.com/repos/jovanovski/winboard/releases{/id}",
+      "updatedAt": "2026-11-13T20:47:09Z",
+      "latestReleaseDate": "2026-11-13T20:47:09Z",
+      "trendingScore": 57.0,
+      "popularityScore": 57,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 7693832207629177323,
       "name": "mLauncher",
       "fullName": "CodeWorksCreativeHub/mLauncher",
       "owner": {
@@ -268,10 +400,624 @@
         "viewmodel"
       ],
       "releasesUrl": "https://api.github.com/repos/CodeWorksCreativeHub/mLauncher/releases{/id}",
-      "updatedAt": "2026-11-13T04:14:53Z",
-      "latestReleaseDate": "2026-11-13T04:14:53Z",
+      "updatedAt": "2026-11-13T19:47:29Z",
+      "latestReleaseDate": "2026-11-13T19:47:29Z",
       "trendingScore": 314.0,
       "popularityScore": 314,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 4294514149783081942,
+      "name": "lawnchair",
+      "fullName": "LawnchairLauncher/lawnchair",
+      "owner": {
+        "login": "LawnchairLauncher",
+        "avatarUrl": "https://github.com/LawnchairLauncher.png"
+      },
+      "description": "No clever tagline needed.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/LawnchairLauncher/lawnchair",
+      "stargazersCount": 13941,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "app",
+        "hacktoberfest",
+        "java",
+        "kotlin",
+        "launcher",
+        "launcher3"
+      ],
+      "releasesUrl": "https://api.github.com/repos/LawnchairLauncher/lawnchair/releases{/id}",
+      "updatedAt": "2026-11-13T19:46:06Z",
+      "latestReleaseDate": "2026-11-13T19:46:06Z",
+      "trendingScore": 13941.0,
+      "popularityScore": 13941,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 732033639843556547,
+      "name": "traffic-light",
+      "fullName": "leekleak/traffic-light",
+      "owner": {
+        "login": "leekleak",
+        "avatarUrl": "https://github.com/leekleak.png"
+      },
+      "description": "Track your network and data usage with privacy",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/leekleak/traffic-light",
+      "stargazersCount": 937,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "data-usage",
+        "fdroid",
+        "foss",
+        "jetpack-compose",
+        "kotlin",
+        "network-monitor",
+        "privacy",
+        "shizuku"
+      ],
+      "releasesUrl": "https://api.github.com/repos/leekleak/traffic-light/releases{/id}",
+      "updatedAt": "2026-11-13T19:06:58Z",
+      "latestReleaseDate": "2026-11-13T19:06:58Z",
+      "trendingScore": 937.0,
+      "popularityScore": 937,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 3018002118436718122,
+      "name": "jtxBoard",
+      "fullName": "TechbeeAT/jtxBoard",
+      "owner": {
+        "login": "TechbeeAT",
+        "avatarUrl": "https://github.com/TechbeeAT.png"
+      },
+      "description": "jtx Board allows you to manage your Journals (like meeting minutes), Notes and Tasks in one Android app. The app is compatible with the iCal standard (RFC5545) and is integrated with DAVx5 to allow the synchronisation of entries through CalDAV.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/TechbeeAT/jtxBoard",
+      "stargazersCount": 709,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "caldav",
+        "caldav-client",
+        "davx5",
+        "glance-appwidget",
+        "icalendar",
+        "jetpack-compose",
+        "journals",
+        "notes",
+        "rfc-5545",
+        "rfc5545",
+        "tasks",
+        "vjournal",
+        "vtodo"
+      ],
+      "releasesUrl": "https://api.github.com/repos/TechbeeAT/jtxBoard/releases{/id}",
+      "updatedAt": "2026-11-13T18:31:04Z",
+      "latestReleaseDate": "2026-11-13T18:31:04Z",
+      "trendingScore": 709.0,
+      "popularityScore": 709,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 4430521892992184993,
+      "name": "Anki-Android",
+      "fullName": "ankidroid/Anki-Android",
+      "owner": {
+        "login": "ankidroid",
+        "avatarUrl": "https://github.com/ankidroid.png"
+      },
+      "description": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/ankidroid/Anki-Android",
+      "stargazersCount": 12244,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "anki",
+        "ankidroid",
+        "education",
+        "flashcards",
+        "kotlin",
+        "learning",
+        "srs"
+      ],
+      "releasesUrl": "https://api.github.com/repos/ankidroid/Anki-Android/releases{/id}",
+      "updatedAt": "2026-11-13T17:20:44Z",
+      "latestReleaseDate": "2026-11-13T17:20:44Z",
+      "trendingScore": 12244.0,
+      "popularityScore": 12244,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 212471184635541210,
+      "name": "davx5-ose",
+      "fullName": "bitfireAT/davx5-ose",
+      "owner": {
+        "login": "bitfireAT",
+        "avatarUrl": "https://github.com/bitfireAT.png"
+      },
+      "description": "DAVx\u2075 is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/bitfireAT/davx5-ose",
+      "stargazersCount": 3020,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "caldav",
+        "calendars",
+        "carddav",
+        "contacts",
+        "hilt-android",
+        "privacy",
+        "sync",
+        "tasks",
+        "webdav"
+      ],
+      "releasesUrl": "https://api.github.com/repos/bitfireAT/davx5-ose/releases{/id}",
+      "updatedAt": "2026-11-13T15:45:09Z",
+      "latestReleaseDate": "2026-11-13T15:45:09Z",
+      "trendingScore": 3020.0,
+      "popularityScore": 3020,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 8647009443115676219,
+      "name": "FairScan",
+      "fullName": "pynicolas/FairScan",
+      "owner": {
+        "login": "pynicolas",
+        "avatarUrl": "https://github.com/pynicolas.png"
+      },
+      "description": "An Android app to scan your documents \u2014 simple and respectful",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/pynicolas/FairScan",
+      "stargazersCount": 1035,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "document-scanner",
+        "image-processing",
+        "opencv",
+        "pdf",
+        "privacy",
+        "segmentation",
+        "tflite"
+      ],
+      "releasesUrl": "https://api.github.com/repos/pynicolas/FairScan/releases{/id}",
+      "updatedAt": "2026-11-13T15:30:10Z",
+      "latestReleaseDate": "2026-11-13T15:30:10Z",
+      "trendingScore": 1035.0,
+      "popularityScore": 1035,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 8079024720021636190,
+      "name": "IReader",
+      "fullName": "IReaderorg/IReader",
+      "owner": {
+        "login": "IReaderorg",
+        "avatarUrl": "https://github.com/IReaderorg.png"
+      },
+      "description": "Free and open source novel reader for Android and Desktop.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/IReaderorg/IReader",
+      "stargazersCount": 995,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "compose",
+        "hacktoberfest",
+        "ireader",
+        "kotlin",
+        "light-novels",
+        "novel",
+        "novel-reader",
+        "reader",
+        "webnovel",
+        "webnovels"
+      ],
+      "releasesUrl": "https://api.github.com/repos/IReaderorg/IReader/releases{/id}",
+      "updatedAt": "2026-11-13T14:41:00Z",
+      "latestReleaseDate": "2026-11-13T14:41:00Z",
+      "trendingScore": 995.0,
+      "popularityScore": 995,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 1407194706195948807,
+      "name": "Findex",
+      "fullName": "aiyu-ayaan/Findex",
+      "owner": {
+        "login": "aiyu-ayaan",
+        "avatarUrl": "https://github.com/aiyu-ayaan.png"
+      },
+      "description": "Beautiful open-source Android file manager built with Jetpack Compose and Material 3 Expressive. Multi-tab and dual-pane browsing, storage analyzer, duplicate finder, cleaner, archive tools, recycle bin. Fast, fluid and privacy-focused.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/aiyu-ayaan/Findex",
+      "stargazersCount": 10,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-app",
+        "android-file-manager",
+        "archive-manager",
+        "compose-ui",
+        "dual-pane",
+        "duplicate-finder",
+        "file-explorer",
+        "file-manager",
+        "file-sharing",
+        "foss",
+        "jetpack-compose",
+        "kotlin",
+        "material-3-expressive",
+        "material-you",
+        "material3",
+        "open-source",
+        "privacy",
+        "storage-analyzer",
+        "zip"
+      ],
+      "releasesUrl": "https://api.github.com/repos/aiyu-ayaan/Findex/releases{/id}",
+      "updatedAt": "2026-11-13T12:52:55Z",
+      "latestReleaseDate": "2026-11-13T12:52:55Z",
+      "trendingScore": 10.0,
+      "popularityScore": 10,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 4130187011935429595,
+      "name": "Amber",
+      "fullName": "greenart7c3/Amber",
+      "owner": {
+        "login": "greenart7c3",
+        "avatarUrl": "https://github.com/greenart7c3.png"
+      },
+      "description": "",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/greenart7c3/Amber",
+      "stargazersCount": 362,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "fdroid",
+        "nostr"
+      ],
+      "releasesUrl": "https://api.github.com/repos/greenart7c3/Amber/releases{/id}",
+      "updatedAt": "2026-11-13T12:50:37Z",
+      "latestReleaseDate": "2026-11-13T12:50:37Z",
+      "trendingScore": 362.0,
+      "popularityScore": 362,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 4551874663474114771,
+      "name": "Monica",
+      "fullName": "Monica-Pass/Monica",
+      "owner": {
+        "login": "Monica-Pass",
+        "avatarUrl": "https://github.com/Monica-Pass.png"
+      },
+      "description": " Monica Pass\uff0cPassword Management, 2FA Generator",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Monica-Pass/Monica",
+      "stargazersCount": 1229,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "authenticator",
+        "kotlin",
+        "local-first",
+        "monica",
+        "monicapass",
+        "open-source",
+        "password-manager",
+        "password-manager-app",
+        "privacy",
+        "totp"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Monica-Pass/Monica/releases{/id}",
+      "updatedAt": "2026-11-13T12:30:32Z",
+      "latestReleaseDate": "2026-11-13T12:30:32Z",
+      "trendingScore": 1229.0,
+      "popularityScore": 1229,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 8957921141917177915,
+      "name": "Prism",
+      "fullName": "Yigder/Prism",
+      "owner": {
+        "login": "Yigder",
+        "avatarUrl": "https://github.com/Yigder.png"
+      },
+      "description": "Free, open-source YouTube Music client for Android: word-by-word lyrics, on-device mixes, karaoke, a DJ mode, Replay and Android Auto. No ads, no tracking.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Yigder/Prism",
+      "stargazersCount": 468,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "android-auto",
+        "jetpack-compose",
+        "karaoke",
+        "kotlin",
+        "lyrics",
+        "lyrics-player",
+        "material-you",
+        "music",
+        "music-player",
+        "open-source",
+        "youtube-music"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Yigder/Prism/releases{/id}",
+      "updatedAt": "2026-11-13T11:26:32Z",
+      "latestReleaseDate": "2026-11-13T11:26:32Z",
+      "trendingScore": 468.0,
+      "popularityScore": 468,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 1238226026813006049,
+      "name": "Clock",
+      "fullName": "BlackyHawky/Clock",
+      "owner": {
+        "login": "BlackyHawky",
+        "avatarUrl": "https://github.com/BlackyHawky.png"
+      },
+      "description": "Customizable, privacy\u2011first, open-source clock app inspired by AOSP Clock",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/BlackyHawky/Clock",
+      "stargazersCount": 1190,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "alarm",
+        "analog-clock",
+        "android",
+        "android15",
+        "aosp-clock",
+        "clock",
+        "clock-java",
+        "clockwidget",
+        "digital-clock",
+        "fdroid",
+        "foss",
+        "izzyondroid",
+        "java",
+        "material-design",
+        "material-ui",
+        "material3",
+        "screensaver",
+        "stopwatch",
+        "timer",
+        "widget"
+      ],
+      "releasesUrl": "https://api.github.com/repos/BlackyHawky/Clock/releases{/id}",
+      "updatedAt": "2026-11-13T11:24:52Z",
+      "latestReleaseDate": "2026-11-13T11:24:52Z",
+      "trendingScore": 1190.0,
+      "popularityScore": 1190,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 5917516882938775079,
+      "name": "Musify",
+      "fullName": "gokadzev/Musify",
+      "owner": {
+        "login": "gokadzev",
+        "avatarUrl": "https://github.com/gokadzev.png"
+      },
+      "description": "Unlock the full potential of music: Stream effortlessly with one app!",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/gokadzev/Musify",
+      "stargazersCount": 4440,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android-app",
+        "android-application",
+        "android-music-player",
+        "fdroid",
+        "flutter",
+        "flutter-app",
+        "flutter-application",
+        "flutter-apps",
+        "free",
+        "material-design",
+        "material-design-3",
+        "material-ui",
+        "material-you",
+        "materialui",
+        "music",
+        "music-app",
+        "music-player",
+        "music-streaming",
+        "streaming"
+      ],
+      "releasesUrl": "https://api.github.com/repos/gokadzev/Musify/releases{/id}",
+      "updatedAt": "2026-11-13T11:03:09Z",
+      "latestReleaseDate": "2026-11-13T11:03:09Z",
+      "trendingScore": 4440.0,
+      "popularityScore": 4440,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 7375004708456729768,
+      "name": "morphe-download-helper",
+      "fullName": "GeneralZyonix/morphe-download-helper",
+      "owner": {
+        "login": "GeneralZyonix",
+        "avatarUrl": "https://github.com/GeneralZyonix.png"
+      },
+      "description": "Unofficial APK download helper for Morphe Manager: APKMirror, APKPure, Uptodown, F-Droid and Aptoide fallbacks",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/GeneralZyonix/morphe-download-helper",
+      "stargazersCount": 247,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "apk",
+        "apkmirror",
+        "apkpure",
+        "aptoide",
+        "fdroid",
+        "morphe",
+        "uptodown",
+        "xapk"
+      ],
+      "releasesUrl": "https://api.github.com/repos/GeneralZyonix/morphe-download-helper/releases{/id}",
+      "updatedAt": "2026-11-13T10:06:11Z",
+      "latestReleaseDate": "2026-11-13T10:06:11Z",
+      "trendingScore": 247.0,
+      "popularityScore": 247,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 9450275837350339,
+      "name": "lagrange-reader",
+      "fullName": "van-geaux/lagrange-reader",
+      "owner": {
+        "login": "van-geaux",
+        "avatarUrl": "https://github.com/van-geaux.png"
+      },
+      "description": "Offline-first Android reader for BookOrbit, Komga, and Kavita. EPUB, PDF, comics, audiobooks, offline downloads, and reading progress sync.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/van-geaux/lagrange-reader",
+      "stargazersCount": 141,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "audiobook",
+        "bookorbit",
+        "comic",
+        "ebook",
+        "epub",
+        "kavita",
+        "komga",
+        "pdf",
+        "reader"
+      ],
+      "releasesUrl": "https://api.github.com/repos/van-geaux/lagrange-reader/releases{/id}",
+      "updatedAt": "2026-11-13T10:05:47Z",
+      "latestReleaseDate": "2026-11-13T10:05:47Z",
+      "trendingScore": 141.0,
+      "popularityScore": 141,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 8799798648074921270,
+      "name": "gkd",
+      "fullName": "gkd-kit/gkd",
+      "owner": {
+        "login": "gkd-kit",
+        "avatarUrl": "https://github.com/gkd-kit.png"
+      },
+      "description": "\u57fa\u4e8e\u65e0\u969c\u788d\uff0c\u9ad8\u7ea7\u9009\u62e9\u5668\uff0c\u8ba2\u9605\u89c4\u5219\u7684\u81ea\u5b9a\u4e49\u5c4f\u5e55\u70b9\u51fb\u5b89\u5353\u5e94\u7528 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/gkd-kit/gkd",
+      "stargazersCount": 44709,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "accessibility",
+        "android",
+        "auto",
+        "click",
+        "compose",
+        "compose-multiplatform",
+        "jetpack-compose",
+        "kotlin",
+        "kotlin-js",
+        "kotlin-multiplatform",
+        "webassembly"
+      ],
+      "releasesUrl": "https://api.github.com/repos/gkd-kit/gkd/releases{/id}",
+      "updatedAt": "2026-11-13T07:44:00Z",
+      "latestReleaseDate": "2026-11-13T07:44:00Z",
+      "trendingScore": 44709.0,
+      "popularityScore": 44709,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -289,7 +1035,7 @@
       "description": "A distraction-free, minimal homescreen for Android.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/jrpie/launcher",
-      "stargazersCount": 510,
+      "stargazersCount": 512,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -302,8 +1048,8 @@
       "releasesUrl": "https://api.github.com/repos/jrpie/launcher/releases{/id}",
       "updatedAt": "2026-11-13T01:23:21Z",
       "latestReleaseDate": "2026-11-13T01:23:21Z",
-      "trendingScore": 510.0,
-      "popularityScore": 510,
+      "trendingScore": 512.0,
+      "popularityScore": 512,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -321,7 +1067,7 @@
       "description": "The (official) Music Assistant Mobile app is a cross-platform client application designed for Android and iOS. Developed using Kotlin Multiplatform (KMP) and Compose Multiplatform frameworks, this project aims to provide a unified codebase for seamless music management across multiple platforms.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/music-assistant/mobile-app",
-      "stargazersCount": 730,
+      "stargazersCount": 731,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -344,43 +1090,8 @@
       "releasesUrl": "https://api.github.com/repos/music-assistant/mobile-app/releases{/id}",
       "updatedAt": "2026-11-13T00:46:31Z",
       "latestReleaseDate": "2026-11-13T00:46:31Z",
-      "trendingScore": 730.0,
-      "popularityScore": 730,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 6441624297198217658,
-      "name": "ShizukuPlus",
-      "fullName": "thejaustin/ShizukuPlus",
-      "owner": {
-        "login": "thejaustin",
-        "avatarUrl": "https://github.com/thejaustin.png"
-      },
-      "description": "Shizuku+ brings Root/ADB/Dhizuku unification, a Plus API suite, OneUI/Android 16+ support, M3E theming, TCP connectivity, improved customization, & more.",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/thejaustin/ShizukuPlus",
-      "stargazersCount": 1785,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "adb",
-        "android",
-        "android-app",
-        "dhizuku",
-        "kotlin",
-        "privileged-access",
-        "root",
-        "shizuku"
-      ],
-      "releasesUrl": "https://api.github.com/repos/thejaustin/ShizukuPlus/releases{/id}",
-      "updatedAt": "2026-11-12T17:14:06Z",
-      "latestReleaseDate": "2026-11-12T17:14:06Z",
-      "trendingScore": 1785.0,
-      "popularityScore": 1785,
+      "trendingScore": 731.0,
+      "popularityScore": 731,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -436,7 +1147,7 @@
       "description": "LocalViewer is a fast and full-featured Android SMB/WebDAV/CBZ/RAW photo/comic/ebook viewer and video player with folder and library support.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/zmz125000/LocalViewer",
-      "stargazersCount": 221,
+      "stargazersCount": 223,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -463,49 +1174,8 @@
       "releasesUrl": "https://api.github.com/repos/zmz125000/LocalViewer/releases{/id}",
       "updatedAt": "2026-11-12T14:49:13Z",
       "latestReleaseDate": "2026-11-12T14:49:13Z",
-      "trendingScore": 221.0,
-      "popularityScore": 221,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 7854926299480322979,
-      "name": "android",
-      "fullName": "wgtunnel/android",
-      "owner": {
-        "login": "wgtunnel",
-        "avatarUrl": "https://github.com/wgtunnel.png"
-      },
-      "description": "An advanced, open-source client for WireGuard and AmneziaWG on Android.",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/wgtunnel/android",
-      "stargazersCount": 3350,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "amnezia-vpn",
-        "android",
-        "apk",
-        "floss",
-        "foss",
-        "http-proxy",
-        "jetpack-compose",
-        "kotlin",
-        "socks5-proxy",
-        "vpn-client",
-        "wireguard",
-        "wireguard-tunnel",
-        "wireguard-ui",
-        "wireguard-vpn"
-      ],
-      "releasesUrl": "https://api.github.com/repos/wgtunnel/android/releases{/id}",
-      "updatedAt": "2026-11-12T14:33:32Z",
-      "latestReleaseDate": "2026-11-12T14:33:32Z",
-      "trendingScore": 3350.0,
-      "popularityScore": 3350,
+      "trendingScore": 223.0,
+      "popularityScore": 223,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -523,7 +1193,7 @@
       "description": "Free implementation of Play Services",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/microg/GmsCore",
-      "stargazersCount": 15298,
+      "stargazersCount": 15314,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -545,8 +1215,8 @@
       "releasesUrl": "https://api.github.com/repos/microg/GmsCore/releases{/id}",
       "updatedAt": "2026-11-12T13:54:29Z",
       "latestReleaseDate": "2026-11-12T13:54:29Z",
-      "trendingScore": 15298.0,
-      "popularityScore": 15298,
+      "trendingScore": 15314.0,
+      "popularityScore": 15314,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -564,7 +1234,7 @@
       "description": "Reqable issue track repo",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/reqable/reqable-app",
-      "stargazersCount": 6958,
+      "stargazersCount": 6961,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -584,8 +1254,8 @@
       "releasesUrl": "https://api.github.com/repos/reqable/reqable-app/releases{/id}",
       "updatedAt": "2026-11-12T12:49:03Z",
       "latestReleaseDate": "2026-11-12T12:49:03Z",
-      "trendingScore": 6958.0,
-      "popularityScore": 6958,
+      "trendingScore": 6961.0,
+      "popularityScore": 6961,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -603,7 +1273,7 @@
       "description": "Cantonese Keyboard for Android. \u7cb5\u8a9e\u62fc\u97f3\u8f38\u5165\u6cd5\u9375\u76e4",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/yuetyam/jyutping-android",
-      "stargazersCount": 49,
+      "stargazersCount": 50,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -617,44 +1287,8 @@
       "releasesUrl": "https://api.github.com/repos/yuetyam/jyutping-android/releases{/id}",
       "updatedAt": "2026-11-12T12:48:41Z",
       "latestReleaseDate": "2026-11-12T12:48:41Z",
-      "trendingScore": 49.0,
-      "popularityScore": 49,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 732033639843556547,
-      "name": "traffic-light",
-      "fullName": "leekleak/traffic-light",
-      "owner": {
-        "login": "leekleak",
-        "avatarUrl": "https://github.com/leekleak.png"
-      },
-      "description": "Track your network and data usage with privacy",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/leekleak/traffic-light",
-      "stargazersCount": 932,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "data-usage",
-        "fdroid",
-        "foss",
-        "jetpack-compose",
-        "kotlin",
-        "network-monitor",
-        "privacy",
-        "shizuku"
-      ],
-      "releasesUrl": "https://api.github.com/repos/leekleak/traffic-light/releases{/id}",
-      "updatedAt": "2026-11-12T09:37:08Z",
-      "latestReleaseDate": "2026-11-12T09:37:08Z",
-      "trendingScore": 932.0,
-      "popularityScore": 932,
+      "trendingScore": 50.0,
+      "popularityScore": 50,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -672,7 +1306,7 @@
       "description": "A lightweight, local-first Markdown note app for Android.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/jeiel85/markleaf-android",
-      "stargazersCount": 145,
+      "stargazersCount": 148,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -694,81 +1328,8 @@
       "releasesUrl": "https://api.github.com/repos/jeiel85/markleaf-android/releases{/id}",
       "updatedAt": "2026-11-12T07:59:50Z",
       "latestReleaseDate": "2026-11-12T07:59:50Z",
-      "trendingScore": 145.0,
-      "popularityScore": 145,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 8957921141917177915,
-      "name": "Prism",
-      "fullName": "Yigder/Prism",
-      "owner": {
-        "login": "Yigder",
-        "avatarUrl": "https://github.com/Yigder.png"
-      },
-      "description": "Free, open-source YouTube Music client for Android: word-by-word lyrics, on-device mixes, karaoke, a DJ mode, Replay and Android Auto. No ads, no tracking.",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/Yigder/Prism",
-      "stargazersCount": 462,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "android-auto",
-        "jetpack-compose",
-        "karaoke",
-        "kotlin",
-        "lyrics",
-        "lyrics-player",
-        "material-you",
-        "music",
-        "music-player",
-        "open-source",
-        "youtube-music"
-      ],
-      "releasesUrl": "https://api.github.com/repos/Yigder/Prism/releases{/id}",
-      "updatedAt": "2026-11-12T07:07:06Z",
-      "latestReleaseDate": "2026-11-12T07:07:06Z",
-      "trendingScore": 462.0,
-      "popularityScore": 462,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 3892611986683095009,
-      "name": "SmartTube",
-      "fullName": "yuliskov/SmartTube",
-      "owner": {
-        "login": "yuliskov",
-        "avatarUrl": "https://github.com/yuliskov.png"
-      },
-      "description": "Browse media content with your own rules on Android TV",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/yuliskov/SmartTube",
-      "stargazersCount": 36271,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "android-tv",
-        "android-tv-box",
-        "java",
-        "kotlin",
-        "retrofit2",
-        "rxjava-android"
-      ],
-      "releasesUrl": "https://api.github.com/repos/yuliskov/SmartTube/releases{/id}",
-      "updatedAt": "2026-11-12T06:02:11Z",
-      "latestReleaseDate": "2026-11-12T06:02:11Z",
-      "trendingScore": 36271.0,
-      "popularityScore": 36271,
+      "trendingScore": 148.0,
+      "popularityScore": 148,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -786,7 +1347,7 @@
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/2dust/v2rayNG",
-      "stargazersCount": 65807,
+      "stargazersCount": 65867,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -806,8 +1367,8 @@
       "releasesUrl": "https://api.github.com/repos/2dust/v2rayNG/releases{/id}",
       "updatedAt": "2026-11-12T02:15:09Z",
       "latestReleaseDate": "2026-11-12T02:15:09Z",
-      "trendingScore": 65807.0,
-      "popularityScore": 65807,
+      "trendingScore": 65867.0,
+      "popularityScore": 65867,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -825,7 +1386,7 @@
       "description": "Full-featured audio/video downloader for Android using yt-dlp",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/deniscerri/ytdlnis",
-      "stargazersCount": 11107,
+      "stargazersCount": 11121,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -845,8 +1406,8 @@
       "releasesUrl": "https://api.github.com/repos/deniscerri/ytdlnis/releases{/id}",
       "updatedAt": "2026-11-12T02:12:24Z",
       "latestReleaseDate": "2026-11-12T02:12:24Z",
-      "trendingScore": 11107.0,
-      "popularityScore": 11107,
+      "trendingScore": 11121.0,
+      "popularityScore": 11121,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -910,7 +1471,7 @@
       "description": "Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/pass-with-high-score/blockads-android",
-      "stargazersCount": 2716,
+      "stargazersCount": 2724,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -935,8 +1496,8 @@
       "releasesUrl": "https://api.github.com/repos/pass-with-high-score/blockads-android/releases{/id}",
       "updatedAt": "2026-11-11T17:49:39Z",
       "latestReleaseDate": "2026-11-11T17:49:39Z",
-      "trendingScore": 2716.0,
-      "popularityScore": 2716,
+      "trendingScore": 2724.0,
+      "popularityScore": 2724,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -954,7 +1515,7 @@
       "description": "An open source and lightweight music client for Subsonic, designed and built natively for Android.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/eddyizm/tempus",
-      "stargazersCount": 1423,
+      "stargazersCount": 1427,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -976,8 +1537,8 @@
       "releasesUrl": "https://api.github.com/repos/eddyizm/tempus/releases{/id}",
       "updatedAt": "2026-11-11T16:41:30Z",
       "latestReleaseDate": "2026-11-11T16:41:30Z",
-      "trendingScore": 1423.0,
-      "popularityScore": 1423,
+      "trendingScore": 1427.0,
+      "popularityScore": 1427,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -995,7 +1556,7 @@
       "description": "An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/AudileTeam/Audile",
-      "stargazersCount": 1403,
+      "stargazersCount": 1407,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1015,8 +1576,8 @@
       "releasesUrl": "https://api.github.com/repos/AudileTeam/Audile/releases{/id}",
       "updatedAt": "2026-11-11T16:10:07Z",
       "latestReleaseDate": "2026-11-11T16:10:07Z",
-      "trendingScore": 1403.0,
-      "popularityScore": 1403,
+      "trendingScore": 1407.0,
+      "popularityScore": 1407,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1104,7 +1665,7 @@
       "description": "Launch any application activity",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/sdex/ActivityManager",
-      "stargazersCount": 1403,
+      "stargazersCount": 1408,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1120,8 +1681,8 @@
       "releasesUrl": "https://api.github.com/repos/sdex/ActivityManager/releases{/id}",
       "updatedAt": "2026-11-11T09:09:33Z",
       "latestReleaseDate": "2026-11-11T09:09:33Z",
-      "trendingScore": 1403.0,
-      "popularityScore": 1403,
+      "trendingScore": 1408.0,
+      "popularityScore": 1408,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1172,7 +1733,7 @@
       "description": "Hoshi Reader Android: Japanese EPUB reader with Yomitan lookup, Anki mining, audiobook read-along, and e-ink support.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/HuangAntimony/Hoshi-Reader-Android",
-      "stargazersCount": 487,
+      "stargazersCount": 490,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1195,8 +1756,8 @@
       "releasesUrl": "https://api.github.com/repos/HuangAntimony/Hoshi-Reader-Android/releases{/id}",
       "updatedAt": "2026-11-11T04:53:16Z",
       "latestReleaseDate": "2026-11-11T04:53:16Z",
-      "trendingScore": 487.0,
-      "popularityScore": 487,
+      "trendingScore": 490.0,
+      "popularityScore": 490,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1214,7 +1775,7 @@
       "description": "Thunderbird for Android \u2013 Open Source Email App for Android (fka K-9 Mail)",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/thunderbird/thunderbird-android",
-      "stargazersCount": 14213,
+      "stargazersCount": 14217,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1226,8 +1787,8 @@
       "releasesUrl": "https://api.github.com/repos/thunderbird/thunderbird-android/releases{/id}",
       "updatedAt": "2026-11-11T03:37:07Z",
       "latestReleaseDate": "2026-11-11T03:37:07Z",
-      "trendingScore": 14213.0,
-      "popularityScore": 14213,
+      "trendingScore": 14217.0,
+      "popularityScore": 14217,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1245,7 +1806,7 @@
       "description": "An idle farm game about a goose who travels to other worlds rescuing birds.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/rama-io/fikret",
-      "stargazersCount": 2,
+      "stargazersCount": 4,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1258,55 +1819,8 @@
       "releasesUrl": "https://api.github.com/repos/rama-io/fikret/releases{/id}",
       "updatedAt": "2026-11-11T01:57:23Z",
       "latestReleaseDate": "2026-11-11T01:57:23Z",
-      "trendingScore": 2.0,
-      "popularityScore": 2,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 1238226026813006049,
-      "name": "Clock",
-      "fullName": "BlackyHawky/Clock",
-      "owner": {
-        "login": "BlackyHawky",
-        "avatarUrl": "https://github.com/BlackyHawky.png"
-      },
-      "description": "Customizable, privacy\u2011first, open-source clock app inspired by AOSP Clock",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/BlackyHawky/Clock",
-      "stargazersCount": 1189,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "alarm",
-        "analog-clock",
-        "android",
-        "android15",
-        "aosp-clock",
-        "clock",
-        "clock-java",
-        "clockwidget",
-        "digital-clock",
-        "fdroid",
-        "foss",
-        "izzyondroid",
-        "java",
-        "material-design",
-        "material-ui",
-        "material3",
-        "screensaver",
-        "stopwatch",
-        "timer",
-        "widget"
-      ],
-      "releasesUrl": "https://api.github.com/repos/BlackyHawky/Clock/releases{/id}",
-      "updatedAt": "2026-11-11T00:03:13Z",
-      "latestReleaseDate": "2026-11-11T00:03:13Z",
-      "trendingScore": 1189.0,
-      "popularityScore": 1189,
+      "trendingScore": 4.0,
+      "popularityScore": 4,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1324,7 +1838,7 @@
       "description": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/arpanjot-coding/AVault",
-      "stargazersCount": 626,
+      "stargazersCount": 627,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1352,8 +1866,8 @@
       "releasesUrl": "https://api.github.com/repos/arpanjot-coding/AVault/releases{/id}",
       "updatedAt": "2026-11-10T23:52:00Z",
       "latestReleaseDate": "2026-11-10T23:52:00Z",
-      "trendingScore": 626.0,
-      "popularityScore": 626,
+      "trendingScore": 627.0,
+      "popularityScore": 627,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1371,7 +1885,7 @@
       "description": "Made for listening, not logging in. Levyra is an open-source music player for Android and Windows, bringing music discovery, synced lyrics, radio and beautiful artwork together. No ads, no tracking, just music \u266b",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/LUC4N3X/Levyra-deepsound",
-      "stargazersCount": 1759,
+      "stargazersCount": 1815,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1399,8 +1913,8 @@
       "releasesUrl": "https://api.github.com/repos/LUC4N3X/Levyra-deepsound/releases{/id}",
       "updatedAt": "2026-11-10T22:26:18Z",
       "latestReleaseDate": "2026-11-10T22:26:18Z",
-      "trendingScore": 1759.0,
-      "popularityScore": 1759,
+      "trendingScore": 1815.0,
+      "popularityScore": 1815,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1418,7 +1932,7 @@
       "description": "Wayfinder: a desktop-grade, tabbed file manager for Googlebooks. Tabs in the title bar, Miller columns, dual-pane commander, paired Phone & Google Drive integration, network shares (SMB, WebDAV, FTP) and archive browsing. A personal passion project developed on and for Googlebooks; not affiliated with or endorsed by any employer.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/parijat-star/wayfinder",
-      "stargazersCount": 15,
+      "stargazersCount": 16,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1433,43 +1947,8 @@
       "releasesUrl": "https://api.github.com/repos/parijat-star/wayfinder/releases{/id}",
       "updatedAt": "2026-11-10T21:48:26Z",
       "latestReleaseDate": "2026-11-10T21:48:26Z",
-      "trendingScore": 15.0,
-      "popularityScore": 15,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 4430521892992184993,
-      "name": "Anki-Android",
-      "fullName": "ankidroid/Anki-Android",
-      "owner": {
-        "login": "ankidroid",
-        "avatarUrl": "https://github.com/ankidroid.png"
-      },
-      "description": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/ankidroid/Anki-Android",
-      "stargazersCount": 12237,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "anki",
-        "ankidroid",
-        "education",
-        "flashcards",
-        "kotlin",
-        "learning",
-        "srs"
-      ],
-      "releasesUrl": "https://api.github.com/repos/ankidroid/Anki-Android/releases{/id}",
-      "updatedAt": "2026-11-10T19:18:25Z",
-      "latestReleaseDate": "2026-11-10T19:18:25Z",
-      "trendingScore": 12237.0,
-      "popularityScore": 12237,
+      "trendingScore": 16.0,
+      "popularityScore": 16,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1487,7 +1966,7 @@
       "description": "Folio Launcher: a clean, iPhone-style (iOS) Home Screen for Android foldables like the Galaxy Z Fold, with jailbreak-inspired tweaks. Free, open source, no root.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/McCal-Codes/folio",
-      "stargazersCount": 126,
+      "stargazersCount": 128,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1512,8 +1991,8 @@
       "releasesUrl": "https://api.github.com/repos/McCal-Codes/folio/releases{/id}",
       "updatedAt": "2026-11-10T17:24:50Z",
       "latestReleaseDate": "2026-11-10T17:24:50Z",
-      "trendingScore": 126.0,
-      "popularityScore": 126,
+      "trendingScore": 128.0,
+      "popularityScore": 128,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1531,7 +2010,7 @@
       "description": "Material 3 Expressive keyboard for Android: glide typing, themes, and JavaScript plugins",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/kotlalipopus/Expressive-Keyboard",
-      "stargazersCount": 124,
+      "stargazersCount": 126,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1545,8 +2024,8 @@
       "releasesUrl": "https://api.github.com/repos/kotlalipopus/Expressive-Keyboard/releases{/id}",
       "updatedAt": "2026-11-10T14:44:47Z",
       "latestReleaseDate": "2026-11-10T14:44:47Z",
-      "trendingScore": 124.0,
-      "popularityScore": 124,
+      "trendingScore": 126.0,
+      "popularityScore": 126,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1595,7 +2074,7 @@
       "description": "A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/wasi-master/wmkeyboard",
-      "stargazersCount": 941,
+      "stargazersCount": 957,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1612,8 +2091,8 @@
       "releasesUrl": "https://api.github.com/repos/wasi-master/wmkeyboard/releases{/id}",
       "updatedAt": "2026-11-10T14:15:35Z",
       "latestReleaseDate": "2026-11-10T14:15:35Z",
-      "trendingScore": 941.0,
-      "popularityScore": 941,
+      "trendingScore": 957.0,
+      "popularityScore": 957,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1631,7 +2110,7 @@
       "description": "\ud83c\udfa7 Open source music streaming app! Available for both desktop & mobile!",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/team-spotube/spotube",
-      "stargazersCount": 50751,
+      "stargazersCount": 50761,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1652,8 +2131,8 @@
       "releasesUrl": "https://api.github.com/repos/team-spotube/spotube/releases{/id}",
       "updatedAt": "2026-11-10T03:40:12Z",
       "latestReleaseDate": "2026-11-10T03:40:12Z",
-      "trendingScore": 50751.0,
-      "popularityScore": 50751,
+      "trendingScore": 50761.0,
+      "popularityScore": 50761,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1671,7 +2150,7 @@
       "description": "A smallish Android RSS reader",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/jocmp/capyreader",
-      "stargazersCount": 1465,
+      "stargazersCount": 1469,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1694,8 +2173,8 @@
       "releasesUrl": "https://api.github.com/repos/jocmp/capyreader/releases{/id}",
       "updatedAt": "2026-11-10T02:56:06Z",
       "latestReleaseDate": "2026-11-10T02:56:06Z",
-      "trendingScore": 1465.0,
-      "popularityScore": 1465,
+      "trendingScore": 1469.0,
+      "popularityScore": 1469,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1713,7 +2192,7 @@
       "description": "Dual-pane Android file manager: local storage, archives, FTP, SFTP, SMB, NFS, WebDAV, S3, restic and Jellyfin/Emby in one tree. Plain Kotlin, compact APK.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/dev2ex/twig",
-      "stargazersCount": 133,
+      "stargazersCount": 135,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1735,8 +2214,8 @@
       "releasesUrl": "https://api.github.com/repos/dev2ex/twig/releases{/id}",
       "updatedAt": "2026-11-10T02:41:11Z",
       "latestReleaseDate": "2026-11-10T02:41:11Z",
-      "trendingScore": 133.0,
-      "popularityScore": 133,
+      "trendingScore": 135.0,
+      "popularityScore": 135,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1754,7 +2233,7 @@
       "description": "Your Spotify + YouTube Music library & daily mixes. Free and open source forever. ",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/rawnaldclark/Stash",
-      "stargazersCount": 1629,
+      "stargazersCount": 1638,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1780,37 +2259,8 @@
       "releasesUrl": "https://api.github.com/repos/rawnaldclark/Stash/releases{/id}",
       "updatedAt": "2026-11-09T16:55:53Z",
       "latestReleaseDate": "2026-11-09T16:55:53Z",
-      "trendingScore": 1629.0,
-      "popularityScore": 1629,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 4130187011935429595,
-      "name": "Amber",
-      "fullName": "greenart7c3/Amber",
-      "owner": {
-        "login": "greenart7c3",
-        "avatarUrl": "https://github.com/greenart7c3.png"
-      },
-      "description": "",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/greenart7c3/Amber",
-      "stargazersCount": 362,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "fdroid",
-        "nostr"
-      ],
-      "releasesUrl": "https://api.github.com/repos/greenart7c3/Amber/releases{/id}",
-      "updatedAt": "2026-11-09T16:12:22Z",
-      "latestReleaseDate": "2026-11-09T16:12:22Z",
-      "trendingScore": 362.0,
-      "popularityScore": 362,
+      "trendingScore": 1638.0,
+      "popularityScore": 1638,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1828,7 +2278,7 @@
       "description": "Vivi-Music is an expressive Material 3\u2013based YouTube Music client for Android.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/vivizzz007/vivi-music",
-      "stargazersCount": 4140,
+      "stargazersCount": 4159,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1843,8 +2293,8 @@
       "releasesUrl": "https://api.github.com/repos/vivizzz007/vivi-music/releases{/id}",
       "updatedAt": "2026-11-09T13:09:24Z",
       "latestReleaseDate": "2026-11-09T13:09:24Z",
-      "trendingScore": 4140.0,
-      "popularityScore": 4140,
+      "trendingScore": 4159.0,
+      "popularityScore": 4159,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1899,7 +2349,7 @@
       "description": "An Android app to remap the buttons on your devices",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/keymapperorg/KeyMapper",
-      "stargazersCount": 2831,
+      "stargazersCount": 2837,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1923,8 +2373,8 @@
       "releasesUrl": "https://api.github.com/repos/keymapperorg/KeyMapper/releases{/id}",
       "updatedAt": "2026-11-09T11:06:28Z",
       "latestReleaseDate": "2026-11-09T11:06:28Z",
-      "trendingScore": 2831.0,
-      "popularityScore": 2831,
+      "trendingScore": 2837.0,
+      "popularityScore": 2837,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1942,7 +2392,7 @@
       "description": "An app to help you capture thoughts and ideas",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/mudkipme/MoeMemosAndroid",
-      "stargazersCount": 1238,
+      "stargazersCount": 1239,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1958,96 +2408,8 @@
       "releasesUrl": "https://api.github.com/repos/mudkipme/MoeMemosAndroid/releases{/id}",
       "updatedAt": "2026-11-09T08:12:12Z",
       "latestReleaseDate": "2026-11-09T08:12:12Z",
-      "trendingScore": 1238.0,
-      "popularityScore": 1238,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 3018002118436718122,
-      "name": "jtxBoard",
-      "fullName": "TechbeeAT/jtxBoard",
-      "owner": {
-        "login": "TechbeeAT",
-        "avatarUrl": "https://github.com/TechbeeAT.png"
-      },
-      "description": "jtx Board allows you to manage your Journals (like meeting minutes), Notes and Tasks in one Android app. The app is compatible with the iCal standard (RFC5545) and is integrated with DAVx5 to allow the synchronisation of entries through CalDAV.",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/TechbeeAT/jtxBoard",
-      "stargazersCount": 707,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "caldav",
-        "caldav-client",
-        "davx5",
-        "glance-appwidget",
-        "icalendar",
-        "jetpack-compose",
-        "journals",
-        "notes",
-        "rfc-5545",
-        "rfc5545",
-        "tasks",
-        "vjournal",
-        "vtodo"
-      ],
-      "releasesUrl": "https://api.github.com/repos/TechbeeAT/jtxBoard/releases{/id}",
-      "updatedAt": "2026-11-08T23:36:20Z",
-      "latestReleaseDate": "2026-11-08T23:36:20Z",
-      "trendingScore": 707.0,
-      "popularityScore": 707,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 9089566981106413548,
-      "name": "webview-kiosk",
-      "fullName": "nktnet1/webview-kiosk",
-      "owner": {
-        "login": "nktnet1",
-        "avatarUrl": "https://github.com/nktnet1.png"
-      },
-      "description": "Turn your Android device into a locked-down web page in fullscreen mode.",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/nktnet1/webview-kiosk",
-      "stargazersCount": 304,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "browser",
-        "cosu",
-        "device-owner",
-        "dhizuku",
-        "digital-signage",
-        "home-assistant",
-        "kiosk",
-        "kotlin",
-        "launcher",
-        "launcher-application",
-        "lock-task-mode",
-        "mqtt",
-        "nfc",
-        "pin",
-        "screen-pinning",
-        "tablet",
-        "tv",
-        "unifiedpush",
-        "webview"
-      ],
-      "releasesUrl": "https://api.github.com/repos/nktnet1/webview-kiosk/releases{/id}",
-      "updatedAt": "2026-11-08T23:36:02Z",
-      "latestReleaseDate": "2026-11-08T23:36:02Z",
-      "trendingScore": 304.0,
-      "popularityScore": 304,
+      "trendingScore": 1239.0,
+      "popularityScore": 1239,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2065,7 +2427,7 @@
       "description": "An app to view libraries used in apps in your device.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/LibChecker/LibChecker",
-      "stargazersCount": 7334,
+      "stargazersCount": 7335,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2077,46 +2439,8 @@
       "releasesUrl": "https://api.github.com/repos/LibChecker/LibChecker/releases{/id}",
       "updatedAt": "2026-11-08T15:47:46Z",
       "latestReleaseDate": "2026-11-08T15:47:46Z",
-      "trendingScore": 7334.0,
-      "popularityScore": 7334,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 4551874663474114771,
-      "name": "Monica",
-      "fullName": "Monica-Pass/Monica",
-      "owner": {
-        "login": "Monica-Pass",
-        "avatarUrl": "https://github.com/Monica-Pass.png"
-      },
-      "description": " Monica Pass\uff0cPassword Management, 2FA Generator",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/Monica-Pass/Monica",
-      "stargazersCount": 1222,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "authenticator",
-        "kotlin",
-        "local-first",
-        "monica",
-        "monicapass",
-        "open-source",
-        "password-manager",
-        "password-manager-app",
-        "privacy",
-        "totp"
-      ],
-      "releasesUrl": "https://api.github.com/repos/Monica-Pass/Monica/releases{/id}",
-      "updatedAt": "2026-11-08T15:16:55Z",
-      "latestReleaseDate": "2026-11-08T15:16:55Z",
-      "trendingScore": 1222.0,
-      "popularityScore": 1222,
+      "trendingScore": 7335.0,
+      "popularityScore": 7335,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2134,7 +2458,7 @@
       "description": "Local Android file converter built with Kotlin and Jetpack Compose. Convert files on device, with no ads, accounts, or upload-based fallback.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Jasonzhu1207/ZenConverter",
-      "stargazersCount": 1908,
+      "stargazersCount": 1913,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2161,8 +2485,8 @@
       "releasesUrl": "https://api.github.com/repos/Jasonzhu1207/ZenConverter/releases{/id}",
       "updatedAt": "2026-11-08T13:46:59Z",
       "latestReleaseDate": "2026-11-08T13:46:59Z",
-      "trendingScore": 1908.0,
-      "popularityScore": 1908,
+      "trendingScore": 1913.0,
+      "popularityScore": 1913,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2180,7 +2504,7 @@
       "description": "A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / \u2728 \u4e00\u4e2a\u628a\u591a\u6e90\u5728\u7ebf\u64ad\u653e\u3001\u672c\u5730\u7ba1\u7406\u3001\u6b4c\u8bcd\u4f53\u9a8c\u548c\u81ea\u5efa\u540c\u6b65\u505a\u8fdb\u539f\u751f Android \u7684\u97f3\u9891\u64ad\u653e\u5668 \ud83c\udfb5",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/cwuom/NeriPlayer",
-      "stargazersCount": 4180,
+      "stargazersCount": 4186,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2205,8 +2529,8 @@
       "releasesUrl": "https://api.github.com/repos/cwuom/NeriPlayer/releases{/id}",
       "updatedAt": "2026-11-08T13:03:36Z",
       "latestReleaseDate": "2026-11-08T13:03:36Z",
-      "trendingScore": 4180.0,
-      "popularityScore": 4180,
+      "trendingScore": 4186.0,
+      "popularityScore": 4186,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2224,7 +2548,7 @@
       "description": "Browse your memories without any interruptions with this photo and video gallery",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/Gallery",
-      "stargazersCount": 3914,
+      "stargazersCount": 3915,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2237,8 +2561,8 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/Gallery/releases{/id}",
       "updatedAt": "2026-11-07T16:09:55Z",
       "latestReleaseDate": "2026-11-07T16:09:55Z",
-      "trendingScore": 3914.0,
-      "popularityScore": 3914,
+      "trendingScore": 3915.0,
+      "popularityScore": 3915,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2256,7 +2580,7 @@
       "description": "A simple calendar with events, customizable widgets and no ads.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/Calendar",
-      "stargazersCount": 2279,
+      "stargazersCount": 2281,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2269,8 +2593,8 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/Calendar/releases{/id}",
       "updatedAt": "2026-11-07T16:07:42Z",
       "latestReleaseDate": "2026-11-07T16:07:42Z",
-      "trendingScore": 2279.0,
-      "popularityScore": 2279,
+      "trendingScore": 2281.0,
+      "popularityScore": 2281,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2288,7 +2612,7 @@
       "description": "Easy app for managing your files without ads, respecting your privacy & security",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/File-Manager",
-      "stargazersCount": 1873,
+      "stargazersCount": 1874,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2301,8 +2625,8 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/File-Manager/releases{/id}",
       "updatedAt": "2026-11-07T16:07:28Z",
       "latestReleaseDate": "2026-11-07T16:07:28Z",
-      "trendingScore": 1873.0,
-      "popularityScore": 1873,
+      "trendingScore": 1874.0,
+      "popularityScore": 1874,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2320,7 +2644,7 @@
       "description": "A monotone line-based icon pack for android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Arcticons-Team/Arcticons",
-      "stargazersCount": 1623,
+      "stargazersCount": 1624,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2337,8 +2661,8 @@
       "releasesUrl": "https://api.github.com/repos/Arcticons-Team/Arcticons/releases{/id}",
       "updatedAt": "2026-11-07T15:07:06Z",
       "latestReleaseDate": "2026-11-07T15:07:06Z",
-      "trendingScore": 1623.0,
-      "popularityScore": 1623,
+      "trendingScore": 1624.0,
+      "popularityScore": 1624,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2516,7 +2840,7 @@
       "description": "A multi-platform document and e-book reader.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Aryan-Raj3112/episteme",
-      "stargazersCount": 1344,
+      "stargazersCount": 1347,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2535,8 +2859,8 @@
       "releasesUrl": "https://api.github.com/repos/Aryan-Raj3112/episteme/releases{/id}",
       "updatedAt": "2026-11-07T07:44:23Z",
       "latestReleaseDate": "2026-11-07T07:44:23Z",
-      "trendingScore": 1344.0,
-      "popularityScore": 1344,
+      "trendingScore": 1347.0,
+      "popularityScore": 1347,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2580,7 +2904,7 @@
       "description": "Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. Just 3 MB, no tracking, no root, no PC.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/man15h/tellyscope",
-      "stargazersCount": 1991,
+      "stargazersCount": 2010,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2592,8 +2916,8 @@
       "releasesUrl": "https://api.github.com/repos/man15h/tellyscope/releases{/id}",
       "updatedAt": "2026-11-06T17:14:12Z",
       "latestReleaseDate": "2026-11-06T17:14:12Z",
-      "trendingScore": 1991.0,
-      "popularityScore": 1991,
+      "trendingScore": 2010.0,
+      "popularityScore": 2010,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2611,7 +2935,7 @@
       "description": "A shrimple and lightweight encrypted notes app",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/omaawr/tuisku",
-      "stargazersCount": 44,
+      "stargazersCount": 45,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2636,8 +2960,8 @@
       "releasesUrl": "https://api.github.com/repos/omaawr/tuisku/releases{/id}",
       "updatedAt": "2026-11-06T14:16:51Z",
       "latestReleaseDate": "2026-11-06T14:16:51Z",
-      "trendingScore": 44.0,
-      "popularityScore": 44,
+      "trendingScore": 45.0,
+      "popularityScore": 45,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2655,7 +2979,7 @@
       "description": "Multiplatform app for Android and Desktop for removing tracking parameters from shared URLs",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leon-cleaning-services/leon",
-      "stargazersCount": 407,
+      "stargazersCount": 408,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2674,86 +2998,8 @@
       "releasesUrl": "https://api.github.com/repos/leon-cleaning-services/leon/releases{/id}",
       "updatedAt": "2026-11-06T13:04:28Z",
       "latestReleaseDate": "2026-11-06T13:04:28Z",
-      "trendingScore": 407.0,
-      "popularityScore": 407,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 7603375488500734199,
-      "name": "EsjzoneViewer",
-      "fullName": "breakyuna/EsjzoneViewer",
-      "owner": {
-        "login": "breakyuna",
-        "avatarUrl": "https://github.com/breakyuna.png"
-      },
-      "description": "A third-party esjzone application for android",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/breakyuna/EsjzoneViewer",
-      "stargazersCount": 16,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "application",
-        "esjzone",
-        "novel",
-        "reader"
-      ],
-      "releasesUrl": "https://api.github.com/repos/breakyuna/EsjzoneViewer/releases{/id}",
-      "updatedAt": "2026-11-06T09:01:58Z",
-      "latestReleaseDate": "2026-11-06T09:01:58Z",
-      "trendingScore": 16.0,
-      "popularityScore": 16,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 3385146710886436301,
-      "name": "orvid",
-      "fullName": "mankidev/orvid",
-      "owner": {
-        "login": "mankidev",
-        "avatarUrl": "https://github.com/mankidev.png"
-      },
-      "description": "Private YouTube and video client for Android. Searches YouTube, PeerTube, TikTok, Instagram and 250+ sites at once, every request over Tor. NewPipe alternative.",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/mankidev/orvid",
-      "stargazersCount": 10,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "android-app",
-        "anonymity",
-        "censorship-circumvention",
-        "exoplayer",
-        "foss",
-        "newpipe",
-        "newpipe-alternative",
-        "obfs4",
-        "peertube",
-        "privacy",
-        "privacy-tools",
-        "snowflake",
-        "termux",
-        "tor",
-        "video-player",
-        "whisper-cpp",
-        "youtube",
-        "youtube-client"
-      ],
-      "releasesUrl": "https://api.github.com/repos/mankidev/orvid/releases{/id}",
-      "updatedAt": "2026-11-05T21:24:14Z",
-      "latestReleaseDate": "2026-11-05T21:24:14Z",
-      "trendingScore": 10.0,
-      "popularityScore": 10,
+      "trendingScore": 408.0,
+      "popularityScore": 408,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2843,7 +3089,7 @@
       "description": "A novel Android app store focused on security, privacy, and usability",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/accrescent/accrescent",
-      "stargazersCount": 2316,
+      "stargazersCount": 2318,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2859,8 +3105,8 @@
       "releasesUrl": "https://api.github.com/repos/accrescent/accrescent/releases{/id}",
       "updatedAt": "2026-11-04T21:51:00Z",
       "latestReleaseDate": "2026-11-04T21:51:00Z",
-      "trendingScore": 2316.0,
-      "popularityScore": 2316,
+      "trendingScore": 2318.0,
+      "popularityScore": 2318,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2878,7 +3124,7 @@
       "description": "Modern, privacy-focused XMPP client for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/rockcutto/librespan",
-      "stargazersCount": 8,
+      "stargazersCount": 9,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2894,8 +3140,8 @@
       "releasesUrl": "https://api.github.com/repos/rockcutto/librespan/releases{/id}",
       "updatedAt": "2026-11-04T21:26:38Z",
       "latestReleaseDate": "2026-11-04T21:26:38Z",
-      "trendingScore": 8.0,
-      "popularityScore": 8,
+      "trendingScore": 9.0,
+      "popularityScore": 9,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2947,7 +3193,7 @@
       "description": "A minimal Android Nextcloud client for file browsing, organizing, sharing",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/nielstron/simple_nextcloud",
-      "stargazersCount": 8,
+      "stargazersCount": 9,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2961,8 +3207,8 @@
       "releasesUrl": "https://api.github.com/repos/nielstron/simple_nextcloud/releases{/id}",
       "updatedAt": "2026-11-04T12:37:35Z",
       "latestReleaseDate": "2026-11-04T12:37:35Z",
-      "trendingScore": 8.0,
-      "popularityScore": 8,
+      "trendingScore": 9.0,
+      "popularityScore": 9,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -3013,7 +3259,7 @@
       "description": "Modern weather app with graphs and thoughtful data visualization",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/davidtakac/bura",
-      "stargazersCount": 395,
+      "stargazersCount": 397,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -3029,8 +3275,8 @@
       "releasesUrl": "https://api.github.com/repos/davidtakac/bura/releases{/id}",
       "updatedAt": "2026-11-03T22:15:08Z",
       "latestReleaseDate": "2026-11-03T22:15:08Z",
-      "trendingScore": 395.0,
-      "popularityScore": 395,
+      "trendingScore": 397.0,
+      "popularityScore": 397,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -3128,7 +3374,7 @@
       "description": "Pixiv\u7b2c\u4e09\u65b9Android\u5ba2\u6237\u7aef",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/CeuiLiSA/Pixiv-Shaft",
-      "stargazersCount": 8303,
+      "stargazersCount": 8306,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -3140,8 +3386,8 @@
       "releasesUrl": "https://api.github.com/repos/CeuiLiSA/Pixiv-Shaft/releases{/id}",
       "updatedAt": "2026-11-03T04:14:53Z",
       "latestReleaseDate": "2026-11-03T04:14:53Z",
-      "trendingScore": 8303.0,
-      "popularityScore": 8303,
+      "trendingScore": 8306.0,
+      "popularityScore": 8306,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -3159,7 +3405,7 @@
       "description": "YouTube Music client for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/MetrolistGroup/Metrolist",
-      "stargazersCount": 14205,
+      "stargazersCount": 14234,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -3187,8 +3433,8 @@
       "releasesUrl": "https://api.github.com/repos/MetrolistGroup/Metrolist/releases{/id}",
       "updatedAt": "2026-11-02T23:23:39Z",
       "latestReleaseDate": "2026-11-02T23:23:39Z",
-      "trendingScore": 14205.0,
-      "popularityScore": 14205,
+      "trendingScore": 14234.0,
+      "popularityScore": 14234,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -3206,7 +3452,7 @@
       "description": "An elegant and beautiful premium Android app manager with Root and Shizuku support, a built-in terminal, analytics, virustotal, debloat, stats and various other features with a custom theme engine, developed with purely custom UI design and reproducible build.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Hamza417/Inure",
-      "stargazersCount": 2001,
+      "stargazersCount": 2000,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -3232,8 +3478,8 @@
       "releasesUrl": "https://api.github.com/repos/Hamza417/Inure/releases{/id}",
       "updatedAt": "2026-11-02T20:53:28Z",
       "latestReleaseDate": "2026-11-02T20:53:28Z",
-      "trendingScore": 2001.0,
-      "popularityScore": 2001,
+      "trendingScore": 2000.0,
+      "popularityScore": 2000,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -3332,7 +3578,7 @@
       "description": "Easy to use OpenStreetMap editor for Android and iOS",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/streetcomplete/StreetComplete",
-      "stargazersCount": 5149,
+      "stargazersCount": 5150,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -3348,8 +3594,8 @@
       "releasesUrl": "https://api.github.com/repos/streetcomplete/StreetComplete/releases{/id}",
       "updatedAt": "2026-11-01T18:33:54Z",
       "latestReleaseDate": "2026-11-01T18:33:54Z",
-      "trendingScore": 5149.0,
-      "popularityScore": 5149,
+      "trendingScore": 5150.0,
+      "popularityScore": 5150,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -3367,7 +3613,7 @@
       "description": "Catima, a Loyalty Card & Ticket Manager for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/CatimaLoyalty/Android",
-      "stargazersCount": 1744,
+      "stargazersCount": 1746,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -3382,8 +3628,8 @@
       "releasesUrl": "https://api.github.com/repos/CatimaLoyalty/Android/releases{/id}",
       "updatedAt": "2026-11-01T13:03:32Z",
       "latestReleaseDate": "2026-11-01T13:03:32Z",
-      "trendingScore": 1744.0,
-      "popularityScore": 1744,
+      "trendingScore": 1746.0,
+      "popularityScore": 1746,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -3401,7 +3647,7 @@
       "description": "A cross-platform music app using YouTube Music for backend",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/maxrave-dev/SimpMusic",
-      "stargazersCount": 13285,
+      "stargazersCount": 13329,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -3427,8 +3673,8 @@
       "releasesUrl": "https://api.github.com/repos/maxrave-dev/SimpMusic/releases{/id}",
       "updatedAt": "2026-11-01T07:34:36Z",
       "latestReleaseDate": "2026-11-01T07:34:36Z",
-      "trendingScore": 13285.0,
-      "popularityScore": 13285,
+      "trendingScore": 13329.0,
+      "popularityScore": 13329,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -3446,7 +3692,7 @@
       "description": "Android OTG Ventoy-style USB writer - GPL-3.0-only, ad-free, available on F-Droid",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GPLaider/Ventoid",
-      "stargazersCount": 439,
+      "stargazersCount": 440,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -3464,8 +3710,8 @@
       "releasesUrl": "https://api.github.com/repos/GPLaider/Ventoid/releases{/id}",
       "updatedAt": "2026-11-01T05:37:51Z",
       "latestReleaseDate": "2026-11-01T05:37:51Z",
-      "trendingScore": 439.0,
-      "popularityScore": 439,
+      "trendingScore": 440.0,
+      "popularityScore": 440,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -3483,7 +3729,7 @@
       "description": "attempting to detect smart glasses nearby and warn you",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/yjeanrenaud/yj_nearbyglasses",
-      "stargazersCount": 2602,
+      "stargazersCount": 2605,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -3500,8 +3746,8 @@
       "releasesUrl": "https://api.github.com/repos/yjeanrenaud/yj_nearbyglasses/releases{/id}",
       "updatedAt": "2026-11-01T00:43:50Z",
       "latestReleaseDate": "2026-11-01T00:43:50Z",
-      "trendingScore": 2602.0,
-      "popularityScore": 2602,
+      "trendingScore": 2605.0,
+      "popularityScore": 2605,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -3590,7 +3836,7 @@
       "description": "Pixel Music is an open-source Android music player. Stream YouTube Music & Telegram, play Hi-Res lossless FLAC, with synced lyrics & 10-band EQ.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/ianshulyadav/PixelMusic",
-      "stargazersCount": 334,
+      "stargazersCount": 335,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -3607,8 +3853,8 @@
       "releasesUrl": "https://api.github.com/repos/ianshulyadav/PixelMusic/releases{/id}",
       "updatedAt": "2026-10-31T16:04:30Z",
       "latestReleaseDate": "2026-10-31T16:04:30Z",
-      "trendingScore": 334.0,
-      "popularityScore": 334,
+      "trendingScore": 335.0,
+      "popularityScore": 335,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -3767,7 +4013,7 @@
       "description": "Explore apps published on GitHub, view release details, and install APKs instantly \u2014 all in one place. Developed using pure Kotlin, optimized for modern Android devices.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/samyak2403/RepoStore",
-      "stargazersCount": 1390,
+      "stargazersCount": 1391,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -3786,45 +4032,8 @@
       "releasesUrl": "https://api.github.com/repos/samyak2403/RepoStore/releases{/id}",
       "updatedAt": "2026-10-29T13:06:00Z",
       "latestReleaseDate": "2026-10-29T13:06:00Z",
-      "trendingScore": 1390.0,
-      "popularityScore": 1390,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 212471184635541210,
-      "name": "davx5-ose",
-      "fullName": "bitfireAT/davx5-ose",
-      "owner": {
-        "login": "bitfireAT",
-        "avatarUrl": "https://github.com/bitfireAT.png"
-      },
-      "description": "DAVx\u2075 is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/bitfireAT/davx5-ose",
-      "stargazersCount": 3019,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "caldav",
-        "calendars",
-        "carddav",
-        "contacts",
-        "hilt-android",
-        "privacy",
-        "sync",
-        "tasks",
-        "webdav"
-      ],
-      "releasesUrl": "https://api.github.com/repos/bitfireAT/davx5-ose/releases{/id}",
-      "updatedAt": "2026-10-26T13:25:43Z",
-      "latestReleaseDate": "2026-10-26T13:25:43Z",
-      "trendingScore": 3019.0,
-      "popularityScore": 3019,
+      "trendingScore": 1391.0,
+      "popularityScore": 1391,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -3842,7 +4051,7 @@
       "description": "Free and open source manga reader for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/mihonapp/mihon",
-      "stargazersCount": 25255,
+      "stargazersCount": 25283,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -3859,8 +4068,8 @@
       "releasesUrl": "https://api.github.com/repos/mihonapp/mihon/releases{/id}",
       "updatedAt": "2026-10-25T21:53:00Z",
       "latestReleaseDate": "2026-10-25T21:53:00Z",
-      "trendingScore": 25255.0,
-      "popularityScore": 25255,
+      "trendingScore": 25283.0,
+      "popularityScore": 25283,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -3878,7 +4087,7 @@
       "description": "Text editor - Notes, ToDo & Filemanager (for Android) - Markdown, todo.txt, plaintext, math, ..",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/gsantner/markor",
-      "stargazersCount": 6423,
+      "stargazersCount": 6427,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -3906,8 +4115,8 @@
       "releasesUrl": "https://api.github.com/repos/gsantner/markor/releases{/id}",
       "updatedAt": "2026-10-25T21:23:23Z",
       "latestReleaseDate": "2026-10-25T21:23:23Z",
-      "trendingScore": 6423.0,
-      "popularityScore": 6423,
+      "trendingScore": 6427.0,
+      "popularityScore": 6427,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -3925,7 +4134,7 @@
       "description": "JMComic\uff08\u7981\u6f2b\u5929\u5802\uff09\u7b2c\u4e09\u65b9 Android \u5ba2\u6237\u7aef\u3002Kotlin + Jetpack Compose + Room + Retrofit/OkHttp \u56db\u5c42\u67b6\u6784\uff0c\u652f\u6301\u767b\u5f55\u3001\u6536\u85cf\u5939\u540c\u6b65\u3001\u5386\u53f2\u8bb0\u5f55\u3001\u5e73\u677f\u6a21\u5f0f\u3001Material You \u4e0e\u73bb\u7483\u8d28\u611f\u3002\u9605\u8bfb\u5668\u81ea\u7814\u5206\u9875\u4e0e\u56fe\u7247\u89e3\u7801\u7f13\u5b58\uff0c\u9488\u5bf9\u6f2b\u753b\u52a0\u8f7d\u4f18\u5316\u3002",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Utolaris/Kujira-Manga",
-      "stargazersCount": 18,
+      "stargazersCount": 19,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -3953,8 +4162,8 @@
       "releasesUrl": "https://api.github.com/repos/Utolaris/Kujira-Manga/releases{/id}",
       "updatedAt": "2026-10-25T12:28:28Z",
       "latestReleaseDate": "2026-10-25T12:28:28Z",
-      "trendingScore": 18.0,
-      "popularityScore": 18,
+      "trendingScore": 19.0,
+      "popularityScore": 19,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -4009,7 +4218,7 @@
       "description": "A clean music player with a customizable widget, stylish interface and no ads.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/Music-Player",
-      "stargazersCount": 972,
+      "stargazersCount": 974,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -4022,8 +4231,8 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/Music-Player/releases{/id}",
       "updatedAt": "2026-10-24T13:54:35Z",
       "latestReleaseDate": "2026-10-24T13:54:35Z",
-      "trendingScore": 972.0,
-      "popularityScore": 972,
+      "trendingScore": 974.0,
+      "popularityScore": 974,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -4041,7 +4250,7 @@
       "description": "An easy way of recording any discussion or sounds without ads or internet access",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/Voice-Recorder",
-      "stargazersCount": 1057,
+      "stargazersCount": 1058,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -4054,8 +4263,8 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/Voice-Recorder/releases{/id}",
       "updatedAt": "2026-10-24T13:53:48Z",
       "latestReleaseDate": "2026-10-24T13:53:48Z",
-      "trendingScore": 1057.0,
-      "popularityScore": 1057,
+      "trendingScore": 1058.0,
+      "popularityScore": 1058,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -4073,7 +4282,7 @@
       "description": "An easy and quick way of managing SMS and MMS messages without ads.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/Messages",
-      "stargazersCount": 1643,
+      "stargazersCount": 1644,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -4086,8 +4295,8 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/Messages/releases{/id}",
       "updatedAt": "2026-10-24T13:52:52Z",
       "latestReleaseDate": "2026-10-24T13:52:52Z",
-      "trendingScore": 1643.0,
-      "popularityScore": 1643,
+      "trendingScore": 1644.0,
+      "popularityScore": 1644,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -4105,7 +4314,7 @@
       "description": "\ud83e\ude75 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo \u2014 browse, discover, and install apps with one click. Formerly GitHub Store.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/komi-store/komi-store",
-      "stargazersCount": 20621,
+      "stargazersCount": 20672,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -4123,8 +4332,8 @@
       "releasesUrl": "https://api.github.com/repos/komi-store/komi-store/releases{/id}",
       "updatedAt": "2026-10-24T06:23:03Z",
       "latestReleaseDate": "2026-10-24T06:23:03Z",
-      "trendingScore": 20621.0,
-      "popularityScore": 20621,
+      "trendingScore": 20672.0,
+      "popularityScore": 20672,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -4142,7 +4351,7 @@
       "description": "\u96c6\u627e\u756a\u3001\u8ffd\u756a\u3001\u770b\u756a\u7684\u4e00\u7ad9\u5f0f\u5f39\u5e55\u8ffd\u756a\u5e73\u53f0\uff0c\u4e91\u6536\u85cf\u540c\u6b65 (Bangumi)\uff0c\u79bb\u7ebf\u7f13\u5b58\uff0cBitTorrent\uff0c\u5f39\u5e55\u4e91\u8fc7\u6ee4\u3002100% Kotlin/Compose Multiplatform",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/open-ani/animeko",
-      "stargazersCount": 21715,
+      "stargazersCount": 21739,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -4169,8 +4378,8 @@
       "releasesUrl": "https://api.github.com/repos/open-ani/animeko/releases{/id}",
       "updatedAt": "2026-10-24T04:52:28Z",
       "latestReleaseDate": "2026-10-24T04:52:28Z",
-      "trendingScore": 21715.0,
-      "popularityScore": 21715,
+      "trendingScore": 21739.0,
+      "popularityScore": 21739,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -4188,7 +4397,7 @@
       "description": "i2pd for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/PurpleI2P/i2pd-android",
-      "stargazersCount": 350,
+      "stargazersCount": 351,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -4205,8 +4414,8 @@
       "releasesUrl": "https://api.github.com/repos/PurpleI2P/i2pd-android/releases{/id}",
       "updatedAt": "2026-10-24T01:42:52Z",
       "latestReleaseDate": "2026-10-24T01:42:52Z",
-      "trendingScore": 350.0,
-      "popularityScore": 350,
+      "trendingScore": 351.0,
+      "popularityScore": 351,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -4224,7 +4433,7 @@
       "description": "An open-source auto clicker on images for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Nain57/Smart-AutoClicker",
-      "stargazersCount": 3769,
+      "stargazersCount": 3773,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -4237,8 +4446,8 @@
       "releasesUrl": "https://api.github.com/repos/Nain57/Smart-AutoClicker/releases{/id}",
       "updatedAt": "2026-10-23T15:21:03Z",
       "latestReleaseDate": "2026-10-23T15:21:03Z",
-      "trendingScore": 3769.0,
-      "popularityScore": 3769,
+      "trendingScore": 3773.0,
+      "popularityScore": 3773,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -4256,7 +4465,7 @@
       "description": "AirPods liberated from Apple's ecosystem.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/librepods-org/librepods",
-      "stargazersCount": 30728,
+      "stargazersCount": 30738,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -4274,54 +4483,8 @@
       "releasesUrl": "https://api.github.com/repos/librepods-org/librepods/releases{/id}",
       "updatedAt": "2026-10-23T09:50:57Z",
       "latestReleaseDate": "2026-10-23T09:50:57Z",
-      "trendingScore": 30728.0,
-      "popularityScore": 30728,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 5917516882938775079,
-      "name": "Musify",
-      "fullName": "gokadzev/Musify",
-      "owner": {
-        "login": "gokadzev",
-        "avatarUrl": "https://github.com/gokadzev.png"
-      },
-      "description": "Unlock the full potential of music: Stream effortlessly with one app!",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/gokadzev/Musify",
-      "stargazersCount": 4430,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android-app",
-        "android-application",
-        "android-music-player",
-        "fdroid",
-        "flutter",
-        "flutter-app",
-        "flutter-application",
-        "flutter-apps",
-        "free",
-        "material-design",
-        "material-design-3",
-        "material-ui",
-        "material-you",
-        "materialui",
-        "music",
-        "music-app",
-        "music-player",
-        "music-streaming",
-        "streaming"
-      ],
-      "releasesUrl": "https://api.github.com/repos/gokadzev/Musify/releases{/id}",
-      "updatedAt": "2026-10-23T09:24:20Z",
-      "latestReleaseDate": "2026-10-23T09:24:20Z",
-      "trendingScore": 4430.0,
-      "popularityScore": 4430,
+      "trendingScore": 30738.0,
+      "popularityScore": 30738,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -4371,7 +4534,7 @@
       "description": "An F-Droid client with modern UI and an arsenal of extra features.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/NeoApplications/Neo-Store",
-      "stargazersCount": 5669,
+      "stargazersCount": 5673,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -4383,8 +4546,8 @@
       "releasesUrl": "https://api.github.com/repos/NeoApplications/Neo-Store/releases{/id}",
       "updatedAt": "2026-10-23T00:58:55Z",
       "latestReleaseDate": "2026-10-23T00:58:55Z",
-      "trendingScore": 5669.0,
-      "popularityScore": 5669,
+      "trendingScore": 5673.0,
+      "popularityScore": 5673,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -4448,7 +4611,7 @@
       "description": "SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/aleixrodriala/newtube",
-      "stargazersCount": 765,
+      "stargazersCount": 778,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -4476,8 +4639,8 @@
       "releasesUrl": "https://api.github.com/repos/aleixrodriala/newtube/releases{/id}",
       "updatedAt": "2026-10-22T16:11:53Z",
       "latestReleaseDate": "2026-10-22T16:11:53Z",
-      "trendingScore": 765.0,
-      "popularityScore": 765,
+      "trendingScore": 778.0,
+      "popularityScore": 778,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -4495,7 +4658,7 @@
       "description": "\u4e91\u7aef\u5927\u6a21\u578b\u9a71\u52a8\u7684 Android \u8bed\u97f3\u5408\u6210\u5e94\u7528\uff08TTS\u5f15\u64ce\uff09\u3002\u652f\u6301ChatGPT\u3001Gemini\u3001\u8c46\u5305\u3001\u817e\u8baf\u3001\u5fae\u8f6f\u3001\u5343\u95ee\u7b49\u6a21\u578b\u3002Cloud LLM-driven Android TTS engine supporting ChatGPT, Gemini, Doubao, Tencent, Microsoft, Qwen, and more.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/LonePheasantWarrior/TalkifyTTS",
-      "stargazersCount": 397,
+      "stargazersCount": 398,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -4520,8 +4683,8 @@
       "releasesUrl": "https://api.github.com/repos/LonePheasantWarrior/TalkifyTTS/releases{/id}",
       "updatedAt": "2026-10-22T06:47:19Z",
       "latestReleaseDate": "2026-10-22T06:47:19Z",
-      "trendingScore": 397.0,
-      "popularityScore": 397,
+      "trendingScore": 398.0,
+      "popularityScore": 398,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -4565,7 +4728,7 @@
       "description": "A cross-platform local music player for Windows, Linux,  Android, iOS, and macOS.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/wesley666/LynMusic",
-      "stargazersCount": 391,
+      "stargazersCount": 392,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -4580,8 +4743,8 @@
       "releasesUrl": "https://api.github.com/repos/wesley666/LynMusic/releases{/id}",
       "updatedAt": "2026-10-20T14:33:20Z",
       "latestReleaseDate": "2026-10-20T14:33:20Z",
-      "trendingScore": 391.0,
-      "popularityScore": 391,
+      "trendingScore": 392.0,
+      "popularityScore": 392,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -4599,7 +4762,7 @@
       "description": "Just a simple, free and open-source manga reader for Android 5.0+",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/UsagiApp/Usagi",
-      "stargazersCount": 302,
+      "stargazersCount": 303,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -4615,8 +4778,8 @@
       "releasesUrl": "https://api.github.com/repos/UsagiApp/Usagi/releases{/id}",
       "updatedAt": "2026-10-19T15:11:32Z",
       "latestReleaseDate": "2026-10-19T15:11:32Z",
-      "trendingScore": 302.0,
-      "popularityScore": 302,
+      "trendingScore": 303.0,
+      "popularityScore": 303,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -4660,7 +4823,7 @@
       "description": "Turn a private Telegram channel into your personal cloud drive. Android, Windows, Linux and macOS, auto backup, optional E2E encryption, built-in file manager and player.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Mahmud0808/TeleDrive",
-      "stargazersCount": 475,
+      "stargazersCount": 478,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -4681,8 +4844,8 @@
       "releasesUrl": "https://api.github.com/repos/Mahmud0808/TeleDrive/releases{/id}",
       "updatedAt": "2026-10-19T13:30:23Z",
       "latestReleaseDate": "2026-10-19T13:30:23Z",
-      "trendingScore": 475.0,
-      "popularityScore": 475,
+      "trendingScore": 478.0,
+      "popularityScore": 478,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -4700,7 +4863,7 @@
       "description": "\u4e00\u4e2a\u5f00\u6e90\u7684 Android \u97f3\u4e50\u6807\u7b7e\u7f16\u8f91\u5668\uff0c\u652f\u6301\u6807\u7b7e\u641c\u7d22\u4e0e\u7f16\u8f91\uff0c\u5e76\u63d0\u4f9b\u9010\u5b57\u6b4c\u8bcd\u652f\u6301\u3002\u7075\u611f\u6765\u6e90\u4e8e LDDC \u548c\u97f3\u4e50\u6807\u7b7e\u3002",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Replica0110/Lyrico",
-      "stargazersCount": 1437,
+      "stargazersCount": 1447,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -4713,8 +4876,8 @@
       "releasesUrl": "https://api.github.com/repos/Replica0110/Lyrico/releases{/id}",
       "updatedAt": "2026-10-19T09:28:40Z",
       "latestReleaseDate": "2026-10-19T09:28:40Z",
-      "trendingScore": 1437.0,
-      "popularityScore": 1437,
+      "trendingScore": 1447.0,
+      "popularityScore": 1447,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -4732,7 +4895,7 @@
       "description": "Easemic\uff1a\u628a\u672c\u5b50\u4e0e\u8fde\u8f7d\u6536\u8fdb\u4f60\u81ea\u5df1\u7684\u52a0\u5bc6\u4e91\u76d8\u76f4\u8fde\u79d2\u770b\uff08E-Hentai / nhentai / \u7981\u6f2b\u5929\u5802 / \u518d\u6f2b\u753b / OPDS \u2192 R2 / Bunny / WebDAV / Google Drive\uff09\u00b7 Private Android manga & gallery cloud shelf",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/dirtyfancy/easemic",
-      "stargazersCount": 15,
+      "stargazersCount": 16,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -4759,8 +4922,8 @@
       "releasesUrl": "https://api.github.com/repos/dirtyfancy/easemic/releases{/id}",
       "updatedAt": "2026-10-19T07:28:22Z",
       "latestReleaseDate": "2026-10-19T07:28:22Z",
-      "trendingScore": 15.0,
-      "popularityScore": 15,
+      "trendingScore": 16.0,
+      "popularityScore": 16,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -4867,7 +5030,7 @@
       "description": "Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/iSoron/uhabits",
-      "stargazersCount": 10413,
+      "stargazersCount": 10417,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -4881,8 +5044,8 @@
       "releasesUrl": "https://api.github.com/repos/iSoron/uhabits/releases{/id}",
       "updatedAt": "2026-10-17T17:14:32Z",
       "latestReleaseDate": "2026-10-17T17:14:32Z",
-      "trendingScore": 10413.0,
-      "popularityScore": 10413,
+      "trendingScore": 10417.0,
+      "popularityScore": 10417,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -4975,7 +5138,7 @@
       "description": "\u4e00\u6b3e\u57fa\u4e8eCompose\u7684\u591a\u6570\u636e\u6e90\u8f7b\u5c0f\u8bf4\u9605\u8bfb\u5668\u3002\u652f\u6301epub\u5bfc\u51fa\uff0c\u81ea\u5b9a\u4e49\u80cc\u666f\u6837\u5f0f\uff0c\u672c\u5730\u4e66\u67b6\u548c\u66f4\u65b0\u63d0\u9192\u7b49\u529f\u80fd\u3002",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/dmzz-yyhyy/LightNovelReader",
-      "stargazersCount": 2342,
+      "stargazersCount": 2346,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -4999,8 +5162,8 @@
       "releasesUrl": "https://api.github.com/repos/dmzz-yyhyy/LightNovelReader/releases{/id}",
       "updatedAt": "2026-10-16T18:46:59Z",
       "latestReleaseDate": "2026-10-16T18:46:59Z",
-      "trendingScore": 2342.0,
-      "popularityScore": 2342,
+      "trendingScore": 2346.0,
+      "popularityScore": 2346,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -5018,7 +5181,7 @@
       "description": "An open-source file manager for Android: two panes, archives, APK and DEX editing, a code editor, network storages and an encrypted vault. No ads, no accounts, no tracking.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/CluvexStudio/Strata",
-      "stargazersCount": 161,
+      "stargazersCount": 164,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -5046,8 +5209,8 @@
       "releasesUrl": "https://api.github.com/repos/CluvexStudio/Strata/releases{/id}",
       "updatedAt": "2026-10-16T11:09:00Z",
       "latestReleaseDate": "2026-10-16T11:09:00Z",
-      "trendingScore": 161.0,
-      "popularityScore": 161,
+      "trendingScore": 164.0,
+      "popularityScore": 164,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -5091,7 +5254,7 @@
       "description": "Minimo is a minimalist Android launcher that clears the clutter from your home screen. Find the apps you need quickly, stay focused, and use your phone more intentionally.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/VaibhavLakhera/minimo-launcher",
-      "stargazersCount": 189,
+      "stargazersCount": 190,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -5108,8 +5271,8 @@
       "releasesUrl": "https://api.github.com/repos/VaibhavLakhera/minimo-launcher/releases{/id}",
       "updatedAt": "2026-10-15T17:08:20Z",
       "latestReleaseDate": "2026-10-15T17:08:20Z",
-      "trendingScore": 189.0,
-      "popularityScore": 189,
+      "trendingScore": 190.0,
+      "popularityScore": 190,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -5127,7 +5290,7 @@
       "description": "Material design file manager for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/TeamAmaze/AmazeFileManager",
-      "stargazersCount": 6466,
+      "stargazersCount": 6467,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -5146,8 +5309,8 @@
       "releasesUrl": "https://api.github.com/repos/TeamAmaze/AmazeFileManager/releases{/id}",
       "updatedAt": "2026-10-15T11:11:48Z",
       "latestReleaseDate": "2026-10-15T11:11:48Z",
-      "trendingScore": 6466.0,
-      "popularityScore": 6466,
+      "trendingScore": 6467.0,
+      "popularityScore": 6467,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -5235,7 +5398,7 @@
       "description": "DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/celzero/rethink-app",
-      "stargazersCount": 5904,
+      "stargazersCount": 5912,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -5259,8 +5422,8 @@
       "releasesUrl": "https://api.github.com/repos/celzero/rethink-app/releases{/id}",
       "updatedAt": "2026-10-13T20:51:16Z",
       "latestReleaseDate": "2026-10-13T20:51:16Z",
-      "trendingScore": 5904.0,
-      "popularityScore": 5904,
+      "trendingScore": 5912.0,
+      "popularityScore": 5912,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -5278,7 +5441,7 @@
       "description": "A Kernel based root solution for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/tiann/KernelSU",
-      "stargazersCount": 20518,
+      "stargazersCount": 20551,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -5291,54 +5454,8 @@
       "releasesUrl": "https://api.github.com/repos/tiann/KernelSU/releases{/id}",
       "updatedAt": "2026-10-12T22:52:06Z",
       "latestReleaseDate": "2026-10-12T22:52:06Z",
-      "trendingScore": 20518.0,
-      "popularityScore": 20518,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 5450504193773921631,
-      "name": "Password-Monitor",
-      "fullName": "StellarSand/Password-Monitor",
-      "owner": {
-        "login": "StellarSand",
-        "avatarUrl": "https://github.com/StellarSand.png"
-      },
-      "description": "Ensure your password safety by scanning in data breaches. ",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/StellarSand/Password-Monitor",
-      "stargazersCount": 122,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "android-app",
-        "android-application",
-        "data-breach",
-        "f-droid",
-        "fdroid",
-        "haveibeenpwned",
-        "kotlin",
-        "kotlin-android",
-        "material-design",
-        "material-ui",
-        "material-you",
-        "open-source",
-        "password",
-        "password-breach",
-        "password-safety",
-        "privacy",
-        "security",
-        "security-tools"
-      ],
-      "releasesUrl": "https://api.github.com/repos/StellarSand/Password-Monitor/releases{/id}",
-      "updatedAt": "2026-10-12T00:41:29Z",
-      "latestReleaseDate": "2026-10-12T00:41:29Z",
-      "trendingScore": 122.0,
-      "popularityScore": 122,
+      "trendingScore": 20551.0,
+      "popularityScore": 20551,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -5650,7 +5767,7 @@
       "description": ":electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. \u4e00\u4e2a\u65e0\u5e7f\u544a\u3001\u4ee5\u7231\u597d\u4e3a\u9a71\u52a8\u3001\u4e0d\u4ee5\u76c8\u5229\u4e3a\u76ee\u7684\u3001\u4e13\u95e8\u505a ACG \u7684\u7c7b\u4f3c\u8c46\u74e3\u7684\u8ffd\u756a\u8bb0\u5f55\uff0cbgm.tv \u7b2c\u4e09\u65b9\u5ba2\u6237\u7aef\u3002\u4e3a\u79fb\u52a8\u7aef\u91cd\u65b0\u8bbe\u8ba1\uff0c\u5185\u7f6e\u5927\u91cf\u52a0\u5f3a\u7684\u7f51\u9875\u7aef\u96be\u4ee5\u5b9e\u73b0\u7684\u529f\u80fd\uff0c\u4e14\u63d0\u4f9b\u4e86\u76f8\u5f53\u7684\u81ea\u5b9a\u4e49\u9009\u9879\u3002 \u76ee\u524d\u5df2\u9002\u914d iOS / Android\u3002",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/czy0729/Bangumi",
-      "stargazersCount": 6241,
+      "stargazersCount": 6243,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -5669,8 +5786,8 @@
       "releasesUrl": "https://api.github.com/repos/czy0729/Bangumi/releases{/id}",
       "updatedAt": "2026-10-09T15:35:26Z",
       "latestReleaseDate": "2026-10-09T15:35:26Z",
-      "trendingScore": 6241.0,
-      "popularityScore": 6241,
+      "trendingScore": 6243.0,
+      "popularityScore": 6243,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -5728,7 +5845,7 @@
       "description": "Unlock your Android phone with an alternative PIN, and run any root command when you enter it. Works before the first unlock after a reboot. (Xposed)",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leohearts/AlternativeUnlockXposed",
-      "stargazersCount": 205,
+      "stargazersCount": 206,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -5744,8 +5861,8 @@
       "releasesUrl": "https://api.github.com/repos/leohearts/AlternativeUnlockXposed/releases{/id}",
       "updatedAt": "2026-10-07T04:47:19Z",
       "latestReleaseDate": "2026-10-07T04:47:19Z",
-      "trendingScore": 205.0,
-      "popularityScore": 205,
+      "trendingScore": 206.0,
+      "popularityScore": 206,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -5763,7 +5880,7 @@
       "description": "An unofficial open source Android app for Reddit.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/QuantumBadger/RedReader",
-      "stargazersCount": 2734,
+      "stargazersCount": 2735,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -5775,8 +5892,8 @@
       "releasesUrl": "https://api.github.com/repos/QuantumBadger/RedReader/releases{/id}",
       "updatedAt": "2026-10-06T17:59:40Z",
       "latestReleaseDate": "2026-10-06T17:59:40Z",
-      "trendingScore": 2734.0,
-      "popularityScore": 2734,
+      "trendingScore": 2735.0,
+      "popularityScore": 2735,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -5857,7 +5974,7 @@
       "description": "A simple and clean compass for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Kr0oked/Compass",
-      "stargazersCount": 706,
+      "stargazersCount": 710,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -5868,8 +5985,8 @@
       "releasesUrl": "https://api.github.com/repos/Kr0oked/Compass/releases{/id}",
       "updatedAt": "2026-10-02T13:30:52Z",
       "latestReleaseDate": "2026-10-02T13:30:52Z",
-      "trendingScore": 706.0,
-      "popularityScore": 706,
+      "trendingScore": 710.0,
+      "popularityScore": 710,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -5917,6 +6034,53 @@
       "latestReleaseDate": "2026-10-01T17:31:28Z",
       "trendingScore": 731.0,
       "popularityScore": 731,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 5715408653811531940,
+      "name": "VD-Infos",
+      "fullName": "VD171/VD-Infos",
+      "owner": {
+        "login": "VD171",
+        "avatarUrl": "https://github.com/VD171.png"
+      },
+      "description": "The VD Infos app reads several of these details and information to show you an example of what can be captured from your device in use.\u200b A.k.a VDInfos, VDInfo, VD Info.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/VD171/VD-Infos",
+      "stargazersCount": 189,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "anti-detection",
+        "attestation",
+        "device-fingerprint",
+        "diagnostics",
+        "hook-detection",
+        "kernelsu",
+        "keystore",
+        "kotlin",
+        "lsposed",
+        "magisk",
+        "play-integrity",
+        "privacy",
+        "reverse-engineering",
+        "root-detection",
+        "scanner",
+        "security",
+        "spoof-detection",
+        "tamper-detection",
+        "tee"
+      ],
+      "releasesUrl": "https://api.github.com/repos/VD171/VD-Infos/releases{/id}",
+      "updatedAt": "2026-10-01T14:49:52Z",
+      "latestReleaseDate": "2026-10-01T14:49:52Z",
+      "trendingScore": 189.0,
+      "popularityScore": 189,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -5973,7 +6137,7 @@
       "description": "Yet another independent fork of kabouzeid/Phonograph -- a  revived classic material designed music player for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/chr56/Phonograph_Plus",
-      "stargazersCount": 742,
+      "stargazersCount": 741,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -5987,8 +6151,8 @@
       "releasesUrl": "https://api.github.com/repos/chr56/Phonograph_Plus/releases{/id}",
       "updatedAt": "2026-09-30T13:44:24Z",
       "latestReleaseDate": "2026-09-30T13:44:24Z",
-      "trendingScore": 742.0,
-      "popularityScore": 742,
+      "trendingScore": 741.0,
+      "popularityScore": 741,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -6087,7 +6251,7 @@
       "description": "Clean, fast, and Material-driven Android music player with powerful features.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/mardous/BoomingMusic",
-      "stargazersCount": 612,
+      "stargazersCount": 615,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -6108,8 +6272,8 @@
       "releasesUrl": "https://api.github.com/repos/mardous/BoomingMusic/releases{/id}",
       "updatedAt": "2026-09-28T18:53:16Z",
       "latestReleaseDate": "2026-09-28T18:53:16Z",
-      "trendingScore": 612.0,
-      "popularityScore": 612,
+      "trendingScore": 615.0,
+      "popularityScore": 615,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -6127,7 +6291,7 @@
       "description": "Chevstrap is a third-party Android launcher for Roblox, based on Bloxstrap and specifically designed for Android.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FrosSky/Chevstrap",
-      "stargazersCount": 154,
+      "stargazersCount": 153,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -6139,8 +6303,8 @@
       "releasesUrl": "https://api.github.com/repos/FrosSky/Chevstrap/releases{/id}",
       "updatedAt": "2026-09-26T17:05:39Z",
       "latestReleaseDate": "2026-09-26T17:05:39Z",
-      "trendingScore": 154.0,
-      "popularityScore": 154,
+      "trendingScore": 153.0,
+      "popularityScore": 153,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -6186,84 +6350,6 @@
       "downloadCount": 0
     },
     {
-      "id": 4767876091725935498,
-      "name": "winboard",
-      "fullName": "jovanovski/winboard",
-      "owner": {
-        "login": "jovanovski",
-        "avatarUrl": "https://github.com/jovanovski.png"
-      },
-      "description": "The Windows themed keyboard for Android with Windows 98, XP, Vista and Windows Phone 8.1 themes. No trackers, no network, typing stays on the phone.",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/jovanovski/winboard",
-      "stargazersCount": 57,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "android-keyboard",
-        "ime",
-        "input-method",
-        "keyboard",
-        "kotlin",
-        "nostalgia",
-        "offline",
-        "privacy",
-        "retro",
-        "themes",
-        "windows-98",
-        "windows-phone",
-        "windows-vista",
-        "windows-xp"
-      ],
-      "releasesUrl": "https://api.github.com/repos/jovanovski/winboard/releases{/id}",
-      "updatedAt": "2026-09-21T07:37:49Z",
-      "latestReleaseDate": "2026-09-21T07:37:49Z",
-      "trendingScore": 57.0,
-      "popularityScore": 57,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 8647009443115676219,
-      "name": "FairScan",
-      "fullName": "pynicolas/FairScan",
-      "owner": {
-        "login": "pynicolas",
-        "avatarUrl": "https://github.com/pynicolas.png"
-      },
-      "description": "An Android app to scan your documents \u2014 simple and respectful",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/pynicolas/FairScan",
-      "stargazersCount": 1032,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "android-app",
-        "document-scanner",
-        "image-processing",
-        "opencv",
-        "pdf",
-        "privacy",
-        "segmentation",
-        "tflite"
-      ],
-      "releasesUrl": "https://api.github.com/repos/pynicolas/FairScan/releases{/id}",
-      "updatedAt": "2026-09-20T16:03:39Z",
-      "latestReleaseDate": "2026-09-20T16:03:39Z",
-      "trendingScore": 1032.0,
-      "popularityScore": 1032,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
       "id": 8611526239891958723,
       "name": "MaterialFiles",
       "fullName": "zhanghai/MaterialFiles",
@@ -6274,7 +6360,7 @@
       "description": "Material Design file manager for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/zhanghai/MaterialFiles",
-      "stargazersCount": 9463,
+      "stargazersCount": 9476,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -6288,8 +6374,8 @@
       "releasesUrl": "https://api.github.com/repos/zhanghai/MaterialFiles/releases{/id}",
       "updatedAt": "2026-09-20T06:28:21Z",
       "latestReleaseDate": "2026-09-20T06:28:21Z",
-      "trendingScore": 9463.0,
-      "popularityScore": 9463,
+      "trendingScore": 9476.0,
+      "popularityScore": 9476,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -6385,7 +6471,7 @@
       "description": "Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/tanujnotes/Olauncher",
-      "stargazersCount": 3980,
+      "stargazersCount": 3982,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -6404,8 +6490,8 @@
       "releasesUrl": "https://api.github.com/repos/tanujnotes/Olauncher/releases{/id}",
       "updatedAt": "2026-09-17T10:29:29Z",
       "latestReleaseDate": "2026-09-17T10:29:29Z",
-      "trendingScore": 3980.0,
-      "popularityScore": 3980,
+      "trendingScore": 3982.0,
+      "popularityScore": 3982,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -6453,7 +6539,7 @@
       "description": "A search-focused Android launcher",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/MM2-0/Kvaesitso",
-      "stargazersCount": 5379,
+      "stargazersCount": 5384,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -6465,46 +6551,8 @@
       "releasesUrl": "https://api.github.com/repos/MM2-0/Kvaesitso/releases{/id}",
       "updatedAt": "2026-09-15T14:19:36Z",
       "latestReleaseDate": "2026-09-15T14:19:36Z",
-      "trendingScore": 5379.0,
-      "popularityScore": 5379,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 8079024720021636190,
-      "name": "IReader",
-      "fullName": "IReaderorg/IReader",
-      "owner": {
-        "login": "IReaderorg",
-        "avatarUrl": "https://github.com/IReaderorg.png"
-      },
-      "description": "Free and open source novel reader for Android and Desktop.",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/IReaderorg/IReader",
-      "stargazersCount": 995,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "compose",
-        "hacktoberfest",
-        "ireader",
-        "kotlin",
-        "light-novels",
-        "novel",
-        "novel-reader",
-        "reader",
-        "webnovel",
-        "webnovels"
-      ],
-      "releasesUrl": "https://api.github.com/repos/IReaderorg/IReader/releases{/id}",
-      "updatedAt": "2026-09-14T18:59:31Z",
-      "latestReleaseDate": "2026-09-14T18:59:31Z",
-      "trendingScore": 995.0,
-      "popularityScore": 995,
+      "trendingScore": 5384.0,
+      "popularityScore": 5384,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -6522,7 +6570,7 @@
       "description": "Advanced Text Editor for Android ",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Xed-Editor/Xed-Editor",
-      "stargazersCount": 2432,
+      "stargazersCount": 2433,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -6549,8 +6597,8 @@
       "releasesUrl": "https://api.github.com/repos/Xed-Editor/Xed-Editor/releases{/id}",
       "updatedAt": "2026-09-14T06:10:26Z",
       "latestReleaseDate": "2026-09-14T06:10:26Z",
-      "trendingScore": 2432.0,
-      "popularityScore": 2432,
+      "trendingScore": 2433.0,
+      "popularityScore": 2433,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -6568,7 +6616,7 @@
       "description": "GameStream client for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/moonlight-stream/moonlight-android",
-      "stargazersCount": 7476,
+      "stargazersCount": 7480,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -6581,8 +6629,8 @@
       "releasesUrl": "https://api.github.com/repos/moonlight-stream/moonlight-android/releases{/id}",
       "updatedAt": "2026-09-12T19:28:27Z",
       "latestReleaseDate": "2026-09-12T19:28:27Z",
-      "trendingScore": 7476.0,
-      "popularityScore": 7476,
+      "trendingScore": 7480.0,
+      "popularityScore": 7480,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -6600,7 +6648,7 @@
       "description": "Clutterfree F-Droid client, [mirror] https://codeberg.org/droidify/client",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Droid-ify/client",
-      "stargazersCount": 7740,
+      "stargazersCount": 7745,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -6614,8 +6662,8 @@
       "releasesUrl": "https://api.github.com/repos/Droid-ify/client/releases{/id}",
       "updatedAt": "2026-09-12T18:59:36Z",
       "latestReleaseDate": "2026-09-12T18:59:36Z",
-      "trendingScore": 7740.0,
-      "popularityScore": 7740,
+      "trendingScore": 7745.0,
+      "popularityScore": 7745,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -6674,7 +6722,7 @@
       "description": "\ud83d\udd25 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/plainhub/plain-app",
-      "stargazersCount": 7186,
+      "stargazersCount": 7193,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -6702,8 +6750,8 @@
       "releasesUrl": "https://api.github.com/repos/plainhub/plain-app/releases{/id}",
       "updatedAt": "2026-09-11T14:10:31Z",
       "latestReleaseDate": "2026-09-11T14:10:31Z",
-      "trendingScore": 7186.0,
-      "popularityScore": 7186,
+      "trendingScore": 7193.0,
+      "popularityScore": 7193,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -6721,7 +6769,7 @@
       "description": "An experimental Android launcher for foldables, with a right-side dock, native widgets, and overlapping unfolded Home pages.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/jakesgoodapps/DuoLauncher",
-      "stargazersCount": 188,
+      "stargazersCount": 190,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -6734,8 +6782,8 @@
       "releasesUrl": "https://api.github.com/repos/jakesgoodapps/DuoLauncher/releases{/id}",
       "updatedAt": "2026-09-10T23:22:05Z",
       "latestReleaseDate": "2026-09-10T23:22:05Z",
-      "trendingScore": 188.0,
-      "popularityScore": 188,
+      "trendingScore": 190.0,
+      "popularityScore": 190,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -6847,7 +6895,7 @@
       "description": "An offline multi-tool Android app for hiking, backpacking, camping, wilderness survival, foraging, and hunting.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/kylecorry31/Trail-Sense",
-      "stargazersCount": 3027,
+      "stargazersCount": 3030,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -6875,8 +6923,8 @@
       "releasesUrl": "https://api.github.com/repos/kylecorry31/Trail-Sense/releases{/id}",
       "updatedAt": "2026-09-04T10:44:34Z",
       "latestReleaseDate": "2026-09-04T10:44:34Z",
-      "trendingScore": 3027.0,
-      "popularityScore": 3027,
+      "trendingScore": 3030.0,
+      "popularityScore": 3030,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -6894,7 +6942,7 @@
       "description": "An alternative frontend for YouTube, for Android.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/libre-tube/LibreTube",
-      "stargazersCount": 12999,
+      "stargazersCount": 13002,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -6909,8 +6957,8 @@
       "releasesUrl": "https://api.github.com/repos/libre-tube/LibreTube/releases{/id}",
       "updatedAt": "2026-09-02T09:31:35Z",
       "latestReleaseDate": "2026-09-02T09:31:35Z",
-      "trendingScore": 12999.0,
-      "popularityScore": 12999,
+      "trendingScore": 13002.0,
+      "popularityScore": 13002,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -6959,7 +7007,7 @@
       "description": "\ud83c\udfb6 Song.link client to open songs from different platforms to your favourite one",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/acszo/Redomi",
-      "stargazersCount": 610,
+      "stargazersCount": 611,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -6983,8 +7031,8 @@
       "releasesUrl": "https://api.github.com/repos/acszo/Redomi/releases{/id}",
       "updatedAt": "2026-09-01T12:42:44Z",
       "latestReleaseDate": "2026-09-01T12:42:44Z",
-      "trendingScore": 610.0,
-      "popularityScore": 610,
+      "trendingScore": 611.0,
+      "popularityScore": 611,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -7131,7 +7179,7 @@
       "description": "Modern flashlight app with dim functionality on Android 13+",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/cyb3rko/flashdim",
-      "stargazersCount": 1479,
+      "stargazersCount": 1481,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -7153,43 +7201,8 @@
       "releasesUrl": "https://api.github.com/repos/cyb3rko/flashdim/releases{/id}",
       "updatedAt": "2026-08-28T18:23:12Z",
       "latestReleaseDate": "2026-08-28T18:23:12Z",
-      "trendingScore": 1479.0,
-      "popularityScore": 1479,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 1693040407579272141,
-      "name": "bulk-renamer-android",
-      "fullName": "M41NUL/bulk-renamer-android",
-      "owner": {
-        "login": "M41NUL",
-        "avatarUrl": "https://github.com/M41NUL.png"
-      },
-      "description": "Android-\u098f\u09b0 \u099c\u09a8\u09cd\u09af \u09aa\u09be\u0993\u09af\u09bc\u09be\u09b0\u09ab\u09c1\u09b2 \u0993 \u09ab\u09be\u09b8\u09cd\u099f Bulk File Renamer \u0985\u09cd\u09af\u09be\u09aa\u0964 Built with Jetpack Compose & Material 3.",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/M41NUL/bulk-renamer-android",
-      "stargazersCount": 9,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "android-app",
-        "bulk-renamer",
-        "file-manager",
-        "jetpack-compose",
-        "kotlin",
-        "material3",
-        "open-source"
-      ],
-      "releasesUrl": "https://api.github.com/repos/M41NUL/bulk-renamer-android/releases{/id}",
-      "updatedAt": "2026-08-27T14:26:56Z",
-      "latestReleaseDate": "2026-08-27T14:26:56Z",
-      "trendingScore": 9.0,
-      "popularityScore": 9,
+      "trendingScore": 1481.0,
+      "popularityScore": 1481,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -7240,7 +7253,7 @@
       "description": "Disable / Hide / Suspend / Uninstall Android apps without root.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/aistra0528/Hail",
-      "stargazersCount": 7274,
+      "stargazersCount": 7296,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -7255,8 +7268,8 @@
       "releasesUrl": "https://api.github.com/repos/aistra0528/Hail/releases{/id}",
       "updatedAt": "2026-08-26T07:23:01Z",
       "latestReleaseDate": "2026-08-26T07:23:01Z",
-      "trendingScore": 7274.0,
-      "popularityScore": 7274,
+      "trendingScore": 7296.0,
+      "popularityScore": 7296,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -7307,7 +7320,7 @@
       "description": "An android app to download & read ebooks from Project Gutenberg, built with  Jetpack Compose.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Pool-Of-Tears/Myne",
-      "stargazersCount": 1547,
+      "stargazersCount": 1546,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -7331,8 +7344,8 @@
       "releasesUrl": "https://api.github.com/repos/Pool-Of-Tears/Myne/releases{/id}",
       "updatedAt": "2026-08-21T17:21:10Z",
       "latestReleaseDate": "2026-08-21T17:21:10Z",
-      "trendingScore": 1547.0,
-      "popularityScore": 1547,
+      "trendingScore": 1546.0,
+      "popularityScore": 1546,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -7385,7 +7398,7 @@
       "description": "A sane music player built with media3 and material design library that is following android's standard strictly.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FoedusProgramme/Gramophone",
-      "stargazersCount": 2393,
+      "stargazersCount": 2394,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -7403,8 +7416,8 @@
       "releasesUrl": "https://api.github.com/repos/FoedusProgramme/Gramophone/releases{/id}",
       "updatedAt": "2026-08-20T10:00:43Z",
       "latestReleaseDate": "2026-08-20T10:00:43Z",
-      "trendingScore": 2393.0,
-      "popularityScore": 2393,
+      "trendingScore": 2394.0,
+      "popularityScore": 2394,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -7422,7 +7435,7 @@
       "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/anonfaded/FadCam",
-      "stargazersCount": 2895,
+      "stargazersCount": 2897,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -7448,8 +7461,8 @@
       "releasesUrl": "https://api.github.com/repos/anonfaded/FadCam/releases{/id}",
       "updatedAt": "2026-08-17T23:04:17Z",
       "latestReleaseDate": "2026-08-17T23:04:17Z",
-      "trendingScore": 2895.0,
-      "popularityScore": 2895,
+      "trendingScore": 2897.0,
+      "popularityScore": 2897,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -7538,7 +7551,7 @@
       "description": "Best Material You Design music player for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/RetroMusicPlayer/RetroMusicPlayer",
-      "stargazersCount": 5402,
+      "stargazersCount": 5403,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -7556,8 +7569,8 @@
       "releasesUrl": "https://api.github.com/repos/RetroMusicPlayer/RetroMusicPlayer/releases{/id}",
       "updatedAt": "2026-08-13T16:45:08Z",
       "latestReleaseDate": "2026-08-13T16:45:08Z",
-      "trendingScore": 5402.0,
-      "popularityScore": 5402,
+      "trendingScore": 5403.0,
+      "popularityScore": 5403,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -7575,7 +7588,7 @@
       "description": "Tesseract based OCR for android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/SubhamTyagi/android-ocr",
-      "stargazersCount": 625,
+      "stargazersCount": 624,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -7594,8 +7607,8 @@
       "releasesUrl": "https://api.github.com/repos/SubhamTyagi/android-ocr/releases{/id}",
       "updatedAt": "2026-08-06T09:04:35Z",
       "latestReleaseDate": "2026-08-06T09:04:35Z",
-      "trendingScore": 625.0,
-      "popularityScore": 625,
+      "trendingScore": 624.0,
+      "popularityScore": 624,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -7613,7 +7626,7 @@
       "description": "A simple, rational music player for android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/OxygenCobalt/Auxio",
-      "stargazersCount": 4455,
+      "stargazersCount": 4459,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -7638,8 +7651,8 @@
       "releasesUrl": "https://api.github.com/repos/OxygenCobalt/Auxio/releases{/id}",
       "updatedAt": "2026-08-04T04:07:24Z",
       "latestReleaseDate": "2026-08-04T04:07:24Z",
-      "trendingScore": 4455.0,
-      "popularityScore": 4455,
+      "trendingScore": 4459.0,
+      "popularityScore": 4459,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -7768,7 +7781,7 @@
       "description": "Radio frequency scanner with recon and offensive capabilities",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/thomasbuilds/Spectre",
-      "stargazersCount": 204,
+      "stargazersCount": 206,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -7792,8 +7805,8 @@
       "releasesUrl": "https://api.github.com/repos/thomasbuilds/Spectre/releases{/id}",
       "updatedAt": "2026-07-30T10:47:15Z",
       "latestReleaseDate": "2026-07-30T10:47:15Z",
-      "trendingScore": 204.0,
-      "popularityScore": 204,
+      "trendingScore": 206.0,
+      "popularityScore": 206,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -7811,7 +7824,7 @@
       "description": "Cleaner for WhatsApp - Clean WhatsApp's Redundant Media Files from Storage",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/VishnuSanal/WhatsAppCleaner",
-      "stargazersCount": 354,
+      "stargazersCount": 355,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -7827,8 +7840,8 @@
       "releasesUrl": "https://api.github.com/repos/VishnuSanal/WhatsAppCleaner/releases{/id}",
       "updatedAt": "2026-07-30T07:36:22Z",
       "latestReleaseDate": "2026-07-30T07:36:22Z",
-      "trendingScore": 354.0,
-      "popularityScore": 354,
+      "trendingScore": 355.0,
+      "popularityScore": 355,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -7846,7 +7859,7 @@
       "description": "\ud83d\udc8a Application to use ReVanced on Android ",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/ReVanced/revanced-manager",
-      "stargazersCount": 30157,
+      "stargazersCount": 30170,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -7860,8 +7873,8 @@
       "releasesUrl": "https://api.github.com/repos/ReVanced/revanced-manager/releases{/id}",
       "updatedAt": "2026-07-29T18:19:18Z",
       "latestReleaseDate": "2026-07-29T18:19:18Z",
-      "trendingScore": 30157.0,
-      "popularityScore": 30157,
+      "trendingScore": 30170.0,
+      "popularityScore": 30170,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -7879,7 +7892,7 @@
       "description": "Remove the fear of Android app compatibility on de-Googled devices.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/techlore/Plexus-app",
-      "stargazersCount": 500,
+      "stargazersCount": 499,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -7906,8 +7919,8 @@
       "releasesUrl": "https://api.github.com/repos/techlore/Plexus-app/releases{/id}",
       "updatedAt": "2026-07-28T22:34:31Z",
       "latestReleaseDate": "2026-07-28T22:34:31Z",
-      "trendingScore": 500.0,
-      "popularityScore": 500,
+      "trendingScore": 499.0,
+      "popularityScore": 499,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -7925,7 +7938,7 @@
       "description": "Fcitx5 input method framework and engines ported to Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/fcitx5-android/fcitx5-android",
-      "stargazersCount": 5896,
+      "stargazersCount": 5904,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -7941,8 +7954,8 @@
       "releasesUrl": "https://api.github.com/repos/fcitx5-android/fcitx5-android/releases{/id}",
       "updatedAt": "2026-07-26T10:38:52Z",
       "latestReleaseDate": "2026-07-26T10:38:52Z",
-      "trendingScore": 5896.0,
-      "popularityScore": 5896,
+      "trendingScore": 5904.0,
+      "popularityScore": 5904,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -8039,7 +8052,7 @@
       "description": "\u62f7\u8d1d\u6f2b\u753b\u7684\u7b2c\u4e09\u65b9APP\uff0c\u4ec5\u63d0\u4f9b\u57fa\u7840\u529f\u80fd\uff0c\u66f4\u591a\u4e30\u5bcc\u529f\u80fd\u8bf7\u79fb\u6b65\u5b98\u65b9\u7248\u672c",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/fumiama/copymanga",
-      "stargazersCount": 4388,
+      "stargazersCount": 4391,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -8061,8 +8074,8 @@
       "releasesUrl": "https://api.github.com/repos/fumiama/copymanga/releases{/id}",
       "updatedAt": "2026-07-15T13:08:54Z",
       "latestReleaseDate": "2026-07-15T13:08:54Z",
-      "trendingScore": 4388.0,
-      "popularityScore": 4388,
+      "trendingScore": 4391.0,
+      "popularityScore": 4391,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -8162,7 +8175,7 @@
       "description": "An app for creating push notifications for new messages posted to gotify/server.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/gotify/android",
-      "stargazersCount": 1538,
+      "stargazersCount": 1539,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -8176,8 +8189,8 @@
       "releasesUrl": "https://api.github.com/repos/gotify/android/releases{/id}",
       "updatedAt": "2026-07-06T15:43:42Z",
       "latestReleaseDate": "2026-07-06T15:43:42Z",
-      "trendingScore": 1538.0,
-      "popularityScore": 1538,
+      "trendingScore": 1539.0,
+      "popularityScore": 1539,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -8541,7 +8554,7 @@
       "description": "An unofficial NHentai android client",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/maxwai/NClientV3",
-      "stargazersCount": 795,
+      "stargazersCount": 796,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -8556,8 +8569,8 @@
       "releasesUrl": "https://api.github.com/repos/maxwai/NClientV3/releases{/id}",
       "updatedAt": "2026-05-11T16:52:13Z",
       "latestReleaseDate": "2026-05-11T16:52:13Z",
-      "trendingScore": 795.0,
-      "popularityScore": 795,
+      "trendingScore": 796.0,
+      "popularityScore": 796,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -8651,7 +8664,7 @@
       "description": "A desktop-class file manager for Android optimized for DeX, tablets, and mouse/keyboard productivity.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/troikoss/Continuum-Explorer",
-      "stargazersCount": 75,
+      "stargazersCount": 73,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -8664,8 +8677,8 @@
       "releasesUrl": "https://api.github.com/repos/troikoss/Continuum-Explorer/releases{/id}",
       "updatedAt": "2026-04-24T16:19:43Z",
       "latestReleaseDate": "2026-04-24T16:19:43Z",
-      "trendingScore": 75.0,
-      "popularityScore": 75,
+      "trendingScore": 73.0,
+      "popularityScore": 73,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -8730,7 +8743,7 @@
       "description": "All in one emulator on Android!",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Swordfish90/Lemuroid",
-      "stargazersCount": 4506,
+      "stargazersCount": 4510,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -8757,8 +8770,8 @@
       "releasesUrl": "https://api.github.com/repos/Swordfish90/Lemuroid/releases{/id}",
       "updatedAt": "2026-04-21T08:52:05Z",
       "latestReleaseDate": "2026-04-21T08:52:05Z",
-      "trendingScore": 4506.0,
-      "popularityScore": 4506,
+      "trendingScore": 4510.0,
+      "popularityScore": 4510,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -8809,7 +8822,7 @@
       "description": "Android app by TrianguloY: URLCheck",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/TrianguloY/URLCheck",
-      "stargazersCount": 2153,
+      "stargazersCount": 2154,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -8822,8 +8835,8 @@
       "releasesUrl": "https://api.github.com/repos/TrianguloY/URLCheck/releases{/id}",
       "updatedAt": "2026-04-07T18:11:50Z",
       "latestReleaseDate": "2026-04-07T18:11:50Z",
-      "trendingScore": 2153.0,
-      "popularityScore": 2153,
+      "trendingScore": 2154.0,
+      "popularityScore": 2154,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -8841,7 +8854,7 @@
       "description": "A comic app",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/venera-app/venera",
-      "stargazersCount": 11404,
+      "stargazersCount": 11410,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -8856,8 +8869,8 @@
       "releasesUrl": "https://api.github.com/repos/venera-app/venera/releases{/id}",
       "updatedAt": "2026-03-08T09:49:52Z",
       "latestReleaseDate": "2026-03-08T09:49:52Z",
-      "trendingScore": 11404.0,
-      "popularityScore": 11404,
+      "trendingScore": 11410.0,
+      "popularityScore": 11410,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -8875,7 +8888,7 @@
       "description": "Copy links from the sharing menu with automatic removal of shorteners and trackers.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/WSTxda/Clippy",
-      "stargazersCount": 443,
+      "stargazersCount": 442,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -8900,8 +8913,8 @@
       "releasesUrl": "https://api.github.com/repos/WSTxda/Clippy/releases{/id}",
       "updatedAt": "2026-02-22T23:50:06Z",
       "latestReleaseDate": "2026-02-22T23:50:06Z",
-      "trendingScore": 443.0,
-      "popularityScore": 443,
+      "trendingScore": 442.0,
+      "popularityScore": 442,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -8919,7 +8932,7 @@
       "description": "A realtime malware scanner (fork of Divestos version)| Maintained by: @Inhishonor",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/MaintainTeam/Hypatia",
-      "stargazersCount": 482,
+      "stargazersCount": 483,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -8930,8 +8943,8 @@
       "releasesUrl": "https://api.github.com/repos/MaintainTeam/Hypatia/releases{/id}",
       "updatedAt": "2026-02-20T17:47:33Z",
       "latestReleaseDate": "2026-02-20T17:47:33Z",
-      "trendingScore": 482.0,
-      "popularityScore": 482,
+      "trendingScore": 483.0,
+      "popularityScore": 483,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -8981,7 +8994,7 @@
       "description": "\u77ed\u4fe1\u8f6c\u53d1\u5668\u2014\u2014\u76d1\u63a7Android\u624b\u673a\u77ed\u4fe1\u3001\u6765\u7535\u3001APP\u901a\u77e5\uff0c\u5e76\u6839\u636e\u6307\u5b9a\u89c4\u5219\u8f6c\u53d1\u5230\u5176\u4ed6\u624b\u673a\uff1a\u9489\u9489\u7fa4\u81ea\u5b9a\u4e49\u673a\u5668\u4eba\u3001\u9489\u9489\u4f01\u4e1a\u5185\u673a\u5668\u4eba\u3001\u4f01\u4e1a\u5fae\u4fe1\u7fa4\u673a\u5668\u4eba\u3001\u98de\u4e66\u673a\u5668\u4eba\u3001\u4f01\u4e1a\u5fae\u4fe1\u5e94\u7528\u6d88\u606f\u3001\u90ae\u7bb1\u3001bark\u3001webhook\u3001Telegram\u673a\u5668\u4eba\u3001Server\u9171\u3001PushPlus\u3001\u624b\u673a\u77ed\u4fe1\u7b49\u3002\u5305\u62ec\u4e3b\u52a8\u63a7\u5236\u670d\u52a1\u7aef\u4e0e\u5ba2\u6237\u7aef\uff0c\u8ba9\u4f60\u8f7b\u677e\u8fdc\u7a0b\u53d1\u77ed\u4fe1\u3001\u67e5\u77ed\u4fe1\u3001\u67e5\u901a\u8bdd\u3001\u67e5\u8bdd\u7c3f\u3001\u67e5\u7535\u91cf\u7b49\u3002\uff08V3.0 \u65b0\u589e\uff09PS.\u8fd9\u4e2aAPK\u4e3b\u8981\u662f\u5b66\u4e60\u4e0e\u81ea\u7528\uff0c\u5982\u6709BUG\u8bf7\u63d0ISSUE\uff0c\u540c\u65f6\u6b22\u8fce\u5927\u5bb6\u63d0PR\u6307\u6b63",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/pppscn/SmsForwarder",
-      "stargazersCount": 28862,
+      "stargazersCount": 28873,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -9006,8 +9019,8 @@
       "releasesUrl": "https://api.github.com/repos/pppscn/SmsForwarder/releases{/id}",
       "updatedAt": "2026-02-14T01:03:00Z",
       "latestReleaseDate": "2026-02-14T01:03:00Z",
-      "trendingScore": 28862.0,
-      "popularityScore": 28862,
+      "trendingScore": 28873.0,
+      "popularityScore": 28873,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -9025,7 +9038,7 @@
       "description": "A shadowsocks client for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/shadowsocks/shadowsocks-android",
-      "stargazersCount": 36836,
+      "stargazersCount": 36839,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -9035,8 +9048,8 @@
       "releasesUrl": "https://api.github.com/repos/shadowsocks/shadowsocks-android/releases{/id}",
       "updatedAt": "2026-02-10T06:47:17Z",
       "latestReleaseDate": "2026-02-10T06:47:17Z",
-      "trendingScore": 36836.0,
-      "popularityScore": 36836,
+      "trendingScore": 36839.0,
+      "popularityScore": 36839,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -9054,7 +9067,7 @@
       "description": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
-      "stargazersCount": 23510,
+      "stargazersCount": 23516,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -9070,8 +9083,8 @@
       "releasesUrl": "https://api.github.com/repos/MatsuriDayo/NekoBoxForAndroid/releases{/id}",
       "updatedAt": "2026-02-09T03:55:00Z",
       "latestReleaseDate": "2026-02-09T03:55:00Z",
-      "trendingScore": 23510.0,
-      "popularityScore": 23510,
+      "trendingScore": 23516.0,
+      "popularityScore": 23516,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -9089,7 +9102,7 @@
       "description": "A handy phone call manager with phonebook, number blocking and multi-SIM support",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/Phone",
-      "stargazersCount": 1410,
+      "stargazersCount": 1412,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -9102,8 +9115,8 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/Phone/releases{/id}",
       "updatedAt": "2026-02-03T02:36:25Z",
       "latestReleaseDate": "2026-02-03T02:36:25Z",
-      "trendingScore": 1410.0,
-      "popularityScore": 1410,
+      "trendingScore": 1412.0,
+      "popularityScore": 1412,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -9153,7 +9166,7 @@
       "description": "A modern, powerful and feature-rich media management app for Android featuring a swipe-to-sort interface and advanced duplicate/similar media detection.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/loopotto/CleanSweep",
-      "stargazersCount": 151,
+      "stargazersCount": 152,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -9176,8 +9189,8 @@
       "releasesUrl": "https://api.github.com/repos/loopotto/CleanSweep/releases{/id}",
       "updatedAt": "2026-02-02T00:06:33Z",
       "latestReleaseDate": "2026-02-02T00:06:33Z",
-      "trendingScore": 151.0,
-      "popularityScore": 151,
+      "trendingScore": 152.0,
+      "popularityScore": 152,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -9327,7 +9340,7 @@
       "description": "EasyNotes: Jetpack Compose MVVM for seamless note-taking. Effortless creation, editing, and organization.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Kin69/EasyNotes",
-      "stargazersCount": 1082,
+      "stargazersCount": 1090,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -9344,8 +9357,8 @@
       "releasesUrl": "https://api.github.com/repos/Kin69/EasyNotes/releases{/id}",
       "updatedAt": "2026-01-24T15:53:52Z",
       "latestReleaseDate": "2026-01-24T15:53:52Z",
-      "trendingScore": 1082.0,
-      "popularityScore": 1082,
+      "trendingScore": 1090.0,
+      "popularityScore": 1090,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -9363,7 +9376,7 @@
       "description": "An open-source keyboard for Android which respects your privacy. Currently in beta.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/florisboard/florisboard",
-      "stargazersCount": 8778,
+      "stargazersCount": 8780,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -9376,8 +9389,8 @@
       "releasesUrl": "https://api.github.com/repos/florisboard/florisboard/releases{/id}",
       "updatedAt": "2026-01-23T00:13:12Z",
       "latestReleaseDate": "2026-01-23T00:13:12Z",
-      "trendingScore": 8778.0,
-      "popularityScore": 8778,
+      "trendingScore": 8780.0,
+      "popularityScore": 8780,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -9646,7 +9659,7 @@
       "description": "Book's Story \u2014 Material You eBook reader built with Jetpack Compose. Free & Open source & Ad-free, with extensive customization options and support for multiple file formats.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Acclorite/book-story",
-      "stargazersCount": 1429,
+      "stargazersCount": 1428,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -9673,8 +9686,8 @@
       "releasesUrl": "https://api.github.com/repos/Acclorite/book-story/releases{/id}",
       "updatedAt": "2025-10-13T11:53:04Z",
       "latestReleaseDate": "2025-10-13T11:53:04Z",
-      "trendingScore": 1429.0,
-      "popularityScore": 1429,
+      "trendingScore": 1428.0,
+      "popularityScore": 1428,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -10092,7 +10105,7 @@
       "description": "An Android client for the microblogging server Mastodon",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/tuskyapp/Tusky",
-      "stargazersCount": 2566,
+      "stargazersCount": 2563,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -10109,8 +10122,8 @@
       "releasesUrl": "https://api.github.com/repos/tuskyapp/Tusky/releases{/id}",
       "updatedAt": "2025-05-17T11:40:05Z",
       "latestReleaseDate": "2025-05-17T11:40:05Z",
-      "trendingScore": 2566.0,
-      "popularityScore": 2566,
+      "trendingScore": 2563.0,
+      "popularityScore": 2563,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -10241,7 +10254,7 @@
       "description": "A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/BobbyESP/Spowlo",
-      "stargazersCount": 1371,
+      "stargazersCount": 1369,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -10260,8 +10273,8 @@
       "releasesUrl": "https://api.github.com/repos/BobbyESP/Spowlo/releases{/id}",
       "updatedAt": "2025-02-16T19:37:38Z",
       "latestReleaseDate": "2025-02-16T19:37:38Z",
-      "trendingScore": 1371.0,
-      "popularityScore": 1371,
+      "trendingScore": 1369.0,
+      "popularityScore": 1369,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -10313,7 +10326,7 @@
       "description": "",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/simondankelmann/Bluetooth-LE-Spam",
-      "stargazersCount": 4982,
+      "stargazersCount": 4983,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -10325,8 +10338,8 @@
       "releasesUrl": "https://api.github.com/repos/simondankelmann/Bluetooth-LE-Spam/releases{/id}",
       "updatedAt": "2025-01-22T09:29:51Z",
       "latestReleaseDate": "2025-01-22T09:29:51Z",
-      "trendingScore": 4982.0,
-      "popularityScore": 4982,
+      "trendingScore": 4983.0,
+      "popularityScore": 4983,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -10409,7 +10422,7 @@
       "description": "\ud83e\uddad Video/Audio Downloader for Android, based on yt-dlp",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/JunkFood02/Seal",
-      "stargazersCount": 30623,
+      "stargazersCount": 30648,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -10425,41 +10438,8 @@
       "releasesUrl": "https://api.github.com/repos/JunkFood02/Seal/releases{/id}",
       "updatedAt": "2024-11-29T15:46:57Z",
       "latestReleaseDate": "2024-11-29T15:46:57Z",
-      "trendingScore": 30623.0,
-      "popularityScore": 30623,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 1392548955916113731,
-      "name": "keyboard",
-      "fullName": "amirisback/keyboard",
-      "owner": {
-        "login": "amirisback",
-        "avatarUrl": "https://github.com/amirisback.png"
-      },
-      "description": "Custom Keyboard Like Google Keyboard",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/amirisback/keyboard",
-      "stargazersCount": 144,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "android-custom-keyboard",
-        "custom-keyboard",
-        "keyboard",
-        "layout-in-keyboard",
-        "soft-keyboard"
-      ],
-      "releasesUrl": "https://api.github.com/repos/amirisback/keyboard/releases{/id}",
-      "updatedAt": "2024-11-14T07:03:25Z",
-      "latestReleaseDate": "2024-11-14T07:03:25Z",
-      "trendingScore": 144.0,
-      "popularityScore": 144,
+      "trendingScore": 30648.0,
+      "popularityScore": 30648,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"

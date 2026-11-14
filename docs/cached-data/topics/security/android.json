@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-11-13T10:58:19.977934+00:00",
+  "lastUpdated": "2026-11-14T10:08:19.828251+00:00",
   "totalCount": 22,
   "repositories": [
     {
@@ -45,7 +45,7 @@
       "description": "A novel Android app store focused on security, privacy, and usability",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/accrescent/accrescent",
-      "stargazersCount": 2316,
+      "stargazersCount": 2318,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -61,8 +61,8 @@
       "releasesUrl": "https://api.github.com/repos/accrescent/accrescent/releases{/id}",
       "updatedAt": "2026-11-04T21:51:00Z",
       "latestReleaseDate": "2026-11-04T21:51:00Z",
-      "trendingScore": 2316.0,
-      "popularityScore": 2316,
+      "trendingScore": 2318.0,
+      "popularityScore": 2318,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -80,7 +80,7 @@
       "description": "Unlock your Android phone with an alternative PIN, and run any root command when you enter it. Works before the first unlock after a reboot. (Xposed)",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leohearts/AlternativeUnlockXposed",
-      "stargazersCount": 205,
+      "stargazersCount": 206,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -96,8 +96,8 @@
       "releasesUrl": "https://api.github.com/repos/leohearts/AlternativeUnlockXposed/releases{/id}",
       "updatedAt": "2026-10-07T04:47:19Z",
       "latestReleaseDate": "2026-10-07T04:47:19Z",
-      "trendingScore": 205.0,
-      "popularityScore": 205,
+      "trendingScore": 206.0,
+      "popularityScore": 206,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -267,7 +267,7 @@
       "description": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/arpanjot-coding/AVault",
-      "stargazersCount": 626,
+      "stargazersCount": 627,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -295,8 +295,8 @@
       "releasesUrl": "https://api.github.com/repos/arpanjot-coding/AVault/releases{/id}",
       "updatedAt": "2026-11-10T23:52:00Z",
       "latestReleaseDate": "2026-11-10T23:52:00Z",
-      "trendingScore": 626.0,
-      "popularityScore": 626,
+      "trendingScore": 627.0,
+      "popularityScore": 627,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -383,7 +383,7 @@
       "description": "Copy links from the sharing menu with automatic removal of shorteners and trackers.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/WSTxda/Clippy",
-      "stargazersCount": 443,
+      "stargazersCount": 442,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -408,8 +408,8 @@
       "releasesUrl": "https://api.github.com/repos/WSTxda/Clippy/releases{/id}",
       "updatedAt": "2026-02-22T23:50:06Z",
       "latestReleaseDate": "2026-02-22T23:50:06Z",
-      "trendingScore": 443.0,
-      "popularityScore": 443,
+      "trendingScore": 442.0,
+      "popularityScore": 442,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -427,7 +427,7 @@
       "description": "A realtime malware scanner (fork of Divestos version)| Maintained by: @Inhishonor",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/MaintainTeam/Hypatia",
-      "stargazersCount": 482,
+      "stargazersCount": 483,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -438,8 +438,8 @@
       "releasesUrl": "https://api.github.com/repos/MaintainTeam/Hypatia/releases{/id}",
       "updatedAt": "2026-02-20T17:47:33Z",
       "latestReleaseDate": "2026-02-20T17:47:33Z",
-      "trendingScore": 482.0,
-      "popularityScore": 482,
+      "trendingScore": 483.0,
+      "popularityScore": 483,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -457,7 +457,7 @@
       "description": "i2pd for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/PurpleI2P/i2pd-android",
-      "stargazersCount": 350,
+      "stargazersCount": 351,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -474,8 +474,8 @@
       "releasesUrl": "https://api.github.com/repos/PurpleI2P/i2pd-android/releases{/id}",
       "updatedAt": "2026-10-24T01:42:52Z",
       "latestReleaseDate": "2026-10-24T01:42:52Z",
-      "trendingScore": 350.0,
-      "popularityScore": 350,
+      "trendingScore": 351.0,
+      "popularityScore": 351,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -552,52 +552,6 @@
       "latestReleaseDate": "2026-08-01T10:46:04Z",
       "trendingScore": 284.0,
       "popularityScore": 284,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 5450504193773921631,
-      "name": "Password-Monitor",
-      "fullName": "StellarSand/Password-Monitor",
-      "owner": {
-        "login": "StellarSand",
-        "avatarUrl": "https://github.com/StellarSand.png"
-      },
-      "description": "Ensure your password safety by scanning in data breaches. ",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/StellarSand/Password-Monitor",
-      "stargazersCount": 122,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "android-app",
-        "android-application",
-        "data-breach",
-        "f-droid",
-        "fdroid",
-        "haveibeenpwned",
-        "kotlin",
-        "kotlin-android",
-        "material-design",
-        "material-ui",
-        "material-you",
-        "open-source",
-        "password",
-        "password-breach",
-        "password-safety",
-        "privacy",
-        "security",
-        "security-tools"
-      ],
-      "releasesUrl": "https://api.github.com/repos/StellarSand/Password-Monitor/releases{/id}",
-      "updatedAt": "2026-10-12T00:41:29Z",
-      "latestReleaseDate": "2026-10-12T00:41:29Z",
-      "trendingScore": 122.0,
-      "popularityScore": 122,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -816,7 +770,7 @@
       "description": "Radio frequency scanner with recon and offensive capabilities",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/thomasbuilds/Spectre",
-      "stargazersCount": 204,
+      "stargazersCount": 206,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -840,8 +794,55 @@
       "releasesUrl": "https://api.github.com/repos/thomasbuilds/Spectre/releases{/id}",
       "updatedAt": "2026-07-30T10:47:15Z",
       "latestReleaseDate": "2026-07-30T10:47:15Z",
-      "trendingScore": 204.0,
-      "popularityScore": 204,
+      "trendingScore": 206.0,
+      "popularityScore": 206,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 5715408653811531940,
+      "name": "VD-Infos",
+      "fullName": "VD171/VD-Infos",
+      "owner": {
+        "login": "VD171",
+        "avatarUrl": "https://github.com/VD171.png"
+      },
+      "description": "The VD Infos app reads several of these details and information to show you an example of what can be captured from your device in use.\u200b A.k.a VDInfos, VDInfo, VD Info.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/VD171/VD-Infos",
+      "stargazersCount": 189,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "anti-detection",
+        "attestation",
+        "device-fingerprint",
+        "diagnostics",
+        "hook-detection",
+        "kernelsu",
+        "keystore",
+        "kotlin",
+        "lsposed",
+        "magisk",
+        "play-integrity",
+        "privacy",
+        "reverse-engineering",
+        "root-detection",
+        "scanner",
+        "security",
+        "spoof-detection",
+        "tamper-detection",
+        "tee"
+      ],
+      "releasesUrl": "https://api.github.com/repos/VD171/VD-Infos/releases{/id}",
+      "updatedAt": "2026-10-01T14:49:52Z",
+      "latestReleaseDate": "2026-10-01T14:49:52Z",
+      "trendingScore": 189.0,
+      "popularityScore": 189,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
