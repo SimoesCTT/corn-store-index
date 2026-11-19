@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-11-18T11:36:01.295088+00:00",
+  "lastUpdated": "2026-11-19T11:34:02.544580+00:00",
   "totalCount": 22,
   "repositories": [
     {
@@ -150,7 +150,7 @@
       "description": "Verify apps easily.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/soupslurpr/AppVerifier",
-      "stargazersCount": 1241,
+      "stargazersCount": 1243,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -171,8 +171,8 @@
       "releasesUrl": "https://api.github.com/repos/soupslurpr/AppVerifier/releases{/id}",
       "updatedAt": "2025-04-23T02:06:39Z",
       "latestReleaseDate": "2025-04-23T02:06:39Z",
-      "trendingScore": 1241.0,
-      "popularityScore": 1241,
+      "trendingScore": 1243.0,
+      "popularityScore": 1243,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -222,7 +222,7 @@
       "description": "Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Kin69/Athena",
-      "stargazersCount": 746,
+      "stargazersCount": 748,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -248,8 +248,8 @@
       "releasesUrl": "https://api.github.com/repos/Kin69/Athena/releases{/id}",
       "updatedAt": "2026-01-18T13:36:44Z",
       "latestReleaseDate": "2026-01-18T13:36:44Z",
-      "trendingScore": 746.0,
-      "popularityScore": 746,
+      "trendingScore": 748.0,
+      "popularityScore": 748,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -493,7 +493,7 @@
       "description": "An application designed to silently protect user data from powerful adversaries.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/bakad3v/Android-AntiForensic-Tools",
-      "stargazersCount": 213,
+      "stargazersCount": 215,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -504,8 +504,8 @@
       "releasesUrl": "https://api.github.com/repos/bakad3v/Android-AntiForensic-Tools/releases{/id}",
       "updatedAt": "2026-10-17T10:15:03Z",
       "latestReleaseDate": "2026-10-17T10:15:03Z",
-      "trendingScore": 213.0,
-      "popularityScore": 213,
+      "trendingScore": 215.0,
+      "popularityScore": 215,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -569,7 +569,7 @@
       "description": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/PdfViewer",
-      "stargazersCount": 1071,
+      "stargazersCount": 1072,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -583,8 +583,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/PdfViewer/releases{/id}",
       "updatedAt": "2026-07-30T22:59:39Z",
       "latestReleaseDate": "2026-07-30T22:59:39Z",
-      "trendingScore": 1071.0,
-      "popularityScore": 1071,
+      "trendingScore": 1072.0,
+      "popularityScore": 1072,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -770,7 +770,7 @@
       "description": "Radio frequency scanner with recon and offensive capabilities",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/thomasbuilds/Spectre",
-      "stargazersCount": 209,
+      "stargazersCount": 210,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -794,8 +794,8 @@
       "releasesUrl": "https://api.github.com/repos/thomasbuilds/Spectre/releases{/id}",
       "updatedAt": "2026-07-30T10:47:15Z",
       "latestReleaseDate": "2026-07-30T10:47:15Z",
-      "trendingScore": 209.0,
-      "popularityScore": 209,
+      "trendingScore": 210.0,
+      "popularityScore": 210,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
