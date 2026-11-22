@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-11-21T10:57:46.138435+00:00",
+  "lastUpdated": "2026-11-22T11:10:03.703574+00:00",
   "totalCount": 22,
   "repositories": [
     {
@@ -45,7 +45,7 @@
       "description": "A novel Android app store focused on security, privacy, and usability",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/accrescent/accrescent",
-      "stargazersCount": 2330,
+      "stargazersCount": 2331,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -61,8 +61,8 @@
       "releasesUrl": "https://api.github.com/repos/accrescent/accrescent/releases{/id}",
       "updatedAt": "2026-11-04T21:51:00Z",
       "latestReleaseDate": "2026-11-04T21:51:00Z",
-      "trendingScore": 2330.0,
-      "popularityScore": 2330,
+      "trendingScore": 2331.0,
+      "popularityScore": 2331,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -80,7 +80,7 @@
       "description": "Unlock your Android phone with an alternative PIN, and run any root command when you enter it. Works before the first unlock after a reboot. (Xposed)",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leohearts/AlternativeUnlockXposed",
-      "stargazersCount": 208,
+      "stargazersCount": 209,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -96,8 +96,8 @@
       "releasesUrl": "https://api.github.com/repos/leohearts/AlternativeUnlockXposed/releases{/id}",
       "updatedAt": "2026-10-07T04:47:19Z",
       "latestReleaseDate": "2026-10-07T04:47:19Z",
-      "trendingScore": 208.0,
-      "popularityScore": 208,
+      "trendingScore": 209.0,
+      "popularityScore": 209,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -150,7 +150,7 @@
       "description": "Verify apps easily.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/soupslurpr/AppVerifier",
-      "stargazersCount": 1242,
+      "stargazersCount": 1244,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -171,8 +171,8 @@
       "releasesUrl": "https://api.github.com/repos/soupslurpr/AppVerifier/releases{/id}",
       "updatedAt": "2025-04-23T02:06:39Z",
       "latestReleaseDate": "2025-04-23T02:06:39Z",
-      "trendingScore": 1242.0,
-      "popularityScore": 1242,
+      "trendingScore": 1244.0,
+      "popularityScore": 1244,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -222,7 +222,7 @@
       "description": "Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Kin69/Athena",
-      "stargazersCount": 748,
+      "stargazersCount": 749,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -248,8 +248,8 @@
       "releasesUrl": "https://api.github.com/repos/Kin69/Athena/releases{/id}",
       "updatedAt": "2026-01-18T13:36:44Z",
       "latestReleaseDate": "2026-01-18T13:36:44Z",
-      "trendingScore": 748.0,
-      "popularityScore": 748,
+      "trendingScore": 749.0,
+      "popularityScore": 749,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -267,7 +267,7 @@
       "description": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/arpanjot-coding/AVault",
-      "stargazersCount": 586,
+      "stargazersCount": 584,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -295,8 +295,8 @@
       "releasesUrl": "https://api.github.com/repos/arpanjot-coding/AVault/releases{/id}",
       "updatedAt": "2026-11-10T23:52:00Z",
       "latestReleaseDate": "2026-11-10T23:52:00Z",
-      "trendingScore": 586.0,
-      "popularityScore": 586,
+      "trendingScore": 584.0,
+      "popularityScore": 584,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -314,7 +314,7 @@
       "description": "Modern camera app focused on privacy and security with QR & barcode scanning.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/Camera",
-      "stargazersCount": 1432,
+      "stargazersCount": 1435,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -327,8 +327,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/Camera/releases{/id}",
       "updatedAt": "2026-11-20T23:45:28Z",
       "latestReleaseDate": "2026-11-20T23:45:28Z",
-      "trendingScore": 1432.0,
-      "popularityScore": 1432,
+      "trendingScore": 1435.0,
+      "popularityScore": 1435,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -602,7 +602,7 @@
       "description": "Private photo vault for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leonlatsch/Photok",
-      "stargazersCount": 1011,
+      "stargazersCount": 1010,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -619,8 +619,8 @@
       "releasesUrl": "https://api.github.com/repos/leonlatsch/Photok/releases{/id}",
       "updatedAt": "2026-11-15T22:52:42Z",
       "latestReleaseDate": "2026-11-15T22:52:42Z",
-      "trendingScore": 1011.0,
-      "popularityScore": 1011,
+      "trendingScore": 1010.0,
+      "popularityScore": 1010,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -682,7 +682,7 @@
       "description": "An Activist Grade Privacy & Security App that provides multi-layered defense by isolating data within encrypted sandbox, inaccessible to other apps, the OS, or unauthorized physical extraction - With the Belief \"Privacy Without the Tradeoff of Ease\"",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/duckniii/SeekPrivacy",
-      "stargazersCount": 90,
+      "stargazersCount": 91,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -710,8 +710,8 @@
       "releasesUrl": "https://api.github.com/repos/duckniii/SeekPrivacy/releases{/id}",
       "updatedAt": "2026-07-07T16:59:04Z",
       "latestReleaseDate": "2026-07-07T16:59:04Z",
-      "trendingScore": 90.0,
-      "popularityScore": 90,
+      "trendingScore": 91.0,
+      "popularityScore": 91,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -770,7 +770,7 @@
       "description": "Radio frequency scanner with recon and offensive capabilities",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/thomasbuilds/Spectre",
-      "stargazersCount": 211,
+      "stargazersCount": 212,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -794,8 +794,8 @@
       "releasesUrl": "https://api.github.com/repos/thomasbuilds/Spectre/releases{/id}",
       "updatedAt": "2026-07-30T10:47:15Z",
       "latestReleaseDate": "2026-07-30T10:47:15Z",
-      "trendingScore": 211.0,
-      "popularityScore": 211,
+      "trendingScore": 212.0,
+      "popularityScore": 212,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
