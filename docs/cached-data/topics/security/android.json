@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-11-22T11:10:03.703574+00:00",
+  "lastUpdated": "2026-11-23T12:14:35.671449+00:00",
   "totalCount": 22,
   "repositories": [
     {
@@ -45,7 +45,7 @@
       "description": "A novel Android app store focused on security, privacy, and usability",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/accrescent/accrescent",
-      "stargazersCount": 2331,
+      "stargazersCount": 2333,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -61,8 +61,8 @@
       "releasesUrl": "https://api.github.com/repos/accrescent/accrescent/releases{/id}",
       "updatedAt": "2026-11-04T21:51:00Z",
       "latestReleaseDate": "2026-11-04T21:51:00Z",
-      "trendingScore": 2331.0,
-      "popularityScore": 2331,
+      "trendingScore": 2333.0,
+      "popularityScore": 2333,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -150,7 +150,7 @@
       "description": "Verify apps easily.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/soupslurpr/AppVerifier",
-      "stargazersCount": 1244,
+      "stargazersCount": 1246,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -171,8 +171,8 @@
       "releasesUrl": "https://api.github.com/repos/soupslurpr/AppVerifier/releases{/id}",
       "updatedAt": "2025-04-23T02:06:39Z",
       "latestReleaseDate": "2025-04-23T02:06:39Z",
-      "trendingScore": 1244.0,
-      "popularityScore": 1244,
+      "trendingScore": 1246.0,
+      "popularityScore": 1246,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -222,7 +222,7 @@
       "description": "Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Kin69/Athena",
-      "stargazersCount": 749,
+      "stargazersCount": 750,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -248,8 +248,8 @@
       "releasesUrl": "https://api.github.com/repos/Kin69/Athena/releases{/id}",
       "updatedAt": "2026-01-18T13:36:44Z",
       "latestReleaseDate": "2026-01-18T13:36:44Z",
-      "trendingScore": 749.0,
-      "popularityScore": 749,
+      "trendingScore": 750.0,
+      "popularityScore": 750,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -267,7 +267,7 @@
       "description": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/arpanjot-coding/AVault",
-      "stargazersCount": 584,
+      "stargazersCount": 583,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -295,8 +295,8 @@
       "releasesUrl": "https://api.github.com/repos/arpanjot-coding/AVault/releases{/id}",
       "updatedAt": "2026-11-10T23:52:00Z",
       "latestReleaseDate": "2026-11-10T23:52:00Z",
-      "trendingScore": 584.0,
-      "popularityScore": 584,
+      "trendingScore": 583.0,
+      "popularityScore": 583,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -314,7 +314,7 @@
       "description": "Modern camera app focused on privacy and security with QR & barcode scanning.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/Camera",
-      "stargazersCount": 1435,
+      "stargazersCount": 1437,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -327,8 +327,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/Camera/releases{/id}",
       "updatedAt": "2026-11-20T23:45:28Z",
       "latestReleaseDate": "2026-11-20T23:45:28Z",
-      "trendingScore": 1435.0,
-      "popularityScore": 1435,
+      "trendingScore": 1437.0,
+      "popularityScore": 1437,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -346,7 +346,7 @@
       "description": "Notes. Encrypted. Local. Nothing more.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/CipherApps/cipher-notes",
-      "stargazersCount": 48,
+      "stargazersCount": 47,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -364,8 +364,8 @@
       "releasesUrl": "https://api.github.com/repos/CipherApps/cipher-notes/releases{/id}",
       "updatedAt": "2026-09-19T10:58:51Z",
       "latestReleaseDate": "2026-09-19T10:58:51Z",
-      "trendingScore": 48.0,
-      "popularityScore": 48,
+      "trendingScore": 47.0,
+      "popularityScore": 47,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -427,7 +427,7 @@
       "description": "A realtime malware scanner (fork of Divestos version)| Maintained by: @Inhishonor",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/MaintainTeam/Hypatia",
-      "stargazersCount": 488,
+      "stargazersCount": 489,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -438,8 +438,8 @@
       "releasesUrl": "https://api.github.com/repos/MaintainTeam/Hypatia/releases{/id}",
       "updatedAt": "2026-02-20T17:47:33Z",
       "latestReleaseDate": "2026-02-20T17:47:33Z",
-      "trendingScore": 488.0,
-      "popularityScore": 488,
+      "trendingScore": 489.0,
+      "popularityScore": 489,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -569,7 +569,7 @@
       "description": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/PdfViewer",
-      "stargazersCount": 1072,
+      "stargazersCount": 1074,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -583,8 +583,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/PdfViewer/releases{/id}",
       "updatedAt": "2026-07-30T22:59:39Z",
       "latestReleaseDate": "2026-07-30T22:59:39Z",
-      "trendingScore": 1072.0,
-      "popularityScore": 1072,
+      "trendingScore": 1074.0,
+      "popularityScore": 1074,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -602,7 +602,7 @@
       "description": "Private photo vault for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leonlatsch/Photok",
-      "stargazersCount": 1010,
+      "stargazersCount": 1011,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -619,8 +619,8 @@
       "releasesUrl": "https://api.github.com/repos/leonlatsch/Photok/releases{/id}",
       "updatedAt": "2026-11-15T22:52:42Z",
       "latestReleaseDate": "2026-11-15T22:52:42Z",
-      "trendingScore": 1010.0,
-      "popularityScore": 1010,
+      "trendingScore": 1011.0,
+      "popularityScore": 1011,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -813,7 +813,7 @@
       "description": "Your Google services (RCS, Gemini, Google Wallet, DroidGuard timestamps, Play Integrity attestations, Play Protect Certification) read on-device. No internet, root required.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/VD171/VD-Google",
-      "stargazersCount": 146,
+      "stargazersCount": 147,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -841,8 +841,8 @@
       "releasesUrl": "https://api.github.com/repos/VD171/VD-Google/releases{/id}",
       "updatedAt": "2026-11-17T13:03:42Z",
       "latestReleaseDate": "2026-11-17T13:03:42Z",
-      "trendingScore": 146.0,
-      "popularityScore": 146,
+      "trendingScore": 147.0,
+      "popularityScore": 147,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
