@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-11-24T13:37:39.040380+00:00",
+  "lastUpdated": "2026-11-25T12:35:55.868657+00:00",
   "totalCount": 22,
   "repositories": [
     {
@@ -45,7 +45,7 @@
       "description": "A novel Android app store focused on security, privacy, and usability",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/accrescent/accrescent",
-      "stargazersCount": 2335,
+      "stargazersCount": 2339,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -61,8 +61,8 @@
       "releasesUrl": "https://api.github.com/repos/accrescent/accrescent/releases{/id}",
       "updatedAt": "2026-11-04T21:51:00Z",
       "latestReleaseDate": "2026-11-04T21:51:00Z",
-      "trendingScore": 2335.0,
-      "popularityScore": 2335,
+      "trendingScore": 2339.0,
+      "popularityScore": 2339,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -115,7 +115,7 @@
       "description": "Powerful privacy tool to lock apps from intruders",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/aload0/AppLock",
-      "stargazersCount": 913,
+      "stargazersCount": 915,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -131,8 +131,8 @@
       "releasesUrl": "https://api.github.com/repos/aload0/AppLock/releases{/id}",
       "updatedAt": "2026-07-09T06:56:05Z",
       "latestReleaseDate": "2026-07-09T06:56:05Z",
-      "trendingScore": 913.0,
-      "popularityScore": 913,
+      "trendingScore": 915.0,
+      "popularityScore": 915,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -150,7 +150,7 @@
       "description": "Verify apps easily.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/soupslurpr/AppVerifier",
-      "stargazersCount": 1247,
+      "stargazersCount": 1250,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -171,8 +171,8 @@
       "releasesUrl": "https://api.github.com/repos/soupslurpr/AppVerifier/releases{/id}",
       "updatedAt": "2025-04-23T02:06:39Z",
       "latestReleaseDate": "2025-04-23T02:06:39Z",
-      "trendingScore": 1247.0,
-      "popularityScore": 1247,
+      "trendingScore": 1250.0,
+      "popularityScore": 1250,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -222,7 +222,7 @@
       "description": "Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devices.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Kin69/Athena",
-      "stargazersCount": 749,
+      "stargazersCount": 751,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -248,8 +248,8 @@
       "releasesUrl": "https://api.github.com/repos/Kin69/Athena/releases{/id}",
       "updatedAt": "2026-01-18T13:36:44Z",
       "latestReleaseDate": "2026-01-18T13:36:44Z",
-      "trendingScore": 749.0,
-      "popularityScore": 749,
+      "trendingScore": 751.0,
+      "popularityScore": 751,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -267,7 +267,7 @@
       "description": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/arpanjot-coding/AVault",
-      "stargazersCount": 580,
+      "stargazersCount": 579,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -295,8 +295,8 @@
       "releasesUrl": "https://api.github.com/repos/arpanjot-coding/AVault/releases{/id}",
       "updatedAt": "2026-11-10T23:52:00Z",
       "latestReleaseDate": "2026-11-10T23:52:00Z",
-      "trendingScore": 580.0,
-      "popularityScore": 580,
+      "trendingScore": 579.0,
+      "popularityScore": 579,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -346,7 +346,7 @@
       "description": "Notes. Encrypted. Local. Nothing more.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/CipherApps/cipher-notes",
-      "stargazersCount": 47,
+      "stargazersCount": 48,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -364,8 +364,8 @@
       "releasesUrl": "https://api.github.com/repos/CipherApps/cipher-notes/releases{/id}",
       "updatedAt": "2026-09-19T10:58:51Z",
       "latestReleaseDate": "2026-09-19T10:58:51Z",
-      "trendingScore": 47.0,
-      "popularityScore": 47,
+      "trendingScore": 48.0,
+      "popularityScore": 48,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -383,7 +383,7 @@
       "description": "Copy links from the sharing menu with automatic removal of shorteners and trackers.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/WSTxda/Clippy",
-      "stargazersCount": 443,
+      "stargazersCount": 444,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -408,8 +408,42 @@
       "releasesUrl": "https://api.github.com/repos/WSTxda/Clippy/releases{/id}",
       "updatedAt": "2026-02-22T23:50:06Z",
       "latestReleaseDate": "2026-02-22T23:50:06Z",
-      "trendingScore": 443.0,
-      "popularityScore": 443,
+      "trendingScore": 444.0,
+      "popularityScore": 444,
+      "dailyStars": 0,
+      "availablePlatforms": [
+        "Android"
+      ],
+      "downloadCount": 0
+    },
+    {
+      "id": 2134266020627258430,
+      "name": "Haven",
+      "fullName": "Kenneth-Cho-InfoSec/Haven",
+      "owner": {
+        "login": "Kenneth-Cho-InfoSec",
+        "avatarUrl": "https://github.com/Kenneth-Cho-InfoSec.png"
+      },
+      "description": "Android Work Profile isolation app modernized with current security patches and a Material Design 3 UI.",
+      "defaultBranch": "main",
+      "htmlUrl": "https://github.com/Kenneth-Cho-InfoSec/Haven",
+      "stargazersCount": 167,
+      "forksCount": 0,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "device-policy",
+        "java",
+        "material-design",
+        "privacy",
+        "security",
+        "work-profile"
+      ],
+      "releasesUrl": "https://api.github.com/repos/Kenneth-Cho-InfoSec/Haven/releases{/id}",
+      "updatedAt": "2026-11-25T00:21:59Z",
+      "latestReleaseDate": "2026-11-25T00:21:59Z",
+      "trendingScore": 167.0,
+      "popularityScore": 167,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -493,7 +527,7 @@
       "description": "An application designed to silently protect user data from powerful adversaries.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/bakad3v/Android-AntiForensic-Tools",
-      "stargazersCount": 216,
+      "stargazersCount": 217,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -502,10 +536,10 @@
         "security"
       ],
       "releasesUrl": "https://api.github.com/repos/bakad3v/Android-AntiForensic-Tools/releases{/id}",
-      "updatedAt": "2026-10-17T10:15:03Z",
-      "latestReleaseDate": "2026-10-17T10:15:03Z",
-      "trendingScore": 216.0,
-      "popularityScore": 216,
+      "updatedAt": "2026-11-25T04:33:15Z",
+      "latestReleaseDate": "2026-11-25T04:33:15Z",
+      "trendingScore": 217.0,
+      "popularityScore": 217,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -569,7 +603,7 @@
       "description": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/PdfViewer",
-      "stargazersCount": 1075,
+      "stargazersCount": 1076,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -583,8 +617,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/PdfViewer/releases{/id}",
       "updatedAt": "2026-07-30T22:59:39Z",
       "latestReleaseDate": "2026-07-30T22:59:39Z",
-      "trendingScore": 1075.0,
-      "popularityScore": 1075,
+      "trendingScore": 1076.0,
+      "popularityScore": 1076,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -602,7 +636,7 @@
       "description": "Private photo vault for Android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leonlatsch/Photok",
-      "stargazersCount": 1012,
+      "stargazersCount": 1014,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -619,8 +653,8 @@
       "releasesUrl": "https://api.github.com/repos/leonlatsch/Photok/releases{/id}",
       "updatedAt": "2026-11-15T22:52:42Z",
       "latestReleaseDate": "2026-11-15T22:52:42Z",
-      "trendingScore": 1012.0,
-      "popularityScore": 1012,
+      "trendingScore": 1014.0,
+      "popularityScore": 1014,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -796,53 +830,6 @@
       "latestReleaseDate": "2026-07-30T10:47:15Z",
       "trendingScore": 213.0,
       "popularityScore": 213,
-      "dailyStars": 0,
-      "availablePlatforms": [
-        "Android"
-      ],
-      "downloadCount": 0
-    },
-    {
-      "id": 2720625552745440181,
-      "name": "VD-Google",
-      "fullName": "VD171/VD-Google",
-      "owner": {
-        "login": "VD171",
-        "avatarUrl": "https://github.com/VD171.png"
-      },
-      "description": "Your Google services (RCS, Gemini, Google Wallet, DroidGuard timestamps, Play Integrity attestations, Play Protect Certification) read on-device. No internet, root required.",
-      "defaultBranch": "main",
-      "htmlUrl": "https://github.com/VD171/VD-Google",
-      "stargazersCount": 147,
-      "forksCount": 0,
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "attestation",
-        "droidguard",
-        "gemini",
-        "google-wallet",
-        "jetpack-compose",
-        "kernelsu",
-        "kotlin",
-        "lsposed",
-        "magisk",
-        "material3",
-        "nfc",
-        "no-internet",
-        "play-integrity",
-        "play-protect",
-        "privacy",
-        "rcs",
-        "root",
-        "security",
-        "vdgoogle"
-      ],
-      "releasesUrl": "https://api.github.com/repos/VD171/VD-Google/releases{/id}",
-      "updatedAt": "2026-11-17T13:03:42Z",
-      "latestReleaseDate": "2026-11-17T13:03:42Z",
-      "trendingScore": 147.0,
-      "popularityScore": 147,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
