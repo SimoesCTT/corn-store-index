@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-11-25T12:35:55.868657+00:00",
+  "lastUpdated": "2026-11-26T12:21:10.333789+00:00",
   "totalCount": 55,
   "repositories": [
     {
@@ -106,7 +106,7 @@
       "description": "An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/AudileTeam/Audile",
-      "stargazersCount": 1435,
+      "stargazersCount": 1439,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -126,8 +126,8 @@
       "releasesUrl": "https://api.github.com/repos/AudileTeam/Audile/releases{/id}",
       "updatedAt": "2026-11-11T16:10:07Z",
       "latestReleaseDate": "2026-11-11T16:10:07Z",
-      "trendingScore": 1435.0,
-      "popularityScore": 1435,
+      "trendingScore": 1439.0,
+      "popularityScore": 1439,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -145,7 +145,7 @@
       "description": "A simple, rational music player for android",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/OxygenCobalt/Auxio",
-      "stargazersCount": 4507,
+      "stargazersCount": 4514,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -170,8 +170,8 @@
       "releasesUrl": "https://api.github.com/repos/OxygenCobalt/Auxio/releases{/id}",
       "updatedAt": "2026-08-04T04:07:24Z",
       "latestReleaseDate": "2026-08-04T04:07:24Z",
-      "trendingScore": 4507.0,
-      "popularityScore": 4507,
+      "trendingScore": 4514.0,
+      "popularityScore": 4514,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -189,7 +189,7 @@
       "description": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/arpanjot-coding/AVault",
-      "stargazersCount": 579,
+      "stargazersCount": 581,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -217,8 +217,8 @@
       "releasesUrl": "https://api.github.com/repos/arpanjot-coding/AVault/releases{/id}",
       "updatedAt": "2026-11-10T23:52:00Z",
       "latestReleaseDate": "2026-11-10T23:52:00Z",
-      "trendingScore": 579.0,
-      "popularityScore": 579,
+      "trendingScore": 581.0,
+      "popularityScore": 581,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -282,7 +282,7 @@
       "description": "Clean, fast, and Material-driven Android music player with powerful features.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/mardous/BoomingMusic",
-      "stargazersCount": 629,
+      "stargazersCount": 631,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -303,8 +303,8 @@
       "releasesUrl": "https://api.github.com/repos/mardous/BoomingMusic/releases{/id}",
       "updatedAt": "2026-09-28T18:53:16Z",
       "latestReleaseDate": "2026-09-28T18:53:16Z",
-      "trendingScore": 629.0,
-      "popularityScore": 629,
+      "trendingScore": 631.0,
+      "popularityScore": 631,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -386,7 +386,7 @@
       "description": "Customizable, privacy\u2011first, open-source clock app inspired by AOSP Clock",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/BlackyHawky/Clock",
-      "stargazersCount": 1203,
+      "stargazersCount": 1205,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -414,8 +414,8 @@
       "releasesUrl": "https://api.github.com/repos/BlackyHawky/Clock/releases{/id}",
       "updatedAt": "2026-11-23T21:20:54Z",
       "latestReleaseDate": "2026-11-23T21:20:54Z",
-      "trendingScore": 1203.0,
-      "popularityScore": 1203,
+      "trendingScore": 1205.0,
+      "popularityScore": 1205,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -462,10 +462,10 @@
         "login": "Ayushxxy",
         "avatarUrl": "https://github.com/Ayushxxy.png"
       },
-      "description": "Offline Running companion for Android \u2014 Camera PPG heart rate, 3-layer GPS/Stride tracker & zero internet permission.",
+      "description": "Offline Running companion for Android \u2014 Camera PPG heart rate, 3-layer GPS/Stride tracker & zero internet permission.                                                                                               Bugs Will We Fixed Under An Hour Just Say it ",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Ayushxxy/Corvo",
-      "stargazersCount": 4,
+      "stargazersCount": 7,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -485,8 +485,8 @@
       "releasesUrl": "https://api.github.com/repos/Ayushxxy/Corvo/releases{/id}",
       "updatedAt": "2026-11-25T04:12:01Z",
       "latestReleaseDate": "2026-11-25T04:12:01Z",
-      "trendingScore": 4.0,
-      "popularityScore": 4,
+      "trendingScore": 7.0,
+      "popularityScore": 7,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -575,7 +575,7 @@
       "description": "A multi-platform document and e-book reader.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Aryan-Raj3112/episteme",
-      "stargazersCount": 1377,
+      "stargazersCount": 1394,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -594,8 +594,8 @@
       "releasesUrl": "https://api.github.com/repos/Aryan-Raj3112/episteme/releases{/id}",
       "updatedAt": "2026-11-25T05:18:41Z",
       "latestReleaseDate": "2026-11-25T05:18:41Z",
-      "trendingScore": 1377.0,
-      "popularityScore": 1377,
+      "trendingScore": 1394.0,
+      "popularityScore": 1394,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -613,7 +613,7 @@
       "description": "A minimalist android launcher to help you quit your phone addiction",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GeorgeClensy/Escape-Launcher",
-      "stargazersCount": 483,
+      "stargazersCount": 485,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -640,8 +640,8 @@
       "releasesUrl": "https://api.github.com/repos/GeorgeClensy/Escape-Launcher/releases{/id}",
       "updatedAt": "2026-01-02T20:22:12Z",
       "latestReleaseDate": "2026-01-02T20:22:12Z",
-      "trendingScore": 483.0,
-      "popularityScore": 483,
+      "trendingScore": 485.0,
+      "popularityScore": 485,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -659,7 +659,7 @@
       "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/anonfaded/FadCam",
-      "stargazersCount": 2924,
+      "stargazersCount": 2929,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -685,8 +685,8 @@
       "releasesUrl": "https://api.github.com/repos/anonfaded/FadCam/releases{/id}",
       "updatedAt": "2026-08-17T23:04:17Z",
       "latestReleaseDate": "2026-08-17T23:04:17Z",
-      "trendingScore": 2924.0,
-      "popularityScore": 2924,
+      "trendingScore": 2929.0,
+      "popularityScore": 2929,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -736,7 +736,7 @@
       "description": "Easy app for managing your files without ads, respecting your privacy & security",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/File-Manager",
-      "stargazersCount": 1900,
+      "stargazersCount": 1901,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -749,8 +749,8 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/File-Manager/releases{/id}",
       "updatedAt": "2026-11-21T17:08:59Z",
       "latestReleaseDate": "2026-11-21T17:08:59Z",
-      "trendingScore": 1900.0,
-      "popularityScore": 1900,
+      "trendingScore": 1901.0,
+      "popularityScore": 1901,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -850,7 +850,7 @@
       "description": "Browse your memories without any interruptions with this photo and video gallery",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/Gallery",
-      "stargazersCount": 3952,
+      "stargazersCount": 3954,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -863,8 +863,8 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/Gallery/releases{/id}",
       "updatedAt": "2026-11-21T17:10:55Z",
       "latestReleaseDate": "2026-11-21T17:10:55Z",
-      "trendingScore": 3952.0,
-      "popularityScore": 3952,
+      "trendingScore": 3954.0,
+      "popularityScore": 3954,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -946,7 +946,7 @@
       "description": "A private Android launcher with local intent search, six dark themes, widgets, gestures, and selective backup. No ads, analytics, or account.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/SysAdminDoc/Lawnchair-Lite",
-      "stargazersCount": 20,
+      "stargazersCount": 21,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -974,8 +974,8 @@
       "releasesUrl": "https://api.github.com/repos/SysAdminDoc/Lawnchair-Lite/releases{/id}",
       "updatedAt": "2026-09-06T01:08:17Z",
       "latestReleaseDate": "2026-09-06T01:08:17Z",
-      "trendingScore": 20.0,
-      "popularityScore": 20,
+      "trendingScore": 21.0,
+      "popularityScore": 21,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -993,7 +993,7 @@
       "description": "Made for listening, not logging in. Levyra is an open-source music player for Android and Windows, bringing music discovery, synced lyrics, radio and beautiful artwork together. No ads, no tracking, just music \u266b",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/LUC4N3X/Levyra-deepsound",
-      "stargazersCount": 1443,
+      "stargazersCount": 1579,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1019,10 +1019,10 @@
         "youtube-music"
       ],
       "releasesUrl": "https://api.github.com/repos/LUC4N3X/Levyra-deepsound/releases{/id}",
-      "updatedAt": "2026-11-22T22:07:19Z",
-      "latestReleaseDate": "2026-11-22T22:07:19Z",
-      "trendingScore": 1443.0,
-      "popularityScore": 1443,
+      "updatedAt": "2026-11-25T22:21:22Z",
+      "latestReleaseDate": "2026-11-25T22:21:22Z",
+      "trendingScore": 1579.0,
+      "popularityScore": 1579,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1243,7 +1243,7 @@
       "description": "An F-Droid client with modern UI and an arsenal of extra features.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/NeoApplications/Neo-Store",
-      "stargazersCount": 5730,
+      "stargazersCount": 5741,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1255,8 +1255,8 @@
       "releasesUrl": "https://api.github.com/repos/NeoApplications/Neo-Store/releases{/id}",
       "updatedAt": "2026-10-23T00:58:55Z",
       "latestReleaseDate": "2026-10-23T00:58:55Z",
-      "trendingScore": 5730.0,
-      "popularityScore": 5730,
+      "trendingScore": 5741.0,
+      "popularityScore": 5741,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1391,7 +1391,7 @@
       "description": "Open Notes is a minimal note taking app",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Fandroid745/Open-notes",
-      "stargazersCount": 71,
+      "stargazersCount": 72,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1411,8 +1411,8 @@
       "releasesUrl": "https://api.github.com/repos/Fandroid745/Open-notes/releases{/id}",
       "updatedAt": "2026-10-01T05:21:51Z",
       "latestReleaseDate": "2026-10-01T05:21:51Z",
-      "trendingScore": 71.0,
-      "popularityScore": 71,
+      "trendingScore": 72.0,
+      "popularityScore": 72,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1476,7 +1476,7 @@
       "description": "A handy phone call manager with phonebook, number blocking and multi-SIM support",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/FossifyOrg/Phone",
-      "stargazersCount": 1423,
+      "stargazersCount": 1424,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1489,8 +1489,8 @@
       "releasesUrl": "https://api.github.com/repos/FossifyOrg/Phone/releases{/id}",
       "updatedAt": "2026-02-03T02:36:25Z",
       "latestReleaseDate": "2026-02-03T02:36:25Z",
-      "trendingScore": 1423.0,
-      "popularityScore": 1423,
+      "trendingScore": 1424.0,
+      "popularityScore": 1424,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1508,7 +1508,7 @@
       "description": "Remove the fear of Android app compatibility on de-Googled devices.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/techlore/Plexus-app",
-      "stargazersCount": 499,
+      "stargazersCount": 498,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1535,8 +1535,8 @@
       "releasesUrl": "https://api.github.com/repos/techlore/Plexus-app/releases{/id}",
       "updatedAt": "2026-07-28T22:34:31Z",
       "latestReleaseDate": "2026-07-28T22:34:31Z",
-      "trendingScore": 499.0,
-      "popularityScore": 499,
+      "trendingScore": 498.0,
+      "popularityScore": 498,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1598,7 +1598,7 @@
       "description": "Explore apps published on GitHub, view release details, and install APKs instantly \u2014 all in one place. Developed using pure Kotlin, optimized for modern Android devices.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/samyak2403/RepoStore",
-      "stargazersCount": 1412,
+      "stargazersCount": 1414,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1617,8 +1617,8 @@
       "releasesUrl": "https://api.github.com/repos/samyak2403/RepoStore/releases{/id}",
       "updatedAt": "2026-10-29T13:06:00Z",
       "latestReleaseDate": "2026-10-29T13:06:00Z",
-      "trendingScore": 1412.0,
-      "popularityScore": 1412,
+      "trendingScore": 1414.0,
+      "popularityScore": 1414,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1836,7 +1836,7 @@
       "description": "An open source and lightweight music client for Subsonic, designed and built natively for Android.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/eddyizm/tempus",
-      "stargazersCount": 1453,
+      "stargazersCount": 1454,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1858,8 +1858,8 @@
       "releasesUrl": "https://api.github.com/repos/eddyizm/tempus/releases{/id}",
       "updatedAt": "2026-11-19T19:43:42Z",
       "latestReleaseDate": "2026-11-19T19:43:42Z",
-      "trendingScore": 1453.0,
-      "popularityScore": 1453,
+      "trendingScore": 1454.0,
+      "popularityScore": 1454,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -1910,7 +1910,7 @@
       "description": "Track your network and data usage with privacy",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/leekleak/traffic-light",
-      "stargazersCount": 948,
+      "stargazersCount": 950,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -1927,8 +1927,8 @@
       "releasesUrl": "https://api.github.com/repos/leekleak/traffic-light/releases{/id}",
       "updatedAt": "2026-11-13T19:06:58Z",
       "latestReleaseDate": "2026-11-13T19:06:58Z",
-      "trendingScore": 948.0,
-      "popularityScore": 948,
+      "trendingScore": 950.0,
+      "popularityScore": 950,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -2015,7 +2015,7 @@
       "description": "An advanced, open-source client for WireGuard and AmneziaWG on Android.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/wgtunnel/android",
-      "stargazersCount": 3391,
+      "stargazersCount": 3395,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -2037,8 +2037,8 @@
       "releasesUrl": "https://api.github.com/repos/wgtunnel/android/releases{/id}",
       "updatedAt": "2026-11-24T03:25:13Z",
       "latestReleaseDate": "2026-11-24T03:25:13Z",
-      "trendingScore": 3391.0,
-      "popularityScore": 3391,
+      "trendingScore": 3395.0,
+      "popularityScore": 3395,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
