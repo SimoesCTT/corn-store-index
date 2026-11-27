@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-11-26T12:21:10.333789+00:00",
+  "lastUpdated": "2026-11-27T12:07:51.310176+00:00",
   "totalCount": 8,
   "repositories": [
     {
@@ -15,7 +15,7 @@
       "description": "Cobalt: An offline-first, modern save-for-later app",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/hanan-bhatti/cobalt",
-      "stargazersCount": 39,
+      "stargazersCount": 41,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -36,8 +36,8 @@
       "releasesUrl": "https://api.github.com/repos/hanan-bhatti/cobalt/releases{/id}",
       "updatedAt": "2026-11-10T22:15:19Z",
       "latestReleaseDate": "2026-11-10T22:15:19Z",
-      "trendingScore": 39.0,
-      "popularityScore": 39,
+      "trendingScore": 41.0,
+      "popularityScore": 41,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -253,7 +253,7 @@
       "description": "\ud83d\udd25 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/plainhub/plain-app",
-      "stargazersCount": 7273,
+      "stargazersCount": 7280,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -279,10 +279,10 @@
         "web"
       ],
       "releasesUrl": "https://api.github.com/repos/plainhub/plain-app/releases{/id}",
-      "updatedAt": "2026-09-11T14:10:31Z",
-      "latestReleaseDate": "2026-09-11T14:10:31Z",
-      "trendingScore": 7273.0,
-      "popularityScore": 7273,
+      "updatedAt": "2026-11-27T10:05:42Z",
+      "latestReleaseDate": "2026-11-27T10:05:42Z",
+      "trendingScore": 7280.0,
+      "popularityScore": 7280,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
