@@ -1,7 +1,7 @@
 {
   "category": "topic",
   "platform": "android",
-  "lastUpdated": "2026-11-27T12:07:51.310176+00:00",
+  "lastUpdated": "2026-11-28T11:40:06.254521+00:00",
   "totalCount": 22,
   "repositories": [
     {
@@ -45,7 +45,7 @@
       "description": "A novel Android app store focused on security, privacy, and usability",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/accrescent/accrescent",
-      "stargazersCount": 2342,
+      "stargazersCount": 2344,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -61,8 +61,8 @@
       "releasesUrl": "https://api.github.com/repos/accrescent/accrescent/releases{/id}",
       "updatedAt": "2026-11-04T21:51:00Z",
       "latestReleaseDate": "2026-11-04T21:51:00Z",
-      "trendingScore": 2342.0,
-      "popularityScore": 2342,
+      "trendingScore": 2344.0,
+      "popularityScore": 2344,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -150,7 +150,7 @@
       "description": "Verify apps easily.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/soupslurpr/AppVerifier",
-      "stargazersCount": 1251,
+      "stargazersCount": 1252,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -171,8 +171,8 @@
       "releasesUrl": "https://api.github.com/repos/soupslurpr/AppVerifier/releases{/id}",
       "updatedAt": "2025-04-23T02:06:39Z",
       "latestReleaseDate": "2025-04-23T02:06:39Z",
-      "trendingScore": 1251.0,
-      "popularityScore": 1251,
+      "trendingScore": 1252.0,
+      "popularityScore": 1252,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -267,7 +267,7 @@
       "description": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/arpanjot-coding/AVault",
-      "stargazersCount": 578,
+      "stargazersCount": 577,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -295,8 +295,8 @@
       "releasesUrl": "https://api.github.com/repos/arpanjot-coding/AVault/releases{/id}",
       "updatedAt": "2026-11-10T23:52:00Z",
       "latestReleaseDate": "2026-11-10T23:52:00Z",
-      "trendingScore": 578.0,
-      "popularityScore": 578,
+      "trendingScore": 577.0,
+      "popularityScore": 577,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -314,7 +314,7 @@
       "description": "Modern camera app focused on privacy and security with QR & barcode scanning.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/Camera",
-      "stargazersCount": 1442,
+      "stargazersCount": 1443,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -327,8 +327,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/Camera/releases{/id}",
       "updatedAt": "2026-11-20T23:45:28Z",
       "latestReleaseDate": "2026-11-20T23:45:28Z",
-      "trendingScore": 1442.0,
-      "popularityScore": 1442,
+      "trendingScore": 1443.0,
+      "popularityScore": 1443,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -427,7 +427,7 @@
       "description": "Android Work Profile isolation app modernized with current security patches and a Material Design 3 UI.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/Kenneth-Cho-InfoSec/Haven",
-      "stargazersCount": 170,
+      "stargazersCount": 171,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -442,8 +442,8 @@
       "releasesUrl": "https://api.github.com/repos/Kenneth-Cho-InfoSec/Haven/releases{/id}",
       "updatedAt": "2026-11-25T00:21:59Z",
       "latestReleaseDate": "2026-11-25T00:21:59Z",
-      "trendingScore": 170.0,
-      "popularityScore": 170,
+      "trendingScore": 171.0,
+      "popularityScore": 171,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -461,7 +461,7 @@
       "description": "A realtime malware scanner (fork of Divestos version)| Maintained by: @Inhishonor",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/MaintainTeam/Hypatia",
-      "stargazersCount": 492,
+      "stargazersCount": 490,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -472,8 +472,8 @@
       "releasesUrl": "https://api.github.com/repos/MaintainTeam/Hypatia/releases{/id}",
       "updatedAt": "2026-02-20T17:47:33Z",
       "latestReleaseDate": "2026-02-20T17:47:33Z",
-      "trendingScore": 492.0,
-      "popularityScore": 492,
+      "trendingScore": 490.0,
+      "popularityScore": 490,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -603,7 +603,7 @@
       "description": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/GrapheneOS/PdfViewer",
-      "stargazersCount": 1077,
+      "stargazersCount": 1078,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -617,8 +617,8 @@
       "releasesUrl": "https://api.github.com/repos/GrapheneOS/PdfViewer/releases{/id}",
       "updatedAt": "2026-07-30T22:59:39Z",
       "latestReleaseDate": "2026-07-30T22:59:39Z",
-      "trendingScore": 1077.0,
-      "popularityScore": 1077,
+      "trendingScore": 1078.0,
+      "popularityScore": 1078,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
@@ -804,7 +804,7 @@
       "description": "Radio frequency scanner with recon and offensive capabilities",
       "defaultBranch": "main",
       "htmlUrl": "https://github.com/thomasbuilds/Spectre",
-      "stargazersCount": 215,
+      "stargazersCount": 219,
       "forksCount": 0,
       "language": "Kotlin",
       "topics": [
@@ -828,8 +828,8 @@
       "releasesUrl": "https://api.github.com/repos/thomasbuilds/Spectre/releases{/id}",
       "updatedAt": "2026-07-30T10:47:15Z",
       "latestReleaseDate": "2026-07-30T10:47:15Z",
-      "trendingScore": 215.0,
-      "popularityScore": 215,
+      "trendingScore": 219.0,
+      "popularityScore": 219,
       "dailyStars": 0,
       "availablePlatforms": [
         "Android"
